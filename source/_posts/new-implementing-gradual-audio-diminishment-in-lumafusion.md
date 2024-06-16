@@ -1,7 +1,7 @@
 ---
 title: "[New] Implementing Gradual Audio Diminishment in Lumafusion"
-date: 2024-06-05 23:42:19
-updated: 2024-06-06 10:51:24
+date: 2024-06-06T02:45:06.058Z
+updated: 2024-06-07T02:45:06.058Z
 tags: 
   - screen-recording
   - ai video
@@ -149,3 +149,27 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-top-essentials-for-enhanced-uav-functionality/"><u>[New] In 2024, Top Essentials for Enhanced UAV Functionality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-converters-cornerstone-for-srt-transformations-for-2024/"><u>[Updated] The Converter's Cornerstone for SRT Transformations for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-best-of-breed-exceptional-cardboard-vr-gaming-experienits/"><u>2024 Approved  Best of Breed  Exceptional Cardboard VR Gaming Experienits</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/navigating-audio-imports-with-the-inshot-app-for-2024/"><u>Navigating Audio Imports with the InShot App for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-chorus-climaxes-ultimate-hits-to-accompany-your-promise-for-2024/"><u>[New] Chorus Climaxes  Ultimate Hits to Accompany Your Promise for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-instagrams-picture-perfect-upload-techniques-unveiled-for-2024/"><u>[New] Instagram's Picture Perfect Upload Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-art-of-zooming-elevate-your-tiktok-videos-for-2024/"><u>[Updated] The Art of Zooming  Elevate Your TikTok Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-quick-tips-eliminate-signature-bg-in-minutes/"><u>[Updated] In 2024, Quick Tips  Eliminate Signature Bg in Minutes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-discover-the-essence-of-kinemaster-and-evaluate-10-leading-online-game-alternatives-for-2024/"><u>[Updated] Discover the Essence of KineMaster and Evaluate 10 Leading Online Game Alternatives for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-expert-guide-to-premiere-pro-fs-preview/"><u>[Updated] 2024 Approved  Expert Guide to Premiere Pro FS Preview</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-pioneering-success-strategies-for-profitable-animation-in-fb-ads-for-2024/"><u>[Updated] Pioneering Success  Strategies for Profitable Animation in FB Ads for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your iPhone 8 Plus?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-15-top-newsroom-ambiance-tracks-compilation/"><u>New In 2024, 15 Top Newsroom Ambiance Tracks Compilation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-extensive-movement-review-2023/"><u>[New] Extensive Movement Review 2023</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-x-fold-2-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-c-span-archives-without-paid-subscriptions/"><u>Unlocking C-Span Archives Without Paid Subscriptions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/s-top-free-divx-video-editors-for-cutting-and-trimming/"><u>S Top Free Divx Video Editors for Cutting and Trimming</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-how-to-use-your-phone-as-a-webcam-to-record-videos/"><u>[New] How to Use Your Phone as A Webcam to Record Videos?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-the-ultimate-guide-to-the-best-and-secret-tiktok-emojis/"><u>[New] In 2024, The Ultimate Guide to the Best & Secret TikTok Emojis</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-cut-through-the-chatter-expert-tips-for-discord-with-voicemod-for-2024/"><u>[Updated] Cut Through the Chatter  Expert Tips for Discord with VoiceMod for 2024</u></a></li>
+</ul></div>
