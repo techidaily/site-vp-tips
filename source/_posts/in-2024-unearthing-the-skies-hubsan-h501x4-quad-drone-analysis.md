@@ -1,0 +1,176 @@
+---
+title: "\"In 2024, Unearthing the Skies  Hubsan H501X4 Quad Drone Analysis\""
+date: 2024-06-06T01:41:41.731Z
+updated: 2024-06-07T01:41:41.731Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "\"This Article Describes In 2024, Unearthing the Skies: Hubsan H501X4 Quad Drone Analysis\""
+excerpt: "\"This Article Describes In 2024, Unearthing the Skies: Hubsan H501X4 Quad Drone Analysis\""
+keywords: "H501X4 Drones,Sky Exploration Drones,Hubsan Quadcopters,Aerial Photography Drones,UAV Analysis Tech,Drone Components Study,Flying Innovation Insight"
+thumbnail: https://thmb.techidaily.com/5565177be356d6fd1f6d2b58dc2046c46dae913812fa6d796b06a5e79fd2f303.jpg
+---
+
+## Unearthing the Skies: Hubsan H501X4 Quad Drone Analysis
+
+# Hubsan H501S X4 FPV Quadcopter Review
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ You might have seen lots of designs of Hubsan Drones till now but today we are going to talk about a new one: H501S X4 is the new one in this category. This new design of drone is an improved version of X4 H107C drone. This drone is one of the best offering from Hubsan with combination of all latest technologies. There are so many hidden features that we need to discuss about and you will be impressed to get such a wonderful feature pack with such a reasonable price tag. H501S X4 is designed with brushless motor and it possesses self tightening type propellers with 1080 camera that offers first person view. It can stay in air for up to 20 minutes with single battery charge. The article below will help you to go through the basic features of Hubsan H501S X4.
+
+**You may also like:**
+[Drone racing: Things You need to Know and Top 5 best FPV racing drones >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[![hubsan h501S x4](https://images.wondershare.com/filmora/article-images/hubsan-h501S-x4.jpg) ](https://www.amazon.com/gp/product/B019FHMZD8/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B019FHMZD8&linkId=9d34fd5276ff2e7909e54006b25f45fa
+)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B019FHMZD8/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B019FHMZD8&linkId=9d34fd5276ff2e7909e54006b25f45fa
+)
+
+## Pros and Cons
+
+ **Pros:**
+
+* This device is designed with a precise GPS module.
+* Possesses so many interesting features like Headless mode, One Key return, Flow Me, RTH Mode, OSD live data, and FPV etc.
+* Equipped with impressive camera unit that offers breathtaking picture quality.
+* Users will love its quite flight behaviour.
+* The follow me mode makes this drone best choice for selfie photos.
+* It is designed with brushless motors that are power and durable enough.
+* The maximum flight time goes up to 20 minutes at controllable distance of 300 meters.
+
+ **Cons:**
+
+* Its FPV system is considered to be partially week.
+* Some users have observed sudden fall in its altitudes with increasing speed but this is not an issue to worry about.
+
+#### Verdict
+
+ Hubsan H105S X4 is one of the best drone unit with reasonable price range. It is simply the best package with all advanced features including built in GPS. Even if you are a beginner then you will find this drone a good starter.
+
+## Complete Review for Hubsan H501S X4
+
+#### 1. Basic Specs info
+
+| **Item name**           | Hubsan H501S X4                  |                    |                                                   |
+| ----------------------- | -------------------------------- | ------------------ | ------------------------------------------------- |
+| **Manufacture**         | Hubsan                           |                    |                                                   |
+| **Price:**              | $209.89 only                     |                    |                                                   |
+| **Basic Specification** |                                  |                    |                                                   |
+| **Parameters**          | **Details**                      | **Parameters**     | **Details**                                       |
+| **Color Choices**       | Golden-White and Golden- black   | **Camera**         | 0.3 MP camera with Full HD Recording capabilities |
+| **Motor Type**          | Brushless Motor                  | **Dimensions**     | 25x25x7.5 cm                                      |
+| **Remote Controller**   | 2.4 GHz with 10 channel mode 2/1 | **Altitude Limit** | 800 meter                                         |
+| **Gyro System**         | 6 Axis type Gyro system included | **FPV LiveView**   | Up to 300 meters supported                        |
+| **Flight Time**         | 19 to 20 minutes                 | **SD Card Slots**  | Accepted                                          |
+| **FPV**                 | Built in Transmitter             | **Resolution**     | 1280\*720 P with 30 FPS HD                        |
+| **FOV**                 | 90 degree wide angle type        | **Product Weight** | 410 grams                                         |
+
+#### 2. Design
+
+ Hubsan H501S X4 drone comes in the category of small qaudcopters as its maximum size is 22x22x7cm only. This device is designed using ABS plastic material that makes it highly durable as well as light weight. This tiny drone has enough strength to resist against crashes you will definitely love its two unique colours: Golden White and Golden Black. H5021S is designed with a professional like charm where all components are well adjusted inside a perfectly finished frame.
+
+#### 3. Battery Life
+
+ This drone unit possesses 2700 mAh Lipo battery inside with 7.4 Volt rating. It is capable enough to offer maximum flight time of 20 minutes. You can recharge it with EU adapter that takes about one hour to fuel it up.
+
+#### 4. Flight mode
+
+ H501S X4 product has built in GPS module that assists in advanced flight control. You can enjoy so many features that are enabled with GPS controls like Auto Return Home, Follow Me, Altitude Mode and Headless Mode. Here are few details about each one of these:
+
+ **Auto Return Home:**
+
+ The advanced GPS navigation system makes this device able to return home automatically because it can remember the flight take off address. In case if you lose connection to your drone from transmitter due to certain reason then FailSafe mode will be automatically switched on and your device will reach home safely.
+
+ **Follow Me Mode:**
+
+ It is great option for selfie lovers as it help them to enable their drone on tracking mode as they keep on visiting sites around.
+
+ **Altitude Mode:**
+
+ This mode helps to maintain specific altitude level of drone as per readings recorded by pre-installed barometer. It will work for rotations as well as for horizontal movements.
+
+ **Headless Mode:**
+
+ It enabled your drone into intuitive operation where all forward and backward movements can be easily controlled by beginner pilots.
+
+#### 5. Transmitter
+
+![hubsan h501S x4 controller](https://images.wondershare.com/filmora/article-images/hubsan-h501S-x4-controller.jpg)
+
+ The Hubsan H501S X4 controller is designed with 4.3 LCD screen and it helps users to enjoy FPV camera operation with ease. This LCD screen can display all telemetry data for flights. It works on 5.8 GHz range to send video signals into MicroSD card whereas the controller itself works on 2.4 GHz frequency range.
+
+#### 6. Brushless Motors
+
+![hubsan h501s x4 brushless motor](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-motor.jpg)
+
+ Here is one interesting thing to know about Hubsan H501S, that is its brushless motor design. This motor is powerful enough with durable design so that users can enjoy uninterrupted flights for longer run.
+
+#### 7. Camera
+
+![hubsan h501s x4 brushless camera](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-camera.jpg)
+
+ If you are in search of a drone with great camera setup then you will be impressed with Hubsan X4 results. It captures stills with 1080p resolution and live videos need 5.8 GHz frequency from controller and you can view them directly on 4.3” built in screen of controller unit. All photos and videos are directly saved into MicroSD card.
+
+#### Conclusion
+
+ Wide range of impressive features have been covered in Hubsan H501S X4 review above so that buyers can make best decision about whether it fits their needs or not. Are you a beginner in the drone world? Then you may need to learn few tactics before arranging your first flight. This specially designed drone unit can also be a good choice for gift to someone you really love. Update your opinion so that we can have discussions about what drones are suitable for your general needs. Also, prefer to bookmark our page so that you can easily go through regular updates about drones and their flying tips. Have a great time with your new drone.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-expert-tips-on-controlling-timeline-pace-in-videos-for-2024/"><u>[New] Expert Tips on Controlling Timeline Pace in Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-essential-guide-to-implementing-filters-in-media/"><u>[New] 2024 Approved  Essential Guide to Implementing Filters in Media</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-cutting-through-hype-8-best-free-srt-tools-exposed-for-2024/"><u>[Updated] Cutting Through Hype  8 Best Free SRT Tools Exposed for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-pivotal-user-feedback-a-look-at-vllo/"><u>[Updated] Pivotal User Feedback  A Look at VLLO</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/inside-the-craft-of-creating-vr-films/"><u>Inside The Craft of Creating VR Films</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-unraveling-adobes-storage-system-guide-and-comparison-chart/"><u>In 2024, Unraveling Adobe's Storage System  Guide & Comparison Chart</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-blitz-photo-screening-for-windows-users/"><u>[New] 2024 Approved  Blitz Photo Screening for Windows Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-weaving-pictures-into-a-musical-tapestry/"><u>[Updated] Weaving Pictures Into a Musical Tapestry</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-canonayers-guide-to-color-gratification-paid-and-no-cost-luts/"><u>[Updated] In 2024, Canon'ayer’s Guide to Color Gratification – Paid & No-Cost LUTs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-transform-images-on-the-fly-the-best-overlay-apps-for-android-and-iphone-for-2024/"><u>[Updated] Transform Images on the Fly – The Best Overlay Apps for Android & iPhone for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-accelerated-video-capture-device-and-voice-commentary-feature/"><u>[Updated] Accelerated Video Capture Device & Voice Commentary Feature</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-windows-11s-best-pc-webcam-recorders-reviewed-for-2024/"><u>[Updated] Windows 11'S Best PC Webcam Recorders Reviewed for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/enthusiastic-presentation-appraisal-version-08-for-2024/"><u>Enthusiastic Presentation Appraisal, Version 08 for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-pure-portrayals-on-platforms-your-guide-to-authentic-snapshots/"><u>[New] In 2024, Pure Portrayals on Platforms  Your Guide to Authentic Snapshots</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-power-of-preview-a-complete-user-guide-for-mac-for-2024/"><u>Unlocking the Power of Preview  A Complete User Guide for Mac for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-insightful-evaluation-androids-photography-tool-lightroom/"><u>2024 Approved  Insightful Evaluation  Android's Photography Tool, Lightroom</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-tweeting-fun-iosandroid-tips-for-downloading-gifs/"><u>2024 Approved  Tweeting Fun  IOS/Android Tips for Downloading GIFs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-unmissable-experiences-in-digital-playfields/"><u>[New] 2024 Approved  Unmissable Experiences in Digital Playfields</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-effortless-igtv-video-downloads-ios-and-android-guide/"><u>[Updated] 2024 Approved  Effortless IGTV Video Downloads  IOS & Android Guide</u></a></li>
+</ul></div>
