@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Photos with Chronological Details for 2024"
-date: 2024-06-06T03:17:43.867Z
-updated: 2024-06-07T03:17:43.868Z
+date: 2024-07-04T22:02:14.785Z
+updated: 2024-07-05T22:02:14.785Z
 tags: 
   - screen-recording
   - ai video
@@ -57,7 +57,7 @@ Step2Install the app after downloading.
 
 Step3Add data/timestamps to both new and old pictures.
 
-You can download Timestamp for [Android](https://play.google.com/store/apps/details?id=com.jeyluta.timestampcamerafree&gl=US) and [iPhone](https://apps.apple.com/us/app/timestamp-it-photo-stamper/id327756085)here.
+You can download Timestamp for [Android](https://play.google.com/store/apps/details?id=com.jeyluta.timestampcamerafree&gl=US) and [iPhone](https://apps.apple.com/us/app/timestamp-it-photo-stamper/id327756085) here.
 
 ## Part 2\. Edit Photos and Add Date Stamps on The Phone
 
@@ -135,7 +135,7 @@ The Adobe Photoshop Lightroom is a cloud-based product where you can upload and 
 * Batch editing
 * Healing Brushes
 
-You can download the app on [android](https://play.google.com/store/apps/details?id=com.adobe.lrmobile&gl=US)and [iPhone](https://apps.apple.com/us/app/lightroom-photo-video-editor/id878783582) for free.
+You can download the app on [android](https://play.google.com/store/apps/details?id=com.adobe.lrmobile&gl=US) and [iPhone](https://apps.apple.com/us/app/lightroom-photo-video-editor/id878783582) for free.
 
 ### **VSCO**
 
@@ -248,7 +248,7 @@ Step7Proceed to click on the Save option.
 
 **You can add dates to photos online** via several platforms. Several websites make that possible. Let’s look at some of the platforms and the features they provide.
 
-### 1\. [Canva](https://www.canva.com/photo-editor/)
+### 1\. Canva
 
 Canva is a standout online photo editor where you can edit your and **add date to photos**. To start, you must **sign up and upload the photo** you want to edit.
 
@@ -260,7 +260,7 @@ Canva is a standout online photo editor where you can edit your and **add date t
 * Add depth of field to your image instantly.
 * Background image remover
 
-### 2\. [Fotor](https://www.fotor.com/)
+### 2\. Fotor
 
 **Add a date to a photo** using Fotor. Fotor provides great features that make photo editing a smooth and easy process. To begin, you will need to sign up and upload your photo.
 
@@ -273,7 +273,7 @@ Canva is a standout online photo editor where you can edit your and **add date t
 * Wrinkle Remover
 * Blemish Remover
 
-### 3\. [PIXLR](https://pixlr.com/)
+### 3\. PIXLR
 
 PIXLR is another great online platform that can be used to **edit pictures online**. PIXLR offers amazing features with its services. To use the platform, you must **sign up and upload a photo**.
 
@@ -289,9 +289,9 @@ PIXLR is another great online platform that can be used to **edit pictures onlin
 
 Hopefully, these steps will be helpful if you ever want to **add a date** or **edit your photos on your phone** or computer. Hence, next time you take a picture, consider doing some editing and adding a date stamp using these steps.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 * [Use the inbuilt photo on Mac to edit the photo.](#part3-1)
 * [Use inbuilt photo app on mac to add date stamps](#part3-2)
@@ -319,7 +319,7 @@ Step2Install the app after downloading.
 
 Step3Add data/timestamps to both new and old pictures.
 
-You can download Timestamp for [Android](https://play.google.com/store/apps/details?id=com.jeyluta.timestampcamerafree&gl=US) and [iPhone](https://apps.apple.com/us/app/timestamp-it-photo-stamper/id327756085)here.
+You can download Timestamp for [Android](https://play.google.com/store/apps/details?id=com.jeyluta.timestampcamerafree&gl=US) and [iPhone](https://apps.apple.com/us/app/timestamp-it-photo-stamper/id327756085) here.
 
 ## Part 2\. Edit Photos and Add Date Stamps on The Phone
 
@@ -397,7 +397,7 @@ The Adobe Photoshop Lightroom is a cloud-based product where you can upload and 
 * Batch editing
 * Healing Brushes
 
-You can download the app on [android](https://play.google.com/store/apps/details?id=com.adobe.lrmobile&gl=US)and [iPhone](https://apps.apple.com/us/app/lightroom-photo-video-editor/id878783582) for free.
+You can download the app on [android](https://play.google.com/store/apps/details?id=com.adobe.lrmobile&gl=US) and [iPhone](https://apps.apple.com/us/app/lightroom-photo-video-editor/id878783582) for free.
 
 ### **VSCO**
 
@@ -510,7 +510,7 @@ Step7Proceed to click on the Save option.
 
 **You can add dates to photos online** via several platforms. Several websites make that possible. Let’s look at some of the platforms and the features they provide.
 
-### 1\. [Canva](https://www.canva.com/photo-editor/)
+### 1\. Canva
 
 Canva is a standout online photo editor where you can edit your and **add date to photos**. To start, you must **sign up and upload the photo** you want to edit.
 
@@ -522,7 +522,7 @@ Canva is a standout online photo editor where you can edit your and **add date t
 * Add depth of field to your image instantly.
 * Background image remover
 
-### 2\. [Fotor](https://www.fotor.com/)
+### 2\. Fotor
 
 **Add a date to a photo** using Fotor. Fotor provides great features that make photo editing a smooth and easy process. To begin, you will need to sign up and upload your photo.
 
@@ -535,7 +535,7 @@ Canva is a standout online photo editor where you can edit your and **add date t
 * Wrinkle Remover
 * Blemish Remover
 
-### 3\. [PIXLR](https://pixlr.com/)
+### 3\. PIXLR
 
 PIXLR is another great online platform that can be used to **edit pictures online**. PIXLR offers amazing features with its services. To use the platform, you must **sign up and upload a photo**.
 
@@ -551,9 +551,9 @@ PIXLR is another great online platform that can be used to **edit pictures onlin
 
 Hopefully, these steps will be helpful if you ever want to **add a date** or **edit your photos on your phone** or computer. Hence, next time you take a picture, consider doing some editing and adding a date stamp using these steps.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"

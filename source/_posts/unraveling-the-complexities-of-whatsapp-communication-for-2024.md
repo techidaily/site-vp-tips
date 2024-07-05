@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Complexities of WhatsApp Communication for 2024"
-date: 2024-06-06T01:23:13.792Z
-updated: 2024-06-07T01:23:13.792Z
+date: 2024-07-04T22:02:14.856Z
+updated: 2024-07-05T22:02:14.856Z
 tags: 
   - screen-recording
   - ai video
@@ -44,7 +44,7 @@ Yes, you can bold your text. Just add a star (\*) symbol before and after your t
 
 #### 2.Italic
 
-Just like the bold, you can also italicize your fonts by simply inserting Underscore Symbol ( \_text\_ ) at the starting and end of your sentence.
+Just like the bold, you can also italicize your fonts by simply inserting Underscore Symbol (\_text\_) at the starting and end of your sentence.
 
 ![Whatsapp Text Tricks Italic](https://images.wondershare.com/filmora/article-images/whatsapp-text-tricks-italic.jpg)
 

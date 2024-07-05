@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Premier Camera Drones #10  Filmmakers' Dream Fleet\""
-date: 2024-06-06T03:30:49.397Z
-updated: 2024-06-07T03:30:49.397Z
+date: 2024-07-04T22:02:15.495Z
+updated: 2024-07-05T22:02:15.495Z
 tags: 
   - screen-recording
   - ai video
@@ -51,7 +51,7 @@ Check this comparison able and click the name to see the detailed info directly
 
 #### 1\. Wingsland S6 RC Drone
 
-![wingsland s6 rc drone ](https://images.wondershare.com/filmora/article-images/wingsland-s6-rc-drone.jpg)
+![wingsland s6 rc drone](https://images.wondershare.com/filmora/article-images/wingsland-s6-rc-drone.jpg)
 
 **Key Features:**
 
