@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Behind-the-Lens Wisdom  The Best Cinemagraph Tips\""
-date: 2024-06-06T02:32:21.563Z
-updated: 2024-06-07T02:32:21.563Z
+date: 2024-07-30T16:24:27.671Z
+updated: 2024-07-31T16:24:27.671Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,9 @@ Still, if you are on a budget, you can use some everyday household objects to ge
 
 Step 1 Attach your phone to the side of a door using duct tape or any strong tape that can hold your phone and not let it fall.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![smooth camera movement](https://images.wondershare.com/filmora/article-images/2022/12/smooth-camera-movement.gif)
 
 Step 2 Now open and close the door to get smooth camera movement.
@@ -40,6 +43,9 @@ Step 2 Now open and close the door to get smooth camera movement.
 
 Shaping light is a crucial component of filmmaking, requiring command over creating and guiding shadows. You need to focus the light on the subjects rather than the background. Use the following methods to focus light on the point of interest.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ### DIY LED Panel
 
 You can create LED Panel at home to add light to a subject. Unfortunately, LED strips do not produce bright light when spread as a straight line. However, we can use cardboard and LED light strips to build a broader, more brilliant light. Follow the steps below to make DIY LED Panel.
@@ -96,8 +102,14 @@ Step 5 Put the bulb on the lamp and turn it on the lamp.
 
 Here is a GIF attached for a better understanding of the steps.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![diy black wrap](https://images.wondershare.com/filmora/article-images/2022/12/diy-black-wrap.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### DIY Light Reflector
 
 A reflector is a piece of glass or any reflective surface that can redirect light to a specific spot. For example, use aluminum foil to make a Light Reflector at your home.
@@ -120,6 +132,9 @@ There is a GIF attached below to understand the steps visually.
 
 In professional productions, light diffusers are frequently used to soften, level out the lighting, and lessen the harshness of shadows.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ### Diffuse Lights With a Desk Mat
 
 You can diffuse the light using a transparent desk mat if you think there is too much light.
@@ -136,8 +151,14 @@ Step 3 Use this diffuser to reduce the intensity of light.
 
 For a better understanding of the steps, watch the GIF attached below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![diy light diffuser](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-diffuser.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Tip 4\. Reveal Movement and 180° Presentation
 
 The most commonly used cinematic movements are the reveal and 180° presentation movements. A gimbal is needed to record these movements.
@@ -158,6 +179,9 @@ Step 4 Locking mode is best for recording reveal movement shots.
 
 Here is a video showing how to record reveal movement.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reveal movement](https://images.wondershare.com/filmora/article-images/2022/12/reveal-movement.gif)
 
 ### 180° Presentation Movement
@@ -176,6 +200,9 @@ Step 3 Move slowly to the other side of the subject while recording.
 
 A sample video attached below shows how to record 180 presentation movements.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![180 presentation movement](https://images.wondershare.com/filmora/article-images/2022/12/180-presentation-movement.gif)
 
 ## Tip 5\. Create a Barrel Roll Shot
@@ -196,6 +223,9 @@ Step 4 Turn on the power drill at low speed and record the barrel roll shot.
 
 The video attached below will help you to understand these steps.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![barrel roll shot](https://images.wondershare.com/filmora/article-images/2022/12/barrel-roll-shot.gif)
 
 ## Final Words
@@ -233,3 +263,44 @@ After filming the videos, edit them using [Wondershare Filmora](https://tools.te
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-craft-your-vision-essential-windows-10-tips-for-future-directors/"><u>[New] 2024 Approved  Craft Your Vision  Essential Windows 10 Tips for Future Directors</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-discover-the-next-wave-of-effective-facebook-ad-techniques/"><u>[New] 2024 Approved  Discover the Next Wave of Effective Facebook Ad Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-iphone-and-android-enthusiasts-guide-to-custom-whatsapp-sounds/"><u>[New] 2024 Approved  IPhone & Android Enthusiast's Guide to Custom WhatsApp Sounds</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-navigating-live-broadcast-platforms-simplified/"><u>[New] 2024 Approved  Navigating Live Broadcast Platforms Simplified</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-vibrant-visuals-5-advanced-color-correction-methods/"><u>[New] 2024 Approved  Vibrant Visuals  5 Advanced Color Correction Methods</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-affordable-asmr-magic-quality-audio-on-a-budget/"><u>[New] Affordable ASMR Magic  Quality Audio on a Budget</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-beyond-illusions-examining-vrs-disadvantages/"><u>[New] Beyond Illusions  Examining VR's Disadvantages</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-elevate-your-reels-to-new-heights-with-top-6-innovative-apps/"><u>[New] Elevate Your Reels to New Heights with Top 6 Innovative Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-3-steps-to-create-professional-gopro-vlogs-ultimate-tutorial/"><u>[New] In 2024, 3 Steps to Create Professional Gopro Vlogs Ultimate Tutorial</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-mastering-the-art-of-online-meeting-recordings-with-google/"><u>[New] Mastering the Art of Online Meeting Recordings with Google</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-navigating-the-future-of-video-editing-with-powerdirector-app-2024/"><u>[New] Navigating the Future of Video Editing with PowerDirector App 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-audiences-eye-view-selecting-best-webcams-for-podcasts-for-2024/"><u>[New] The Audience's Eye View  Selecting Best Webcams for Podcasts for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ultimate-snow-adventure-equipment-list-for-cameras/"><u>[New] Ultimate Snow Adventure Equipment List for Cameras</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-plain-screen-recorder-windows-10-edition/"><u>[Updated] 2024 Approved  Plain Screen Recorder - Windows 10 Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-securing-the-title-top-5-hmds-for-drone-pilots/"><u>[Updated] 2024 Approved  Securing the Title  Top 5 HMDs for Drone Pilots</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-cinematic-brilliance-in-motion-kinemaster-techniques-for-2024/"><u>[Updated] Cinematic Brilliance in Motion  Kinemaster Techniques for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-premium-editing-platform-tailored-to-vimeo/"><u>[Updated] In 2024, Premium Editing Platform Tailored to Vimeo</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-path-to-higher-rankings-a-podcast-seo-guidebook/"><u>[Updated] In 2024, The Path to Higher Rankings  A Podcast SEO Guidebook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-video-customization-mastery-altering-digits-in-tiktoks/"><u>[Updated] In 2024, Video Customization Mastery  Altering Digits in TikToks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-iphones-ultimate-strategy-for-seamless-podcast-downloading-for-2024/"><u>[Updated] IPhone's Ultimate Strategy for Seamless Podcast Downloading for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-prestige-choices-top-rated-sites-for-securing-snapalert-music-for-2024/"><u>[Updated] Prestige Choices  Top-Rated Sites for Securing SnapAlert Music for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-entrepreneurial-journey-of-launching-a-review-channel-for-clothing/"><u>[Updated] The Entrepreneurial Journey of Launching a Review Channel for Clothing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-tiktok-sound-comprerancy-on-muted-video-segments/"><u>[Updated] TikTok Sound  Comprerancy on Muted Video Segments</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ultimate-selection-budget-friendly-4k-cameras-(1k-for-2024/"><u>[Updated] Ultimate Selection  Budget-Friendly 4K Cameras <$1K for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-mastering-background-removal-in-images-using-canva/"><u>2024 Approved  Mastering Background Removal in Images Using Canva</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-top-10-history-youtube-channels-for-students-and-history-lovers/"><u>2024 Approved  Top 10 History YouTube Channels for Students & History Lovers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/apples-m1-milestone-the-next-gen-computing-core/"><u>Apple’s M1 Milestone  The Next-Gen Computing Core</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-practices-in-upgrading-to-a-high-end-4k-camera-lens-for-2024/"><u>Best Practices in Upgrading to a High-End 4K Camera Lens for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/explainer-video-software-showdown-top-picks/"><u>Explainer Video Software Showdown Top Picks</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-y55s-5g-2023-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Vivo Y55s 5G (2023) Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/implementing-photography-snippets-from-videos/"><u>Implementing Photography Snippets From Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-avoiding-career-pitfalls-in-graphic-artistry/"><u>In 2024, Avoiding Career Pitfalls in Graphic Artistry</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-no-cost-premiere-pro-resource-pack/"><u>In 2024, Exclusive, No-Cost Premiere Pro Resource Pack</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-expert-endorsed-the-top-10-camcorders-for-your-needs/"><u>In 2024, Expert-Endorsed  The Top 10 Camcorders for Your Needs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-vivid-chromatic-tweaker/"><u>In 2024, Vivid Chromatic Tweaker</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/instagrams-sideways-scenario-a-visual-glitch-examined-for-2024/"><u>Instagram's Sideways Scenario  A Visual Glitch Examined for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/notable-industry-players-driving-vr-growth/"><u>Notable Industry Players Driving VR Growth</u></a></li>
+</ul></div>

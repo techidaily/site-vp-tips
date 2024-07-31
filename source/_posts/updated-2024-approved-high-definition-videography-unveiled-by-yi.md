@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  High Definition Videography Unveiled by Yi\""
-date: 2024-06-06T02:55:54.790Z
-updated: 2024-06-07T02:55:54.790Z
+date: 2024-07-30T16:55:14.628Z
+updated: 2024-07-31T16:55:14.628Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 
 # YI 4K Action Camera Review
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -30,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 
 **You may also like:** [Top 15 Best Action Cameras >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Complete Review for Yi 4k Action Camera
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01FU9ZIMU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FU9ZIMU&linkId=8ffea9b2da130000b205cf9367ce3ccf
@@ -39,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 
  Let us start with the hardware part. Yi 4k looks almost same as that of GoPro device, even the waterproof case appears somewhat like GoPro product. Some resemblance is found in mobile applications as well as in mounting systems. The front side of Yi 4k is equipped with a lens and LED that provides current camera status indication. The 2.2 inch wide LCD screen is protected with Gorilla Glass whereas on top portion you will find holes for speaker and dual microphone. On the right side, a small flap is covering MicroUSB charging port and the left side is left bare.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![yi-4k-product](https://images.wondershare.com/filmora/article-images/yi-4k-product.jpg)
 
 #### Specifications
@@ -73,6 +82,9 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 
  Want to know more about the best accessories for Xiaomi Yi 4K action camera? Check [Best Accessories for YI 4K Action Camera in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![yi-4k-unboxing-](https://images.wondershare.com/filmora/article-images/yi-4k-unboxing-.jpg)
 
 #### Features
@@ -129,6 +141,9 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 
  Need more information?[Check GoPro Hero5 Black vs Xiaomi Yi 4K Action Camera](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -155,3 +170,42 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-download-youtube-beats-on-android-the-ultimate-6-app-guide/"><u>[New] 2024 Approved  Download YouTube Beats on Android  The Ultimate 6-App Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unveil-top-10plus-platforms-for-virtual-worship-spaces/"><u>[New] 2024 Approved  Unveil Top 10+ Platforms for Virtual Worship Spaces</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-a-review-free-meme-makers-to-use/"><u>[New] A Review  Free Meme Makers to Use</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ringing-text-to-life-a-guide-to-dynamic-animation-methods-for-2024/"><u>[New] Bringing Text to Life  A Guide to Dynamic Animation Methods for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-chorus-climaxes-ultimate-hits-to-accompany-your-promise/"><u>[New] Chorus Climaxes  Ultimate Hits to Accompany Your Promise</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-breaking-down-whatsapps-voice-call-features/"><u>[New] In 2024, Breaking Down WhatsApp's Voice Call Features</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-live-your-dreams-insights-into-the-panasonic-hx-a1-cam/"><u>[New] In 2024, Live Your Dreams  Insights Into the Panasonic HX-A1 Cam</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-unlock-free-moving-text-in-your-motion-captures/"><u>[New] In 2024, Unlock Free Moving Text in Your Motion Captures</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-integrating-podcast-into-your-instagram-content-strategy/"><u>[New] Integrating Podcast Into Your Instagram Content Strategy</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-cutting-edge-tempo-detection-top-free-tools-unveiled/"><u>[Updated] 2024 Approved  Cutting-Edge Tempo Detection  Top Free Tools Unveiled</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-filmmaking-faceoff-hero-session-x-or-polaroid-cube/"><u>[Updated] 2024 Approved  Filmmaking Faceoff  Hero Session X or Polaroid Cube?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-innovative-strategies-for-revamping-your-video-covers-on-fb/"><u>[Updated] 2024 Approved  Innovative Strategies for Revamping Your Video Covers on FB</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-preservation-in-audio-how-ffmpeg-handles-originality/"><u>[Updated] 2024 Approved  Preservation in Audio  How FFmpeg Handles Originality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-aerial-drone-transformation-trial-with-first-20-free-lutts-for-2024/"><u>[Updated] Aerial Drone Transformation - Trial with First 20 FREE LUTTs for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-canon-camera-insights-for-stunning-time-lapse-vids/"><u>[Updated] Canon Camera Insights for Stunning Time-Lapse Vids</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-comparing-mobile-vr-gear-top-10-edition-for-2024/"><u>[Updated] Comparing Mobile VR Gear - Top 10 Edition for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-creative-captioning-masterful-techniques-for-text-in-windowsmac-pics/"><u>[Updated] Creative Captioning  Masterful Techniques for Text in Windows/Mac Pics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-elevate-canva-creations-with-these-10-secrets-for-2024/"><u>[Updated] Elevate Canva Creations with These 10 Secrets for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-expert-e-learning-title-engineer/"><u>[Updated] Expert E-Learning Title Engineer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-tips-for-turning-off-automatic-podcast-adds-on-spotify/"><u>[Updated] In 2024, Tips for Turning Off Automatic Podcast Adds on Spotify</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-art-of-conducting-engaging-interviews-for-2024/"><u>[Updated] The Art of Conducting Engaging Interviews for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-thrilling-4k-technology-for-your-mac-top-10-screens/"><u>[Updated] Thrilling 4K Technology for Your Mac - Top 10 Screens</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-6-social-media-platforms-for-business-for-2024/"><u>[Updated] Top 6 Social Media Platforms for Business for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-free-secure-vlc-player-access-on-apple-devices/"><u>[Updated] Unlocking Free, Secure VLC Player Access on Apple Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unlocking-windows-high-dynamic-range-potential-for-2024/"><u>[Updated] Unlocking Windows' High Dynamic Range Potential for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-amplify-slides-with-melodies-in-ppt/"><u>2024 Approved  Amplify Slides with Melodies in PPT</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-golivepod-steps-for-a-hassle-free-podcast-broadcast-experience/"><u>2024 Approved  GoLivePod  Steps for a Hassle-Free Podcast Broadcast Experience</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-macos-sierra-installation-procedures/"><u>2024 Approved  Mastering macOS Sierra Installation Procedures</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-walking-into-tomorrow-the-premier-vr-treadmills-reviewed/"><u>2024 Approved  Walking Into Tomorrow  The Premier VR Treadmills Reviewed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-techniques-for-transforming-mp4-files-with-vlc-for-2024/"><u>Expert Techniques for Transforming MP4 Files with VLC for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-gionee-f3-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Gionee F3 Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-pro-3-camera-insight-mastering-video-on-the-go-with-ion/"><u>In 2024, Pro 3 Camera Insight  Mastering Video on the Go with ION</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strategies-for-sustainable-brand-collaboration-with-youtubers/"><u>In 2024, Strategies for Sustainable Brand Collaboration with YouTubers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/navigating-the-maze-of-tiktoks-bulk-video-transfer-for-2024/"><u>Navigating the Maze of TikTok's Bulk Video Transfer for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/zeroing-in-on-the-high-def-spectacle-samsungs-ue590-review-for-2024/"><u>Zeroing in on the High-Def Spectacle - Samsung's UE590 Review for 2024</u></a></li>
+</ul></div>

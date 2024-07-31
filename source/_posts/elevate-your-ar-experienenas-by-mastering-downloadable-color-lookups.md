@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your AR Experienenas by Mastering Downloadable Color Lookups"
-date: 2024-06-06T04:17:41.154Z
-updated: 2024-06-07T04:17:41.154Z
+date: 2024-07-30T18:41:07.526Z
+updated: 2024-07-31T18:41:07.526Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/06768f0764e3fd16593ec6ab66fe93ff9404677c0
 
 Color LUTs (Lookup Textures) are tables of RGB color values. In Spark AR, you can use color LUTs to quickly create color gradation effects throughout the scene. Go through the article and create your color LUT effect.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## Part 1\. What are Luts in Spark AR used for?
 
 To create a color filter effect in [Spark AR](https://sparkar.facebook.com/ar-studio/), you need a color LUT in Spark AR.
@@ -52,6 +55,9 @@ A patch graph is automatically set that applies a color LUT to the entire scene.
 
 The patch graph that renders the color gradation effect looks like this:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![color lut patch graph](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-3.jpg)
 
 **To create the effect:**
@@ -68,6 +74,9 @@ Here are the best free LUTs resources for Spark AR:
 
 Client filter pieces occasionally end up on the scrap heap. It was a poor Frost Zombie in this instance. Since this is one of my simpler filters, I felt it was okay to publish the build information. Four objects make up much of the scene: an EyeColor block, a custom canvas segmentation, a face mesh, and an emitter for the breath mist (my personal favorite). To show the layers used in generating the primary zombie texture, I also moved to Substance Painter. This is a demonstration of my methods rather than a step-by-step manual.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![frost zombie](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-4.jpg)
 
 ### 2\. Fur
@@ -81,30 +90,48 @@ Here are the key building principles.
 * Height is generated from a single grayscale channel.
 * No fur is generated in the black areas of the height texture.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![fur](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-5.jpg)
 
 ### 3\. Shockwave
 
 Even while using large image sequences is frequently discouraged, you can still use them to make some extremely spectacular effects! I'll explain how the screen tap computation procedure relates to texture position in this walkthrough. If you want to apply this approach and texture sequence in your projects or give it a try.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![shockwave](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-6.jpg)
 
 ### 4\. Transition Curves
 
 There are 11 distinct animation curves included with Spark AR in the Transition patch. Here is a helpful visual aid because it might be challenging to distinguish between a quartic and a quintic when working on a project. With the SDF circle doubled (to sharpen the edge) and inserted into the Patch Pack's alpha channel, the circles are likewise straightforward rectangles. Since RGB values are three times one, the object is white.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![transition curves](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-7.jpg)
 
 ### 5\. Realistic Smoke
 
 By adding smoke to a scene, you can easily add a lot of detail and realism. Nothing revolutionary is happening here. The particle emitter creates flat planes of smoke texture that are forced upward. The force slowly shifts left and right as seen in the patch editor. The Fade particle script (created by Josh Beckwith) enlarges the particles and fades them out at the same time.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![realistic smoke](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Rainbow Glitter
 
 Given how beautifully Glitter Rain was received, I believed it would be fitting to broaden the potential with an HDR setting. While Glitter Rain made use of two different colors, this technique makes use of an entirely colorless substance and gets its color information via HDR.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![rainbow glitter](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-9.jpg)
 
 ### Closing Thoughts
@@ -140,3 +167,45 @@ Spark AR is an amazing website for LUTs and color grading. Whether you're a new 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-audio-aesthetics-in-whatsapp-updates/"><u>[New] 2024 Approved  Audio Aesthetics in WhatsApp Updates</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-mastering-zoom-meetings-quickly/"><u>[New] 2024 Approved  Mastering Zoom Meetings Quickly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-drafting-a-powerful-post-for-online-fundraising-for-2024/"><u>[New] Drafting a Powerful Post for Online Fundraising for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-elevate-iphones-visual-storytelling-camera-upgrades-galore/"><u>[New] Elevate iPhone's Visual Storytelling  Camera Upgrades Galore</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-asus-pa32u-explored-unparalleled-4k-professional-monitoring/"><u>[New] In 2024, Asus PA32U Explored  Unparalleled 4K Professional Monitoring</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-essential-samsung-vr-games-for-beginners/"><u>[New] In 2024, Essential Samsung VR Games for Beginners</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-strategy-cradle-nurturing-market-gains/"><u>[New] In 2024, Strategy Cradle  Nurturing Market Gains</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-perfect-playmates-childs-drone-selection-guide-for-2024/"><u>[New] Perfect Playmates  Child's Drone Selection Guide for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prime-photo-editing-screens-the-best-of-2024-unveiled/"><u>[New] Prime Photo Editing Screens - The Best of 2024 Unveiled</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-transforming-archived-content-for-livestream-audiences-on-facebook-for-2024/"><u>[New] Transforming Archived Content for Livestream Audiences on Facebook for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unite-film-selections-with-playlist-accumulation-for-2024/"><u>[New] Unite Film Selections with Playlist Accumulation for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-basic-steps-to-hassle-free-high-dynamic-range-hdr/"><u>[Updated] 2024 Approved  Basic Steps to Hassle-Free High Dynamic Range (HDR)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-pioneering-play-integrating-vr-in-recreation/"><u>[Updated] 2024 Approved  Pioneering Play  Integrating VR in Recreation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-social-media-savvy-unlock-the-secrets-of-crafting-winning-bios-on-facebook/"><u>[Updated] 2024 Approved  Social Media Savvy  Unlock the Secrets of Crafting Winning Bios on Facebook</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-android-technique-transpose-digital-media-order/"><u>[Updated] Android Technique  Transpose Digital Media Order</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-brand-identity-in-pictures-how-to-watermark-on-instagram-for-2024/"><u>[Updated] Brand Identity in Pictures  How to Watermark on Instagram for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-facebook-video-presentation-boost-adding-bb-and-lc-frameworks/"><u>[Updated] Facebook Video Presentation Boost  Adding BB and LC Frameworks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-inside-polarr-the-powerhouse-photo-toolkit/"><u>[Updated] In 2024, Inside Polarr  The Powerhouse Photo Toolkit</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-quick-retrieval-of-hidden-reddit-threads-for-2024/"><u>[Updated] Mastering Quick Retrieval of Hidden Reddit Threads for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-maximizing-your-virtual-meetings-expert-insights-on-using-zoom-win10/"><u>[Updated] Maximizing Your Virtual Meetings  Expert Insights on Using Zoom (Win10)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-backward-playmanship-a-guide-to-reversed-youtube-videos/"><u>2024 Approved  Backward Playmanship  A Guide to Reversed YouTube Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-elevating-your-skills-with-our-full-periscope-guide/"><u>2024 Approved  Elevating Your Skills with Our Full Periscope Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-gamers-top-nine-live-video-destinations/"><u>2024 Approved  Gamer’s Top Nine Live Video Destinations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/customizing-windows-photos-to-enjoy-music-on-every-picture/"><u>Customizing Windows Photos to Enjoy Music on Every Picture</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-tecno-spark-20-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Tecno Spark 20 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-a-step-by-step-approach-to-zooming-success/"><u>In 2024, A Step-by-Step Approach to Zooming Success</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-apple-iphone-se-2020-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On Apple iPhone SE (2020) How to Bypass?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-capturing-the-cloudscape-insights-into-gopro-karmas-operations/"><u>In 2024, Capturing the Cloudscape  Insights Into GoPro Karma's Operations</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-essential-guide-to-blurring-video-borders-in-teams/"><u>In 2024, The Essential Guide to Blurring Video Borders in Teams</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/master-image-tweaks-with-snapseed-for-newbies-for-2024/"><u>Master Image Tweaks with Snapseed for Newbies for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-free-ae-design-blueprints-for-2024/"><u>Premium Free AE Design Blueprints for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-recognition-of-pcs-forgotten-hardware/"><u>Restoring Recognition of PC's Forgotten Hardware</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-impactful-journey-with-gopro-hero5/"><u>The Impactful Journey with GoPro Hero5</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-realme-11-pro-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Realme 11 Pro Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-lenovo-thinkphone-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Lenovo ThinkPhone Phone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unexpected-display-settings-issue-windows-10-fixed/"><u>Unexpected Display Settings Issue: Windows 10 Fixed</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-apple-iphone-13-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 13 Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unwinding-a-livestream-in-seconds-seven-proven-methods-for-twitch-viewers/"><u>Unwinding a Livestream in Seconds  Seven Proven Methods for Twitch Viewers</u></a></li>
+</ul></div>

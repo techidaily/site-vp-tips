@@ -1,7 +1,7 @@
 ---
 title: "\"H501X4 FPV Quadcopter Unveiled - Review Breakdown\""
-date: 2024-06-06T04:04:04.009Z
-updated: 2024-06-07T04:04:04.009Z
+date: 2024-07-30T18:23:35.732Z
+updated: 2024-07-31T18:23:35.732Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 
 # Hubsan H501S X4 FPV Quadcopter Review
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -31,12 +34,18 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 **You may also like:**
 [Drone racing: Things You need to Know and Top 5 best FPV racing drones >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![hubsan h501S x4](https://images.wondershare.com/filmora/article-images/hubsan-h501S-x4.jpg) ](https://www.amazon.com/gp/product/B019FHMZD8/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B019FHMZD8&linkId=9d34fd5276ff2e7909e54006b25f45fa
 )
 
 [Check at Amazon](https://www.amazon.com/gp/product/B019FHMZD8/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B019FHMZD8&linkId=9d34fd5276ff2e7909e54006b25f45fa
 )
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pros and Cons
 
  **Pros:**
@@ -106,18 +115,29 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 
 #### 5. Transmitter
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![hubsan h501S x4 controller](https://images.wondershare.com/filmora/article-images/hubsan-h501S-x4-controller.jpg)
 
  The Hubsan H501S X4 controller is designed with 4.3 LCD screen and it helps users to enjoy FPV camera operation with ease. This LCD screen can display all telemetry data for flights. It works on 5.8 GHz range to send video signals into MicroSD card whereas the controller itself works on 2.4 GHz frequency range.
 
 #### 6. Brushless Motors
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![hubsan h501s x4 brushless motor](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-motor.jpg)
 
  Here is one interesting thing to know about Hubsan H501S, that is its brushless motor design. This motor is powerful enough with durable design so that users can enjoy uninterrupted flights for longer run.
 
 #### 7. Camera
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![hubsan h501s x4 brushless camera](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-camera.jpg)
 
  If you are in search of a drone with great camera setup then you will be impressed with Hubsan X4 results. It captures stills with 1080p resolution and live videos need 5.8 GHz frequency from controller and you can view them directly on 4.3” built in screen of controller unit. All photos and videos are directly saved into MicroSD card.
@@ -152,3 +172,41 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-15-exceptional-homes-from-the-virtual-world-of-minecraft/"><u>[New] 15 Exceptional Homes From the Virtual World of Minecraft</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-synchronize-your-team-with-easy-slack-and-filmora-integration/"><u>[New] 2024 Approved  Synchronize Your Team with Easy Slack & Filmora Integration</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-comprehensive-examination-gopro-hero4-silver-version/"><u>[New] Comprehensive Examination  GoPro HERO4 Silver Version</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-from-monochrome-to-multicolor-learning-about-the-art-of-green-screens/"><u>[New] From Monochrome to Multicolor  Learning About the Art of Green Screens</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideas-for-creating-sequences-of-iphone-burst-images/"><u>[New] Ideas for Creating Sequences of iPhone Burst Images</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-optimizing-video-focus-in-virtual-collaboration-spaces-google-meet-edition/"><u>[New] In 2024, Optimizing Video Focus in Virtual Collaboration Spaces  Google Meet Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-sharing-laughter-iphone-memes/"><u>[New] Sharing Laughter  IPhone Memes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-significant-tenets-of-interactive-storytelling/"><u>[New] Significant Tenets of Interactive Storytelling</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-test-intova-xs-video-capabilities-for-2024/"><u>[New] The Ultimate Test  Intova X's Video Capabilities for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-navigating-the-maze-of-tiktoks-bulk-video-transfer/"><u>[Updated] 2024 Approved  Navigating the Maze of TikTok's Bulk Video Transfer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-rapid-releases-review-best-quick-gaming-selections/"><u>[Updated] 2024 Approved  Rapid Releases Review  Best Quick Gaming Selections</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-comprehensive-analysis-mastering-the-art-of-video-editing-with-vivacut/"><u>[Updated] Comprehensive Analysis  Mastering the Art of Video Editing With VivaCut</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-defining-the-basics-the-art-of-digital-stories/"><u>[Updated] Defining the Basics  The Art of Digital Stories</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-econo-audio-amps-for-youtubers-with-limited-dough-for-2024/"><u>[Updated] Econo Audio Amps for Youtubers with Limited Dough for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-exploring-next-gen-coding-is-av1-superior-to-vp9/"><u>[Updated] Exploring Next-Gen Coding  Is AV1 Superior to VP9?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-demystifying-photo-editing-a-snapseed-introduction/"><u>[Updated] In 2024, Demystifying Photo Editing  A Snapseed Introduction</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-hdr-mastery-the-complete-sdr-to-hdr-transformation/"><u>[Updated] In 2024, HDR Mastery  The Complete SDR-to-HDR Transformation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-science-behind-stopping-photo-booth-movies/"><u>[Updated] The Science Behind Stopping Photo Booth Movies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-vanguard-visions-ultimate-laptop-choices-for-uhd-content-creators/"><u>[Updated] Vanguard Visions  Ultimate Laptop Choices for UHD Content Creators</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-top-picks-iphone-solutions-for-effective-image-watermarks/"><u>2024 Approved  Top Picks  IPhone Solutions for Effective Image Watermarks</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-vivo-x-fold-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/8-popular-oculus-rift-games/"><u>8 Popular Oculus Rift Games</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/artistry-at-heart-best-10-free-easy-mac-drawers/"><u>Artistry at Heart  Best 10 Free, Easy Mac Drawers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/audiophiles-guide-to-immersive-tales/"><u>Audiophile's Guide to Immersive Tales</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/defining-techniques-for-e-narrative-construction/"><u>Defining Techniques for E-Narrative Construction</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/how-to-record-ps3-gameplay/"><u>How to Record PS3 Gameplay</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/how-to-transition-your-facebook-vids-into-stellar-hd/"><u>How to Transition Your Facebook Vids Into Stellar HD</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-iphone-se-2022-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect iPhone SE (2022) and iPad</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-downloading-made-simple-discover-the-4-aces/"><u>In 2024, Downloading Made Simple  Discover the 4 Aces</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-how-to-export-iphone-images-as-pdf-from-jpeg-and-png-files/"><u>In 2024, How to Export iPhone Images as PDF From JPEG & PNG Files</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-poco-m6-pro-4g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Poco M6 Pro 4G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quick-connectivity-iphone-images-to-windows/"><u>Quick Connectivity  IPhone Images to Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/streamlined-process-for-hassle-free-hdr-shots-for-2024/"><u>Streamlined Process for Hassle-Free HDR Shots for 2024</u></a></li>
+</ul></div>

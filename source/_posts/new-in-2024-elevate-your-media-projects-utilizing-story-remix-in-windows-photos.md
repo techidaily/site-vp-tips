@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Elevate Your Media Projects  Utilizing Story Remix in Windows Photos\""
-date: 2024-07-04T22:03:04.488Z
-updated: 2024-07-05T22:03:04.488Z
+date: 2024-07-30T20:40:06.397Z
+updated: 2024-07-31T20:40:06.397Z
 tags: 
   - screen-recording
   - ai video
@@ -68,6 +68,9 @@ How to create a Story Remix project automatically –
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-name-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to create a Story Remix project from scratch
 
 Here is the guide –
@@ -76,11 +79,17 @@ Here is the guide –
    2. Hit **Video project** and pick out the images/videos you wish.
    3. Tap on the **Add** button and give a name.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-random-min.jpg)
 
 1. Hit on **Create video** afterwards.
 2. Now, you can preview, edit or share your video.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: How to edit a Story Remix video
 
 Story Remix has 3 major sections namely, media bin consists of files already included in your card-based timeline and files that you chose in previous steps; preview section with recent changes and timeline shows the card with a running video; and the timeline having the option to drag and drop cards from the media bin.
@@ -94,8 +103,14 @@ A theme is a built-in feature in Photos, just like music, filters, and text styl
 1. First all the things are added to your timeline followed by adding to the toolbar. Hit on **Themes** subsequently.
 2. You can select one theme from the listed options namely, "No theme", "Adventure", "Chilled", "Classic", "Electric", "Joy" and "Loved". Preview the selected theme and if satisfied, click on "Done".
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-theme-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Adding image duration
 
 While adding media to the timeline in Story Mix, you will see that there is a default timeline for each image. To adjust the duration, you can do –
@@ -104,12 +119,18 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-duration-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### Adding custom text
 
 1. Choose card from timeline, click ‘Text’ and feed the custom text in the box located at right side. You can simply use animated text styles too.
 2. Use layout option and select location so that you can make the caption or title show up in a different place.
 3. Hit ‘Done’ after that.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-text-min.jpg)
 
 ### Adding motion
@@ -119,11 +140,17 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-motion-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Trimming video clips
 
 1. Pick the video from timeline and choose ‘Trim’ button. Mark the trim area and click ‘Play’ to preview.
 2. Hit ‘Done’ in the end.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 5: How to add 3D effects to a Story Remix project
 
 Adding 3D special effects to video clips is one of the lucrative features of Photos app.
@@ -134,6 +161,9 @@ Adding 3D special effects to video clips is one of the lucrative features of Pho
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-effects-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Part 6: How to export a Story Remix video
 
 Now that you have learnt how to edit videos in Story Remix, let’s see how can you export or share them with the world. You can directly share from Photos or use a USB drive to do the needful.
@@ -157,6 +187,9 @@ Why bother for messy and complex video editing tools, when you can get everythin
 
 If you want to edit video, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -185,3 +218,38 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-elevate-your-oratory-skills-free-tools-for-sound-modification/"><u>[New] 2024 Approved  Elevate Your Oratory Skills - Free Tools for Sound Modification</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-superior-storytellers-sanctuary/"><u>[New] 2024 Approved  Superior Storyteller's Sanctuary</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-cut-color-and-compile-a-deep-dive-into-youtube-studio-video-editing-for-2024/"><u>[New] Cut, Color & Compile  A Deep Dive Into YouTube Studio Video Editing for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-elevating-listeners-interest-writing-podcast-summaries/"><u>[New] In 2024, Elevating Listeners' Interest  Writing Podcast Summaries</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-grandmaster-gaming-evaluating-the-best-7-total-war-experiences/"><u>[New] In 2024, Grandmaster Gaming  Evaluating the Best 7 Total War Experiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-synthesizing-clarity-a-complete-voice-note-taking-course/"><u>[New] Synthesizing Clarity  A Complete Voice Note-Taking Course</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-boost-interaction-with-crafted-ig-story-queries-for-2024/"><u>[Updated] Boost Interaction with Crafted IG Story Queries for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-memorable-valorant-thumbnails-a-practical-guide-for-youtube-creators-for-2024/"><u>[Updated] Crafting Memorable Valorant Thumbnails  A Practical Guide for YouTube Creators for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-innovative-watermarks-for-impactful-insta-imagery/"><u>[Updated] Innovative Watermarks for Impactful Insta Imagery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/10-best-camcorder-ultimate-review-for-2024/"><u>10 Best Camcorder [Ultimate Review] for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-craft-comical-caricatures-using-giphys-kit/"><u>2024 Approved  Craft Comical Caricatures Using Giphy's Kit</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-elevating-your-sound-capture-using-audacity-professionally/"><u>2024 Approved  Elevating Your Sound Capture  Using Audacity Professionally</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-from-amateur-to-artist-top-8-beginner-camera-selections/"><u>2024 Approved  From Amateur to Artist  Top 8 Beginner Camera Selections</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-lightweight-voice-alteration-maximizing-your-gameplay-in-pubg/"><u>2024 Approved  Lightweight Voice Alteration  Maximizing Your Gameplay in PUBG</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/breaking-ice-the-peak-of-chinas-sports-showcase-2022/"><u>Breaking Ice  The Peak of China's Sports Showcase, 2022</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-perfection-a-deep-dive-into-nikon-d7500-for-2024/"><u>Capturing Perfection  A Deep Dive Into Nikon D7500 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dji-spark-review-best-mini-drone-with-gesture-control-for-taking-selfie-for-2024/"><u>DJI Spark Review  Best Mini Drone with Gesture Control for Taking Selfie for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/does-reduced-shakiness-improve-creative-editing-in-adobe-photos-in-2024/"><u>Does Reduced Shakiness Improve Creative Editing in Adobe Photos, In 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/effortless-downloads-choose-from-amongst-4-best-sites/"><u>Effortless Downloads  Choose From Amongst 4 Best Sites</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/exclusive-list-best-4k-laptops-for-playing-games-for-2024/"><u>Exclusive List  Best 4K Laptops for Playing Games for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/fixing-disconnected-headphone-unit/"><u>Fixing Disconnected Headphone Unit</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-an-in-depth-review-of-dji-drone-model-3s-performance/"><u>In 2024, An In-Depth Review of DJI Drone Model 3'S Performance</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-nokia-c210-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Nokia C210 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-chuckle-constructor-app/"><u>In 2024, Chuckle Constructor App</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-crafting-clear-and-consistent-slug-lines/"><u>In 2024, Crafting Clear and Consistent Slug Lines</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-7-hd-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 7 HD Phone without PIN</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-kinetic-mastery-in-your-pocket-a-2023-review-of-kinemaster-on-android/"><u>In 2024, Kinetic Mastery in Your Pocket  A 2023 Review of KineMaster on Android</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-the-ultimate-list-best-skype-audio-capture-tools-for-professionals/"><u>In 2024, The Ultimate List  Best Skype Audio Capture Tools for Professionals</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/interactive-media-meets-brand-partnerships-on-youtube/"><u>Interactive Media Meets Brand Partnerships on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/navigating-the-financial-landscape-for-podcasters/"><u>Navigating the Financial Landscape for Podcasters</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/personalized-whatsapp-tones-on-iphoneandroid-devices-for-2024/"><u>Personalized WhatsApp Tones on iPhone/Android Devices for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Bygone Beauty  IPhone X Portrait Moments\""
-date: 2024-06-06T04:36:14.105Z
-updated: 2024-06-07T04:36:14.105Z
+date: 2024-07-30T19:05:03.842Z
+updated: 2024-07-31T19:05:03.842Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
 
 # How to Take Portrait Photo with Old iPhone X/8 Plus/7 Plus
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -30,11 +34,17 @@ Until recently, iPhone cameras didn't have lenses that enabled its users to prod
 
 In this article, we are going to show you how to take photos in Portrait Mode, on iPhone X, 8 Plus, and 7 Plus, but we are also going to take a look at a few apps for older versions of iPhone that also enable you to create amazing portraits.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tips for iPhone portrait photos
 
 * [Part 1: For iPhone 7 Plus/8 Plus/X users](#part1)
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### For iPhone 7 Plus/8 Plus/X users
 
  **Using the Portrait Mode on an iPhone**
@@ -53,6 +63,9 @@ Portrait mode enables you to set the timer, turn off the flash or apply photo fi
 
 The iPhone X can also take Portrait selfies thanks to the TrueDepth front camera system. Unlike the rear camera system, the front-facing camera doesn't have multiple physical camera lenses; instead, it uses sensors from the TrueDepth system to measure a precise depth map.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![portrait-mode-selfie-iphone-x](https://images.wondershare.com/filmora/article-images/portrait-mode-selfie-iphone-x.jpg)
 
 Image resource: imore
@@ -61,6 +74,9 @@ Launch the Camera app, and swipe to the Portrait option, and then tap on the Cam
 
 If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn't allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### For iPhone 8, 7 or older iPhones users
 
 #### [FabFocus](https://itunes.apple.com/us/app/fabfocus-portraits-with-depth-and-bokeh/id1080434313?mt=8)
@@ -103,6 +119,9 @@ The term Bokeh comes from the Japanese language and it represents the aesthetic 
 
 The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -129,3 +148,67 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-beak-beat-boatwrights/"><u>[New] 2024 Approved  Beak Beat Boatwrights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-grasping-the-functionality-of-airborne-robotics/"><u>[New] 2024 Approved  Grasping the Functionality of Airborne Robotics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-leading-streaming-tools-for-online-video-games/"><u>[New] 2024 Approved  Leading Streaming Tools for Online Video Games</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-revolutionize-your-videos-first-impression-with-these-makers/"><u>[New] 2024 Approved  Revolutionize Your Video's First Impression with These Makers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-a-comprehensible-guide-to-adding-images-on-instagram-for-2024/"><u>[New] A Comprehensible Guide to Adding Images on Instagram for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-aspire-with-angles-crafting-compelling-visuals-through-instagram-rotation-for-2024/"><u>[New] Aspire with Angles  Crafting Compelling Visuals Through Instagram Rotation for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-create-powerful-biz-decks-with-no-cost-templates-for-2024/"><u>[New] Create Powerful Biz Decks with No-Cost Templates for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/valuating-earnings-from-one-million-youtube-watches-for-2024/"><u>[New] Evaluating Earnings From One Million YouTube Watches for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-bringing-life-to-slides-adding-audio-effectively-powerpoint/"><u>[New] In 2024, Bringing Life to Slides  Adding Audio Effectively (PowerPoint)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-elevating-business-and-personal-visibility-with-youtube-mobile-edition/"><u>[New] In 2024, Elevating Business & Personal Visibility with YouTube, Mobile Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-exploring-vllo-experiences/"><u>[New] In 2024, Exploring VLLO Experiences</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-prime-image-archive-platforms/"><u>[New] In 2024, Prime Image Archive Platforms</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-streamlining-the-process-of-saving-ps3-gaming-moments/"><u>[New] In 2024, Streamlining the Process of Saving PS3 Gaming Moments</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ringtone-heaven-game-of-thrones-audio-collection-for-2024/"><u>[New] Ringtone Heaven  Game of Thrones Audio Collection for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-artists-guide-to-vivid-vsco-imagery-for-2024/"><u>[New] The Artist's Guide to Vivid VSCO Imagery for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-digital-picks-free-alarm-ringtones-download/"><u>[New] Top Digital Picks  Free Alarm Ringtones Download</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-mobile-video-assembly-software-for-smartphones/"><u>[New] Top Mobile Video Assembly Software for Smartphones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ultimate-shooting-top-10-high-definition-dslr-stands-for-2024/"><u>[New] Ultimate Shooting  Top 10 High-Definition DSLR Stands for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-crafting-realistic-3d-text-photoshopping-style/"><u>[Updated] 2024 Approved  Crafting Realistic 3D Text Photoshopping Style</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-enhanced-motion-video-with-top-mics-for-cams/"><u>[Updated] 2024 Approved  Enhanced Motion Video with Top Mics for Cams</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-strategies-to-alleviate-vr-motion-woes/"><u>[Updated] 2024 Approved  Strategies to Alleviate VR Motion Woes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-a-deep-dive-into-an-individuals-3dr-experience-for-2024/"><u>[Updated] A Deep Dive Into an Individual's '3DR' Experience for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-pro-tips-to-elevate-your-headline-game/"><u>[Updated] In 2024, Pro Tips to Elevate Your Headline Game</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-innovative-methods-to-subtly-soften-audible-output-via-lumafusion-for-2024/"><u>[Updated] Innovative Methods to Subtly Soften Audible Output via Lumafusion for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-secure-your-contents-signature-adding-watermarks-and-logo-to-youtube-videos/"><u>[Updated] Secure Your Content's Signature  Adding Watermarks & Logo to Youtube Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-mac-subtitling-workshop/"><u>[Updated] The Ultimate Mac Subtitling Workshop</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-zenith-pinnacle-design-review-for-2024/"><u>[Updated] Zenith Pinnacle Design Review for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-9-pinnacle-in-live-game-broadcasting/"><u>2024 Approved  9 Pinnacle in Live Game Broadcasting</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-dial-up-dominance-a-guide-to-visual-podcast-identity/"><u>2024 Approved  Dial-Up Dominance  A Guide to Visual Podcast Identity</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-digital-storytelling-with-facebook-slideshow-creation/"><u>2024 Approved  Digital Storytelling with Facebook SlideShow Creation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-explore-the-premier-video-grabbing-tools-on-windows-10/"><u>2024 Approved  Explore the Premier Video Grabbing Tools on Windows 10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essential-checklist-archiving-internet-music-with-ease/"><u>2024 Approved  The Essential Checklist  Archiving Internet Music with Ease</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-indicator-of-a-block-no-snapshots-received/"><u>2024 Approved  The Indicator of a Block  No Snapshots Received</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-insiders-guide-to-finesse-and-control-on-insta-stories/"><u>2024 Approved  The Insider's Guide to Finesse and Control on Insta Stories</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-top-10-best-performers-elite-4k-laptops/"><u>2024 Approved  Top 10 Best Performers  Elite 4K Laptops</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/4-ways-to-record-sims-4-gameplay-for-2024/"><u>4 Ways to Record Sims 4 Gameplay for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-x90s-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo X90S Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/arcade-affordability-index/"><u>ARCADE AFFORDABILITY INDEX</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-you-watch-mov-movies-on-samsung-galaxy-a54-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can you watch MOV movies on Samsung Galaxy A54 5G ?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/decode-instagram-visibility-whos-glancing-at-yours/"><u>Decode Instagram Visibility  Who's Glancing at Yours?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/flight-expertise-unleashed-an-examination-of-dji-phantom-3/"><u>Flight Expertise Unleashed  An Examination of DJI Phantom 3</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/from-slow-motion-to-fast-forward-adjusting-videos-on-insta/"><u>From Slow Motion to Fast Forward – Adjusting Videos on Insta</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-choose-between-portable-and-plugged-in-vr-headsets-picking-between-wireless-mobile-or-connected-tethered-in-2024/"><u>How to Choose Between Portable and Plugged-In VR Headsets  Picking Between Wireless (Mobile) or Connected (Tethered), In 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-iphone-xr-by-drfone-ios/"><u>How to jailbreak iCloud locked iPhone XR</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-breaking-boundaries-with-eizos-spectaculous-cg318-4k/"><u>In 2024, Breaking Boundaries with EIZO's Spectaculous CG318-4K</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-combined-sound-and-sight-workstation/"><u>In 2024, Combined Sound & Sight Workstation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-xiaomi-redmi-a2plus-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Xiaomi Redmi A2+ Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-newest-list-of-engaging-podcast-dialogues/"><u>In 2024, Newest List of Engaging Podcast Dialogues</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-tactics-for-handling-youtubes-copyright-strikes-effectively/"><u>In 2024, Tactics for Handling YouTube's Copyright Strikes Effectively</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-samsung-galaxy-xcover-6-pro-tactical-edition-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Samsung Galaxy XCover 6 Pro Tactical Edition Location | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-your-phones-personality-with-a-customized-whatsapp-tone/"><u>In 2024, Unlock Your Phone's Personality with a Customized WhatsApp Tone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-where-to-watch-vr-content/"><u>In 2024, Where to Watch VR Content</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-beyond-powerdirector-the-best-mobile-video-editing-apps-of-for-2024/"><u>New Beyond PowerDirector The Best Mobile Video Editing Apps Of for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-realme-c53-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Realme C53</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/smooth-streams-combining-a-multitude-of-images-and-videos-for-instagram/"><u>Smooth Streams  Combining a Multitude of Images & Videos for Instagram</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/streamline-your-media-workflow-a-complete-srt-to-other-file-format-handbook-for-2024/"><u>Streamline Your Media Workflow  A Complete SRT-to-Other File Format Handbook for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-editors-for-virtual-backgrounds-spectrumswitch-studio-for-2024/"><u>Top Editors for Virtual Backgrounds  SpectrumSwitch Studio for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/tune-and-time-lapses-creating-music-videos-with-your-phone/"><u>Tune & Time Lapses  Creating Music Videos with Your Phone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unveiling-the-best-zoomed-experience-in-virtual-meetings-for-2024/"><u>Unveiling the Best Zoomed Experience in Virtual Meetings for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/where-to-find-the-best-budgeted-gopro-purchases/"><u>Where to Find the Best Budgeted GoPro Purchases</u></a></li>
+</ul></div>

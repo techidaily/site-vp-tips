@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Visual Communication  Title & Caption Overlays on Video Clips via Photos\""
-date: 2024-06-06T04:00:21.762Z
-updated: 2024-06-07T04:00:21.762Z
+date: 2024-07-30T18:18:45.807Z
+updated: 2024-07-31T18:18:45.807Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,9 @@ Adding the titles/text to video is a great way to explain the people about a cer
 * [**Part1: How to Add Titles/Text to Video on Photos in Windows 10**](#part1)
 * [**Part2: How to Make Text Move in Windows 10 Photos App**](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Part 1: How to Add Titles/Text to Video on Photos in Windows 10
@@ -40,11 +43,18 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * Firstly, divide your videos into sections. Add section titles to the background video or image. Use relevant image for each section and add a section header. If you do not have any relevant image, search from the web by clicking on add Photos/videos.
 * Select licensed images from the preset categories and always use it by adding credits to the image and click Insert to add it to the video project
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/add-text-photos-app.jpg)
 
 * You may also add the image from the project library to the storyboard if you cannot find the image in the preset categories
 * Resize the image if black parts appear by clicking on resize and then, remove black parts
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/resize-photos-app.jpg)
 
 * To add titles/text to video on Photos in Windows 10 that perfectly match the background, type out the title in the text box at the top right corner
@@ -60,12 +70,18 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 * Click on Add and drag the video to the timeline below. Go to the effects menu and click 3D effects
 * On the right, find the effects sidebar and select any effect that you find suitable for your video text
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
 * To increase or decrease the length of animation time, adjust the slider
@@ -74,6 +90,10 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
@@ -104,3 +124,39 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-photography-rookies-digest-prime-cams/"><u>[New] 2024 Approved  Photography Rookies Digest  Prime Cams</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-a-compreenas-guide-to-producing-slow-motion-content-with-photos-and-internet/"><u>[New] A Compreenas Guide to Producing Slow Motion Content with Photos & Internet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-auditory-illusions-video-meets-apple-music-for-2024/"><u>[New] Auditory Illusions  Video Meets Apple Music for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-expert-filigree-alterations/"><u>[New] Expert Filigree Alterations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-essential-edits-and-tips-to-master-filmoras-interface/"><u>[New] In 2024, Essential Edits and Tips to Master Filmora's Interface</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-how-to-use-luts-in-photoshop-cc/"><u>[New] In 2024, How to Use LUTs in PhotoShop CC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-most-reliable-platforms-to-gather-video-intro-templates/"><u>[New] Most Reliable Platforms to Gather Video Intro Templates</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-navigating-the-path-free-and-safe-vlc-installer-for-macos-users/"><u>[New] Navigating the Path  Free and Safe VLC Installer for macOS Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-mobile-melodies-personalize-ios-ringtones/"><u>[Updated] 2024 Approved  Mastering Mobile Melodies  Personalize iOS Ringtones</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-amplifying-your-impact-voice-customization-in-instagram-media-for-2024/"><u>[Updated] Amplifying Your Impact  Voice Customization in Instagram Media for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-high-def-gaming-gpu-recommendations-for-2024/"><u>[Updated] High-Def Gaming GPU Recommendations for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-sharpen-your-videoleap-videos-from-afar/"><u>[Updated] In 2024, Sharpen Your Videoleap Videos From Afar</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ultimate-facetune-review-transform-your-image-quality/"><u>[Updated] In 2024, Ultimate Facetune Review  Transform Your Image Quality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-premium-vector-image-hubs-ranked-1-to-10/"><u>[Updated] Premium Vector Image Hubs Ranked #1 to #10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-streamlining-youtube-video-transformations-into-mpegs/"><u>[Updated] Streamlining YouTube Video Transformations Into MPEGs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-guide-to-enhancing-reels-with-harmonious-tunes/"><u>[Updated] The Ultimate Guide to Enhancing Reels with Harmonious Tunes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-androids-premier-music-video-experience-6-picks/"><u>2024 Approved  Android's Premier Music Video Experience  6 Picks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-behind-the-screen-discovering-samsung-galaxy-s8s-4k-edge/"><u>2024 Approved  Behind the Screen  Discovering Samsung Galaxy S8's 4K Edge</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-hot-oculus-vr-games-that-everyones-playing/"><u>2024 Approved  Hot Oculus VR Games That Everyone's Playing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-majestic-visual-chronicles-compiler-suite/"><u>2024 Approved  Majestic Visual Chronicles Compiler Suite</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-navigating-reddit-submissions-practical-steps-unveiled/"><u>2024 Approved  Navigating Reddit Submissions  Practical Steps Unveiled</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photography-transformed-simplifying-edges-and-corners/"><u>2024 Approved  Photography Transformed  Simplifying Edges and Corners</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/decode-wmps-techniques-for-efficient-audio-handling-and-recordings-for-2024/"><u>Decode WMP's Techniques for Efficient Audio Handling and Recordings for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-solving-winservicesexe-issues/"><u>Guide to Solving Winservices.exe Issues</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-13-pro-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone 13 Pro? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-honor-v-purse-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Honor V Purse Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-dynamic-editing-mastering-effects-on-tiktok-content/"><u>In 2024, Dynamic Editing  Mastering Effects on TikTok Content</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-huawei-nova-y91-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Huawei Nova Y91 Phones with/without a PC</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-turning-tides-in-the-social-stream-boosting-post-performance/"><u>In 2024, Turning Tides in the Social Stream  Boosting Post Performance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-drone-racing-insights-and-best-fpv-models/"><u>Mastering Drone Racing  Insights & Best FPV Models</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-the-craft-selecting-the-top-5-web-based-title-makers/"><u>Mastering the Craft  Selecting the Top 5 Web-Based Title Makers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/personalize-your-viewing-experience-building-a-google-cardboard-vr-setup/"><u>Personalize Your Viewing Experience  Building a Google Cardboard VR Setup</u></a></li>
+</ul></div>

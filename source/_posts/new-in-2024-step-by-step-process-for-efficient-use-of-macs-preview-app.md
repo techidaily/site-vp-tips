@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Step-by-Step Process for Efficient Use of Mac's Preview App\""
-date: 2024-06-06T05:39:53.632Z
-updated: 2024-06-07T05:39:53.632Z
+date: 2024-07-30T20:26:59.768Z
+updated: 2024-07-31T20:26:59.768Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 
 # How to Use Preview App on Mac
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -30,6 +33,9 @@ The **Preview app** is a built-in program in macOS, and works as a default viewe
 
 That said, the sections below explain **how to use Preview on Mac** for elementary picture editing like rotating, cropping, adding annotations, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
@@ -92,6 +98,9 @@ Use the method explained above to open the photo in Preview.
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Add Text to Image in Preview
 
 The **Preview app** even lets you annotate the images with ease. To add text to a photo:
@@ -108,6 +117,9 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -124,6 +136,9 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -184,6 +199,9 @@ Choose a destination folder in the **Where** field, select your preferred format
 * Select your preferred output format for all the images from the **Format** drop-down list
 * Click **Choose** to convert all the images in a single go
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -210,3 +228,57 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-break-it-down-free-techniques-to-go-frame-by-frame-on-youtube/"><u>[New] 2024 Approved  Break It Down  Free Techniques to Go Frame by Frame on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-essential-guide-to-top-hexacopter-models/"><u>[New] 2024 Approved  Essential Guide to Top Hexacopter Models</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-precision-and-panache-creating-perfect-crossfades/"><u>[New] 2024 Approved  Precision and Panache  Creating Perfect Crossfades</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-seamless-techniques-for-saving-facetime-chats-live/"><u>[New] 2024 Approved  Seamless Techniques for Saving FaceTime Chats Live</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-updated-interview-playbook-for-audience-allure/"><u>[New] 2024 Approved  Updated Interview Playbook for Audience Allure</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-voice-logger-innovations-for-mac-users-unveiling-the-best-5-apps/"><u>[New] 2024 Approved  Voice Logger Innovations for Mac Users  Unveiling the Best 5 Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-empowering-your-wit-crafting-humor-with-gifs-step-by-step/"><u>[New] Empowering Your Wit  Crafting Humor with GIFs Step by Step</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-flawless-syncing-adding-soundtracks-to-inshot-for-2024/"><u>[New] Flawless Syncing  Adding Soundtracks to Inshot for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-mastering-fast-video-filming-on-tiktok/"><u>[New] In 2024, Mastering Fast Video Filming on TikTok</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-correction-quest-how-to-skillfully-edit-images-on-win10/"><u>[New] Quick Correction Quest  How to Skillfully Edit Images on WIN10</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-top-9-mic-technology-advances-a-deep-dive-analysis-for-2024/"><u>[New] Top 9 Mic Technology Advances  A Deep Dive Analysis for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-effective-one-channel-streaming-techniques/"><u>[New] Unlocking Effective One-Channel Streaming Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-exclusive-roundup-10-essential-cost-free-iphone-selfie-editors/"><u>[Updated] 2024 Approved  Exclusive Roundup  10 Essential, Cost-Free iPhone Selfie Editors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-globes-biggest-video-content-mogul/"><u>[Updated] 2024 Approved  Globe’s Biggest Video Content Mogul</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-innovative-audio-tools-crafting-perfect-virtual-performances/"><u>[Updated] 2024 Approved  Innovative Audio Tools  Crafting Perfect Virtual Performances</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-jestjamboree-discover-a-sea-of-memes-at-your-feet/"><u>[Updated] 2024 Approved  JestJamboree  Discover a Sea of Memes at Your Feet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-perfect-precision-the-best-39-video-trimming-tools-from-google-play/"><u>[Updated] 2024 Approved  Perfect Precision  The Best 39 Video-Trimming Tools From Google Play</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-tug-of-war-youtube-licensing-versus-cc-principles/"><u>[Updated] 2024 Approved  The Tug-of-War  Youtube Licensing Versus CC Principles</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-avoid-hassle-effortless-addition-of-video-content-in-youtube-plays/"><u>[Updated] Avoid Hassle  Effortless Addition of Video Content in YouTube Plays</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-dark-heroity-meets-radiant-righteousness-for-2024/"><u>[Updated] Dark Heroity Meets Radiant Righteousness for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-easy-methods-for-dimming-audio-tracks-in-adobe-premiere/"><u>[Updated] Easy Methods for Dimming Audio Tracks in Adobe Premiere</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-crafting-compelling-conversations-essential-expressions/"><u>[Updated] In 2024, Crafting Compelling Conversations  Essential Expressions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-integrating-video-calls-combining-gmail-and-zoom-for-effective-communication/"><u>[Updated] In 2024, Integrating Video Calls  Combining Gmail & Zoom for Effective Communication</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-path-to-virtual-visualization-excellence-a-zoom-video-filters-tutorial/"><u>[Updated] In 2024, The Path to Virtual Visualization Excellence  A Zoom Video Filters Tutorial</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-next-evaluation-diverse-solutions-for-2024/"><u>[Updated] Next Evaluation  Diverse Solutions for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-social-media-savvy-your-guide-to-success/"><u>[Updated] Social Media Savvy  Your Guide to Success</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-art-of-amusement-master-memes-with-kapwing-for-2024/"><u>[Updated] The Art of Amusement – Master Memes with Kapwing for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-equipment-starter-guide-for-beginners/"><u>[Updated] YouTube Equipment Starter Guide For Beginners</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-best-in-class-real-time-broadcast-systems/"><u>2024 Approved  Best-in-Class Real-Time Broadcast Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-6-choices-in-helmet-integrated-gopro-systems-explained/"><u>2024 Approved  Top 6 Choices in Helmet-Integrated GoPro Systems Explained</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-a23-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy A23 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/chuckles-churner-visual-composer/"><u>Chuckles Churner  Visual Composer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/from-streaming-to-savings-preserving-your-internet-tunes-for-2024/"><u>From Streaming to Savings  Preserving Your Internet Tunes for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-itel-p55t-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Itel P55T Phone Screen?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-nokia-c12-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Nokia C12?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apps-on-iphone-11-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apps on iPhone 11?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>Identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11/10</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-vivo-v27e-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Vivo V27e Activity | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-20-best-video-editors-compatible-with-dji-videos/"><u>In 2024, 20 Best Video Editors Compatible with DJi Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-your-own-whatsapp-tone-for-android/"><u>In 2024, Crafting Your Own WhatsApp Tone for Android</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-realme-gt-neo-5-se-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Realme GT Neo 5 SE Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tiny-film-plot-proposal/"><u>In 2024, Tiny Film Plot Proposal</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/inshot-unveiled-effortless-laptoppc-video-editing-for-2024/"><u>Inshot Unveiled  Effortless Laptop/PC Video Editing for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/instant-video-mastery-editing-made-effortless-in-windows-11-for-2024/"><u>Instant Video Mastery  Editing Made Effortless in Windows 11 for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/is-splitcam-the-premier-choice-for-video-capture-for-2024/"><u>Is SplitCam the Premier Choice for Video Capture for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/perfecting-visual-storytelling-adding-context-to-your-pictures-through-text/"><u>Perfecting Visual Storytelling  Adding Context to Your Pictures Through Text</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/shortcuts-to-success-how-to-skip-edgenuity-online-lessons-gracefully-for-2024/"><u>Shortcuts to Success  How to Skip Edgenuity Online Lessons Gracefully for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-nokia-c110-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unleashing-voice-commands-with-top-mac-translation-programs-for-2024/"><u>Unleashing Voice Commands with Top Mac Translation Programs for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-the-full-potential-of-your-youtube-channel-with-right-video-settings-for-2024/"><u>Unlocking the Full Potential of Your YouTube Channel with Right Video Settings for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Phantasm Captures  Action Tech Diary\""
-date: 2024-06-06T01:42:24.230Z
-updated: 2024-06-07T01:42:24.230Z
+date: 2024-07-30T15:20:02.998Z
+updated: 2024-07-31T15:20:02.998Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/5e4f2e08bc06e83ddb45587d928cf61d9245bd50e
 
 # Drift Innocations Ghost-S Action Camera Review
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -30,10 +34,17 @@ thumbnail: https://thmb.techidaily.com/5e4f2e08bc06e83ddb45587d928cf61d9245bd50e
 
  Ghost S follows the same design as that of HD Ghost and its bullet shaped model assists athletes in easy scene recording. The overall weight of this device is 5.9 ounces so it can be easily paired with goggles or strapped over helmet. The 2 inch LCD screen is protected with Gorilla Glass protection and the wide angle lens can cover views up to 160 degree. You will have plenty of mounting options with Drift Ghost-S device and it always stays safe with quick connect clip. Further, this device can be easily controlled from Wi-Fi remote and the outstanding combination of audio and video make it significantly stunning and fragile camera.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![drift-ghost-s-image](https://images.wondershare.com/filmora/article-images/drift-innocations-ghost-s-1.jpg)
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00GJRCPRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00GJRCPRO&linkId=02d9f7ab2afeae8b2f0e96dcd1f5f44b)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Complete Review for Drift Ghost-S
 
 #### **Specs table:**
@@ -107,8 +118,14 @@ thumbnail: https://thmb.techidaily.com/5e4f2e08bc06e83ddb45587d928cf61d9245bd50e
 
  What’s more, it has all the features you will need to make you feel like a pro. Simple editing functionalities like trimming, cropping, merging, adjusting speed, fast or slow motion, mosaic etc. will meet most of your demands. Besides all that, advanced features like split screen, green screen, filters&overlay effects, together with hundreds of licensed music, motion elements, transiton effects etc will definitely turn your video into something extraordinary with the least amount of effort. Check to video below to get an overview of this gorgeous video editing program:
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -135,3 +152,40 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-detailed-steps-to-record-hulu-on-every-os-and-device-type/"><u>[New] 2024 Approved  Detailed Steps to Record Hulu on Every OS and Device Type</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-amp-up-your-humor-arsenal-kapwings-meme-creator-for-2024/"><u>[New] Amp Up Your Humor Arsenal – Kapwing's Meme Creator for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-broadcast-bliss-the-most-accurate-local-and-online-tv-services-for-2024/"><u>[New] Broadcast Bliss  The Most Accurate Local and Online TV Services for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-drone-review-parrots-advanced-ar-model-20-for-2024/"><u>[New] Drone Review  Parrot's Advanced AR Model 2.0 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-fps-fanatics-compendium-selecting-superior-extensions-for-2024/"><u>[New] FPS Fanatics' Compendium  Selecting Superior Extensions for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-beyond-the-headsets-the-essence-of-virtual-reality/"><u>[New] In 2024, Beyond the Headsets  The Essence of Virtual Reality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-blur-no-more-top-10-web-photo-sharpening-apps/"><u>[New] In 2024, Blur No More! Top 10 Web Photo Sharpening Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-geeky-gatherings-best-general-trivia-streams/"><u>[New] In 2024, Geeky Gatherings  Best General Trivia Streams</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-innovative-14-examples-of-moving-text-art/"><u>[New] In 2024, Innovative 14 Examples of Moving Text Art</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-seamlessly-stream-your-laptops-dvd-library/"><u>[New] In 2024, Seamlessly Stream Your Laptop's DVD Library</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-top-13-easy-to-master-revenue-strategies-on-reddit/"><u>[New] In 2024, Top 13 Easy-to-Master Revenue Strategies on Reddit</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-install-and-upgrade-guide-to-the-latest-macos-sierra/"><u>[New] Install and Upgrade Guide to the Latest macOS Sierra</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-oculus-spectacular-expert-reviews-and-choices/"><u>[New] Oculus Spectacular  Expert Reviews and Choices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-step-by-step-manual-for-stunning-slow-motion-with-gopro-hero-10/"><u>[Updated] A Step-by-Step Manual for Stunning Slow Motion with GoPro Hero 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-from-picture-to-paragraph-text-on-windows-and-mac-photos-for-2024/"><u>[Updated] From Picture to Paragraph  Text on Windows & Mac Photos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-audio-input-reduction-zero-price-included/"><u>[Updated] In 2024, Audio Input Reduction - Zero Price Included</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-capture-and-record-videos-from-your-webcam/"><u>[Updated] In 2024, Capture and Record Videos From Your Webcam</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unlock-fb-seo-potential-with-keyword-rich-strategies/"><u>[Updated] In 2024, Unlock FB SEO Potential with Keyword-Rich Strategies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-masterful-color-grading-explore-these-7-methods-for-2024/"><u>[Updated] Masterful Color Grading  Explore These 7 Methods for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-streaming-mastery-ioss-no1-freepluspaid-movie-apps-guide/"><u>2024 Approved  Streaming Mastery  IOS's No.1, FREE+Paid Movie Apps Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-collection-of-10-advanced-fcp-tools/"><u>2024 Approved  The Ultimate Collection of 10 Advanced FCP Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-turning-talk-into-top-tier-podcasts-writing-and-samples-included/"><u>2024 Approved  Turning Talk Into Top-Tier Podcasts  Writing & Samples Included</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/image-perfection-an-editors-guide-for-2024/"><u>Image Perfection  An Editor's Guide for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-7-plus-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 7 Plus After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-playchoice-pondering-over-dacast/"><u>In 2024, PlayChoice  Pondering Over DaCast</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-sony-s6500-blu-ray-reader-an-updated-analysis/"><u>In 2024, Sony S6500 Blu-Ray Reader  An Updated Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-streamlining-your-workflow-with-zooms-pre-meeting-protocol/"><u>In 2024, Streamlining Your Workflow with Zoom's Pre-Meeting Protocol</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/music-service-migration-keeping-playlists-intact/"><u>Music Service Migration  Keeping Playlists Intact</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ranked-highest-audio-transformation-tools-including-magic-for-2024/"><u>Ranked Highest Audio Transformation Tools, Including Magic for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/screenflow-simplified-streamlining-your-video-projects-on-a-mac-for-2024/"><u>ScreenFlow Simplified  Streamlining Your Video Projects on a Mac for 2024</u></a></li>
+<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-won-t-play-on-13t-pro-by-stellar-video-repair-mobile-video-repair/"><u>Solved  Bad and Corrupt Videos that won't Play on 13T Pro</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-curious-case-of-instavideos-turned-sideways/"><u>The Curious Case of InstaVideos Turned Sideways</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-y77t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo Y77t | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Windows 11 Photos  Incorporating Filters & Tunes\""
-date: 2024-06-06T04:17:47.119Z
-updated: 2024-06-07T04:17:47.119Z
+date: 2024-07-30T18:41:15.530Z
+updated: 2024-07-31T18:41:15.530Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/943166f05e826acb5eb0097146d69c366fc0ed75a
 
 # How to Add Filters and Music on Windows 10 Photos App
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -33,6 +36,9 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 
 **You may also like:** [How to Trim Video in Windows 10 Photos Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to add filters on Windows 10 Photos App
 
 If you have got Windows 10 Photos app and wish to add filters, though, it is by default a photo viewing app, its editing features are worth to mention. This step by step guide is your perfect savior in that case.
@@ -43,12 +49,18 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 **Step 2**: Choose the video you want to add filters. Click **New video** at top > Custom video with music.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
 
 **Step 4**: Click Filters at tool bar. Microsoft Photos has 14 filters you can use, including classic, adventure, sepia and so on.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
 **Step 5**: Just select one you like. Preview it and then click Done.
@@ -63,6 +75,9 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 **Step 3**: Now, hit the ‘Create’ button from the top-right followed by dragging the video to Photos timeline. Later, hit on ‘Auio’ at top right.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
@@ -71,6 +86,9 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 **Step 5**: Hit the ‘Done’ button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
@@ -101,3 +119,43 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-fabricate-comical-artwork-adobe-style/"><u>[New] 2024 Approved  Fabricate Comical Artwork, Adobe Style</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-forging-a-future-in-artistic-expression-and-commerce/"><u>[New] 2024 Approved  Forging a Future in Artistic Expression and Commerce</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-advanced-mac-toolkit-screenaudio-recording-feature-for-2024/"><u>[New] Advanced Mac Toolkit  Screen/Audio Recording Feature for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-assemble-creative-gifs-for-online-sharing/"><u>[New] Assemble Creative GIFs for Online Sharing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-craft-captivating-gopro-time-lapse-footage-hacks-for-2024/"><u>[New] Craft Captivating GoPro Time-Lapse Footage Hacks for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-earning-potential-in-beauty-blogging/"><u>[New] Earning Potential in Beauty Blogging</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-humorhatchery-studio/"><u>[New] HumorHatchery Studio</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-power-packed-film-titles-for-inner-growth-and-strength/"><u>[New] In 2024, Power-Packed Film Titles for Inner Growth & Strength</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-premiere-your-stories-with-free-templates/"><u>[New] In 2024, Premiere Your Stories with Free Templates</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-hdr-quality-evaluating-luminances-performance/"><u>[Updated] HDR Quality  Evaluating Luminance's Performance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-audio-capture-mastery-in-windows-10/"><u>[Updated] In 2024, Audio Capture Mastery in Windows 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-making-simple-text-pop-in-videos-without-costs/"><u>[Updated] In 2024, Making Simple Text Pop in Videos without Costs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-innovative-editing-at-your-fingertips-complete-guide-to-vivacut-24/"><u>[Updated] Innovative Editing at Your Fingertips  Complete Guide to VivaCut '24</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-steadicam-models-compatible-with-dslr-cameras-for-2024/"><u>[Updated] Top Steadicam Models Compatible with DSLR Cameras for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unifying-platforms-the-art-of-incorporating-linktree-in-tiktok-biographies-for-2024/"><u>[Updated] Unifying Platforms  The Art of Incorporating Linktree in TikTok Biographies for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-guide-to-the-elite-audiovideo-makers-web/"><u>2024 Approved  Guide to the Elite Audio/Video Makers Web</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-insta-gone-locating-the-disappeared-fans/"><u>2024 Approved  Insta Gone? Locating the Disappeared Fans</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-tracing-the-flow-of-money-in-consumer-opinions/"><u>2024 Approved  Tracing the Flow of Money in Consumer Opinions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unveiling-instagrams-filters-a-comprehensive-guide-to-enhance-your-posts/"><u>2024 Approved  Unveiling Instagram's Filters  A Comprehensive Guide to Enhance Your Posts</u></a></li>
+<li><a href="https://facebook.techidaily.com/analyzing-why-a-user-may-disappear-from-chat-listings/"><u>Analyzing Why a User May Disappear From Chat Listings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/complete-overview-harnessing-the-power-of-googles-text-conversion/"><u>Complete Overview  Harnessing the Power of Google's Text Conversion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elevate-your-micro-photography-key-tips-for-filmmakers-for-2024/"><u>Elevate Your Micro Photography  Key Tips for Filmmakers for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-your-podcast-experience-the-art-of-editing-in-garageband/"><u>Enhancing Your Podcast Experience  The Art of Editing in GarageBand</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-honor-100-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-honor-90-lite-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Honor 90 Lite</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-a-step-by-step-pathway-to-adding-sound-in-adobe-premiere/"><u>In 2024, A Step-by-Step Pathway to Adding Sound in Adobe Premiere</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-apple-iphone-14-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your Apple iPhone 14 and iPad</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Learn How Everything Works On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-unleash-your-imagination-best-drawers-for-ipados/"><u>In 2024, Unleash Your Imagination  Best Drawers for iPadOS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/leading-techniques-for-video-transformation-youtube-to-mpeg/"><u>Leading Techniques for Video Transformation - YouTube-to-MPEG</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/resurrecting-windows-photo-viewer-a-compreehr-guide-for-win10-users-for-2024/"><u>Resurrecting Windows Photo Viewer - A Compreehr Guide for Win10 Users for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/scrutinizing-the-performance-of-dji-solo-vision-goggles-for-2024/"><u>Scrutinizing the Performance of DJi Solo Vision Goggles for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/simplified-recording-of-your-skype-chats-with-pc-and-mac-for-2024/"><u>Simplified Recording of Your Skype Chats with PC & Mac for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-future-of-high-resolution-viewing-an-overview-of-asuss-proart-pa-329q-monitor-for-2024/"><u>The Future of High-Resolution Viewing  An Overview of Asus's ProArt PA 329Q Monitor for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-meizu-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Meizu Android SIM Unlock APK</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-tips-for-synchronizing-volumes-across-tracks-using-the-vlc-media-player/"><u>Updated In 2024, Tips for Synchronizing Volumes Across Tracks Using the VLC Media Player</u></a></li>
+</ul></div>

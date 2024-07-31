@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Unveiling SMS Secrets  Top WhatsApp Tricks Revealed\""
-date: 2024-06-06T02:09:01.261Z
-updated: 2024-06-07T02:09:01.261Z
+date: 2024-07-30T15:54:04.117Z
+updated: 2024-07-31T15:54:04.117Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/d141dd05ed10b1bd39fa40502c6b028dc88f2f05d
 
 # Cool Whatsapp Tricks and Hidden Features You Should Know
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -32,6 +35,18 @@ With more than a billion active users worldwide, WhatsApp is now among the prima
 * [What are the Hidden Features of WhatsApp?](#part2)
 * [Edit WhatsApp Videos with Ease](#part3)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Cool WhatsApp Text Tricks to Make You Look Edgy
 
 You can do a lot of things with your WhatsApp fonts, appearance, and texts that will make your messages look oh-so-edgy! From italics, bold, strikethrough to monospace there are plenty of text formatting tricks to dress up your epic announcements, festive greetings et al. Rounding it all, here are the best WhatsApp Typing Tricks you can use right away.
@@ -58,12 +73,18 @@ Strikethrough is largely used to intend puns in WhatsApp, but sometimes it is al
 
 The monospace is a font stylization now available in WhatsApp that allows you to write fixed-width content. These WhatsApp writing tricks are useful when sharing any sort of coding or technical formulas. It will help distinguish special content from regular content. To insert it, use 3 backticks (\`\`\`text\`\`\`) at the beginning and end of your sentence without spacing.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![Whatsapp Text Tricks Monospace](https://images.wondershare.com/filmora/article-images/whatsapp-text-tricks-monospace.png)
 
 #### 5.Disable Read Recipients
 
 WhatsApp introduced the Blue Tick feature to notify users when their messages are not only delivered but are seen by the recipients. But it has also been the cause of fallouts between loved ones and even trouble at work for failing to respond despite a Blue Tick. Now you can control the fury with WhatsApp Text Tricks of disabling the Read Recipient feature. Go Settings >> Account >> Privacy >> Read Recipients. By doing this, you won’t be able to see your contact’s blue ticks as no one will be able to see yours. Unlike custom notifications, the Read Recipient feature applies to your entire contact list and cannot be used for one specific contact. The sender would see black double ticks even if you read the message.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Whatsapp Disable Read Recipients](https://images.wondershare.com/filmora/article-images/whatsapp-disable-read-recipients.png)
 
 #### 6.Pin Prioritized Contacts
@@ -84,12 +105,18 @@ If you wish to save the chats that you exchanged with someone special, you can e
 
 Though we have already mentioned the shortcuts for bold, italics, and other text formatting features, there is another way to format your texts if you forget the shortcuts - go for the Native Settings Strip. Once you are done typing, then tap and hold the text sections you want to format, this will open all the options in a list. You can scroll it to select your formatting command.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Whatsapp Font Tricks Formatting](https://images.wondershare.com/filmora/article-images/whatsapp-font-tricks-formatting.png)
 
 #### 9.You Can Apply All WhatsApp Font Tricks on One Word or Sentence
 
 There are plenty of things you can do with one word. It can be bold, italic, monospace, and strikethrough all at the same time. Apply the native settings or shortcuts one after another and voila!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Apply All Whatsapp Font Tricks](https://images.wondershare.com/filmora/article-images/apply-all-whatsapp-font-tricks.png)
 
 #### 10.Share Sections of Messages While Typing
@@ -98,6 +125,9 @@ While typing a WhatsApp message if you need to cross-check certain areas with so
 
 ![Whatsapp Typing Trick](https://images.wondershare.com/filmora/article-images/whatsapp-typing-trick.png)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are the Hidden Features of WhatsApp?
 
 Since most of the above-mentioned are owing to the tricks and trades of texting via WhatsApp, let us now jot down a WhatsApp hidden feature list that applies for general usability of the wonder-app. There are useful privacy settings and chat features that can make your user experience a lot more peaceful.
@@ -122,6 +152,9 @@ If there is confusion with a location, where sharing addresses is not an option,
 
 As long as you have the chat history intact you can search specific words to trace an old chat within a thread. Open the message thread of the specific contact, tap on the 3 Dots button on the top left and click on “Search”. Then type a word from the particular chat, hit enter to trace it.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Whatsapp Search Old Chat](https://images.wondershare.com/filmora/article-images/whatsapp-search-old-chat.png)
 
 #### 5.Restore Your Chat History, and Deleted Chats
@@ -144,6 +177,9 @@ Not every message thread is important, and many people have the habit of deletin
 
 If it is annoying to open a loved one’s story and then automatically sliding into a story you did not want to open, you can MUTE the people whose stories you are not interested to see. Go to Story and tap and hold the unwanted contact to open the Mute option. Even though there is no option that you can stop the automatic carousel to the next contact’s stories altogether, you can always go by the rule of the thumb - place your thumb on the screen and the carousel won’t move.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![Mute Whatsapp Stories](https://images.wondershare.com/filmora/article-images/mute-whatsapp-stories.jpg)
 
 #### 9.Reply Privately to Recipients in a WhatsApp Group
@@ -154,10 +190,17 @@ This is as simple as it sounds. Tap and hold to select a message in a group and 
 
 Manage how you are notified of messages from specific contacts and groups. Go to the main page of the contact or group you wish to customize, and there you will find Custom Notifications. Activate the mode to open a wide range of options - notification tones, pop up, preview, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![Whatsapp Hidden Feature Custom Notification](https://images.wondershare.com/filmora/article-images/whatsapp-hidden-feature-custom-notification.jpg)
 
 Source: beebom.com
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Edit WhatsApp Videos with Ease
 
 Some of the best WhatsApp video editing tricks are coming up, wherein you can add doodles, text, and crop an image. Moreover, you also check in some external video editing tools that are quite handy to integrate with WhatsApp.
@@ -208,3 +251,49 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-instavid-angle-mystery-vertical-reversals-on-the-rise/"><u>[New] 2024 Approved  InstaVid Angle Mystery  Vertical Reversals on the Rise</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-symphony-of-social-sharing-adding-audio-to-instagram/"><u>[New] 2024 Approved  The Symphony of Social Sharing  Adding Audio to Instagram</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-transform-communication-top-free-mac-text-to-speech-software-rankings/"><u>[New] 2024 Approved  Transform Communication  Top Free Mac Text-to-Speech Software Rankings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-digital-precision-the-art-of-perfect-online-image-trimming-for-2024/"><u>[New] Digital Precision  The Art of Perfect Online Image Trimming for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-platform-precision-examining-obs-against-twitch-hub/"><u>[New] In 2024, Platform Precision  Examining OBS Against Twitch Hub</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-sky-eyes-on-the-action-dji-phantom-pro-vs-gopro-fusion/"><u>[New] In 2024, Sky Eyes on the Action  DJi Phantom Pro VS GoPro Fusion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-unveiling-secrets-the-best-dronescopic-stabilizers-reviewed/"><u>[New] In 2024, Unveiling Secrets  The Best Dronescopic Stabilizers Reviewed</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-updating-facebook-video-coverage-with-ease/"><u>[New] In 2024, Updating Facebook Video Coverage with Ease</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-spearheading-groundbre-folks-in-vr-space/"><u>[New] Spearheading Groundbre Folks In VR Space</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-definitive-guide-to-audio-interfaces-in-podcasting/"><u>[New] The Definitive Guide to Audio Interfaces in Podcasting</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-elevate-video-views-twitter-to-facebook-transition/"><u>[Updated] 2024 Approved  Elevate Video Views  Twitter to Facebook Transition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-exploring-hololens-by-microsoft-a-3d-dream-come-true/"><u>[Updated] 2024 Approved  Exploring HoloLens by Microsoft  A 3D Dream Come True</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-harnessing-windows-11s-high-dynamic-range-auto-hdr-for-better-visuals/"><u>[Updated] 2024 Approved  Harnessing Windows 11'S High Dynamic Range (Auto HDR) for Better Visuals</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-phantom-3-battle-disguise-4-comes-out/"><u>[Updated] 2024 Approved  Phantom 3 Battle  Disguise 4 Comes Out</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ace-your-adventures-with-gopro-tips/"><u>[Updated] Ace Your Adventures with GoPro Tips</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-decoding-snapchat-emoji-language-for-2024/"><u>[Updated] Decoding Snapchat Emoji Language for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-extreme-quality-top-5-for-slow-motion-precision-for-2024/"><u>[Updated] Extreme Quality  Top 5 for Slow Motion Precision for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-getting-your-vlogging-started-key-items-and-software-for-2024/"><u>[Updated] Getting Your Vlogging Started  Key Items & Software for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-stunning-close-ups-and-macros-with-iphones-advanced-lenses/"><u>[Updated] In 2024, Stunning Close-Ups & Macros with iPhone's Advanced Lenses</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-logic-pro-xs-audio-magic-tricks-for-seamless-sounds-for-2024/"><u>[Updated] Logic Pro X's Audio Magic Tricks for Seamless Sounds for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-visual-enhancements-in-tiktok-for-2024/"><u>[Updated] Mastering Visual Enhancements in TikTok for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-microsofts-hololens-journey-from-vision-to-reality/"><u>[Updated] Microsoft’s HoloLens Journey – From Vision to Reality</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-online-broadcasting-basics-a-streamers-guide-to-capture/"><u>[Updated] Online Broadcasting Basics  A Streamer’s Guide to Capture</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-symphonic-switch-up-reimagining-your-musical-lists-for-2024/"><u>[Updated] Symphonic Switch-Up  Reimagining Your Musical Lists for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-ultimate-pathway-for-storytellers-mastery-over-facebook-live-feature/"><u>[Updated] The Ultimate Pathway for Storytellers  Mastery Over Facebook Live Feature</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-cutting-edge-zooming-tactics-for-collaborative-ms-teams/"><u>2024 Approved  Cutting Edge Zooming Tactics for Collaborative MS Teams</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-deep-dive-into-periscope-its-free-how-to-register/"><u>2024 Approved  Deep Dive Into Periscope  It's Free? How To Register</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-elevate-your-design-game-with-expert-level-3d-text-tips/"><u>2024 Approved  Elevate Your Design Game with Expert-Level 3D Text Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-navigating-the-nuances-zooming-in-on-roblox/"><u>2024 Approved  Navigating the Nuances  Zooming In on Roblox</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-top-ranked-instagram-tunes-and-secrets-for-exceptional-call-alerts/"><u>2024 Approved  Top-Ranked Instagram Tunes & Secrets for Exceptional Call Alerts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/achieving-excellence-with-central-luts-for-films/"><u>Achieving Excellence with Central Luts for Films</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/affordable-online-education-hosting-on-youtube/"><u>Affordable Online Education  Hosting on YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bargain-ball-games-free-recording-and-editing-techniques/"><u>Bargain Ball Games  Free Recording & Editing Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-honor-90-lite-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Honor 90 Lite</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-shoot-vertical-panorama-photos-with-your-smartphone-androidios/"><u>How to Shoot Vertical Panorama Photos with Your Smartphone Android/iOS</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-motorola-moto-g13-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Motorola Moto G13 to iPad | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-iphones-high-dynamic-range-photography-demystified/"><u>In 2024, IPhone's High-Dynamic Range Photography Demystified</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-art-of-digital-makeup-on-video-platforms/"><u>In 2024, The Art of Digital Makeup on Video Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/inside-the-craft-of-creating-vr-films/"><u>Inside The Craft of Creating VR Films</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/introduction-to-kinetic-graphic-principles-for-2024/"><u>Introduction to Kinetic Graphic Principles for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quick-tips-eliminate-signature-bg-in-minutes-for-2024/"><u>Quick Tips  Eliminate Signature Bg in Minutes for 2024</u></a></li>
+</ul></div>

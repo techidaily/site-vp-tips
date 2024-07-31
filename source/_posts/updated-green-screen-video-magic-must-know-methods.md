@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Green Screen Video Magic  Must-Know Methods\""
-date: 2024-06-06T05:33:02.947Z
-updated: 2024-06-07T05:33:02.947Z
+date: 2024-07-30T20:18:13.182Z
+updated: 2024-07-31T20:18:13.182Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d139
 
 # How to Shoot a Green Screen Video
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -34,6 +37,9 @@ In the previous blog we have talked about the principle of Green Screen video an
 
 If you are wondering how to compositing the shot green screen video with your main video on your Windows PC or Mac, try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Watch the video tutorial of How to make a green screen video with Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 **Related:**[Resources for green screen effects](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -42,6 +48,9 @@ If you are wondering how to compositing the shot green screen video with your ma
 
 We’ve figured out some useful green screen tricks, have fun and hope you’ll be more creative with the help of Filmora green screen video compositing software.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 In the following section, we will share with you five tips when you shooting a video for compositing a green screen video, which covering the lighting tips, the camera tips, the clothing tips, the tips for using green screen sheet, and the tips for resolving motion blur in shooting videos.
@@ -52,12 +61,18 @@ To shoot a nice green screen video, it's better to be able to light the backgrou
 
 Don’t throw too much light onto the green background. That will create hotspots and “green spill” on the subject and make the key less effective. The key to lighting a green screen is consistency – create a single, consistent shade of color across the entire screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![Lighting tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-lighting-tips.png)
 
 Check out our picks of [the best lighting equipment for shooting videos](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 2Camera tips in shooting a Green Screen Video
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Camera tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-6.png)
 
 When lighting your key surface, make sure the bounce light is not directed at the camera (as shown in the image above). For example, if your camera faces the key surface directly, set your lights at 45 degree angles to the key surface. This will ensure that the bounce light bounces toward the other light and not at the camera.
@@ -92,6 +107,11 @@ Till now, I believe we have basic skills on how to shoot a green screen videos, 
 
 Besides compositing chroma keying videos in Filmora, you can also[stabilize your shaky videos](https://tools.techidaily.com/wondershare/filmora/download/), [put videos side by side](https://tools.techidaily.com/wondershare/filmora/download/), [blur the face in the video](https://tools.techidaily.com/wondershare/filmora/download/) and even more. Let's watch the video below and find out how people shoot and edit green screen videos. Remember to download Filmora to have a try by yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
@@ -120,3 +140,57 @@ Follow @Liza Brown
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-lightning-fast-the-art-of-windows-file-scanning/"><u>[New] 2024 Approved  Lightning-Fast  The Art of Windows File Scanning</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-behind-the-screen-discovering-samsung-galaxy-s8s-4k-edge-for-2024/"><u>[New] Behind the Screen  Discovering Samsung Galaxy S8's 4K Edge for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-celebrating-stop-motion-excellence-top-15-films/"><u>[New] Celebrating Stop-Motion Excellence  Top 15 Films</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-disconnect-wisely-guidelines-for-exiting-discords/"><u>[New] Disconnect Wisely  Guidelines for Exiting Discords</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-discover-12-favorite-free-video-player-software-on-pctabletsmartphone/"><u>[New] Discover 12 Favorite Free Video Player Software on PC/Tablet/Smartphone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-canvas-hidden-gems-for-crafting-visual-magic/"><u>[New] In 2024, Canva's Hidden Gems for Crafting Visual Magic</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-masterful-sound-setup-ultimate-tips-and-gear-list/"><u>[New] In 2024, Masterful Sound Setup  Ultimate Tips & Gear List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-perfect-your-audio-journey-iphoneipad-podcasting-secrets-unveiled/"><u>[New] In 2024, Perfect Your Audio Journey  IPhone/iPad Podcasting Secrets Unveiled</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-ultimate-workflow-for-embedding-subtitle-track-in-mp4s/"><u>[New] In 2024, Ultimate Workflow for Embedding Subtitle Track in MP4s</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-voice-of-the-visionary-beginning-your-journey-in-auditions-fading/"><u>[New] In 2024, Voice of the Visionary  Beginning Your Journey in Audition’s Fading</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-no-cost-endless-chuckles-the-meme-makers-manual-for-2024/"><u>[New] No Cost, Endless Chuckles  The Meme Makers' Manual for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-techniques-for-ignoring-home-based-educational-media/"><u>[New] Techniques for Ignoring Home-Based Educational Media</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-economics-of-entertainment-pewdiepies-profit/"><u>[New] The Economics of Entertainment  PewDiePie's Profit</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-a-deep-dive-into-ffmpeg-for-authentic-unaltered-audio-extraction/"><u>[Updated] 2024 Approved  A Deep Dive Into FFmpeg for Authentic, Unaltered Audio Extraction</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-discovering-the-enhanced-vision-in-samsung-galaxy-s8/"><u>[Updated] 2024 Approved  Discovering the Enhanced Vision in Samsung Galaxy S8</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-essentials-of-editing-your-social-media-profile-picture/"><u>[Updated] 2024 Approved  Essentials of Editing Your Social Media Profile Picture</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-from-sky-to-framing-a-compreenasive-review-of-the-drone-dji-spark/"><u>[Updated] 2024 Approved  From Sky to Framing  A Compreenasive Review of the Drone DJI Spark</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-film-making-top-video-cameras/"><u>[Updated] 2024 Approved  Mastering Film Making  Top Video Cameras</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-the-art-of-photo-border-elimination/"><u>[Updated] 2024 Approved  Mastering the Art of Photo Border Elimination</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unleash-creativity-with-these-free-web-photo-editors/"><u>[Updated] 2024 Approved  Unleash Creativity with These Free Web Photo Editors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-a-guide-to-the-avant-garde-of-the-internets-av-masters/"><u>[Updated] A Guide to the Avant-Garde of the Internet's AV Masters</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-crafting-timeless-videos-with-historical-flair/"><u>[Updated] Crafting Timeless Videos with Historical Flair</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-co-marketing-brands-and-youtubes-dynamic-duo/"><u>[Updated] In 2024, Co-Marketing  Brands and YouTube's Dynamic Duo</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-diminuendo-design-guiding-sounds-in-adobe-premiere/"><u>[Updated] In 2024, Diminuendo Design  Guiding Sounds In Adobe Premiere</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-gratis-commerce-driven-presentation-templates-ideas/"><u>[Updated] In 2024, Gratis Commerce-Driven Presentation Templates Ideas</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-inspirational-cinema-collection-10-movie-gems/"><u>[Updated] In 2024, Inspirational Cinema Collection  10 Movie Gems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-instagrams-music-ip-policies/"><u>[Updated] In 2024, Instagram's Music IP Policies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-quintessential-quest-for-quality-storytellers-top-8-institutions/"><u>[Updated] The Quintessential Quest for Quality Storytellers – Top 8 Institutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unlocking-iphones-potential-podcast-harmony/"><u>[Updated] Unlocking iPhone's Potential - Podcast Harmony</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-evaluating-the-value-of-sns-hdr-in-a-crowded-market/"><u>2024 Approved  Evaluating the Value of SNS HDR in a Crowded Market</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-memetic-masterpieces-behind-the-photo/"><u>2024 Approved  Memetic Masterpieces  Behind the Photo</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-transforming-moments-samsungs-time-lapse-tutorial/"><u>2024 Approved  Transforming Moments  Samsung's Time-Lapse Tutorial</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-xiaomi-redmi-a2plus-unlock-without-password-by-drfone-android/"><u>5 Solutions For Xiaomi Redmi A2+ Unlock Without Password</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cash-flow-curiosity-how-much-does-the-celebrity-make-for-2024/"><u>Cash Flow Curiosity  How Much Does the Celebrity Make for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/copyright-free-audio-treasury-for-gamers-online/"><u>Copyright-Free Audio Treasury for Gamers Online</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Lava Blaze Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/image-editing-essentials-the-ultimate-guide-to-embedding-text-on-windows-and-macs/"><u>Image Editing Essentials  The Ultimate Guide to Embedding Text on Windows & Macs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-apples-latest-innovation-are-macbook-air-or-pro-best/"><u>In 2024, Apple's Latest Innovation  Are MacBook Air or Pro Best?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-motorola-edge-2023-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Motorola Edge 2023 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-elevate-your-gaming-learn-xbox-zoom-use/"><u>In 2024, Elevate Your Gaming  Learn Xbox Zoom Use</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-how-to-easily-and-quickly-draw-on-photos-app-in-windows-10/"><u>In 2024, How to Easily and Quickly Draw on Photos App in Windows 10</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-realme-gt-neo-5-se-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Realme GT Neo 5 SE Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-in-depth-analysis-the-power-of-quantum-hdr/"><u>In 2024, In-Depth Analysis  The Power of Quantum HDR</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-youtubers-picks-on-anti-shake-gear-for-professional-videos/"><u>In 2024, YouTubers’ Picks on Anti-Shake Gear for Professional Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/spotlight-on-top-trending-tweets/"><u>Spotlight on Top Trending Tweets</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transitioning-artistry-in-inshot-videos/"><u>Transitioning Artistry in Inshot Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/turn-off-youtubes-quick-video-buffering-feature/"><u>Turn Off YouTube's Quick Video Buffering Feature</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/turning-beauty-blogging-into-cash-for-2024/"><u>Turning Beauty Blogging Into Cash for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/using-inbuilt-recorders-for-screen-capture-on-huaweis-mate-and-p-series-devices-for-2024/"><u>Using Inbuilt Recorders for Screen Capture on Huawei's Mate and P Series Devices for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/zerobackground-pro-precision-erasing-for-photos-for-2024/"><u>ZeroBackground Pro  Precision Erasing for Photos for 2024</u></a></li>
+</ul></div>

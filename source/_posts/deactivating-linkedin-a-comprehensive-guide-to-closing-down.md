@@ -1,7 +1,7 @@
 ---
 title: "\"Deactivating LinkedIn  A Comprehensive Guide to Closing Down\""
-date: 2024-06-06T01:18:37.983Z
-updated: 2024-06-07T01:18:37.983Z
+date: 2024-07-30T14:50:04.060Z
+updated: 2024-07-31T14:50:04.060Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 
 # How Do I Delete Or Close My Old LinkedIn Account (Solved)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -48,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 * Do you have more than one LinkedIn account? You may merge or delete LinkedIn account.
 * Reopening your LinkedIn account is possible within 20days but the data like recommendations, pending invitations, followings, or group memberships will be lost.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## Part2: How to Delete LinkedIn Account on PC
 
 **Step 1:** To delete LinkedIn account, sign in by entering the username and the password. On the top right hand side corner, you can find the "Me" tab. From the "Me" tab drop down menu, you can go to Settings & Privacy. Now, under the "Account" tab find the "Account Management" option.
@@ -56,6 +62,9 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 
 **Step 2:** Next, to "Close your LinkedIn account" find the "Change" option and click on it. You will get a warning if you are a premium member that without canceling the premium membership, you cannot close LinkedIn account. Click on "You’ll need to convert it to a Basic membership" option to reach the membership cancelation page.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![close linkedin accout](https://images.wondershare.com/filmora/article-images/close-linkedin-account.JPG)
 
 **Step 3:** Then, you need to click on the answer why you wish to delete LinkedIn account from the options available like I have a duplicate account, I'm getting too many emails, I'm not getting any value from my membership, I have a privacy concern, I'm receiving unwanted contact, and Other. At the bottom of the page, click on "Next". You are asked to enter your password. Now, click on Close "Close Account".
@@ -70,16 +79,25 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 
 1. At first, tap on the LinkedIn app and then click on the displayed profile picture. Next, on the top right corner you can find the Settings tab, tap on it. From the Account icon, click on Close Account.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![linkedin android setting](https://images.wondershare.com/filmora/article-images/linkedin-android-setting.JPG)
 
 2. A message appears if you wish to "continue", so tap on the continue option.Once you click on the continue option, a similar message like the above in delete LinkedIn account from PC appears as to why you wish to close LinkedIn account. Click on any one reason for leaving LinkedIn and then, proceed to tap "Next". It asks for your password to ensure it’s you and for the security of your account and once entering the password is complete, tap "done".
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![linkedin android close account](https://images.wondershare.com/filmora/article-images/linkedin-android-close-account.JPG)
 
 ## Conclusion
 
  LinkedIn is not rigid about deleting the account or losing a user. It is completely up to you and your convenience, if you wish to remove LinkedIn account completely. Whether mobile browser or Android phone or your computer, the process to cancel LinkedIn account is quite simple and does not involve much of any critical steps. Follow the above points to delete LinkedIn account from your PC or Android.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -106,3 +124,50 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-beyond-popularity-metrics-understanding-trillers-distinct-features/"><u>[New] 2024 Approved  Beyond Popularity Metrics  Understanding Triller's Distinct Features</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-elevating-your-instagram-presence-with-optimized-video-sizes/"><u>[New] 2024 Approved  Elevating Your Instagram Presence with Optimized Video Sizes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-best-funny-fictional-frequencies/"><u>[New] 2024 Approved  The Best Funny Fictional Frequencies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-podcasters-handbook-writing-strategies-and-sample-scripts-available-free/"><u>[New] 2024 Approved  The Podcaster's Handbook  Writing Strategies & Sample Scripts Available Free</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-ultimate-showdown-vlc-versus-mpc-in-video-viewing/"><u>[New] 2024 Approved  The Ultimate Showdown  VLC Versus MPC in Video Viewing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-game-on-tips-for-excellent-video-game-clips/"><u>[New] Game On! Tips for Excellent Video Game Clips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-pinnacle-20-anime-songs-to-start-with/"><u>[New] In 2024, Pinnacle 20 Anime Songs to Start With</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-ultimate-guide-to-15-best-4k-recording-tools/"><u>[New] In 2024, Ultimate Guide to #15 Best 4K Recording Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-unveiling-the-simple-nature-of-storytelling/"><u>[New] In 2024, Unveiling the Simple Nature of Storytelling</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-nikon-km-170-vs-hero-black-a-tough-decision/"><u>[New] Nikon KM-170 VS Hero Black  A Tough Decision</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premium-pctablet-mkv-reader/"><u>[New] Premium PC/Tablet MKV Reader</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-selecting-androids-best-youtube-video-extractors/"><u>[New] Selecting Android's Best YouTube Video Extractors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-significant-tenets-of-interactive-storytelling/"><u>[New] Significant Tenets of Interactive Storytelling</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-secret-seeing-popular-youtube-reactions/"><u>[New] Unveiling the Secret  Seeing Popular YouTube Reactions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-essential-pixlr-upgrades-for-enhanced-results/"><u>[Updated] 2024 Approved  Essential Pixlr Upgrades for Enhanced Results</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ace-picks-top-ranked-gaming-screens-in-4k/"><u>[Updated] Ace Picks  Top-Ranked Gaming Screens in 4K</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-diy-instagram-alert-tunes-a-step-by-step-guide-for-2024/"><u>[Updated] DIY Instagram Alert Tunes  A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-echo-to-etchings-discovering-preeminent-text-apps/"><u>[Updated] Echo to Etchings  Discovering Preeminent Text Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-conquer-color-chaos-discover-essential-tutorials-and-techniques/"><u>[Updated] In 2024, Conquer Color Chaos - Discover Essential Tutorials and Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-key-techniques-for-smooth-inshot-pivots/"><u>[Updated] In 2024, Key Techniques for Smooth Inshot Pivots</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ultimate-frames-per-second-for-slow-clips/"><u>[Updated] In 2024, Ultimate Frames Per Second for Slow Clips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-radio-dramas-peak-of-creative-scripting/"><u>[Updated] Radio Dramas  Peak of Creative Scripting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-optimal-video-playback-by-tuning-speed-in-snapchat/"><u>[Updated] Unlock Optimal Video Playback by Tuning Speed in Snapchat</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-wallet-friendly-high-definition-equipment/"><u>[Updated] Wallet-Friendly High-Definition Equipment</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-elevating-visuals-the-shift-from-sdr-to-hdr-in-editing/"><u>2024 Approved  Elevating Visuals  The Shift From SDR to HDR in Editing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-giggle-genesis-app/"><u>2024 Approved  Giggle Genesis App</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-techniques-for-downloading-vimeo-media-as-mp3/"><u>2024 Approved  Techniques for Downloading Vimeo Media as MP3</u></a></li>
+<li><a href="https://games-able.techidaily.com/compact-computing-mini-pc-versus-full-sized-desktops/"><u>Compact Computing: Mini PC Versus Full-Sized Desktops</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-iphone-15-pro-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From iPhone 15 Pro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-elevating-images-a-professionals-palette-playbook/"><u>In 2024, Elevating Images  A Professional's Palette Playbook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-mastering-adobe-cloud-essential-storage-insights-and-top-alternatives/"><u>In 2024, Mastering Adobe Cloud  Essential Storage Insights & Top Alternatives</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-poptoons-pro-analysis-and-guide-2s24/"><u>In 2024, PopToons Pro Analysis and Guide 2S24</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-premier-knowledge-trivia-video-channels/"><u>In 2024, Premier Knowledge Trivia Video Channels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superior-battery-packs-and-charger-systems-for-hero5/"><u>In 2024, Superior Battery Packs and Charger Systems for Hero5</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-ultimate-guide-for-streamlining-iphone-video-content/"><u>In 2024, The Ultimate Guide for Streamlining iPhone Video Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-tier-affordable-photo-enhancement-software-online/"><u>In 2024, Top-Tier Affordable Photo Enhancement Software Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-picture-selections-captivating-live-viewing/"><u>Prime Picture Selections  Captivating Live Viewing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/proven-strategies-to-record-clear-audio-without-a-mic-for-2024/"><u>Proven Strategies to Record Clear Audio Without a Mic for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/summit-series-of-ultimate-4k-touch-screens/"><u>Summit Series of Ultimate 4K Touch Screens</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/turbocharge-your-photos-windows-11-edition/"><u>Turbocharge Your Photos  Windows 11 Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlock-kinemasters-secrets-to-smooth-transitions/"><u>Unlock Kinemaster's Secrets to Smooth Transitions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/yis-high-res-action-recorder-a-deep-dive-review-for-2024/"><u>YI's High-Res Action Recorder  A Deep Dive Review for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ditching the Undesired Backdrop  The Path Less Cluttered\""
-date: 2024-06-06T03:35:54.218Z
-updated: 2024-06-07T03:35:54.218Z
+date: 2024-07-30T17:47:12.442Z
+updated: 2024-07-31T17:47:12.442Z
 tags: 
   - screen-recording
   - ai video
@@ -24,12 +24,19 @@ Removing the background from a picture can be tedious and time-consuming, especi
 
 So, if you're ready to find out how to **remove the image's background with Photopea**, then let's get started!
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Use Photopea To Remove The Image's Background
 
 Photopea offers three options for removing the images' background, i.e., Magic Wand Tool, Magic Cut, and manual selection.  
 Magic Wand tool is responsible for instantly removing the background of an image with solid colors. In comparison, the Magic Cut tool lets you erase complicated backgrounds.  
 However, if the image is detailed, you have to select the object and remove the background manually. Below we've provided step-by-step guides to show you how you can use the Magic Wand and Magic Cut tools:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### 1\. How To Use The Magic Wand Tool To Remove The Image's Background
 
 Here's how to use the Magic Wand tool to **remove the image's background with Photopea**:
@@ -38,6 +45,9 @@ Step1 In the first step, launch a browser on your PC and visit the [Photopea](ht
 
 Step2 In the next step, click the **"Magic Wand"** tool from the left-side panel and click the background of your image to select it.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![selecting the magic wand tool in photopea](https://images.wondershare.com/filmora/article-images/2023/03/selecting-the-magic-wand-tool-in-photopea.png)
 
 Step3 Now, simply press the **"Delete"** button on your keyboard to remove the background. However, if the tool did not select some parts of the image's background, you need to adjust the settings. Click the **"Ctrl+Z"** key to undo the selection.
@@ -46,6 +56,9 @@ Step3 Now, simply press the **"Delete"** button on your keyboard to remove the b
 
 Step4 Next, find the **"Tolerance"** option in the top toolbar and increase its value until you get the appropriate number.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![adjusting the magic wand settings](https://images.wondershare.com/filmora/article-images/2023/03/adjusting-the-magic-wand-settings.png)
 
 Step5 Alternatively, you can reduce the value to deselect the parts of your image. Once you change the value, click on the background and press the **"Delete"** button to remove it.
@@ -76,12 +89,18 @@ Step1 Visit the Photopea website and import your image. Right-click the **"Recta
 
 Step2 Now, choose the selection tool you need from the drop-down menu. For this tutorial, we've used the **"Magnetic Lasso Selection"** option.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![manually removing the image background in photopea](https://images.wondershare.com/filmora/article-images/2023/03/manually-removing-the-image-background-in-photopea.png)
 
 Step3 In the next step, select your object as precisely as possible. Now, right-click on your selection, and click **"Inverse"** from the drop-down menu.
 
 Step4 Finally, hit the **"Delete"** button to remove the background.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## A Bonus Tip: How To Add The New Background After Removing The Image's Background
 
 Now that you've removed the BG from your images, you might want to add a new one. Luckily, Photopea can help you with this.
@@ -90,6 +109,9 @@ To add a new background after removing the image's background, do the following 
 
 Step1 Click the **"File"** option from the top menu and select **"Open & Place..."**
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![adding new background to image in photopea](https://images.wondershare.com/filmora/article-images/2023/03/adding-new-background-to-image-in-photopea.png)
 
 Step2 Choose the new background image from your system and click **"Open"** to import it to **"Photopea."**
@@ -124,10 +146,16 @@ PixCut gives you the option to change the removed background to something more u
 
 Once you've erased the background from your objects in PixCut, you can also add shadows by clicking on the **"Add Shadow"** option and checking the **"Shadow"** box. Then, set the Margin, Blur, Opacity, and Angle to your liking!
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Watermark Remover
 
 PixCut also removes watermarks from your pictures, allowing you to bypass copyright restrictions and use images for commercial purposes.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare pixcut](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut.png)
 
 ## You May Be Interested In: How To Get Free Images
@@ -138,6 +166,9 @@ Hopefully, you've found this guide helpful and can now make changes to your imag
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this detailed guide, we've explored **how to remove an image's background with Photopea** using the Magic Wand and Magic Cut tools or by manual selection. We've also explained how you can add a new background to your image file after removing the old one.
@@ -148,6 +179,9 @@ Additionally, we recommended using Wondershare PixCut as the best alternative to
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this detailed guide, we've explored **how to remove an image's background with Photopea** using the Magic Wand and Magic Cut tools or by manual selection. We've also explained how you can add a new background to your image file after removing the old one.
@@ -177,3 +211,41 @@ Additionally, we recommended using Wondershare PixCut as the best alternative to
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-generate-10-official-travel-ready-passport-images-no-money-down/"><u>[New] 2024 Approved  Generate 10 Official Travel-Ready Passport Images, No Money Down</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-best-subtitle-converters-reviewed-the-top-8-win-osx-sbt-to-srts-software-for-2024/"><u>[New] Best Subtitle Converters Reviewed  The Top 8 Win-OSX SBT to SRTS Software for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-complete-overview-what-is-google-podcast-app/"><u>[New] Complete Overview  What Is Google Podcast App?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-embrace-the-brilliance-stream-create-and-revel-in-pcs-hd-video-splendor/"><u>[New] Embrace the Brilliance  Stream, Create, and Revel in PC's HD Video Splendor</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-enjoy-9-complete-uncut-holiday-cine-classics-for-no-cost/"><u>[New] Enjoy 9 Complete, Uncut Holiday Cine Classics for No Cost!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-curving-images-without-complication-a-guide/"><u>[New] In 2024, Curving Images without Complication  A Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-frame-by-frame-helpdesk/"><u>[New] In 2024, Frame by Frame Helpdesk</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-in-depth-review-of-budget-friendly-clouds/"><u>[New] In 2024, In-Depth Review of Budget-Friendly Clouds</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-the-art-of-youtube-intros-tips-and-tricks/"><u>[New] Mastering the Art of YouTube Intros (Tips & Tricks)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-start-screen-special-free-editing-tools-for-2024/"><u>[New] Start Screen Special  Free Editing Tools for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-through-a-photographers-eye-our-best-10-lenses-list/"><u>[New] Through a Photographer's Eye  Our Best 10 Lenses List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-breaking-barriers-joining-games-via-xbox-zoom/"><u>[Updated] 2024 Approved  Breaking Barriers  Joining Games via Xbox Zoom</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-discovering-chromebooks-best-digital-art-stations-for-2024/"><u>[Updated] Discovering Chromebook's Best Digital Art Stations for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-epic-gaming-recorded-an-analysis-for-2024/"><u>[Updated] Epic Gaming Recorded  An Analysis for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-humor-haven-the-ultimate-list-of-event-specific-jokes/"><u>[Updated] Humor Haven  The Ultimate List of Event-Specific Jokes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-convert-youtube-videos-to-gifs/"><u>[Updated] In 2024, How to Convert YouTube Videos to GIFs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-revolutionize-tech-connectivity-top-free-speech-conversion-tools-for-macos/"><u>[Updated] In 2024, Revolutionize Tech Connectivity  Top Free Speech Conversion Tools for MacOS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-proven-methods-for-captivating-title-creation/"><u>[Updated] Proven Methods for Captivating Title Creation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-audiovisual-harmony-incorporating-audio-into-powerpoint-presentations/"><u>2024 Approved  Audiovisual Harmony  Incorporating Audio Into PowerPoint Presentations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-highlighted-20-anime-melodies-at-start/"><u>2024 Approved  Highlighted 20 Anime Melodies at Start</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elevate-note-taking-experience-mematic/"><u>Elevate Note-Taking - Experience Mematic</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-blurred-to-clean-picsarts-background-elimination/"><u>From Blurred to Clean  Picsart's Background Elimination</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/i-cento-e-piu-numero-italiani-esplorati/"><u>I Cento E Più Numero Italiani Esplorati</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-oppo-a1-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Oppo A1 5G? Try These Fixes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-mastering-cartoon-selfies-snapchats-fun-lens-guide/"><u>In 2024, Mastering Cartoon Selfies  Snapchat's Fun Lens Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-revolutionaries-building-virtual-realms/"><u>In 2024, Revolutionaries Building Virtual Realms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/pushing-boundaries-in-film-the-ultimate-guide-to-producing-slow-motion-videos-with-photos-and-internet/"><u>Pushing Boundaries in Film  The Ultimate Guide to Producing Slow-Motion Videos with Photos & Internet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/taking-your-photos-and-videos-to-new-heights/"><u>Taking Your Photos and Videos to New Heights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-10-best-blurred-background-tools/"><u>The 10 Best Blurred Background Tools</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-xiaomi-redmi-note-13-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Xiaomi Redmi Note 13 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-recommended-asmrists-for-nighttime-calmness-for-2024/"><u>Top Recommended ASMRists for Nighttime Calmness for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/tripod-triumphs-unbeatable-stability-for-phones-for-2024/"><u>Tripod Triumphs  Unbeatable Stability for Phones for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlock-image-potential-with-editors-essentials-for-2024/"><u>Unlock Image Potential with Editor's Essentials for 2024</u></a></li>
+</ul></div>

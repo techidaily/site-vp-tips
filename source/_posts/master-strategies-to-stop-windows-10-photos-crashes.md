@@ -1,7 +1,7 @@
 ---
 title: "Master Strategies to Stop Windows 10 Photos Crashes"
-date: 2024-06-06T05:29:03.670Z
-updated: 2024-06-07T05:29:03.670Z
+date: 2024-07-30T20:13:07.753Z
+updated: 2024-07-31T20:13:07.753Z
 tags: 
   - screen-recording
   - ai video
@@ -20,12 +20,18 @@ thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83d
 
 # How to Solve Windows 10 Photos App Crashes Effectively \[2024\]
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Photos represent the vibrant memories that we have so fondly spent with our loved ones or capture our achievements and milestones in life. Revisiting them later brings everything alive in front of you. But, when the Windows 10 Photos App crashes, how could you enjoy your beautiful photos? We know fixing the issue is not an easy job. But we have got you covered. If, in any case that, you undergo such crashing issues with Windows 10 Photos App, we are here to lead you through.
@@ -40,8 +46,14 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 
 **You may also like:** [How to Solve Windows 10 Photos App Crashes Effectively >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to fix Windows 10 Photos app crashes
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ### Solution 1: Use the Troubleshooter
 
 The Windows Troubleshooter is an inbuilt troubleshooting feature embedded with Windows 10 computers. It allows a simple interface to help you choose any application for troubleshooting. Windows Troubleshooter resolves basic issues with the Windows computer so that users can seamlessly use all Windows 10 system features and functionalities.
@@ -79,6 +91,9 @@ Here is how can you reset it –
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### Solution 4: Repair Photos App package
 
 A corrupted Photos App package might wreak havoc in your photo viewing, as the app doesn’t buzz follow your commands. The least you can do here is repair the package to fix minor glitches within and get it going.
@@ -107,6 +122,10 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -133,3 +152,54 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-digital-migration-made-simple-top-5-file-transfer-routes-for-computers/"><u>[New] 2024 Approved  Digital Migration Made Simple  Top 5 File Transfer Routes for Computers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-efficient-management-and-use-of-b-roll-footage/"><u>[New] 2024 Approved  Efficient Management and Use of B-Roll Footage</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-enhanced-audio-guide-engaging-interview-topics/"><u>[New] 2024 Approved  Enhanced Audio Guide  Engaging Interview Topics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-free-unique-audio-selections-for-video-conclusions/"><u>[New] 2024 Approved  Free, Unique Audio Selections for Video Conclusions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-formula-for-booming-subscriber-counts-in-youtubers-world/"><u>[New] 2024 Approved  The Formula for Booming Subscriber Counts in Youtubers' World</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-roadmap-to-powerful-instagram-partnerships-and-campaigns/"><u>[New] 2024 Approved  The Roadmap to Powerful Instagram Partnerships & Campaigns</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-virtualitys-verse-inspirational-reflections-in-arvr-space/"><u>[New] 2024 Approved  Virtuality's Verse  Inspirational Reflections in AR/VR Space</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-a-guide-to-crafting-impactful-handp-ads-on-facebook/"><u>[New] A Guide to Crafting Impactful H&P Ads on Facebook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-cognitive-conclave-selective-general-knowledge-channels-for-2024/"><u>[New] Cognitive Conclave  Selective General Knowledge Channels for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-essential-steps-for-viewing-favorited-and-liked-youtube-interactions-for-2024/"><u>[New] Essential Steps for Viewing Favorited and Liked YouTube Interactions for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-diving-deep-into-quantum-hdr-basics/"><u>[New] In 2024, Diving Deep Into Quantum HDR Basics</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-enhancing-engagement-on-igtv-with-well-oriented-videos/"><u>[New] In 2024, Enhancing Engagement on IGTV with Well-Oriented Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-monitoring-lost-instagram-connections/"><u>[New] In 2024, Monitoring Lost Instagram Connections</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-elite-set-selecting-the-best-gaming-streamers-webcams/"><u>[New] In 2024, The Elite Set  Selecting the Best Gaming Streamers Webcams</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pocket-sized-picture-playwriting/"><u>[New] Pocket-Sized Picture Playwriting</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-visual-gastronomy-a-chefs-guide-to-film-production-for-2024/"><u>[New] Visual Gastronomy  A Chef's Guide to Film Production for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-10plus-sites-accessible-free-visuals-for-everyone/"><u>[Updated] 10+ Sites  Accessible, Free Visuals for Everyone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-embrace-metaverse-laughter-your-pathway-to-memetic-fame/"><u>[Updated] 2024 Approved  Embrace Metaverse Laughter - Your Pathway to Memetic Fame</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-how-to-invert-colors-in-digital-photos/"><u>[Updated] 2024 Approved  How to Invert Colors in Digital Photos?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-navigating-facebooks-terms-of-service-for-media-sharing/"><u>[Updated] 2024 Approved  Navigating Facebook's Terms of Service for Media Sharing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unleash-creativity-10-top-rated-free-mac-art-software/"><u>[Updated] 2024 Approved  Unleash Creativity  10 Top-Rated, FREE Mac Art Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-best-sources-for-pixel-ringtone-downloads-for-2024/"><u>[Updated] Best Sources for Pixel Ringtone Downloads for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-android-mobas-the-ultimate-list/"><u>[Updated] Essential Android MOBAs  The Ultimate List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-uncover-the-10-most-trusted-wedding-timer-apps-androidios-of-2023/"><u>[Updated] In 2024, Uncover the 10 Most Trusted Wedding Timer Apps (Android/iOS) of 2023</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leading-edge-16-youtube-intros-that-skyrocket-views/"><u>[Updated] Leading Edge  16 YouTube Intros That Skyrocket Views</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-becoming-a-pro-in-lut-creation/"><u>2024 Approved  Becoming a Pro in LUT Creation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-jump-start-your-journey-to-quality-video-edits-in-windows-10/"><u>2024 Approved  Jump-Start Your Journey to Quality Video Edits in Windows 10</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-instagram-verification-boost-your-following-with-these-6-secrets/"><u>2024 Approved  Mastering Instagram Verification  Boost Your Following with These 6 Secrets</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-quick-fire-photos-with-iphone-burst-feature/"><u>2024 Approved  Quick-Fire Photos with iPhone Burst Feature</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-premier-source-of-no-cost-creative-tools-in-ae/"><u>2024 Approved  The Premier Source of No-Cost Creative Tools in AE</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-live-excellence-a-comprehensive-tutorial/"><u>2024 Approved  YouTube Live Excellence  A Comprehensive Tutorial</u></a></li>
+<li><a href="https://video-capture.techidaily.com/battle-for-bushido-next-level-titles-echoing-tsushis-spirit-for-2024/"><u>Battle for Bushido  Next-Level Titles Echoing Tsushi's Spirit for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/connect-effortlessly-with-our-straightforward-adb-driver/"><u>Connect Effortlessly with Our Straightforward ADB Driver</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratis-global-photo-perfection-suite/"><u>Gratis Global Photo Perfection Suite</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/guide-to-generating-speech-in-different-languages-with-the-best-tools/"><u>Guide to Generating Speech in Different Languages With the Best Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/harmonizing-sights-with-itunes-acoustics/"><u>Harmonizing Sights with iTunes Acoustics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/illusory-journeys-through-time-and-dimensions/"><u>Illusory Journeys Through Time and Dimensions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-dive-deep-into-windows-11-the-ultimate-guide-to-video-cutting/"><u>In 2024, Dive Deep Into Window's 11  The Ultimate Guide to Video Cutting</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-x6frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco X6FRP Lock</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-multiplatform-iptv-live-streaming/"><u>In 2024, Multiplatform IPTV Live Streaming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-secrets-to-stunning-fisheye-sphere-photography/"><u>In 2024, Secrets to Stunning Fisheye Sphere Photography</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-perfect-blur-techniques-for-smoother-photo-edits/"><u>In 2024, The Perfect Blur  Techniques for Smoother Photo Edits</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/master-the-art-of-sound-alteration-on-sony-games-for-2024/"><u>Master the Art of Sound Alteration on Sony Games for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-best-song-identifiers-online-you-can-find/"><u>New 2024 Approved Best Song Identifiers Online You Can Find</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/silent-sounds-elegant-dimming-in-garageband-projects-for-2024/"><u>Silent Sounds  Elegant Dimming in Garageband Projects for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-undercover-upscalers-guide-to-clear-visuals/"><u>The Undercover Upscaler's Guide to Clear Visuals</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unraveling-the-mystery-of-vr-gear-selection-wireless-elegance-versus-cable-convenience-for-2024/"><u>Unraveling the Mystery of VR Gear Selection  Wireless Elegance versus Cable Convenience for 2024</u></a></li>
+</ul></div>

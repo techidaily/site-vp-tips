@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Phantasm Captures  Action Tech Diary\""
-date: 2024-06-06T04:51:29.982Z
-updated: 2024-06-07T04:51:29.982Z
+date: 2024-07-30T19:24:50.578Z
+updated: 2024-07-31T19:24:50.578Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 
 # Drift Innocations Ghost-S Action Camera Review
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -30,10 +33,16 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 
  Ghost S follows the same design as that of HD Ghost and its bullet shaped model assists athletes in easy scene recording. The overall weight of this device is 5.9 ounces so it can be easily paired with goggles or strapped over helmet. The 2 inch LCD screen is protected with Gorilla Glass protection and the wide angle lens can cover views up to 160 degree. You will have plenty of mounting options with Drift Ghost-S device and it always stays safe with quick connect clip. Further, this device can be easily controlled from Wi-Fi remote and the outstanding combination of audio and video make it significantly stunning and fragile camera.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![drift-ghost-s-image](https://images.wondershare.com/filmora/article-images/drift-innocations-ghost-s-1.jpg)
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00GJRCPRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00GJRCPRO&linkId=02d9f7ab2afeae8b2f0e96dcd1f5f44b)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Complete Review for Drift Ghost-S
 
 #### **Specs table:**
@@ -107,8 +116,14 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 
  What’s more, it has all the features you will need to make you feel like a pro. Simple editing functionalities like trimming, cropping, merging, adjusting speed, fast or slow motion, mosaic etc. will meet most of your demands. Besides all that, advanced features like split screen, green screen, filters&overlay effects, together with hundreds of licensed music, motion elements, transiton effects etc will definitely turn your video into something extraordinary with the least amount of effort. Check to video below to get an overview of this gorgeous video editing program:
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -135,3 +150,43 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-from-beginner-to-expert-with-a-complete-fcp-guidebook/"><u>[New] 2024 Approved  From Beginner to Expert with a Complete FCP Guidebook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-what-is-virtual-reality-video/"><u>[New] 2024 Approved  What Is Virtual Reality Video?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-best-practices-for-youtube-to-mpeg-format-switching-for-2024/"><u>[New] Best Practices for YouTube to MPEG Format Switching for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-elite-15-high-definition-action-recorders-for-2024/"><u>[New] Elite 15 High-Definition Action Recorders for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-simplify-a-surplus-of-saves-mastering-edits-for-less-clutter/"><u>[New] Simplify a Surplus of Saves  Mastering Edits for Less Clutter</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-transforming-gifs-to-stickers-comprehensive-instruction-for-messaging-apps-for-2024/"><u>[New] Transforming GIFs to Stickers  Comprehensive Instruction for Messaging Apps for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unleashing-comedy-in-the-virtual-realm-making-hits-with-metaverse-memes/"><u>[New] Unleashing Comedy in the Virtual Realm - Making Hits with Metaverse Memes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-best-value-budget-friendly-pros-for-high-impact-sports/"><u>[Updated] 2024 Approved  Best Value  Budget-Friendly Pros for High-Impact Sports</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-earning-streaming-strategies-8-beginners-tips/"><u>[Updated] 2024 Approved  Earning Streaming Strategies - 8 Beginners' Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-complete-process-for-crafting-your-own-ringtone-from-tiktok-music/"><u>[Updated] 2024 Approved  The Complete Process for Crafting Your Own Ringtone From TikTok Music</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-beat-infused-imagery-mobile-video-making-on-iphone-for-2024/"><u>[Updated] Beat-Infused Imagery  Mobile Video Making on iPhone for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-color-profiles-explained-srgb-versus-rgb/"><u>[Updated] Color Profiles Explained  Srgb Versus Rgb</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-critical-review-of-samsungs-digital-photography-advancements-for-2024/"><u>[Updated] Critical Review of Samsung's Digital Photography Advancements for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-from-concept-to-creation-top-10-podcast-design-principles-for-2024/"><u>[Updated] From Concept to Creation  Top 10 Podcast Design Principles for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-gag-galore-a-treasury-of-no-cost-memes-for-2024/"><u>[Updated] Gag Galore  A Treasury of No-Cost Memes for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-to-view-old-stories-on-facebook-in-2024/"><u>[Updated] How to View Old Stories on Facebook, In 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-realize-your-vision-a-comprehensible-list-of-3d-animation-software/"><u>[Updated] In 2024, Realize Your Vision  A Comprehensible List of 3D Animation Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-inexpensive-high-quality-cameras/"><u>[Updated] Inexpensive High-Quality Cameras</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-precision-recording-of-skype-calls-via-obs-network-for-2024/"><u>[Updated] Precision Recording of Skype Calls via OBS Network for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-the-shadows-a-systematic-guide-to-hidden-youtube-content/"><u>[Updated] Unveiling the Shadows  A Systematic Guide to Hidden YouTube Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-microsofts-innovation-on-display-the-hololens-revolution/"><u>2024 Approved  Microsoft's Innovation on Display – The HoloLens Revolution</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-how-to-run-windows-and-mac-os-video-editing-apps-on-your-chromebook/"><u>2024 Approved How to Run Windows and Mac OS Video Editing Apps on Your Chromebook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/achieving-cost-free-online-educational-streaming/"><u>Achieving Cost-Free Online Educational Streaming</u></a></li>
+<li><a href="https://win11.techidaily.com/avoidance-of-protected-windowsapps-folder-boundary/"><u>Avoidance of Protected WindowsApps Folder Boundary</u></a></li>
+<li><a href="https://games-able.techidaily.com/free-fc-champions-guide-old-championship-manager-for-pc/"><u>Free FC Champions Guide: Old Championship Manager for PC</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reactivate-windows-login-after-failures/"><u>How to Reactivate Windows Login After Failures</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone XS Max</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/no-sweat-strategies-for-skipping-edgenuity-video-content/"><u>No-Sweat Strategies for Skipping Edgenuity Video Content</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/opening-and-managing-srt-files-seamlessly/"><u>Opening and Managing SRT Files Seamlessly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimize-pc-gaming-experience-for-roblox/"><u>Optimize PC Gaming Experience for Roblox</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-microsoft-teams-instability-on-ws11ws10-devices/"><u>Preventing Microsoft Teams Instability on WS11/WS10 Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-platform-prowess-twitch-vs-youtube-comparison-for-2024/"><u>The Platform Prowess  Twitch vs YouTube Comparison for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-oppo-a18-by-drfone-android/"><u>Universal Unlock Pattern for Oppo A18</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unveiling-high-definition-with-lgs-31mu97-b-digital-cinema-screen/"><u>Unveiling High Definition with LG's 31MU97-B Digital Cinema Screen</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-10-robotic-voice-generators-with-comparison-table/"><u>Updated In 2024, Top 10 Robotic Voice Generators (with Comparison Table)</u></a></li>
+</ul></div>

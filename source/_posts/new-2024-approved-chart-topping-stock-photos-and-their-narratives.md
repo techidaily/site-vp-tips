@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Chart-Topping Stock Photos and Their Narratives\""
-date: 2024-06-06T03:56:50.241Z
-updated: 2024-06-07T03:56:50.241Z
+date: 2024-07-30T18:14:12.026Z
+updated: 2024-07-31T18:14:12.026Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,9 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 * It also features on stock image sites such as Imgur, where user “someshitbag” has a gallery post titled Hide-the-pain-Harold. In addition, the page received over 880 thousand views during the first three weeks. Furthermore, it won Imgur's meme of the decade title in 2020 by receiving 10,954 votes (about 20%) of the 54,768 votes cast by Imgurians.
 * The meme appears on social media platforms such as Facebook, 4Chan, and Reddit. For example, a Facebook page titled Maurice has had over 10,000 likes since its creation in January 2014.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![meme appears on social media](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-2.jpg)
 
 * A text-to-speech YouTube video on the meme has over 492,000 views since going live in September 2015.
@@ -43,10 +46,16 @@ According to Andras, Hide the Pain Harold results from his vacation in Turkey. A
 
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part2: Distracted Boyfriend
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![distracted boyfriend](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-4.jpg)
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
@@ -64,10 +73,21 @@ Since then, the meme continues to enjoy mass popularity, including:
 
 The latest version of Distracted boyfriend is a compilation of photos featuring the three models, with the last one showing the women hanging out.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## Part3: I Bet He's Thinking About Other Women
 
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
@@ -90,12 +110,18 @@ The post references the Toy Story character Buzz Lightyear, with the man contemp
 
 According to sources, the stock photo meme was first featured on Twitter in December 2016.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
 ## Part4: Bonjour Bear
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
 
 Unlike the previous stock image memes, Bonjour Bear was not an instant hit among netizens. The stock image was posted online in 2016 by Uryadnikov Sergey and featured a polar bear peeking through its winter den. However, it began causing a buzz in early 2019, following a Reddit post that included hilarious captions.
@@ -104,6 +130,9 @@ Since then, internet users have continued to use the Bonjour Bear meme to refere
 
 * In this version, Bonjour Bear reacts to the discovery of a wound after using hand sanitizer. The post became popular during the COVID-19 pandemic when using hand sanitizer was at its peak.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![using hand sanitizer](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-12.jpg)
 
 In addition, the post received over 91,700 points, with 95% of upvotes, within a day on Reddit.
@@ -113,6 +142,9 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part5: FAQs
 
 ### 1\. Can you use stock photos for memes?
@@ -125,6 +157,9 @@ This is because not all stock photo providers offer their images with a creative
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Can you use watermarked stock photos to create memes?
 
 No. Before using watermarked images to create memes, you must get verifiable permission from the rights holder. This is because it violates copyright law and can result in heavy fines or even prison time in extreme circumstances.
@@ -160,3 +195,54 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-groundwork-for-animate-infographic-creation/"><u>[New] Groundwork for Animate Infographic Creation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-captivating-movement-a-guide-to-perfect-canon-timelapses/"><u>[New] In 2024, Captivating Movement  A Guide to Perfect Canon Timelapses</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-cutting-edge-zooid-formulation-tools/"><u>[New] In 2024, Cutting-Edge Zooid Formulation Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-discover-the-magic-of-high-dynamic-range-in-photography/"><u>[New] In 2024, Discover the Magic of High Dynamic Range in Photography</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-efficient-techniques-accelerating-or-decelerating-instagram-stories/"><u>[New] In 2024, Efficient Techniques  Accelerating or Decelerating Instagram Stories</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-photoshop-shake-reduction-is-it-really-useful/"><u>[New] In 2024, Photoshop Shake Reduction - Is It Really Useful?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-navigating-srt-extensions-on-operating-systems-for-2024/"><u>[New] Navigating SRT Extensions on Operating Systems for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-skyline-spectacle-top-10-websites-for-dynamic-hdr-images/"><u>[New] Skyline Spectacle  Top 10 Websites for Dynamic HDR Images</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-list-of-alternatives-to-the-popular-gopro/"><u>[New] The Ultimate List of Alternatives to the Popular GoPro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-competing-to-the-best-substitutes-for-samsungs-gear-360/"><u>[Updated] 2024 Approved  Competing to the Best  Substitutes for Samsung's Gear 360</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-exploring-t-series-youtube-profit-strategy/"><u>[Updated] 2024 Approved  Exploring T-Series YouTube Profit Strategy</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-master-the-craft-refining-title-and-description-in-igtv-videos/"><u>[Updated] 2024 Approved  Master the Craft  Refining Title & Description in IGTV Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-the-mark-crafting-unique-podcast-graphics/"><u>[Updated] 2024 Approved  Mastering the Mark  Crafting Unique Podcast Graphics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-alliance-formula-youtube-partnerships-with-brands/"><u>[Updated] 2024 Approved  The Alliance Formula  YouTube Partnerships with Brands</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-elevating-images-a-professionals-palette-playbook/"><u>[Updated] Elevating Images  A Professional's Palette Playbook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-financial-motives-in-consumer-video-evaluations/"><u>[Updated] Financial Motives in Consumer Video Evaluations?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-apple-podcasts-downloading-made-easy/"><u>[Updated] In 2024, Apple Podcasts Downloading Made Easy</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-becoming-a-color-connoisseur-top-techniques/"><u>[Updated] In 2024, Becoming a Color Connoisseur  Top Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-from-concept-to-completion-utilizing-luts-effectively-in-premiere-pro/"><u>[Updated] In 2024, From Concept to Completion  Utilizing LUTs Effectively in Premiere Pro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-mastering-iphone-creating-and-editing-low-speed-video-clips/"><u>[Updated] In 2024, Mastering iPhone  Creating & Editing Low-Speed Video Clips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-superior-tools-for-capturing-moments-with-harmony/"><u>[Updated] In 2024, Superior Tools for Capturing Moments with Harmony</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-virtual-reality-film-classics-you-cant-forget/"><u>[Updated] In 2024, Virtual Reality Film Classics You Can't Forget</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-streamlining-spotify-listening-with-secure-speed-techniques-for-2024/"><u>[Updated] Streamlining Spotify Listening with Secure Speed Techniques for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-text-mastery-cutting-edge-effects-guide-for-2024/"><u>[Updated] Text Mastery  Cutting-Edge Effects Guide for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-vmix-alternative-for-mac-and-windows-for-2024/"><u>[Updated] VMix Alternative for Mac and Windows for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-crystal-curtain-calls-olympic-showcase/"><u>2024 Approved  Crystal Curtain Calls  Olympic Showcase</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-maximizing-viewership-live-stream-optimization-techniques/"><u>2024 Approved  Maximizing Viewership  Live Stream Optimization Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-strategic-planning-aligning-research-with-business-objectives/"><u>2024 Approved  Strategic Planning  Aligning Research with Business Objectives</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-nokia-g42-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Nokia G42 5G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/battle-of-titans-thieye-t5-or-sjcam-s6-legend-for-2024/"><u>Battle of Titans  Thieye T5 or SJCAM S6 Legend for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elevating-your-drone-content-post-production-fundamentals/"><u>Elevating Your Drone Content  Post-Production Fundamentals</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/exploring-metaverse-versus-omniverse-landscapes-for-2024/"><u>Exploring Metaverse Versus Omniverse Landscapes for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-13-pro-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-make-a-photo-collage-on-maciphone-using-iphoto-in-2024/"><u>How to Make a Photo Collage on Mac/iPhone Using iPhoto, In 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-c51-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Realme C51 Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-deciding-between-ultrawide-and-uhd-4k-monitors/"><u>In 2024, Deciding Between UltraWide and UHD 4K Monitors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-immersive-journeys-youtubes-best-storytelling-of-23/"><u>In 2024, Immersive Journeys  YouTube’s Best Storytelling of '23</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-scale-up-snaps-no-loss-in-detail/"><u>In 2024, Scale Up Snaps - No Loss in Detail</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimal-use-of-zoom-features-on-chromebooks-for-2024/"><u>Optimal Use of Zoom Features on ChromeBooks for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/quick-fixes-eliminate-ssgnatures-in-a-blink/"><u>Quick Fixes  Eliminate Ssgnatures in a Blink</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-getting-past-windows-update-hitches/"><u>Quick Fixes: Getting Past Windows Update Hitches</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-your-account-transitioning-from-pin-to-password-in-windows-11/"><u>Secure Your Account: Transitioning From PIN to Password in Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/strategic-approaches-to-subtitle-embedding-on-facebook-reddit/"><u>Strategic Approaches to Subtitle Embedding on Facebook, Reddit</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-workflow-mastering-window-commands-and-shortcuts/"><u>Streamline Your Workflow: Mastering Window Commands & Shortcuts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-editors-insight-to-seamless-lut-integration-in-premiere-for-2024/"><u>The Editor's Insight to Seamless LUT Integration in Premiere for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-tier-drones-for-sale-today-for-2024/"><u>Top-Tier Drones for Sale Today for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-poco-m6-pro-4g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Poco M6 Pro 4G? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>

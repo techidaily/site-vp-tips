@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Video Size & Seconds  Deciphering 20MB Duration\""
-date: 2024-06-06T05:30:12.961Z
-updated: 2024-06-07T05:30:12.961Z
+date: 2024-07-30T20:14:35.858Z
+updated: 2024-07-31T20:14:35.858Z
 tags: 
   - screen-recording
   - ai video
@@ -72,6 +72,10 @@ Filmora can be used to change the bitrate of video files. It has a user-friendly
 
 * **Import Video -Bring the video files in.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-1.jpg)
 
 Run Video Editor after installing it. Then, on your computer, click the "Import" button to locate the file you want to change the bitrate on, and then "Open." Drag and drop files into Video Editor from the Windows Explorer window
@@ -86,6 +90,9 @@ Then, on the Video or Audio timeline, drag and drop your video or audio file. Se
 
 * **Change the video or audio file's bitrate.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-3.jpg)
 
 After that, select SETTINGS. You can modify audio settings like encoder, sample rate, channel, and bitrate, as well as video parameters like encoder, frame rate, resolution, and bitrate, in the new window that appears. Simply select the needed value from the bitrate list to change the bitrate.
@@ -110,6 +117,9 @@ ActivePresenter is a watermark-free screen recorder and video editor. Screencast
 
 * Openshot ( Supports Windows, Mac )
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-6.jpg)
 
 OpenShot is a free and versatile video editing and creation program. You may use the software to create professional-looking movies out of your photos, videos, and music files. Subtitles, special effects, and transitions can all be readily added. The videos that are made can be exported to DVD, Xbox 360, Vimeo, YouTube, and a variety of other formats.
@@ -182,6 +192,9 @@ ActivePresenter is a watermark-free screen recorder and video editor. Screencast
 
 * Openshot ( Supports Windows, Mac )
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-6.jpg)
 
 OpenShot is a free and versatile video editing and creation program. You may use the software to create professional-looking movies out of your photos, videos, and music files. Subtitles, special effects, and transitions can all be readily added. The videos that are made can be exported to DVD, Xbox 360, Vimeo, YouTube, and a variety of other formats.
@@ -230,6 +243,9 @@ Then, on the Video or Audio timeline, drag and drop your video or audio file. Se
 
 * **Change the video or audio file's bitrate.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-3.jpg)
 
 After that, select SETTINGS. You can modify audio settings like encoder, sample rate, channel, and bitrate, as well as video parameters like encoder, frame rate, resolution, and bitrate, in the new window that appears. Simply select the needed value from the bitrate list to change the bitrate.
@@ -248,6 +264,9 @@ This user-friendly app uses artificial intelligence (AI) to organize your footag
 
 * ActivePresenter ( Supports Windows, Mac )
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-5.jpg)
 
 ActivePresenter is a watermark-free screen recorder and video editor. Screencast movies, manuals, presentations, documentation, and interactive training demonstrations are all possible with it. The software's full-featured editor allows you to edit audio and video, change the look and feel of content, and choose branched situations simply and effectively. Because ActivePresenter supports HTML5 and can interact with Learning Management Systems, the content developed with it may be sent to any device and platform.
@@ -288,6 +307,9 @@ How many video minutes are there per gigabyte? One GB of digital storage may hol
 
 How many minutes of video is 100 megabytes of data used? A YouTube video that lasts 20 minutes uses about 100MB.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-1.jpg)
 
 Run Video Editor after installing it. Then, on your computer, click the "Import" button to locate the file you want to change the bitrate on, and then "Open." Drag and drop files into Video Editor from the Windows Explorer window
@@ -302,6 +324,9 @@ Then, on the Video or Audio timeline, drag and drop your video or audio file. Se
 
 * **Change the video or audio file's bitrate.**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-3.jpg)
 
 After that, select SETTINGS. You can modify audio settings like encoder, sample rate, channel, and bitrate, as well as video parameters like encoder, frame rate, resolution, and bitrate, in the new window that appears. Simply select the needed value from the bitrate list to change the bitrate.
@@ -312,6 +337,9 @@ Take note that Lowering the bitrate can help you compress your media files. The 
 
 * Magisto ( Supports IOS, Android, Online )
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-4.jpg)
 
 Magisto, which is owned by Vimeo, allows you to create amazing videos in three simple steps: You'll start by selecting your video editing style (the type of story you want to tell), then the photos and video clips you want to include, and finally, music from Magisto's built-in library.
@@ -320,12 +348,18 @@ This user-friendly app uses artificial intelligence (AI) to organize your footag
 
 * ActivePresenter ( Supports Windows, Mac )
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-5.jpg)
 
 ActivePresenter is a watermark-free screen recorder and video editor. Screencast movies, manuals, presentations, documentation, and interactive training demonstrations are all possible with it. The software's full-featured editor allows you to edit audio and video, change the look and feel of content, and choose branched situations simply and effectively. Because ActivePresenter supports HTML5 and can interact with Learning Management Systems, the content developed with it may be sent to any device and platform.
 
 * Openshot ( Supports Windows, Mac )
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-6.jpg)
 
 OpenShot is a free and versatile video editing and creation program. You may use the software to create professional-looking movies out of your photos, videos, and music files. Subtitles, special effects, and transitions can all be readily added. The videos that are made can be exported to DVD, Xbox 360, Vimeo, YouTube, and a variety of other formats.
@@ -383,3 +417,41 @@ How many minutes of video is 100 megabytes of data used? A YouTube video that la
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-nano-drone-showdown-the-best-of-the-year/"><u>[New] 2024 Approved  Nano Drone Showdown  The Best of the Year</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ace-the-art-of-altering-and-amplifying-vhs-photos-on-computers-for-2024/"><u>[New] Ace the Art of Altering and Amplifying VHS Photos on Computers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-crafted-perfection-transforming-pics-into-words-with-apps/"><u>[New] In 2024, Crafted Perfection  Transforming Pics Into Words with Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-masterclass-on-premiere-pro-fullscreen-mode-finesse/"><u>[New] In 2024, Masterclass on Premiere Pro  Fullscreen Mode Finesse</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-optimal-mac-animation-storer/"><u>[New] In 2024, Optimal Mac Animation Storer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-laughter-lab-virtually-for-2024/"><u>[New] Laughter Lab Virtually for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-supernatural-video-slowdown-handbook-for-2024/"><u>[New] Supernatural Video Slowdown Handbook for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-concealed-identities-quick-tips-for-face-obscuration-in-images/"><u>[Updated] 2024 Approved  Concealed Identities  Quick Tips for Face-Obscuration in Images</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-design-memes-in-adobe/"><u>[Updated] 2024 Approved  Design Memes in Adobe</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-echo-of-tamil-syncing-songs-as-mobile-notifications-for-2024/"><u>[Updated] Echo of Tamil  Syncing Songs as Mobile Notifications for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-fine-tune-viewing-the-ultimate-zoom-journey/"><u>[Updated] Fine-Tune Viewing  The Ultimate Zoom Journey</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-exceptional-book-trailer-selections/"><u>[Updated] In 2024, Exceptional Book Trailer Selections</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-how-high-fps-impacts-slow-motion-movie-quality/"><u>[Updated] In 2024, How High FPS Impacts Slow Motion Movie Quality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-premium-headsets-for-next-gen-drone-pilots-for-2024/"><u>[Updated] Premium Headsets for Next-Gen Drone Pilots for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-spectrums-impact-applying-color-dynamics/"><u>[Updated] The Spectrum's Impact  Applying Color Dynamics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-accelerating-livestreams-on-periscope-made-easy/"><u>2024 Approved  Accelerating Livestreams on Periscope Made Easy</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-day-after-evaluation-new-approaches/"><u>2024 Approved  Day After Evaluation  New Approaches</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-reinforcing-silence-in-obs-recordings/"><u>2024 Approved  Reinforcing Silence in OBS Recordings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-speeding-up-periscope-live-broadcasting-tips/"><u>2024 Approved  Speeding Up Periscope Live Broadcasting Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/5-ultimate-platforms-for-high-quality-text-embellishments/"><u>5 Ultimate Platforms for High-Quality Text Embellishments</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/attenuating-audio-gradually-in-fl-projects/"><u>Attenuating Audio Gradually in FL Projects</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/deep-dive-into-rank-tracker-software-optimize-your-channels-success-for-2024/"><u>Deep Dive Into Rank Tracker Software - Optimize Your Channel's Success for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-humble-beginnings-jake-paul-on-youtube-triumph-for-2024/"><u>From Humble Beginnings  Jake Paul on YouTube Triumph for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-motorola-moto-g84-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Motorola Moto G84 5G Face Lock?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/fundamental-steps-for-transforming-pins-into-audios-for-2024/"><u>Fundamental Steps for Transforming Pins Into Audios for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-11-pro-max-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 11 Pro Max</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-smart-8-hd-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c32-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C32 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-red-eye-vanquished-swiftly-enhance-your-iphone-images-without-spending/"><u>In 2024, Red Eye Vanquished  Swiftly Enhance Your iPhone Images Without Spending</u></a></li>
+<li><a href="https://fox-links.techidaily.com/innovative-recording-methods-windows-10-guide-for-2024/"><u>Innovative Recording Methods  Windows 10 Guide for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimized-video-transformation-on-macios-the-8-list/"><u>Optimized Video Transformation on Mac/iOS  The #8 List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/pricing-guide-to-film-a-bands-music-visual-for-2024/"><u>Pricing Guide to Film a Band's Music Visual for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-8-collaborative-video-collage-apps-for-android-users-freepaid-for-2024/"><u>Top 8 Collaborative Video Collage Apps for Android Users (Free/Paid) for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unleashing-potential-in-4k-with-top-gimbals-selection/"><u>Unleashing Potential in 4K with Top Gimbals Selection</u></a></li>
+</ul></div>

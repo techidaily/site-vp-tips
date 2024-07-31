@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Transformative Editing Experience  Windows Photos Meets Story Remix\""
-date: 2024-06-06T04:28:33.730Z
-updated: 2024-06-07T04:28:33.730Z
+date: 2024-07-30T18:55:11.426Z
+updated: 2024-07-31T18:55:11.426Z
 tags: 
   - screen-recording
   - ai video
@@ -49,8 +49,14 @@ Downloading Photos App will add Story Remix to your system for brilliant video e
 
 Go to **Start** menu and open **Windows Photos**. you can see videos and photos saved under the default **Pictures** folder organized by the Photos App. Tap on the ‘Create’ button on the top menu to discover **Story Remix**.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to create Story Remix automatically and randomly
 
 In this part of the article, we would elaborate creation of Story Remix in different ways. The content is auto-generated or you can manually create it from scratch. The automatic method has themes, transitions, and soundtracks within.
@@ -66,8 +72,14 @@ How to create a Story Remix project automatically –
    1. After the above process gets over, the content gets scanned to automatically create a video adding styles, transitions, and music. The final preview of the project is displayed thereafter.
    2. You can rearrange the content by tapping **Remix it for me** button.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-name-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: How to create a Story Remix project from scratch
 
 Here is the guide –
@@ -81,6 +93,9 @@ Here is the guide –
 1. Hit on **Create video** afterwards.
 2. Now, you can preview, edit or share your video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Part 4: How to edit a Story Remix video
 
 Story Remix has 3 major sections namely, media bin consists of files already included in your card-based timeline and files that you chose in previous steps; preview section with recent changes and timeline shows the card with a running video; and the timeline having the option to drag and drop cards from the media bin.
@@ -96,6 +111,9 @@ A theme is a built-in feature in Photos, just like music, filters, and text styl
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-theme-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Adding image duration
 
 While adding media to the timeline in Story Mix, you will see that there is a default timeline for each image. To adjust the duration, you can do –
@@ -104,19 +122,31 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-duration-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Adding custom text
 
 1. Choose card from timeline, click ‘Text’ and feed the custom text in the box located at right side. You can simply use animated text styles too.
 2. Use layout option and select location so that you can make the caption or title show up in a different place.
 3. Hit ‘Done’ after that.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-text-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Adding motion
 
 1. Firstly, choose the content from the timeline and hit on ‘Motion’. Now, select camera motion style from ‘Zoom in center’/’Zoom in right’/’Pan left’/’Tilt up’ etc.
 2. Preview the changes and click ‘Done’.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-motion-min.jpg)
 
 ### Trimming video clips
@@ -124,6 +154,9 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 1. Pick the video from timeline and choose ‘Trim’ button. Mark the trim area and click ‘Play’ to preview.
 2. Hit ‘Done’ in the end.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: How to add 3D effects to a Story Remix project
 
 Adding 3D special effects to video clips is one of the lucrative features of Photos app.
@@ -185,3 +218,47 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-elegant-toolset-top-5-for-syncing-imagery-with-music/"><u>[New] 2024 Approved  Elegant Toolset  Top 5 for Syncing Imagery with Music</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-how-to-sharpen-your-vision-in-the-world-of-roblox/"><u>[New] 2024 Approved  How to Sharpen Your Vision in the World of Roblox</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-leading-edge-tech-for-action-footage-capture/"><u>[New] 2024 Approved  Leading Edge Tech for Action Footage Capture</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-snorkel-ready-tech-the-finest-waterproof-camcorders-of-the-year/"><u>[New] 2024 Approved  Snorkel-Ready Tech  The Finest Waterproof Camcorders of the Year</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-drone-guide-for-beginners-facts-you-cant-afford-to-miss/"><u>[New] Drone Guide for Beginners  Facts You Can't Afford to Miss</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-enhancing-visuals-a-compreenas-guide-to-zoomed-snapshots-for-2024/"><u>[New] Enhancing Visuals  A Compreenas Guide to Zoomed Snapshots for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-advanced-techniques-with-obs-studio-for-android/"><u>[New] In 2024, Advanced Techniques with OBS Studio for Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-exquisite-makeup-moments-captured/"><u>[New] In 2024, Exquisite Makeup Moments Captured</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-complete-screencast-cheat-sheet-must-knows/"><u>[New] In 2024, The Complete Screencast Cheat Sheet  Must-Knows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-navigating-the-landscape-post-vlc-dominance-for-2024/"><u>[New] Navigating the Landscape Post-VLC Dominance for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-spark-interest-on-instagram-with-top-unboxing-video-techniques/"><u>[New] Spark Interest on Instagram with Top Unboxing Video Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-voice-of-action-crafting-moving-screenplay-conversations/"><u>[New] The Voice of Action  Crafting Moving Screenplay Conversations</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-discover-the-art-of-youtube-playlist-shuffling/"><u>[Updated] 2024 Approved  Discover the Art of YouTube Playlist Shuffling</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-expert-list-of-websites-for-text-styling-tools/"><u>[Updated] 2024 Approved  Expert List of Websites for Text Styling Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-clownfish-tones-a-straightforward-windows-method/"><u>[Updated] 2024 Approved  Mastering Clownfish Tones  A Straightforward Windows Method</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-comprehensive-step-by-step-srt-mp4-enhancement/"><u>[Updated] Comprehensive Step-by-Step SRT MP4 Enhancement</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-enhancing-canva-videos-with-custom-music-edits/"><u>[Updated] Enhancing Canva Videos with Custom Music Edits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-framefixer-feedback-complete-editor-analysis/"><u>[Updated] FrameFixer Feedback – Complete Editor Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-recapture-image-purity-with-these-premium-photo-editors-online/"><u>[Updated] Recapture Image Purity with These Premium Photo Editors Online</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-zte-axon-40-lite-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-pioneering-image-editing-with-toolwiz-a-compre-written-review/"><u>2024 Approved  Pioneering Image Editing with Toolwiz – A Compre Written Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-video-show-revamp-complete-analysis-and-guide/"><u>2024 Video Show Revamp - Complete Analysis & Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/as-vgs-the-voltage-between-the-gate-and-source-becomes-more-negative-the-channel-through-which-current-flows-from-the-drain-to-the-source-starts-to-constric20/"><u>As VGS (the Voltage Between the Gate and Source) Becomes More Negative, the Channel Through Which Current Flows From the Drain to the Source Starts to Constrict. This Is because a Negative VGS Repels Electrons in the Channel, Making It Narrower.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/core-concepts-in-digital-animation-for-2024/"><u>Core Concepts in Digital Animation for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-itel-s23plus-device-sim-by-drfone-android/"><u>Easily Unlock Your Itel S23+ Device SIM</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/heavy-hovering-heroes-drone-innovations-of-today-for-2024/"><u>Heavy Hovering Heroes  Drone Innovations of Today for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-itel-p55t-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Itel P55T?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-xiaomi-redmi-k70e-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Xiaomi Redmi K70E</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-choose-the-best-lipo-battery-for-your-drone/"><u>How to Choose the Best LiPo Battery for Your Drone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-xiaomi-13t-pro-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Xiaomi 13T Pro.</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-awaken-calm-top-copyright-free-legal-music-playlists/"><u>In 2024, Awaken Calm  Top Copyright-Free, Legal Music Playlists</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-samsung-galaxy-a15-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Samsung Galaxy A15 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-securing-sims-legacy-proven-strategies-for-documenting-virtual-escapades/"><u>In 2024, Securing Sims' Legacy  Proven Strategies for Documenting Virtual Escapades</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-tips-for-efficient-music-import-in-inshot-app/"><u>In 2024, Tips for Efficient Music Import in InShot App</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-unveiling-the-leading-online-stores-for-customized-gift-boxes/"><u>In 2024, Unveiling the Leading Online Stores for Customized Gift Boxes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-voice-alteration-techniques-for-enhanced-competitive-play-in-the-world-of-free-fire-gaming-for-2024/"><u>Mastering Voice Alteration Techniques for Enhanced Competitive Play in the World of Free Fire Gaming for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/pexels-101-finding-the-picture-of-your-dreams/"><u>Pexels 101  Finding the Picture of Your Dreams</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/uncover-the-essentials-of-blurring-faces-using-picscanner/"><u>Uncover the Essentials of Blurring Faces Using PicScanner</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/videoharvest-downloading-fb-content/"><u>VideoHarvest  Downloading Fb Content</u></a></li>
+</ul></div>

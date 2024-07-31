@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Techniques for Discovering Highly Engaged YouTube Remarks"
-date: 2024-06-06T02:19:18.882Z
-updated: 2024-06-07T02:19:18.882Z
+date: 2024-07-30T16:07:31.086Z
+updated: 2024-07-31T16:07:31.086Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ People nowadays can express their feelings and opinions online through social me
 
 People can watch, like, share, comment on, and upload videos using the YouTube service. You can access this video service on PCs, laptops, tablets, and mobile phones.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## What Are YouTube's Primary Purposes?
 
 * Users can look up and view videos.
@@ -31,6 +34,10 @@ People can watch, like, share, comment on, and upload videos using the YouTube s
 * Users can follow or subscribe to other YouTube channels.
 * To arrange videos and combine them together, make playlists.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Why Use YouTube?
 
 YouTube is the second-largest web browser after Google. Every minute, YouTube receives more than 100 hours of video. Whether you're disseminating information to students or marketing activities, it's among the most significant ways to reach a large audience. Some of the benefits of YouTube are listed below.
@@ -81,6 +88,10 @@ But, if you want to retrace the videos you commented on and the videos/comments 
 
 Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
 Step2 Scroll down a little bit and click the **More** button.
@@ -89,16 +100,25 @@ Step2 Scroll down a little bit and click the **More** button.
 
 Step3 Click the **Comments** section.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
 
 To see videos/comments you liked or disliked, please follow these steps as continuation:
 
 Step4 In the **Google My Activity** tab, click **Other activity**.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![other activity youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/other-activity-youtube-comments.jpg)
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
@@ -111,10 +131,16 @@ Now you will see the videos you liked or disliked and also the comments you like
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![likes comment received](https://images.wondershare.com/filmora/article-images/2022/11/likes-comment-received.jpg)
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -181,6 +207,9 @@ But, if you want to retrace the videos you commented on and the videos/comments 
 
 Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
 Step2 Scroll down a little bit and click the **More** button.
@@ -203,10 +232,16 @@ Step4 In the **Google My Activity** tab, click **Other activity**.
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![your comment likes and dislikes](https://images.wondershare.com/filmora/article-images/2022/11/your-comment-likes-and-dislikes.jpg)
 
 Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![date likes videos youtube](https://images.wondershare.com/filmora/article-images/2022/11/date-likes-videos-youtube.jpg)
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
@@ -215,6 +250,9 @@ This article tells you that you can't see who liked or disliked a comment, but y
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -284,3 +322,48 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-defeating-dissidence-a-guide-for-content-makers/"><u>[New] 2024 Approved  Defeating Dissidence  A Guide for Content Makers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-dispelling-dark-pixels-youtube-solution-guide-for-2024/"><u>[New] Dispelling Dark Pixels  YouTube Solution Guide for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-deconstructing-the-features-of-djis-quadcopter-model-3/"><u>[New] In 2024, Deconstructing the Features of DJI's Quadcopter Model 3</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-how-to-pick-a-perfect-virtual-reality-device-is-wireless-vision-or-connected-content-more-appealing/"><u>[New] In 2024, How to Pick a Perfect Virtual Reality Device  Is Wireless Vision or Connected Content More Appealing?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-retrace-footsteps-android-film-inversion/"><u>[New] In 2024, Retrace Footsteps  Android Film Inversion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-list-of-budget-friendly-editor-apps/"><u>[New] The Ultimate List of Budget-Friendly Editor Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-xsplit-archive-in-depth-game-splits/"><u>[New] XSplit Archive  In-Depth Game Splits</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-comprehensive-evaluation-the-leading-gopro-cases-1-10/"><u>[Updated] 2024 Approved  Comprehensive Evaluation  The Leading GoPro Cases #1-10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-economical-aerial-aviators-affordable-drones-guide-(500/"><u>[Updated] 2024 Approved  Economical Aerial Aviators  Affordable Drones Guide <$500</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-elite-mac-compatible-4k-screens-ranked-1/"><u>[Updated] 2024 Approved  Elite Mac-Compatible 4K Screens Ranked #1</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-essential-steps-to-create-engaging-tiktok-response-videos/"><u>[Updated] 2024 Approved  Essential Steps to Create Engaging TikTok Response Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unleash-your-livestream-potential-no-millions-of-followers-needed/"><u>[Updated] 2024 Approved  Unleash Your Livestream Potential  No Millions of Followers Needed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-5-must-have-mkv-tools-for-macos-for-2024/"><u>[Updated] 5 Must-Have MKV Tools for macOS for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-discovering-if-quick-youtube-subscriptions-really-work-for-2024/"><u>[Updated] Discovering if Quick YouTube Subscriptions Really Work for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-drone-dynamics-hubsan-h501x4-in-depth-overview/"><u>[Updated] Drone Dynamics  Hubsan H501X4 In-Depth Overview</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-shades-and-tones-mastering-the-visual-spectrum/"><u>[Updated] In 2024, Shades and Tones  Mastering the Visual Spectrum</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-the-art-of-phantoms-time-recapture-for-2024/"><u>[Updated] Mastering the Art of Phantom's Time Recapture for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-vimeo-video-on-instagram-feed-for-2024/"><u>[Updated] Mastering Vimeo Video on Instagram Feed for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ranking-the-leading-free-srt-translation-tools-for-2024/"><u>[Updated] Ranking the Leading Free SRT Translation Tools for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-simplify-your-remote-meetings-integrating-skype-and-zoom-for-2024/"><u>[Updated] Simplify Your Remote Meetings  Integrating Skype and Zoom for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-soundbite-strategies-transform-your-voice-records/"><u>[Updated] Soundbite Strategies  Transform Your Voice Records</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-steps-for-gradual-audio-dimming-with-lumafusion-for-2024/"><u>[Updated] Steps for Gradual Audio Dimming with Lumafusion for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-superior-cinematic-introductions-set-for-2024/"><u>[Updated] Superior Cinematic Introductions Set for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-troubleshooting-companion-restoring-srt-functionality-in-premiere/"><u>[Updated] The Troubleshooting Companion  Restoring SRT Functionality in Premiere</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-your-guide-to-the-top-5-chromebook-sniping-software-for-2024/"><u>[Updated] Your Guide to the Top 5 Chromebook Sniping Software for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-discovering-chromium-phone-sonics-online/"><u>2024 Approved  Discovering Chromium Phone Sonics Online</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/androids-expert-choice-for-quick-vid-boosting-for-2024/"><u>Android's Expert Choice for Quick Vid Boosting for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/endless-screen-saving-software-for-2024/"><u>Endless Screen Saving Software for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/essential-italian-expressions-a-guide-for-smooth-trips/"><u>Essential Italian Expressions: A Guide for Smooth Trips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/handling-soundtracks-opening-srt-on-pcmac/"><u>Handling Soundtracks  Opening SRT on PC/Mac</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-nubia-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Nubia Without PUK Codes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-your-hardware-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>Identify missing your hardware drivers with Windows Device Manager in Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-compress-to-caption-zip-to-srt-for-video-editors/"><u>In 2024, Compress to Caption  ZIP-to-SRT for Video Editors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-essential-5-accessories-for-beneath-waves-shooting/"><u>In 2024, Essential 5 Accessories for Beneath Waves Shooting</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s23-tactical-edition-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S23 Tactical Edition Phones with/without a PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/innovative-photography-with-insights-into-lut-use-for-2024/"><u>Innovative Photography with Insights Into LUT Use for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/phone-sleeves-with-integrated-batteries/"><u>Phone Sleeves with Integrated Batteries</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/saying-thanks-access-to-otu-creations-freepaid/"><u>Saying Thanks  Access to OTU Creations (Free/Paid)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unseen-watchers-manual-how-to-stay-anonymous-on-instagram-live-for-2024/"><u>Unseen Watcher’s Manual  How to Stay Anonymous on Instagram Live for 2024</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify missing your drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/why-does-my-photo-booth-videos-keep-freezing/"><u>Why Does My Photo Booth Videos Keep Freezing?</u></a></li>
+</ul></div>

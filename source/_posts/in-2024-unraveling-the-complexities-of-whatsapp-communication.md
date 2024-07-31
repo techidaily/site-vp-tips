@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unraveling the Complexities of WhatsApp Communication"
-date: 2024-06-06T02:56:16.615Z
-updated: 2024-06-07T02:56:16.615Z
+date: 2024-07-30T16:55:41.125Z
+updated: 2024-07-31T16:55:41.125Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c
 
 # Cool Whatsapp Tricks and Hidden Features You Should Know
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -40,12 +43,23 @@ You can do a lot of things with your WhatsApp fonts, appearance, and texts that 
 
 Yes, you can bold your text. Just add a star (\*) symbol before and after your text. Don’t use space between the \* and the letter.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![Whatsapp Text Tricks Bold](https://images.wondershare.com/filmora/article-images/whatsapp-text-tricks-bold.jpg)
 
 #### 2.Italic
 
 Just like the bold, you can also italicize your fonts by simply inserting Underscore Symbol ( \_text\_ ) at the starting and end of your sentence.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Whatsapp Text Tricks Italic](https://images.wondershare.com/filmora/article-images/whatsapp-text-tricks-italic.jpg)
 
 #### 3.Strikethrough
@@ -58,12 +72,18 @@ Strikethrough is largely used to intend puns in WhatsApp, but sometimes it is al
 
 The monospace is a font stylization now available in WhatsApp that allows you to write fixed-width content. These WhatsApp writing tricks are useful when sharing any sort of coding or technical formulas. It will help distinguish special content from regular content. To insert it, use 3 backticks (\`\`\`text\`\`\`) at the beginning and end of your sentence without spacing.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Whatsapp Text Tricks Monospace](https://images.wondershare.com/filmora/article-images/whatsapp-text-tricks-monospace.png)
 
 #### 5.Disable Read Recipients
 
 WhatsApp introduced the Blue Tick feature to notify users when their messages are not only delivered but are seen by the recipients. But it has also been the cause of fallouts between loved ones and even trouble at work for failing to respond despite a Blue Tick. Now you can control the fury with WhatsApp Text Tricks of disabling the Read Recipient feature. Go Settings >> Account >> Privacy >> Read Recipients. By doing this, you won’t be able to see your contact’s blue ticks as no one will be able to see yours. Unlike custom notifications, the Read Recipient feature applies to your entire contact list and cannot be used for one specific contact. The sender would see black double ticks even if you read the message.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![Whatsapp Disable Read Recipients](https://images.wondershare.com/filmora/article-images/whatsapp-disable-read-recipients.png)
 
 #### 6.Pin Prioritized Contacts
@@ -78,6 +98,9 @@ Source: techmesto.com
 
 If you wish to save the chats that you exchanged with someone special, you can email the entire chat thread to yourself or someone else, you can even save it to Drive. Open the chat thread and tap on the 3 dots icon, then click >>More<< and then click on >>Export Chat<<. This will open a host of options allowing you to export your chat logs to a multitude of destinations.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Whatsapp Export Chat Logs](https://images.wondershare.com/filmora/article-images/whatsapp-export-chat-logs.png)
 
 #### 8.WhatsApp Font Tricks for Formatting
@@ -96,8 +119,14 @@ There are plenty of things you can do with one word. It can be bold, italic, mon
 
 While typing a WhatsApp message if you need to cross-check certain areas with someone else, and don’t want to copy the text or overwrite your clipboard, you can directly share the text without copy-pasting or taking screenshots. This WhatsApp Typing Trick is in the same native setting strip mentioned earlier, which you can access by tapping and holding the text section you want to share, which will open the formatting strip. Once it opens then click on the 3 dots, which will turn the strip into a panel, in the panel you will find what you are looking for. The coolest part is that you can share the text not only in WhatsApp but multiple other apps like Zoom, Skype, Email… even Bluetooth!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Whatsapp Typing Trick](https://images.wondershare.com/filmora/article-images/whatsapp-typing-trick.png)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## What are the Hidden Features of WhatsApp?
 
 Since most of the above-mentioned are owing to the tricks and trades of texting via WhatsApp, let us now jot down a WhatsApp hidden feature list that applies for general usability of the wonder-app. There are useful privacy settings and chat features that can make your user experience a lot more peaceful.
@@ -110,6 +139,9 @@ Never be caught up creating a group for a one-time cause and see it becoming som
 
 There are many ways how you can save mobile data consumed by WhatsApp. First, you can reduce the data consumption while on call, secondly, control the downloading of media when mobile data is running. You will find both the customization options under Data and Storage in your WhatsApp settings.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Whatsapp Save More Data](https://images.wondershare.com/filmora/article-images/whatsapp-save-more-data.png)
 
 Source: androidauthority.com
@@ -144,6 +176,9 @@ Not every message thread is important, and many people have the habit of deletin
 
 If it is annoying to open a loved one’s story and then automatically sliding into a story you did not want to open, you can MUTE the people whose stories you are not interested to see. Go to Story and tap and hold the unwanted contact to open the Mute option. Even though there is no option that you can stop the automatic carousel to the next contact’s stories altogether, you can always go by the rule of the thumb - place your thumb on the screen and the carousel won’t move.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Mute Whatsapp Stories](https://images.wondershare.com/filmora/article-images/mute-whatsapp-stories.jpg)
 
 #### 9.Reply Privately to Recipients in a WhatsApp Group
@@ -182,6 +217,9 @@ When it comes to WhatsApp Tricks and Trades, you always have to look forward to 
 
 **You may also like:**[Best Bio for Whatsapp](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -208,3 +246,47 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-15-top-mobiles-elevating-dji-video-production-value/"><u>[New] In 2024, 15 Top Mobiles Elevating DJi Video Production Value</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-diving-deep-into-samsung-photo-enhancers-guide/"><u>[New] In 2024, Diving Deep Into Samsung Photo Enhancers Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-superior-audio-alerts-prime-pick-pages/"><u>[New] In 2024, Superior Audio Alerts  Prime Pick Pages</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-youtube-studio-masterclass-elevating-your-edits/"><u>[New] In 2024, The YouTube Studio Masterclass  Elevating Your Edits</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-seamless-techniques-easy-steps-to-preserve-your-google-gatherings-for-2024/"><u>[New] Seamless Techniques  Easy Steps to Preserve Your Google Gatherings for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-transform-your-communication-device-with-new-tunes-for-2024/"><u>[New] Transform Your Communication Device with New Tunes for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unlocking-the-potentials-of-windows-11-movie-maker-for-2024/"><u>[New] Unlocking the Potentials of Windows 11 Movie Maker for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2023s-premier-storytelling-channels-on-youtube-for-2024/"><u>[Updated] 2023'S Premier Storytelling Channels on YouTube for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-from-bland-to-brilliant-elevate-your-images-in-canva/"><u>[Updated] 2024 Approved  From Bland to Brilliant  Elevate Your Images in Canva</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-initial-steps-to-professional-motion-graphics/"><u>[Updated] 2024 Approved  Initial Steps to Professional Motion Graphics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-vives-ultimate-virtual-journey-unparalleled-immersion/"><u>[Updated] 2024 Approved  Vive's Ultimate Virtual Journey  Unparalleled Immersion</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-efficient-entry-powerpoint-recordings/"><u>[Updated] In 2024, Efficient Entry  PowerPoint Recordings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ski-and-snow-gear-best-cams-compiled-in-7-lists/"><u>[Updated] In 2024, Ski and Snow Gear  Best Cams Compiled in 7 Lists</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-zenith-of-leisure-top-12-pc-gamez/"><u>[Updated] In 2024, Zenith of Leisure  Top 12 PC Gamez</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-podcast-title-craft-the-essential-handbook-for-2024/"><u>[Updated] Mastering Podcast Title Craft  The Essential Handbook for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unlocking-user-preferences-with-instagrams-real-time-feedback/"><u>[Updated] Unlocking User Preferences with Instagram's Real-Time Feedback</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-a-thorough-examination-of-hero5-video-content/"><u>2024 Approved  A Thorough Examination of Hero5 Video Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-how-to-mix-melodies-and-text-powerpoints-unleashed/"><u>2024 Approved  How to Mix Melodies & Text  PowerPoints Unleashed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unraveling-the-merits-of-stabilized-photo-editing-with-adobe/"><u>2024 Approved  Unraveling the Merits of Stabilized Photo Editing with Adobe</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/behind-the-lens-mastery-5-essential-cinematographic-insights/"><u>Behind the Lens Mastery  5 Essential Cinematographic Insights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-itel-s23-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Itel S23.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/crafting-a-captivated-audience-with-strategic-voiceovers/"><u>Crafting a Captivated Audience with Strategic Voiceovers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/detailed-guide-to-mastering-recordings-with-audacity/"><u>Detailed Guide to Mastering Recordings with Audacity</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-sony-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Sony Pattern Lock Screen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-poco-c51-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Poco C51 Phone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-5-best-live-stream-video-conference-recorders/"><u>In 2024, 5 Best Live Stream Video Conference Recorders</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-detailed-analysis-djis-raptor-4-vr-goggle-features/"><u>In 2024, A Detailed Analysis  DJi's Raptor 4 VR Goggle Features</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-essential-8-backdrops-to-transform-your-mbp-screen/"><u>In 2024, Essential 8 Backdrops to Transform Your MBP Screen</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-the-art-of-filter-selection-on-instagram/"><u>In 2024, Mastering the Art of Filter Selection on Instagram</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-quest-for-immersion-reviewing-benqs-ultra-hd-sw320/"><u>In 2024, The Quest for Immersion  Reviewing BenQ's Ultra HD SW320</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-spots-for-virtual-reality-experiences/"><u>In 2024, Top Spots for Virtual Reality Experiences</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-understanding-twitters-new-video-format-codes/"><u>In 2024, Understanding Twitter's New Video Format Codes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/luminary-lessons-teaching-the-power-of-proper-lighting-for-2024/"><u>Luminary Lessons  Teaching the Power of Proper Lighting for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/push-past-filmora-discover-the-best-tablets-for-visual-excellence-for-2024/"><u>Push Past Filmora - Discover the Best Tablets for Visual Excellence for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/strategies-for-selecting-and-syncing-music-with-visuals/"><u>Strategies for Selecting and Syncing Music with Visuals</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-full-laptop-screencapture-experience-for-2024/"><u>The Full Laptop ScreenCapture Experience for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-vida-journey-from-raw-footage-to-cinematic-scene/"><u>The Vida Journey  From Raw Footage to Cinematic Scene</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-filmmakers-choice-leading-15-creative-gopro-luts/"><u>Ultimate Filmmaker's Choice  Leading 15 Creative GOPRO LUTs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/vivid-visions-the-practical-use-of-color/"><u>Vivid Visions  The Practical Use of Color</u></a></li>
+</ul></div>

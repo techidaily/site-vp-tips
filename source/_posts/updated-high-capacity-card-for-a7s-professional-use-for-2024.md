@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] High-Capacity Card for A7S Professional Use for 2024\""
-date: 2024-06-06T04:46:03.996Z
-updated: 2024-06-07T04:46:03.996Z
+date: 2024-07-30T19:17:46.664Z
+updated: 2024-07-31T19:17:46.664Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/5565177be356d6fd1f6d2b58dc2046c46dae91381
 
 # Best Memory Card for Sony A7S II
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -30,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/5565177be356d6fd1f6d2b58dc2046c46dae91381
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -67,6 +73,9 @@ thumbnail: https://thmb.techidaily.com/5565177be356d6fd1f6d2b58dc2046c46dae91381
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -105,6 +114,9 @@ thumbnail: https://thmb.techidaily.com/5565177be356d6fd1f6d2b58dc2046c46dae91381
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -131,3 +143,69 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-10plus-must-use-free-youtube-intro-maker-sites-for-2024/"><u>[New] 10+ Must-Use Free YouTube Intro Maker Sites for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-achieving-unmatched-picture-quality-on-zoom-platforms/"><u>[New] Achieving Unmatched Picture Quality on Zoom Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-audience-accessibility-switching-from-srt-to-sub-for-2024/"><u>[New] Audience Accessibility  Switching From SRT to SUB for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-daily-movie-storage-gb-explained/"><u>[New] Daily Movie Storage  GB Explained</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-dj-iq-upgrade-two-drone-brands-now-offer-free-lut-sets-for-2024/"><u>[New] DJ IQ Upgrade – Two Drone Brands Now Offer FREE LUT Sets for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-freshflicks-app-overview-and-score/"><u>[New] FreshFlicks App Overview & Score</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ideal-7-video-players-for-apple-devices-for-2024/"><u>[New] Ideal 7 Video Players for Apple Devices for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-compose-chuckling-content-for-giphy-audience/"><u>[New] In 2024, Compose Chuckling Content for Giphy Audience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-dissecting-the-features-of-toolwizs-photography-app/"><u>[New] In 2024, Dissecting the Features of Toolwiz's Photography App</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-flawless-frequency-facilitator-for-voices/"><u>[New] In 2024, Flawless Frequency Facilitator for Voices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-optimal-days-for-podcast-drops/"><u>[New] In 2024, Optimal Days for Podcast Drops</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-professional-framing-adding-bb-and-letterbox-overlays-to-fb-videos/"><u>[New] In 2024, Professional Framing  Adding BB and Letterbox Overlays to FB Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-ultimate-simplified-journey-for-metaverse-personas/"><u>[New] In 2024, The Ultimate Simplified Journey for Metaverse Personas</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-renewed-evaluation-sonys-s3700-video-tech-in-2-point-five-six/"><u>[New] Renewed Evaluation  Sony's S3700 Video Tech in 2 Point-Five Six</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ultimate-guide-to-virtual-reality-gaming-gear/"><u>[New] Ultimate Guide to Virtual Reality Gaming Gear</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-best-mac-screen-clips-roundup-under-156-chars/"><u>[Updated] 2024 Approved  Best Mac Screen Clips Roundup (Under 156 Chars)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-google-collages-how-to-achieve-it-in-a-blink-of-an-eye/"><u>[Updated] 2024 Approved  Google Collages  How to Achieve It in A Blink of an Eye</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-how-to-amass-a-picture-collection-for-free-the-ultimate-12-website-guide/"><u>[Updated] 2024 Approved  How to Amass a Picture Collection for Free – The Ultimate 12 Website Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-leveraging-secondary-footage-for-visual-impact/"><u>[Updated] 2024 Approved  Leveraging Secondary Footage for Visual Impact</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-prime-top-5-weightless-camcorders-for-adventure/"><u>[Updated] 2024 Approved  Prime Top 5 Weightless Camcorders for Adventure</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-toolwiz-photosapp-insights-the-full-2023-perspective-on-photography-tools/"><u>[Updated] 2024 Approved  Toolwiz PhotosApp Insights - The Full 2023 Perspective on Photography Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ableton-live-mastering-volume-dampening/"><u>[Updated] Ableton Live  Mastering Volume Dampening</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-creative-edge-incorrances-on-luts-in-after-effects/"><u>[Updated] Creative Edge  Incorrances on LUTs in After Effects</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-close-up-confidence-navigating-google-meets-zoom-feature/"><u>[Updated] In 2024, Close-Up Confidence  Navigating Google Meet's Zoom Feature</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-slick-quick-fades-in-premiere/"><u>[Updated] In 2024, Slick Quick Fades in Premiere</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-win11s-ultimate-app-selection-for-quality-recording/"><u>[Updated] In 2024, Win11's Ultimate App Selection for Quality Recording</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-podcast-production-perfection-from-draft-to-audio-bliss/"><u>[Updated] Podcast Production Perfection  From Draft to Audio Bliss</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-tips-and-tricks-perfecting-webcam-recordings-on-macbook-for-2024/"><u>[Updated] Tips & Tricks  Perfecting Webcam Recordings on MacBook for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-tricks-and-tips-to-bypass-hidden-video-barriers-for-2024/"><u>[Updated] Tricks and Tips to Bypass Hidden Video Barriers for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-unlock-full-potential-of-obs-studio-for-android-devices/"><u>[Updated] Unlock Full Potential of OBS Studio for Android Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-visual-storytelling-excellence-editing-numbers-on-tiktok-platforms-for-2024/"><u>[Updated] Visual Storytelling Excellence  Editing Numbers on TikTok Platforms for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-extensive-circular-camera-assessment/"><u>2024 Approved  Extensive Circular Camera Assessment</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-professional-meeting-aesthetics-blur-backgrounds-tips/"><u>2024 Approved  Professional Meeting Aesthetics  Blur Backgrounds Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-artisans-guide-to-backdrop-free-image-perfection-with-photopea/"><u>2024 Approved  The Artisan's Guide to Backdrop-Free Image Perfection with Photopea</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-ultimate-luxury-cosmetics-series/"><u>2024 Approved  Ultimate Luxury Cosmetics Series</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unveiling-secrets-low-light-iphone-photography/"><u>2024 Approved  Unveiling Secrets  Low Light iPhone Photography</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unveiling-the-top-10-timing-apps-for-weddings-on-smartphones/"><u>2024 Approved  Unveiling the Top 10 Timing Apps for Weddings on Smartphones</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/5-ways-to-track-apple-iphone-15-plus-without-app-drfone-by-drfone-virtual-ios/"><u>5 Ways to Track Apple iPhone 15 Plus without App | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/chinese-vr-headset-marketplace-wonders/"><u>Chinese VR Headset Marketplace Wonders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/essential-guide-to-fixing-srt-export-errors/"><u>Essential Guide to Fixing SRT Export Errors</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/from-script-to-screen-10-famous-movies-crafted-with-final-cut-pro/"><u>From Script to Screen 10 Famous Movies Crafted with Final Cut Pro</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-infinix-hot-30i-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Infinix Hot 30i.</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-xiaomi-civi-3-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Xiaomi Civi 3 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-a-top-notch-linkedin-image/"><u>In 2024, Crafting a Top-Notch LinkedIn Image</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-hero4-session-vs-hero5-session/"><u>In 2024, GoPro Hero4 Session Vs Hero5 Session</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-y56-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo Y56 5Gwith/without a PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-zte-nubia-z60-ultra-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From ZTE Nubia Z60 Ultra to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-optimal-mkv-watcher-for-laptops/"><u>In 2024, Optimal MKV Watcher for Laptops</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-pinnacle-chroma-modifier/"><u>In 2024, Pinnacle Chroma Modifier</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-transforming-instagram-vids-into-a-backup-solution-via-computers-and-macs/"><u>In 2024, Transforming Instagram Vids Into a Backup Solution via Computers & Macs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-playwriting-workshop/"><u>In 2024, Ultimate Playwriting Workshop</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-depth-360-eye-viewing-experience/"><u>In-Depth 360° Eye Viewing Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-depth-look-ultraedit-pro-for-video-cutting-2023/"><u>In-Depth Look  UltraEdit Pro for Video Cutting 2023</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-get-the-best-free-3gp-video-rotator-for-your-needs-top-recommendations/"><u>New Get the Best Free 3GP Video Rotator for Your Needs Top Recommendations</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/quick-guide-to-capturing-moments-during-google-meets/"><u>Quick Guide to Capturing Moments During Google Meets</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/step-by-step-customizing-your-youtube-channel-url-for-2024/"><u>Step-by-Step  Customizing Your YouTube Channel URL for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/sweeping-vistas-with-your-iphone-social-media-360-tips-for-2024/"><u>Sweeping Vistas with Your iPhone  Social Media 360 Tips for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-7-best-mac-video-viewing-tools-for-2024/"><u>Top 7 Best Mac Video Viewing Tools for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-free-collection-top-8-tools-for-viewing-4k-media-on-winos-x-for-2024/"><u>Ultimate Free Collection  Top 8 Tools for Viewing 4K Media on Win/OS X for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unraveling-photoshops-magic-with-image-curving/"><u>Unraveling Photoshop’s Magic with Image Curving</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/where-can-you-find-premium-soundtracks-from-instagram-and-how-to-create-a-superb-call-alert-for-2024/"><u>Where Can You Find Premium Soundtracks From Instagram & How to Create a Superb Call Alert for 2024</u></a></li>
+</ul></div>

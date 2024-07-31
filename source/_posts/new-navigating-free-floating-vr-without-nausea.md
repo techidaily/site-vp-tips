@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Free-Floating VR without Nausea\""
-date: 2024-06-06T01:27:41.739Z
-updated: 2024-06-07T01:27:41.739Z
+date: 2024-07-30T15:01:15.174Z
+updated: 2024-07-31T15:01:15.174Z
 tags: 
   - screen-recording
   - ai video
@@ -20,12 +20,19 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
 # 10 tips to prevent Oculus Rift VR motion sickness
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10 ways to prevent Oculus Rift motion sickness
 
  While using your Oculus Rift development kits you need to take care of few little things in order to avoid getting any kind of sickness during your game. Although the factors vary from individual to individual since it is more of the bodily response rather than the design variation.
@@ -50,12 +57,18 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
 **10\. Try not to move your head a lot.** Since motion sickness directly corresponds to movement, reducing your head movement left and right and up and down in one place can help you lower the chances of sickness.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## What Oculus have done to reduce motion sickness
 
  With the new, innovative VR devices and the head gear technology has taken a huge leap. Oculus Rift has become widely popular among its enthusiastic users. When Oculus released its first Development kit (DevKit 1) the users experienced the symptoms such as nausea, dizziness, sweating and vomiting. Even Oculus CEO Brendan Iribe experienced “motion sickness” with his own product, while using last year’s “DevKit 1” prototype. These sickness issues were so common while using DevKit 1 that its users called it the “Rift Sickness”.
 
  Since Oculus Rift DK1 came to the market, people were really unhappy with the sickness it gave to them. Oculus saw that issue as a big threat, and started to develop DK2 with a much better display. In the original DK1, Oculus Rift used the liquid crystal display (LCD) to display visual in its devices. LCD screen had been of very much advantage because of its brightness, geometric distortion, and less electricity consumption. But it still had been promoting to the sickness issue because of its sluggish motion time response. In replacement of LCD screens, Oculus Rift has introduced OLED (organic light emitting diode) screens which have proved to be a much better idea. Experiments of Oculus Rift with OLED screens have been successful so far in reducing motion sickness to its minimal. OLED has a much faster rate and thus much enhanced positional tracking.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -82,3 +95,45 @@ Follow @Benjamin Arango
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-picture-perfect-how-to-accurately-date-your-photos/"><u>[New] 2024 Approved  Picture Perfect  How to Accurately Date Your Photos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-quitting-linkedin-how-to-close-your-account-properly/"><u>[New] 2024 Approved  Quitting LinkedIn  How To Close Your Account Properly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-spotlight-techniques-for-engaging-fb-giveaway-posts/"><u>[New] 2024 Approved  Spotlight Techniques for Engaging FB Giveaway Posts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-experts-playbook-for-transforming-srt-into-diverse-formats/"><u>[New] 2024 Approved  The Expert's Playbook for Transforming SRT Into Diverse Formats</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-eye-catching-coverage-laptop-wallpapers-online/"><u>[New] Eye-Catching Coverage  Laptop Wallpapers Online</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-ideal-app-selection-top-10-tools-for-instagram-reel-excellence-for-2024/"><u>[New] Ideal App Selection  Top 10 Tools for Instagram Reel Excellence for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-conquering-the-crowd-through-effective-smm/"><u>[New] In 2024, Conquering the Crowd Through Effective SMM</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-leading-the-vr-charge-top-10-pc-headsets/"><u>[New] In 2024, Leading The VR Charge  Top 10 PC Headsets</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-vmix-alternative-for-mac-and-windows/"><u>[New] In 2024, VMix Alternative for Mac and Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-master-the-art-of-photo-purity-with-picart-for-2024/"><u>[New] Master the Art of Photo Purity with PicArt for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-premier-tools-upload-and-convert-vids-for-tweeting-for-2024/"><u>[New] Premier Tools  Upload & Convert Vids for Tweeting for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-simplifying-the-art-of-mac-screen-recording-a-keyboard-gurus-insight/"><u>[New] Simplifying the Art of Mac Screen Recording  A Keyboard Guru's Insight</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-ranked-zoonotic-patterns/"><u>[New] Top-Ranked Zoonotic Patterns</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-gamings-new-leaders-1-ranked-4k-laptops/"><u>[Updated] 2024 Approved  Gaming's New Leaders  #1 Ranked 4K Laptops</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-the-art-of-voice-modification-the-ultimate-guide-to-morphvox/"><u>[Updated] 2024 Approved  Mastering the Art of Voice Modification  The Ultimate Guide to MorphVOX</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-sky-high-security-for-your-photos-explore-free-and-paid-options/"><u>[Updated] 2024 Approved  Sky-High Security for Your Photos  Explore Free and Paid Options</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-decoding-the-process-behind-gopro-burst-recordings/"><u>[Updated] Decoding the Process Behind GoPro Burst Recordings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-exploring-better-video-encoding-av1s-challenge-to-vp9-for-2024/"><u>[Updated] Exploring Better Video Encoding  AV1's Challenge to VP9 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-game-ahead-with-funimates-easy-apk-instructions/"><u>[Updated] Game Ahead with Funimate's Easy APK Instructions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-use-luts-in-adobe-after-effect-for-2024/"><u>[Updated] How to Use LUTs in Adobe After Effect for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-harness-kinemasters-power-techniques-for-professionals-and-top-online-platforms/"><u>[Updated] In 2024, Harness KineMaster's Power  Techniques for Professionals & Top Online Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-snap-motion-blur-photos-effortlessly-with-iphone-techniques-for-2024/"><u>[Updated] Snap Motion-Blur Photos Effortlessly with iPhone Techniques for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-lunapics-power-expert-tips-and-hacks/"><u>[Updated] Unlocking LunaPic's Power  Expert Tips and Hacks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-capturing-dynamic-range-in-iphone-shots/"><u>2024 Approved  Capturing Dynamic Range in iPhone Shots</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-youtubes-landscape-a-beginners-primer/"><u>2024 Approved  Navigating YouTube's Landscape  A Beginner's Primer</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-unleash-popularity-essential-hashes-for-viral-short-form-content/"><u>2024 Approved  Unleash Popularity  Essential Hashes for Viral Short Form Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/full-analysis-navigating-the-depths-of-adobes-data-safekeeping-and-competitor-highlights/"><u>Full Analysis  Navigating the Depths of Adobe's Data Safekeeping and Competitor Highlights</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-oppo-reno-10-pro-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-comprehensive-breakdown-using-googles-speech-recognition-tool/"><u>In 2024, Comprehensive Breakdown  Using Google's Speech Recognition Tool</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-innovate-visual-signatures-for-free-using-graphic-patterns/"><u>In 2024, Innovate Visual Signatures for Free Using Graphic Patterns</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/iphone-a-revolutionary-approach-to-hdr-imaging/"><u>IPhone  A Revolutionary Approach to HDR Imaging</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-best-of-the-best-top-timecode-calculators-for-iphone-android-and-web/"><u>New 2024 Approved The Best of the Best Top Timecode Calculators for iPhone, Android, and Web</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/pixels-melodic-matches-and-personalization/"><u>Pixel's Melodic Matches and Personalization</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/secure-your-free-lut-resources-top-ten-list/"><u>Secure Your Free LUT Resources - Top Ten List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/techniques-for-downloading-twitter-videos-and-creating-mp3s-for-2024/"><u>Techniques for Downloading Twitter Videos and Creating MP3s for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-composition-crafting-memorable-podcast-covers-for-2024/"><u>The Ultimate Composition  Crafting Memorable Podcast Covers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unleash-your-potential-top-8-tablets-for-stellar-photo-editing/"><u>Unleash Your Potential  Top 8 Tablets For Stellar Photo Editing</u></a></li>
+</ul></div>

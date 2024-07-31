@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Cutting-Edge Collage Companions  Android & iPhone's Best for 2024\""
-date: 2024-06-06T04:08:02.635Z
-updated: 2024-06-07T04:08:02.635Z
+date: 2024-07-30T18:28:45.338Z
+updated: 2024-07-31T18:28:45.338Z
 tags: 
   - screen-recording
   - ai video
@@ -42,10 +42,16 @@ Splice is a complete moviemaker that works on both iPhone and Android operating 
 
 * It crashes often, especially when dealing with larger files.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![app for montage - Splice](https://images.wondershare.com/filmora/article-images/2022/05/app-for-montage-2.jpg)
 
 Splice
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ### 2) Filmora Go
 
 The Filmora Go app for montage is efficient and stable. Its template library spoils you with numerous options to create your video in any niche. It is gentle and simple for beginners while also containing advanced tools for professional editors. And it caters to people of all walks of life, from French speakers to Japanese and Spanish, as it supports several languages. Make use of the "A la carte" store to buy Pro features such as watermark removal ability, among others.
@@ -62,10 +68,16 @@ The Filmora Go app for montage is efficient and stable. Its template library spo
 * It has no free version but only a three-day free trial.
 * The trial option leaves a watermark on your videos.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![app for montage - Filmora Go](https://images.wondershare.com/filmora/article-images/2022/05/app-for-montage-3.jpg)
 
 Filmora Go
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4) LumaFusion
 
 Here comes an application for a montage that you can use to complete any project. Being a bit complex, it leaves beginners with unbalanced equations. Professional editors enjoy the maneuvering tactics of this tool. Apart from producing up to 4K footage quality, your tracks can be hidden, locked, or muted as you desire. The multitude of effects is another big draw. These include color-correction tools and audio mixing capabilities. This app supports iPhone devices for a cost of $29.99 per month.
@@ -120,10 +132,17 @@ Vimeo Create falls among the apps for montages powered by Artificial Intelligenc
 
 * It works on iOS versions 12 and above.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![app for montage - Vimeo](https://images.wondershare.com/filmora/article-images/2022/05/app-for-montage-7.jpg)
 
 Vimeo
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### 7) Power Director
 
 It beats all odds when it comes to creating a picture and video collages with Picture-In-Picture overlays. The interface will get you off your feet in seconds, as you don’t require any experience to operate it. Among the advanced editing features is the linear timeline that stitches your clips together and the audio mixer for the perfect sound. You use several visual effects tools and other motion titles for creating high-end videos.
@@ -172,6 +191,9 @@ Don’t just throw in clips but try to connect them to something similar. Your v
 
 Remember that your phone is small and light and may not be as stable as compared to other heavy gadgets like cameras. Ensure it is stable when capturing your videos. You can use an adapter clip on a tripod to enhance stability.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Use the right tool
 
 Ask what you wish to achieve by the end of the editing session. Montage apps come in different capacities. More so, some apps are not compatible with mobile devices. So, check the features and identify the strengths to determine if it’s the right fit for you.
@@ -184,6 +206,9 @@ Closing Thoughts:
 
 How beautiful is it to create stunning montages? But one aspect determines the product. Editing! These 8 montage apps let you do the necessary edits to your video. If you wish to create your video with the Picture In Picture feature, then Power Director should be your choice. Likewise, you can get high-resolution clips with GoPro Quick, LumaFusion, and Filmora Go. Other functionalities like the "A la carte" store where to buy pro features and support for several languages make Filmora Go a hot choice among others.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![app for montage - Splice](https://images.wondershare.com/filmora/article-images/2022/05/app-for-montage-2.jpg)
 
 Splice
@@ -204,10 +229,16 @@ The Filmora Go app for montage is efficient and stable. Its template library spo
 * It has no free version but only a three-day free trial.
 * The trial option leaves a watermark on your videos.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![app for montage - Filmora Go](https://images.wondershare.com/filmora/article-images/2022/05/app-for-montage-3.jpg)
 
 Filmora Go
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4) LumaFusion
 
 Here comes an application for a montage that you can use to complete any project. Being a bit complex, it leaves beginners with unbalanced equations. Professional editors enjoy the maneuvering tactics of this tool. Apart from producing up to 4K footage quality, your tracks can be hidden, locked, or muted as you desire. The multitude of effects is another big draw. These include color-correction tools and audio mixing capabilities. This app supports iPhone devices for a cost of $29.99 per month.
@@ -223,10 +254,16 @@ Here comes an application for a montage that you can use to complete any project
 * It is expensive as compared to its peers.
 * It leaves a watermark on your videos with the free version.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![app for montage - Lumafusion](https://images.wondershare.com/filmora/article-images/2022/05/app-for-montage-5.jpg)
 
 Lumafusion
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 5) GoPro Quik
 
 What sets this app apart is the ability to produce cinematic audio edits. Likewise, it makes accessing and editing your GoPro photos easy. There’s no hustle in importing your clips as the app automatically imports them for syncing with music in a few clicks. Likewise, easily upload your videos and photos to the cloud for editing on the go, anywhere. And when the editing process ends, directly share your video to Quik right from your phone’s camera roll or email, among others.
@@ -262,6 +299,10 @@ Vimeo Create falls among the apps for montages powered by Artificial Intelligenc
 
 * It works on iOS versions 12 and above.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![app for montage - Vimeo](https://images.wondershare.com/filmora/article-images/2022/05/app-for-montage-7.jpg)
 
 Vimeo
@@ -298,10 +339,16 @@ Last but not least is the iMovie application for a montage. It is compatible wit
 
 * It requires a high level of hard disk space.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![app for montage - iMovie](https://images.wondershare.com/filmora/article-images/2022/05/app-for-montage-9.jpg)
 
 iMovie
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Additional Tips for Making Montage Videos on a Mobile Device
 
 Apart from choosing the perfect app for montages, several tricks should also come in handy. Kill boredom and monotonous montages with these tips.
@@ -310,14 +357,25 @@ Apart from choosing the perfect app for montages, several tricks should also com
 
 Don’t just throw in clips but try to connect them to something similar. Your viewers will have a flow from beginning to end. Nonetheless, use high-quality clips of videos and images to get as clear a montage video as possible on your mobile.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Work on stability
 
 Remember that your phone is small and light and may not be as stable as compared to other heavy gadgets like cameras. Ensure it is stable when capturing your videos. You can use an adapter clip on a tripod to enhance stability.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Use the right tool
 
 Ask what you wish to achieve by the end of the editing session. Montage apps come in different capacities. More so, some apps are not compatible with mobile devices. So, check the features and identify the strengths to determine if it’s the right fit for you.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Shoot in landscape format
 
 It’s better to use landscape instead of portrait format while shooting and editing your video on mobile. This is to avoid the two black vertical bars that occur alongside the edges of your video whenever you shoot in portrait. The landscape will also get a wide clip of coverage.
@@ -349,3 +407,49 @@ How beautiful is it to create stunning montages? But one aspect determines the p
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-audio-aesthetics-in-whatsapp-updates/"><u>[New] 2024 Approved  Audio Aesthetics in WhatsApp Updates</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-mastering-zoom-meetings-quickly/"><u>[New] 2024 Approved  Mastering Zoom Meetings Quickly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-aerial-titans-unveiled-the-10-powerful-drone-list/"><u>[New] Aerial Titans Unveiled  The 10 Powerful Drone List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-complete-insight-gopro-silver-hero4-detailed-assessment/"><u>[New] Complete Insight  GoPro Silver Hero4 Detailed Assessment</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-elevate-iphones-visual-storytelling-camera-upgrades-galore/"><u>[New] Elevate iPhone's Visual Storytelling  Camera Upgrades Galore</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-asus-pa32u-explored-unparalleled-4k-professional-monitoring/"><u>[New] In 2024, Asus PA32U Explored  Unparalleled 4K Professional Monitoring</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-decoding-the-maximum-number-of-videos-for-64128gb-drives/"><u>[New] In 2024, Decoding the Maximum Number of Videos for 64/128GB Drives</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-essential-samsung-vr-games-for-beginners/"><u>[New] In 2024, Essential Samsung VR Games for Beginners</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-perfect-playmates-childs-drone-selection-guide-for-2024/"><u>[New] Perfect Playmates  Child's Drone Selection Guide for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unite-film-selections-with-playlist-accumulation-for-2024/"><u>[New] Unite Film Selections with Playlist Accumulation for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-essential-cameras-for-cutting-edge-concert-filming-in-4khd/"><u>[Updated] 2024 Approved  Essential Cameras for Cutting-Edge Concert Filming in 4K/HD</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-getting-started-with-periscope-is-it-free-sign-up-process/"><u>[Updated] 2024 Approved  Getting Started with Periscope  Is It Free? Sign-Up Process</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-how-to-create-stunning-tiktok-videos-with-templates/"><u>[Updated] 2024 Approved  How To Create Stunning TikTok Videos With Templates</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-launch-your-first-sporty-video-channel-on-apple-systems/"><u>[Updated] 2024 Approved  How to Launch Your First Sporty Video Channel on Apple Systems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-optimized-zoom-audio-settings-for-exceptional-listening/"><u>[Updated] 2024 Approved  Optimized Zoom Audio Settings for Exceptional Listening</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-do-screen-recording-on-ipad-for-2024/"><u>[Updated] How to Do Screen Recording on iPad for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-quick-retrieval-of-hidden-reddit-threads-for-2024/"><u>[Updated] Mastering Quick Retrieval of Hidden Reddit Threads for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-maximizing-your-virtual-meetings-expert-insights-on-using-zoom-win10/"><u>[Updated] Maximizing Your Virtual Meetings  Expert Insights on Using Zoom (Win10)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-premium-picks-recommended-portals-for-tapping-snapchat-tunes/"><u>[Updated] Premium Picks  Recommended Portals for Tapping Snapchat Tunes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-slow-it-down-a-comprehen-for-2024/"><u>[Updated] Slow It Down  A Comprehen for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-zodiac-wisdom-in-101-whatsapp-bio-ideas/"><u>[Updated] Zodiac Wisdom in 101 WhatsApp Bio Ideas</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-abletons-art-of-softening-soundscapes/"><u>2024 Approved  Ableton's Art of Softening Soundscapes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-elevating-your-skills-with-our-full-periscope-guide/"><u>2024 Approved  Elevating Your Skills with Our Full Periscope Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-subtle-harmonies-on-desktop-systems/"><u>2024 Approved  Subtle Harmonies on Desktop Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-lava-storm-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Lava Storm 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/asmr-mastery-your-guide-to-nighttime-relaxation/"><u>ASMR Mastery  Your Guide to Nighttime Relaxation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/beyond-beats-8-free-mp3-downloaders-transforming-android-into-a-spiritual-haven/"><u>Beyond Beats  8 Free MP3 Downloaders Transforming Android Into a Spiritual Haven</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-xr-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone XR Passcode Screen?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-asus-rog-phone-8-pro-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Asus ROG Phone 8 Pro Phone? Unlock It Now</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-xiaomi-civi-3-disney-100th-anniversary-edition-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Xiaomi Civi 3 Disney 100th Anniversary Edition FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-sources-for-stunning-sky-hd-imagery-online-for-2024/"><u>Leading Sources for Stunning Sky HD Imagery Online for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/master-image-tweaks-with-snapseed-for-newbies-for-2024/"><u>Master Image Tweaks with Snapseed for Newbies for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-galaxy-a05-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Galaxy A05</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/techniques-to-reduce-nausea-while-in-vr-for-2024/"><u>Techniques to Reduce Nausea While In VR for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-impactful-journey-with-gopro-hero5/"><u>The Impactful Journey with GoPro Hero5</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/timing-the-perfect-capture-and-labeling-for-2024/"><u>Timing the Perfect Capture and Labeling for 2024</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-10-best-spy-watches-for-your-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Top 10 Best Spy Watches For your Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-tecno-spark-10-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Tecno Spark 10 Pro FRP Bypass</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-realme-c51-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unmatched-setups-top-quality-4k-shoulder-mounts-guide-for-2024/"><u>Unmatched Setups  Top-Quality 4K Shoulder Mounts Guide for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/virtual-horizons-redefining-the-movie-experience/"><u>Virtual Horizons  Redefining the Movie Experience</u></a></li>
+</ul></div>

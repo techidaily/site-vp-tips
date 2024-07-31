@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Ordinary Text to Stunning Three-Dimensional Designs PHOTO\""
-date: 2024-06-06T05:20:55.736Z
-updated: 2024-06-07T05:20:55.736Z
+date: 2024-07-30T20:02:38.649Z
+updated: 2024-07-31T20:02:38.649Z
 tags: 
   - screen-recording
   - ai video
@@ -32,32 +32,53 @@ Step1 Open up Adobe Photoshop and create a New Document. Then, edit the document
 
 Step2 Select the **Type** tool and choose a color of your liking. Then, click anywhere on the blank canvas and type in your word.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![type text photoshop](https://images.wondershare.com/filmora/article-images/type-adobe-photoshop.png)
 
 Step3 Now, locate the **Layers** panel at the bottom-right corner of the screen. Click on **Layers** **→ right-click on your Text layer → select "New 3D Extrusion from Selected Layer".** Then, just click **Yes** on the new window that pops up.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![three d layer](https://images.wondershare.com/filmora/article-images/layer-adobe-photoshop.png)
 
 Step4 You are now editing in the 3D Workspace inside Photoshop. Here is where we will create the 3D text effect. First, click on the **Layers** panel **→ right-click on "Background" →** select **"Postcard".**
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![edit background](https://images.wondershare.com/filmora/article-images/postcard-adobe-photoshop.png)
 
 Step5 Now, without touching anything else, hold on to the **SHIFT** key and click on your text layer. This will select the text and background layer at the same time. Then, just hold on **CTRL + E / Cmnd + E**. This will merge the two layers.
 
 Step6 Next, go to the 3D panel. Here, simply click on your Text layer. Then, from the **Properties** panel above, select a **Shape Preset** to be applied to your current text.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![properties](https://images.wondershare.com/filmora/article-images/preset-adobe-photoshop.png)
 
 Step7 The next thing you need to do is add a light source. To do this, go back to the **3D Panel →** click on the **Lightbulb** button at the bottom **→** select **"New Infinite Light"**. Then, you can drag the circle in the middle of the text to set the direction of the light source.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add light source photoshop](https://images.wondershare.com/filmora/article-images/light-adobe-photoshop.png)
 
 Step8 You can now go to the Properties panel to adjust the 3D effects and light source effects even further. When you are done, simply click this highlighted button to render your creation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![render three d text](https://images.wondershare.com/filmora/article-images/render-adobe-photoshop.png)
 
 Step9 We're almost done. The next step is to go back to the **Layers** tab → right-click on the **Background** layer → click on **"Convert to Smart Object".**
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![convert to smart object](https://images.wondershare.com/filmora/article-images/convert-adobe-photoshop.png)
 
 Step10 Finally, from the upper-right corner drop-down button, select **Essentials**.
@@ -96,6 +117,9 @@ Step3 Next, head over to **Titles** and search for "3D". Select any option you l
 
 Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its settings. Type in your custom text, change its font, color, and other features.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
@@ -118,6 +142,9 @@ Step1 First, you should download Filmora and install the program on your compute
 
 Step2 Import a background video or image by going to **My Media** and selecting **Import Media.** From here, select any clip or image you want and hit **Open.** When it's imported, simply drag the clip to the Timeline below.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![import media files filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 Step3 Next, head over to **Titles** and search for "3D". Select any option you like and drag it to the Timeline, above your background clip.
@@ -126,10 +153,16 @@ Step3 Next, head over to **Titles** and search for "3D". Select any option you l
 
 Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its settings. Type in your custom text, change its font, color, and other features.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Creating 3D text with Photoshop is a good idea if you already know how to use the tool. If not, it's always smarter to use a simpler alternative that's much easier to use. As long as you get the same professional results, there's no reason not to use Filmora. In fact, there are many more benefits than drawbacks.
@@ -157,3 +190,74 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-blitz-photo-screening-for-windows-users/"><u>[New] 2024 Approved  Blitz Photo Screening for Windows Users</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-boost-traffic-to-your-videos-top-seo-practices-for-youtube-success/"><u>[New] 2024 Approved  Boost Traffic to Your Videos  Top SEO Practices for YouTube Success</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-discover-the-secret-to-turning-iphone-pics-around/"><u>[New] 2024 Approved  Discover the Secret to Turning iPhone Pics Around</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-magnetizing-meme-manufacturer/"><u>[New] 2024 Approved  Magnetizing Meme Manufacturer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-capture-with-clarity-advanced-tips-for-gopro-hero5-black-for-2024/"><u>[New] Capture with Clarity  Advanced Tips for GoPro Hero5 Black for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-essence-of-virtual-story-delivery/"><u>[New] Essence of Virtual Story Delivery</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-fusing-melody-with-moments-music-and-voiceovers-in-reels-for-2024/"><u>[New] Fusing Melody with Moments  Music & Voiceovers in Reels for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-essential-themes-and-backdrops-for-a-stylish-laptop/"><u>[New] In 2024, Essential Themes & Backdrops for a Stylish Laptop</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-optimizing-profile-visibility-in-snapchats-focus/"><u>[New] In 2024, Optimizing Profile Visibility in Snapchat's Focus</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-ultimate-8-camera-showdown-excellence-in-broadcasting/"><u>[New] In 2024, Ultimate 8 Camera Showdown  Excellence in Broadcasting</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-venturing-into-virtual-steps-top-treadmill-analysis/"><u>[New] In 2024, Venturing Into Virtual Steps  Top Treadmill Analysis</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-obs-and-instagram-integration-the-essential-how-to-manual/"><u>[New] OBS and Instagram Integration  The Essential How To Manual</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-pricepoint-nimbus-economical-mass-storage-haven-for-2024/"><u>[New] PricePoint Nimbus - Economical Mass Storage Haven for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streaming-showdown-the-podcast-challenge-to-youtubes-dominance/"><u>[New] Streaming Showdown  The Podcast Challenge to YouTube’s Dominance</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-complete-guide-to-preserving-ps4-gameplay-moments/"><u>[New] The Complete Guide to Preserving PS4 Gameplay Moments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-innovative-mobile-layering-apps-for-android-and-iphone/"><u>[New] Top 10 Innovative Mobile Layering Apps for Android & iPhone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-10-uplifting-films-for-momentum-and-motivation/"><u>[New] Top 10 Uplifting Films for Momentum & Motivation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-premier-pro-templates-for-the-year-2023-for-2024/"><u>[New] Top Premier Pro Templates for the Year 2023 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-under-100-investments-in-action-cameras-top-selections-for-2024/"><u>[New] Under $100 Investments in Action Cameras – Top Selections for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-visual-treasures-top-10-free-image-stores/"><u>[New] Unlocking Visual Treasures – Top 10 FREE Image Stores</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-15-innovative-choices-for-action-cams-excluding-gopro/"><u>[Updated] 15 Innovative Choices for Action Cams, Excluding GoPro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-alight-motion-comprehensive-review-2023/"><u>[Updated] 2024 Approved  Alight Motion Comprehensive Review 2023</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-becoming-an-expert-at-using-zoom-for-your-windows-pc-win10/"><u>[Updated] 2024 Approved  Becoming an Expert at Using Zoom for Your Windows PC (Win10)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-getting-started-with-windows-movie-maker-6-installs/"><u>[Updated] 2024 Approved  Getting Started with Windows Movie Maker 6 Installs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-photographic-albums-with-soundscape-features/"><u>[Updated] 2024 Approved  Photographic Albums with Soundscape Features</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unlocking-the-potential-storing-insta-media-on-your-phone/"><u>[Updated] 2024 Approved  Unlocking the Potential  Storing Insta Media on Your Phone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-viral-stocks-uncovered-behind-the-photo-stories/"><u>[Updated] 2024 Approved  Viral Stocks Uncovered  Behind the Photo Stories</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-active-screen-capture-pro-does-it-reign-supreme-for-2024/"><u>[Updated] Active Screen Capture Pro  Does It Reign Supreme for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-drawdream-in-depth-analysis-and-teaching-guide-2024/"><u>[Updated] DrawDream In-Depth Analysis & Teaching Guide 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-explore-beyond-youtube-with-these-top-5-video-tools-for-2024/"><u>[Updated] Explore Beyond Youtube with These Top 5 Video Tools for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-fb-watch-icon-recovery-tips-and-tricks-for-2024/"><u>[Updated] FB Watch Icon Recovery - Tips and Tricks for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-how-to-transfer-playlists-between-music-services-a-detailed-guidance/"><u>[Updated] How to Transfer Playlists Between Music Services – A Detailed Guidance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-capturing-the-horizon-expert-techniques-in-drone-filmmaking/"><u>[Updated] In 2024, Capturing the Horizon  Expert Techniques in Drone Filmmaking</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-select-a-youtube-gaming-introduction-maker-free-or-paid-edition/"><u>[Updated] In 2024, How to Select a YouTube Gaming Introduction Maker  Free or Paid Edition</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-iphoneandroid-screen-capture-for-google-meet-participants-for-2024/"><u>[Updated] IPhone/Android Screen Capture for Google Meet Participants for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-10-ultimate-4k-gaming-systems-reviewed/"><u>[Updated] Top 10 Ultimate 4K Gaming Systems Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-30-metaverse-meme-creation-tips-and-trends/"><u>[Updated] Top 30 Metaverse Meme Creation Tips & Trends</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ultimate-frames-per-second-for-slow-clips/"><u>[Updated] Ultimate Frames Per Second for Slow Clips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-10-top-free-online-photo-editor/"><u>2024 Approved  10 Top Free Online Photo Editor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-iphone-software-roundup-selecting-ideal-watermark-tools/"><u>2024 Approved  Expert iPhone Software Roundup  Selecting Ideal Watermark Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-instagram-posting-tips-to-boost-your-podcast-exposure/"><u>2024 Approved  Instagram Posting Tips to Boost Your Podcast Exposure</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-redefining-high-definition-with-samsungs-ubd-k850u-update/"><u>2024 Approved  Redefining High Definition with Samsung's UBD K850U Update</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-tackling-text-transformations-converting-xmlttml-for-voice-outputs/"><u>2024 Approved  Tackling Text Transformations  Converting XML/TTML for Voice Outputs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-upgrade-your-iphone-cinematic-experience-must-have-equipment/"><u>2024 Approved  Upgrade Your iPhone Cinematic Experience  Must-Have Equipment</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-nokia-c32-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-guide-to-reading-understanding-and-playing-epic-and-gog-titles/"><u>A Guide to Reading, Understanding, and Playing Epic & GOG Titles</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ace-video-editing-with-kinemaster-skills-plus-10-leading-online-competitors/"><u>Ace Video Editing with KineMaster Skills + 10 Leading Online Competitors</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/amazon-prime-and-tweet-fandom-most-appreciated-videos-2023/"><u>Amazon Prime and Tweet Fandom - Most Appreciated Videos, 2023</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/audience-allure-identifying-the-top-6-video-types/"><u>Audience Allure  Identifying the Top 6 Video Types</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-settings-audience-focused-screen-shots/"><u>Best Settings  Audience-Focused Screen Shots</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elite-editing-experience-ranked-top-6-tools-for-macos-big-surs-videos/"><u>Elite Editing Experience  Ranked Top 6 Tools for macOS Big Sur's Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/experience-unparalleled-text-design-with-top-5-downloadable-platforms/"><u>Experience Unparalleled Text Design with Top 5 Downloadable Platforms</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/facebook-videos-stop-buffering-and-glitches-on-devices-for-2024/"><u>Facebook Videos  Stop Buffering & Glitches on Devices for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/from-novice-to-newsmaker-crafting-viral-memes-in-9gag/"><u>From Novice to Newsmaker  Crafting Viral Memes in 9GAG</u></a></li>
+<li><a href="https://network-issues.techidaily.com/god-of-thunders-triumph-revealed/"><u>God of Thunder’s Triumph Revealed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-create-insta-highlight-cover-photos-an-ultimate-guide/"><u>How to Create Insta Highlight Cover Photos  An Ultimate Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-apple-iphone-11-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On Apple iPhone 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-samsung-galaxy-s24plus-lock-screen-password-by-drfone-android/"><u>How to Reset your Samsung Galaxy S24+ Lock Screen Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-se-using-macos-finder-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone SE using macOS finder</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-tips-and-insights-for-successful-spotify-marketing/"><u>In 2024, Tips and Insights for Successful Spotify Marketing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/navigating-new-laptop-features-with-m1-max-clips-for-2024/"><u>Navigating New Laptop Features with M1 Max Clips for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimized-note-recording-on-mematic-app-for-2024/"><u>Optimized Note Recording on Mematic App for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/restore-windows-photo-viewer-quick-effective-ways-for-win10-for-2024/"><u>Restore Windows Photo Viewer  Quick, Effective Ways for Win10 for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/soundscape-storytelling-at-its-best-for-2024/"><u>Soundscape Storytelling at Its Best for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unboxing-the-future-a-review-of-polaroid-camplus-cubeplus/"><u>Unboxing the Future  A Review of Polaroid Cam+ Cube+</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unique-expression-modifying-voices-on-instagram-media-features-for-2024/"><u>Unique Expression  Modifying Voices on Instagram Media Features for 2024</u></a></li>
+</ul></div>

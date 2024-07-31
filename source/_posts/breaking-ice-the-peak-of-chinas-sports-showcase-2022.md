@@ -1,7 +1,7 @@
 ---
 title: "\"Breaking Ice  The Peak of China's Sports Showcase, 2022\""
-date: 2024-06-06T05:43:39.311Z
-updated: 2024-06-07T05:43:39.311Z
+date: 2024-07-30T20:31:43.106Z
+updated: 2024-07-31T20:31:43.106Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,9 @@ The grand opening ceremony was held on 4th February and the grand closing will b
 
 American snowboarder Lindsey Jacobellis wins the gold medal in the women's snowboard cross at Beijing Winter Olympics. She broke the deadlock for the United States at Winter Olympics by giving her country the first gold. In fact, Lindsey Jacobellis had to wait 16 years to wind her maiden gold at the Olympics.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lindsey jacobellis wins the gold medal](https://images.wondershare.com/filmora/article-images/lindsey-jacobellis-wins-the-gold-medal.jpg)
 
 Lindsey Jacobellis become a viral internet figure after her premature celebration at Turin 2006 Winter Olympics that cost her medal at the event. The 36-year-old snowboarder has now become the oldest American to win a gold medal at Winter Games.
@@ -40,14 +43,23 @@ Nathan Chen of the United States set a world-record score in men's figure skatin
 
 Chen won the gold medal in men's figure skating with a combined score of 332.60 in the short program and free skate competitions. The defending champion Yuzuru Hanyu was not even in the top three and did not manage to win any medal which is naturally a major disappointment. On the contrary, Chen was elated and said that his performance is close to his best and that we could see even better performance going ahead.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Nina O'Brien Suffered a Terrifying Crash
 
 Injuries are part of sports events but some injuries are gruesome and are results of terrifying crashes. Team USA alpine racer Nina O'Brien was the victim of a terrifying crash this year at Winter Olympics. During her second run at the women's giant slalom event, she suffered a gruesome leg injury.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![nina obrien](https://images.wondershare.com/filmora/article-images/nina-obrien-suffered-a-terrifying-crash.jpg)
 
 She lost her balance before she could cross the finishing line and she slid across the finish. She was screaming in pain as she left the event on a stretcher. The good news is that she is alert and responding. She has returned home to Colorado and she has received a warm welcome back home.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## 4\. US-Born Eileen Gu Wins Gold for China
 
 Born in America, Eileen Gu represented China at Winter Olympics and managed to win the gold medal in the inaugural freeski big air event. Therefore, she will go down in the history as the first woman to win the gold medal for freeski big air event. She stunned everyone by completing two off-axis rotations in the air.
@@ -72,6 +84,9 @@ Yan Wengang becomes the first medalist from China in a sliding sport. In a four-
 
 The competitiveness of Wengwang has made him the first medalist for China in men's skeleton. The 24-year-old Tianjin native was happy as well as disappointed after the competition. With a fighting spirit, he gave everything he had in the last heat. His victory makes only the second time when a non-North American or non-European stood on the Olympic podium for skeleton.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## 7\. Chloe Kim Wins Second Straight Olympic Gold
 
 21-year-old Chloe Kim became back-to-back Olympic champion by dominating in the halfpipe. The American confirmed a gold medal on the first run itself. Her runs had 1080, a switch 900, and a switch backside of 540\. It further added another 1080\. She dominated the Snowboarding Women's Halfpipe Final with 94 points. Spain's Queralkt Castellet won silver and the bronze went to Sena Tomita of Japan.
@@ -80,10 +95,16 @@ The competitiveness of Wengwang has made him the first medalist for China in men
 
 With the triumph, she joins Shaun White to be the only snowboarders to successfully defend their Olympic title. Following the victory, she was overwhelmed and emotional. Despite having the worst practice before the final, Kim went on to create history.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Ukrainian Athlete Shows ‘No War' Sign During Skeleton Event
 
 We are all aware of the tensions between Ukraine and Russia are at their peak and there are many experts who believe the countries are on the verge of declaring war. Even though The Winter Olympics should have ideally been an apolitical event, Ukrainian skeleton athlete Vladyslav Heraskevych flashed a sign that read “No War in Ukraine” to spark a political controversy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ukrainian athlete](https://images.wondershare.com/filmora/article-images/ukrainian-athlete.jpg)
 
 He showed the sign directly to the cameras after he finished his run at Beijing Olympics. It remains to be seen if any penalty will be imposed on him but Heraskevych has said that he is ready to face any repercussion even though he hopes that the Olympics will support him instead.
@@ -92,14 +113,23 @@ He showed the sign directly to the cameras after he finished his run at Beijing 
 
 US skater Vincent Zhou has tested positive for coronavirus and therefore, he is out of the Winter Olympics. Naturally, Zhou was in tears and extremely emotional as he was a top medal contender. He did take part in the team free skate event but he struggle to perform at his best even though the US team managed to win silver at the event.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![american favorite out of the tournament](https://images.wondershare.com/filmora/article-images/american-favorite-out-of-the-tournament.jpg)
 
 Zhou is considering the silver win as a consolation prize but he could not showcase his brilliance at the singles competitions. However, he said that he would prepare for the Winter Olympics in Milan and make a bigger comeback the world has not seen yet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## 10\. Russian Figure Skater Tests Positive for Banned Substance
 
 Doping scandals have become a part of the Olympics and this year is no different. According to International Testing Agency, Russian skater Kamila Valieva failed the doping test. On further examination, she tested positive for a performance-enhancing banned substance. She was told that she could not train, compete and participate during the Olympic Winter Games.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![russian figure skater](https://images.wondershare.com/filmora/article-images/russian-figure-skater.jpg)
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
@@ -122,3 +152,49 @@ However, due to some miscommunication, she was allowed to be a participant in th
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-in-depth-video-studio-analysis-comprehensive-xreview-guide/"><u>[New] 2024 Approved  In-Depth Video Studio Analysis  Comprehensive XReview Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-mastery-guide-on-the-world-of-voice-recordings/"><u>[New] 2024 Approved  Mastery Guide on the World of Voice Recordings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-vr-innovation-showcase-latest-upgrades/"><u>[New] 2024 Approved  VR Innovation Showcase - Latest Upgrades</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-comprehensive-guide-to-microsoft-azure-transcription-service/"><u>[New] Comprehensive Guide to Microsoft Azure Transcription Service</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-comprehensive-strategies-for-overwatch-gaming-saves/"><u>[New] In 2024, Comprehensive Strategies for Overwatch Gaming Saves</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-from-basics-to-best-achieving-superior-sound-via-zoom-for-podcasting/"><u>[New] In 2024, From Basics to Best  Achieving Superior Sound via Zoom for Podcasting</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-from-lurk-to-leader-a-guide-to-impactful-reddit-interaction/"><u>[New] In 2024, From Lurk to Leader  A Guide to Impactful Reddit Interaction</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-guffaw-on-your-phone-hysterical-site-listings/"><u>[New] In 2024, Guffaw on Your Phone  Hysterical Site Listings</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-low-cost-screen-recorder-guide-for-old-computers/"><u>[New] In 2024, Low-Cost Screen Recorder Guide for Old Computers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-innovative-digital-editing-software-without-cost/"><u>[New] Innovative Digital Editing Software Without Cost</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-kinemasters-guide-to-fluid-film-segments/"><u>[New] Kinemaster's Guide to Fluid Film Segments</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-quest-for-the-ultimate-virtual-world-starts-here-htc-vive-for-2024/"><u>[New] The Quest for the Ultimate Virtual World Starts Here  HTC Vive for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transforming-photos-remove-background-with-ease/"><u>[New] Transforming Photos  Remove Background with Ease</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unveiling-youtubes-new-era-post-vidcon-events/"><u>[New] Unveiling Youtube's New Era  Post-VidCon Events</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-auditory-aesthetics-crafting-perfect-sounds-for-insta/"><u>[Updated] 2024 Approved  Auditory Aesthetics  Crafting Perfect Sounds for Insta</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-editorial-efficiency-m1s-smooth-performance-unveiled/"><u>[Updated] 2024 Approved  Editorial Efficiency  M1's Smooth Performance Unveiled</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-gif-creation-step-by-step-guide/"><u>[Updated] 2024 Approved  Mastering GIF Creation  Step-by-Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-revolutionize-your-memes-with-these-7-top-gif-creation-techniques/"><u>[Updated] 2024 Approved  Revolutionize Your Memes with These 7 Top GIF Creation Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-complete-guide-to-producing-professional-gopro-video-content/"><u>[Updated] 2024 Approved  The Complete Guide to Producing Professional GoPro Video Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-financial-overview-total-investment-for-music-clip-shootings-for-2024/"><u>[Updated] Financial Overview  Total Investment for Music Clip Shootings for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-fostering-duets-tiktok-vocal-pairings/"><u>[Updated] Fostering Duets  TikTok Vocal Pairings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-change-the-netflix-video-playback-speed-on-computer-and-mobile/"><u>[Updated] How to Change the Netflix Video Playback Speed on Computer and Mobile?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-breakthrough-beginnings-in-panzoids/"><u>[Updated] In 2024, Breakthrough Beginnings in Panzoids</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-leading-digital-background-switchers-shutterfix-excellence/"><u>[Updated] In 2024, Leading Digital Background Switchers  ShutterFix Excellence</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-secrets-to-successful-scrape-mass-tiktok-videos/"><u>[Updated] In 2024, Secrets to Successful Scrape  Mass TikTok Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unleash-creativity-a-deep-dive-into-metaverse-meme-culture-for-2024/"><u>[Updated] Unleash Creativity  A Deep Dive Into Metaverse Meme Culture for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-youtube-editing-101-incorporating-time-markers-for-2024/"><u>[Updated] YouTube Editing 101  Incorporating Time Markers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-effortless-streaming-to-facebook-audiences-using-zoom/"><u>2024 Approved  Effortless Streaming to Facebook Audiences Using Zoom</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-navigating-the-maze-to-find-your-ideal-4k-screen/"><u>2024 Approved  Navigating the Maze to Find Your Ideal 4K Screen</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-tier-free-memes-for-everyday-chuckles/"><u>2024 Approved  Top-Tier Free Memes for Everyday Chuckles</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/a-comprehensive-guide-to-mastering-video-editing-tools-like-movie-maker-w11-for-2024/"><u>A Comprehensive Guide to Mastering Video Editing Tools Like Movie Maker W11 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/drone-enhancement-kit-10-indispnible-components/"><u>Drone Enhancement Kit - 10 Indispnible Components</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-crafting-artful-iphone-snaps-master-these-top-10-design-tactics/"><u>In 2024, Crafting Artful iPhone Snaps - Master These Top 10 Design Tactics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-enhance-your-virtual-stage-the-ultimate-list-of-top-6-microphones/"><u>In 2024, Enhance Your Virtual Stage  The Ultimate List of Top 6 Microphones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-gelato-gurus-guide-step-by-step-to-sweet-screen-recording/"><u>In 2024, Gelato Guru's Guide  Step-by-Step to Sweet Screen Recording</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-monumental-movies-and-more-a-comprehensive-look-at-the-lg-31mu97-b-model/"><u>In 2024, Monumental Movies and More  A Comprehensive Look at the LG 31MU97-B Model</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-basic-blueprint-for-win-based-fishy-vocal-shifts/"><u>In 2024, The Basic Blueprint for Win-Based Fishy Vocal Shifts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-iphone-13-pro-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone 13 Pro Max in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/parrot-ar-drone-enhanced-a-compreayer-report/"><u>Parrot AR Drone Enhanced - A Compreayer Report</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/prime-color-balancer-suite-for-2024/"><u>Prime Color Balancer Suite for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quick-conversion-tips-using-vlc-for-mpeg-4-and-beyond/"><u>Quick Conversion Tips Using VLC for MPEG-4 and Beyond</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unveiling-best-video-software-vlc-against-mx/"><u>Unveiling Best Video Software  VLC Against MX</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Capturing the World in HD with YI's 4K Camera for 2024"
-date: 2024-06-06T02:36:59.060Z
-updated: 2024-06-07T02:36:59.060Z
+date: 2024-07-30T16:30:28.987Z
+updated: 2024-07-31T16:30:28.987Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/f99b0547d8a95f637159e251c131a6578ae71b255
 
 # YI 4K Action Camera Review
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -30,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/f99b0547d8a95f637159e251c131a6578ae71b255
 
 **You may also like:** [Top 15 Best Action Cameras >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Complete Review for Yi 4k Action Camera
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01FU9ZIMU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FU9ZIMU&linkId=8ffea9b2da130000b205cf9367ce3ccf
@@ -39,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/f99b0547d8a95f637159e251c131a6578ae71b255
 
  Let us start with the hardware part. Yi 4k looks almost same as that of GoPro device, even the waterproof case appears somewhat like GoPro product. Some resemblance is found in mobile applications as well as in mounting systems. The front side of Yi 4k is equipped with a lens and LED that provides current camera status indication. The 2.2 inch wide LCD screen is protected with Gorilla Glass whereas on top portion you will find holes for speaker and dual microphone. On the right side, a small flap is covering MicroUSB charging port and the left side is left bare.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![yi-4k-product](https://images.wondershare.com/filmora/article-images/yi-4k-product.jpg)
 
 #### Specifications
@@ -73,6 +82,9 @@ thumbnail: https://thmb.techidaily.com/f99b0547d8a95f637159e251c131a6578ae71b255
 
  Want to know more about the best accessories for Xiaomi Yi 4K action camera? Check [Best Accessories for YI 4K Action Camera in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![yi-4k-unboxing-](https://images.wondershare.com/filmora/article-images/yi-4k-unboxing-.jpg)
 
 #### Features
@@ -129,6 +141,9 @@ thumbnail: https://thmb.techidaily.com/f99b0547d8a95f637159e251c131a6578ae71b255
 
  Need more information?[Check GoPro Hero5 Black vs Xiaomi Yi 4K Action Camera](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -155,3 +170,65 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-a-beginners-guide-choosing-your-first-film-camera/"><u>[New] 2024 Approved  A Beginner's Guide  Choosing Your First Film Camera</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-how-to-optimize-your-video-watching-enabledisable-pip-in-youtube-ios/"><u>[New] 2024 Approved  How to Optimize Your Video Watching  Enable/Disable PIP in Youtube iOS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-a-guide-to-seamless-video-integration-pip-techniques-for-mac-users/"><u>[New] A Guide to Seamless Video Integration  PIP Techniques for Mac Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-a-journey-from-prose-to-picture-play/"><u>[New] A Journey From Prose to Picture Play</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-beyond-the-headset-global-vr-evolution/"><u>[New] Beyond the Headset  Global VR Evolution</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-capturing-history-securely-saving-old-printed-images/"><u>[New] Capturing History  Securely Saving Old Printed Images</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-digital-stills-and-snaps-recorder/"><u>[New] Digital Stills & Snaps Recorder</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-exclusive-guide-to-high-performing-screens-for-xbox-series-x-gaming-for-2024/"><u>[New] Exclusive Guide to High-Performing Screens for Xbox Series X Gaming for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-immerse-in-ideas-multitasking-activities-for-podcast-fans-for-2024/"><u>[New] Immerse in Ideas  Multitasking Activities for Podcast Fans for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-guide-to-fade-out-music-in-premiere-pro/"><u>[New] In 2024, Guide To Fade Out Music In Premiere Pro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-kiddo-cars-miniature-mayhem-matches/"><u>[New] In 2024, Kiddo Cars  Miniature Mayhem Matches</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-symbolize-your-brand-exclusive-access-to-free-customizable-logos/"><u>[New] In 2024, Symbolize Your Brand  Exclusive Access to Free, Customizable Logos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-visual-tools-of-2024-the-ultimate-monitors-list/"><u>[New] Innovative Visual Tools of 2024  The Ultimate Monitors List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-journeying-together-on-the-big-screen-top-10-family-movies/"><u>[New] Journeying Together on the Big Screen  Top 10 Family Movies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-music-meets-video-three-inexpensive-iphone-tips-for-enhanced-clips-for-2024/"><u>[New] Music Meets Video  Three Inexpensive iPhone Tips for Enhanced Clips for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-navigating-copyright-regulations-before-you-upload-on-tiktok/"><u>[New] Navigating Copyright Regulations Before You Upload on TikTok</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-streamline-your-videos-with-these-titans/"><u>[New] Streamline Your Videos with These Titans</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-best-waterproof-cameras-for-kids-filmmaking-and-splash-fun-for-2024/"><u>[Updated] Best Waterproof Cameras For Kids' Filmmaking and Splash Fun for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-essential-guide-to-implementing-filters-in-media-for-2024/"><u>[Updated] Essential Guide to Implementing Filters in Media for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-from-blurry-to-sharp-mastering-vce-version-22/"><u>[Updated] From Blurry to Sharp  Mastering VCE Version 2.2</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-funnyframe-generator-for-2024/"><u>[Updated] FunnyFrame Generator for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-best-budget-gaming-accessories-keyboards-and-mice-under-99/"><u>[Updated] In 2024, Best Budget Gaming Accessories  Keyboards & Mice Under $99</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-digital-symphony-recording-on-a-mac/"><u>[Updated] In 2024, Digital Symphony  Recording on a Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-gopro-camera-rewind-selecting-superior-sd-cards-hero-7-8/"><u>[Updated] In 2024, GoPro Camera Rewind  Selecting Superior SD Cards (Hero 7, 8)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-navigating-iphones-with-ease-download-podcasts-made-simple/"><u>[Updated] In 2024, Navigating iPhones with Ease - Download Podcasts Made Simple</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-navigating-through-video-editing-delight-filmoras-core-traits/"><u>[Updated] In 2024, Navigating Through Video Editing Delight  Filmora's Core Traits</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-top-3-ways-to-use-zoom-video-converter/"><u>[Updated] In 2024, Top 3 Ways to Use Zoom Video Converter</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-isolating-pictures-from-video-frames-in-photos-app/"><u>[Updated] Isolating Pictures From Video Frames in Photos App</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mac-audio-sync-for-screen-captures-for-2024/"><u>[Updated] Mac Audio Sync for Screen Captures for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-maximizing-podcast-discoverability-through-effective-seo-for-2024/"><u>[Updated] Maximizing Podcast Discoverability Through Effective SEO for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-pioneering-photography-with-advanced-software-for-2024/"><u>[Updated] Pioneering Photography with Advanced Software for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-professional-looking-gopro-videos-without-shakiness/"><u>[Updated] Professional-Looking GoPro Videos without Shakiness</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-15-whatsapp-tricks-that-will-change-everything/"><u>[Updated] Top 15 WhatsApp Tricks That Will Change Everything</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-transform-your-video-presentation-with-updated-covers/"><u>[Updated] Transform Your Video Presentation with Updated Covers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-an-insiders-view-on-creating-effective-slug-lines/"><u>2024 Approved  An Insider's View on Creating Effective Slug Lines</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-essential-budget-gaming-hardware-the-ultimate-keyboard-list/"><u>2024 Approved  Essential Budget Gaming Hardware  The Ultimate Keyboard List</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-integrating-voices-into-videos-effectively/"><u>2024 Approved  Integrating Voices Into Videos Effectively</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-art-of-increasing-indoor-ambiance-via-sunlight/"><u>2024 Approved  The Art of Increasing Indoor Ambiance via Sunlight</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-why-are-my-instagram-videos-playing-sideways-seeking-answers/"><u>2024 Approved  Why Are My Instagram Videos Playing Sideways - Seeking Answers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/alternative-software-for-laptoppc-video-editing-for-2024/"><u>Alternative Software for Laptop/PC Video Editing for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/boosting-visual-impact-the-11-best-practices-for-color-workflow-for-2024/"><u>Boosting Visual Impact  The 11 Best Practices for Color Workflow for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/exploring-whatsapp-voice-chat-features/"><u>Exploring WhatsApp Voice Chat Features</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/fundamental-concepts-of-cyber-narratives/"><u>Fundamental Concepts of Cyber Narratives</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-s17e-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo S17e in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo Y200? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-comprehensive-examination-videon-x-the-ultimate-video-editor/"><u>In 2024, Comprehensive Examination  Videon X – The Ultimate Video Editor</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-11-prowindowsmac-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account with or without Password from your Apple iPhone 11 Pro/Windows/Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-troubleshooting-streaming-issues-on-mac-with-mixer/"><u>In 2024, Troubleshooting Streaming Issues on Mac with Mixer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-ultimate-voice-changer-for-valorant-gamers-free-to-use/"><u>In 2024, Ultimate Voice Changer for Valorant Gamers – Free to Use</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/justifying-itop-as-your-primary-recording-software-for-2024/"><u>Justifying ITop as Your Primary Recording Software for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/love-the-cut-filmoras-top-10-edits-unveiled-for-2024/"><u>Love the Cut  Filmora's Top 10 Edits Unveiled for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-video-cuts-for-instagram-feed-for-2024/"><u>Mastering Video Cuts for Instagram Feed for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/paint-picture-humor-for-2024/"><u>Paint Picture Humor for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/photographic-precision-the-ultimate-list-of-photo-framing-software/"><u>Photographic Precision  The Ultimate List of Photo Framing Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/precision-video-correction-eradicating-fish-eye-from-gopro/"><u>Precision Video Correction  Eradicating Fish Eye From GoPro</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/samsung-ue590-review-top-tier-4k-uhd-tv-for-gamers/"><u>Samsung UE590 Review - Top-Tier 4K UHD TV for Gamers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-guide-to-respecting-musicians-rights-on-ig/"><u>The Ultimate Guide to Respecting Musicians' Rights on IG</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Process to Get a Clean Canvas in Figma\""
-date: 2024-06-06T04:18:59.653Z
-updated: 2024-06-07T04:18:59.653Z
+date: 2024-07-30T18:42:47.982Z
+updated: 2024-07-31T18:42:47.982Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,9 @@ As aforementioned, **Figma** does not offer a **Background Remover** tool but co
 
 Since you want to remove the image's background, there is no better plugin than [Wondershare PixCut](https://pixcut.wondershare.com/), a free tool that helps you erase your picture's BG instantly. With this plugin, you can edit up to files per day, and that too in high-quality resolution.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ### Why Use The PixCut Tool?
 
 Here's how the PixCut tool stands out from the rest of the image editing tools available in the digital market:
@@ -52,12 +55,18 @@ This function lets you use brushstrokes to remove watermarks from your target pi
 
 With its Image Englargement feature, you can expand the size of your picture up to 400% without losing the quality.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ### How to use PixCut to remove the background in Figma
 
 Here's how you can get the PixCut plugin in Figma and use it to remove the background in just three simple steps:
 
 Step1 First, open a browser, visit the [Figma website](https://www.figma.com), and sign in to your account. On the main page, click **"Import File,"** select your image from your PC and click **"Open"** to upload it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![importing image to figma to remove background](https://images.wondershare.com/filmora/article-images/2023/03/importing-image-to-figma-to-remove-background.png)
 
 Once the import process is complete, click **"Done"** in the pop-up window and open your image. Now, click the "**Main Menu"** icon and choose **"Plugins" > "Find More Plugins"** from the drop-down menu.
@@ -83,6 +92,9 @@ Follow these tips to remove the background of images with transparent or solid c
 * When saving your images from programs like Photoshop, make sure to save them with transparent background. This way, when you import it to Figma, the BG will be removed automatically.
 * If your image has a solid background, import it to Figma and use the **"Edit Color"** tool to change the BG to transparent.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### (2) 3 Other Figma Plugins
 
 You can use the following **Figma plugins to remove the image background**:
@@ -103,8 +115,14 @@ Step2 **Right-click** on the image in the editor and click **"Plugins."**
 
 Step3 Select **"Find More Plugins"** and use the search option in the pop-up window to find the plugin you need.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### (3) Using Online Removers
 
 Another alternative is to use any tool that **removes the image background online**. For example, we recommend using the [Remove BG tool](https://www.remove.bg/).
@@ -115,6 +133,9 @@ To use the Remove BG tool, visit its website, drop your image file, or click the
 
 Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we've explored the step-by-step process of how to remove background in Figma using the PixCut plugin. We've also explained the reasons why you should use this tool.
@@ -141,6 +162,9 @@ Another alternative is to use any tool that **removes the image background onlin
 
 To use the Remove BG tool, visit its website, drop your image file, or click the **"Upload"** option to import your file. Now, wait for the program to process your image and then click **"Download"** to save your picture. Afterward, you can import it to Figma for further editing.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Video Tutorial - How to remove background from images in Figma in 2minutes
 
 Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
@@ -176,3 +200,53 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-mastery-in-mac-screen-capture-format-conversion/"><u>[New] 2024 Approved  Mastery in Mac  Screen Capture Format Conversion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-decoding-advanced-image-editing-the-role-of-luts-in-cs6-for-2024/"><u>[New] Decoding Advanced Image Editing  The Role of LUTs in CS6 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-best-budget-asmr-mic-stellar-sound-value/"><u>[New] In 2024, Best Budget ASMR Mic  Stellar Sound Value</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-next-level-android-for-3d-video-enthusiasts/"><u>[New] In 2024, Next-Level Android for 3D Video Enthusiasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-quick-play-music-10-best-apps-phones/"><u>[New] In 2024, Quick Play Music  10 Best Apps, Phones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-top-ten-frame-enhancers-for-visual-artistry/"><u>[New] In 2024, Top Ten Frame Enhancers for Visual Artistry</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-insta-prowess-guide-the-9-secrets-behind-top-posters-success/"><u>[New] Insta Prowess Guide  The 9 Secrets Behind Top Posters' Success</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-iphone-time-lapse-101-minimizing-wait-times-for-2024/"><u>[New] IPhone Time Lapse 101  Minimizing Wait Times for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-mobile-streams-on-youtube-less-than-1000-subs-no-problem/"><u>[New] Mobile Streams on YouTube  Less Than 1000 Subs? No Problem</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-ranking-the-greats-top-15-stop-motion-masterpieces/"><u>[New] Ranking the Greats - Top 15 Stop Motion Masterpieces</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ultimate-chorus-conductor-android-edition/"><u>[New] Ultimate Chorus Conductor, Android Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-vr-and-the-future-of-teaching-strategies-for-2024/"><u>[New] VR and the Future of Teaching Strategies for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-a-guide-to-the-finest-apps-for-instagram-reel-creation/"><u>[Updated] 2024 Approved  A Guide to the Finest Apps for Instagram Reel Creation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-dynamic-dialogues-animated-text-for-instagram-storytellers/"><u>[Updated] 2024 Approved  Dynamic Dialogues  Animated Text for Instagram Storytellers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-constructing-an-affordable-google-vr-helmet-at-home/"><u>[Updated] Constructing an Affordable Google VR Helmet at Home</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-cutting-edge-design-practices-for-career-advancement/"><u>[Updated] Cutting-Edge Design Practices for Career Advancement</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-cutting-edge-televisions-top-10-4ks-for-2024/"><u>[Updated] Cutting-Edge Televisions – Top 10 4Ks for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-effective-group-meetings-googles-top-solutions-4-for-2024/"><u>[Updated] Effective Group Meetings  Google's Top Solutions (#4) for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-can-i-go-live-on-facebook-for-2024/"><u>[Updated] How Can I Go Live on Facebook for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-create-and-combine-high-dynamic-range-photos-with-lightroom-for-2024/"><u>[Updated] How to Create and Combine High Dynamic Range Photos with Lightroom for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-digital-sound-artists-guide-discovering-no-cost-audio-effect-solutions/"><u>[Updated] In 2024, The Digital Sound Artist's Guide  Discovering No-Cost Audio Effect Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-optimized-motion-the-creme-de-la-liste-of-srt-upgrades-for-pc-and-mac-for-2024/"><u>[Updated] Optimized Motion  The Crème De La Liste of SRT Upgrades for PC and Mac for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-cheerful-footage-extractor-analysis/"><u>2024 Approved  Cheerful Footage Extractor Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-opening-and-playing-srt-files-in-different-oses/"><u>2024 Approved  Opening and Playing SRT Files in Different OSes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-perfect-pitch-in-words-crafting-captivating-podcast-episodes/"><u>2024 Approved  Perfect Pitch in Words  Crafting Captivating Podcast Episodes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-splendid-screenplay-strategies-for-spectaculous-lights/"><u>2024 Approved  Splendid Screenplay  Strategies for Spectaculous Lights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-streamlining-your-figma-project-eliminate-the-unwanted-background/"><u>2024 Approved  Streamlining Your Figma Project  Eliminate the Unwanted Background</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-these-top-5-iphone-friendly-podcast-services/"><u>Discover These Top 5 iPhone-Friendly Podcast Services</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-camon-20-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Camon 20</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-honor-x9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Honor X9a? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-12-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On iPhone 12</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-gamers-selection-top-livestraning-tech-picks/"><u>In 2024, Gamer's Selection  Top Livestraning Tech Picks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-inspire-chuckles-designing-memes-on-kapwing/"><u>In 2024, Inspire Chuckles – Designing Memes on Kapwing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-review-of-yuneecs-aerodrone-typhoon-h-insights-and-results/"><u>In 2024, Review of Yuneec’s AeroDrone Typhoon H  Insights and Results</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-simplified-methods-to-close-unused-social-media-linkedin-account/"><u>In 2024, Simplified Methods to Close Unused Social Media (LinkedIn) Account</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-ultimate-collection-of-elite-cost-free-vfx-and-editing-websites/"><u>In 2024, The Ultimate Collection of Elite, Cost-Free VFX & Editing Websites</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/outro-designs-ending-credits-for-every-budget-for-2024/"><u>Outro Designs  Ending Credits for Every Budget for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/taking-your-photos-and-videos-to-new-heights-for-2024/"><u>Taking Your Photos and Videos to New Heights for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-premier-list-best-android-cloud-saving-options/"><u>The Premier List  Best Android Cloud Saving Options</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-10-forgetful-fun-mobile-idle-escapes-for-2024/"><u>Top 10 Forgetful Fun  Mobile Idle Escapes for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-download-sites-showcasing-exquisite-text-effects-for-2024/"><u>Top Download Sites Showcasing Exquisite Text Effects for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+</ul></div>

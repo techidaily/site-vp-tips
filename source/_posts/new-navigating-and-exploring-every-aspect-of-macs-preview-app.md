@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating and Exploring Every Aspect of Mac's Preview App"
-date: 2024-06-06T04:08:34.808Z
-updated: 2024-06-07T04:08:34.808Z
+date: 2024-07-30T18:29:26.105Z
+updated: 2024-07-31T18:29:26.105Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 
 # How to Use Preview App on Mac
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -30,6 +33,9 @@ The **Preview app** is a built-in program in macOS, and works as a default viewe
 
 That said, the sections below explain **how to use Preview on Mac** for elementary picture editing like rotating, cropping, adding annotations, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
@@ -64,6 +70,9 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -92,6 +101,9 @@ Use the method explained above to open the photo in Preview.
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ### How to Add Text to Image in Preview
 
 The **Preview app** even lets you annotate the images with ease. To add text to a photo:
@@ -108,6 +120,9 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -140,6 +155,10 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -210,3 +229,51 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-audiophiles-pathway-starting-with-the-fade-in-functionality/"><u>[New] 2024 Approved  Audiophile's Pathway  Starting with the Fade-In Functionality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fifa-highlights-and-trends-charting-on-youtube/"><u>[New] 2024 Approved  FIFA Highlights & Trends  Charting on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-modulating-murmurs-for-free-fire-success/"><u>[New] 2024 Approved  Modulating Murmurs for Free Fire Success</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-a-tweet-to-snap-showcase-video-posting-techniques/"><u>[New] A Tweet-to-Snap Showcase  Video Posting Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-industry-standards-prime-gimbals-for-drones/"><u>[New] In 2024, Industry Standards  Prime Gimbals for Drones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-maximizing-your-impact-with-periscope-live/"><u>[New] In 2024, Maximizing Your Impact with Periscope Live</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-pushing-boundaries-with-enhanced-exposure-controls/"><u>[New] In 2024, Pushing Boundaries with Enhanced Exposure Controls</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-mythos-makers-mecca-prime-pantheon-seven-for-2024/"><u>[New] Mythos Makers’ Mecca - Prime Pantheon Seven for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-vr-treadmills-review-for-2024/"><u>[New] Top VR Treadmills Review for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-a-comprehensible-guide-to-srt-fundamentals/"><u>[Updated] 2024 Approved  A Comprehensible Guide to SRT Fundamentals</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-gamers-ultimate-companion-top-5-4k-tvs/"><u>[Updated] 2024 Approved  Gamer's Ultimate Companion  Top 5 4K TVs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-innovative-text-treatments-elevating-ae-titles/"><u>[Updated] 2024 Approved  Innovative Text Treatments  Elevating AE Titles</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-10-steadicam-choices-for-drone-cinematography-pros/"><u>[Updated] 2024 Approved  Top 10 Steadicam Choices for Drone Cinematography Pros</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-best-webcam-tripods-flex-neck-and-stands/"><u>[Updated] Best Webcam Tripods, Flex-Neck and Stands</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-convert-spoken-words-into-text-effortlessly-using-ms-word/"><u>[Updated] Convert Spoken Words Into Text Effortlessly Using MS Word</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-creating-compelling-montage-images-step-by-step-for-2024/"><u>[Updated] Creating Compelling Montage Images Step by Step for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-distinguished-directories-top-online-destinations-for-snapping-alert-tunes/"><u>[Updated] Distinguished Directories  Top Online Destinations for Snapping Alert Tunes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-the-soundscape-strategy-incorporating-melodies-into-vimeo-videos/"><u>[Updated] In 2024, The Soundscape Strategy  Incorporating Melodies Into Vimeo Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-obs-vs-shadowplay-which-to-choose-for-2024/"><u>[Updated] OBS vs ShadowPlay - Which to Choose for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-samsung-outdone-top-cameras-eclipsing-the-gear-360/"><u>[Updated] Samsung Outdone  Top Cameras Eclipsing the Gear 360</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-essentials-of-image-augmentation-inserting-text-into-images-for-pc-and-mac-users/"><u>[Updated] The Essentials of Image Augmentation  Inserting Text Into Images for PC & Mac Users</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-editor-showdown-for-superior-reels/"><u>[Updated] The Ultimate Editor Showdown for Superior Reels</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unraveling-why-imovie-alters-video-borders/"><u>[Updated] Unraveling Why iMovie Alters Video Borders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-vr-in-schools-the-evolving-educational-sphere-for-2024/"><u>[Updated] VR in Schools  The Evolving Educational Sphere for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-15-essential-color-filters-to-elevate-gopro-cinematography/"><u>2024 Approved  15 Essential Color Filters to Elevate GoPro Cinematography</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-top-10-aerial-crews-masters-of-photo-and-film/"><u>2024 Approved  Top 10 Aerial Crews  Masters of Photo & Film</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unleashing-creative-potential-with-instas-bokeh-effects/"><u>2024 Approved  Unleashing Creative Potential with Insta's Bokeh Effects</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/between-audio-and-video-which-platform-takes-the-lead/"><u>Between Audio and Video, Which Platform Takes the Lead?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-nokia-c22-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Nokia C22</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/detailed-guide-to-using-firefoxs-picture-in-picture-mode-for-2024/"><u>Detailed Guide to Using Firefox's Picture-in-Picture Mode for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dissecting-alternatives-to-the-well-known-vlc/"><u>Dissecting Alternatives to the Well-Known VLC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/harmony-in-chat-blending-music-into-status-for-2024/"><u>Harmony in Chat  Blending Music Into Status for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-effortless-image-editing-mastering-background-removal-techniques/"><u>In 2024, Effortless Image Editing  Mastering Background Removal Techniques</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-6s-video-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone 6s Video to Computer? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-iphone-photography-made-easier-with-these-4-blur-techniques/"><u>In 2024, IPhone Photography Made Easier with These 4 Blur Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streaming-showdown-which-superior-broadcaster-tool-are-you/"><u>In 2024, Streaming Showdown  Which Superior Broadcaster Tool Are You?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-ultimate-guide-to-audio-selection-in-video-unboxing/"><u>In 2024, The Ultimate Guide to Audio Selection in Video Unboxing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-top-strategies-for-finding-and-using-a-lost-iphone-x/"><u>In 2024, Top Strategies for Finding & Using a Lost iPhone X</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/joining-the-metaverse-comedy-club-top-20plus-memes-and-techniques/"><u>Joining the Metaverse Comedy Club  Top 20+ Memes & Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-srt-text-management-with-proven-techniques/"><u>Mastering SRT Text Management with Proven Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/periscope-insights-accessibility-costs-and-signup-guide/"><u>Periscope Insights  Accessibility, Costs & Signup Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unending-shutdown-method-how-to-kill-off-youtube-shorts-for-2024/"><u>Unending Shutdown Method  How to Kill Off Youtube Shorts for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/webcam-wizardry-crafting-ultimate-gamer-footage/"><u>WebCam Wizardry  Crafting Ultimate Gamer Footage</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Zoom In on Subject, Scrub Background Cleanly for 2024"
-date: 2024-07-04T22:02:13.297Z
-updated: 2024-07-05T22:02:13.297Z
+date: 2024-07-30T15:05:10.987Z
+updated: 2024-07-31T15:05:10.987Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ Affinity Photo is an image editor developed by Serif Ltd. in 2009 and is used by
 
 No matter you are a professional content creator or a newbie, we'll be discussing how to remove background in Affinity Photo. Let's explore how to use the good editing tool to be free of the stressful editing process.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Remove Affinity Photo to Remove Image's Background
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
@@ -42,6 +45,9 @@ Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and 
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
@@ -56,6 +62,9 @@ Step5 In the last step, press the **"Delete"** key on your keyboard to remove th
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### How to Remove a Busy Background in Affinity Designer
 
 If you want to remove a busy background of an image in the Affinity Designer software, follow these steps carefully:
@@ -81,6 +90,9 @@ Step5 In this last step, you must deselect the outline around your subject. For 
 
 Finally, click **"File"** and select the **"Export"** option from the drop-down menu. Then, in the Export Settings menu, choose PNG and click **"Export"** to save your file on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
@@ -109,6 +121,9 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 This article discusses **removing a background in Affinity Photo**, whether the image has a white or a busy BG.
@@ -119,6 +134,9 @@ And if you have any interests in finding free images to expand your resource, yo
 
 Hopefully, this article and video can help you create ideal images!
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -143,6 +161,9 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 This article discusses **removing a background in Affinity Photo**, whether the image has a white or a busy BG.
@@ -176,3 +197,59 @@ Hopefully, this article and video can help you create ideal images!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-jaunt-vr-a-gateway-to-virtual-worlds/"><u>[New] 2024 Approved  Jaunt VR  A Gateway to Virtual Worlds</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-psycho-social-signal-customization-ps-console-edition/"><u>[New] 2024 Approved  Psycho-Social Signal Customization  PS Console Edition</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-exploring-and-harnessing-twitter-archive-insights/"><u>[New] In 2024, Exploring and Harnessing Twitter Archive Insights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-introductory-insights-crafting-listener-love/"><u>[New] In 2024, Introductory Insights  Crafting Listener-Love</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-maximizing-zoom-visual-precision-effective-strategies/"><u>[New] In 2024, Maximizing Zoom Visual Precision  Effective Strategies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-optimal-techniques-for-verbal-note-taking-expertise/"><u>[New] In 2024, Optimal Techniques for Verbal Note-Taking Expertise</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-ultra-30-action-cam-the-essential-review-of-the-virb-series/"><u>[New] In 2024, Ultra 30 Action Cam  The Essential Review of the VIRB Series</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-photo-memory-locker-at-no-cost-plus-elite-charged-cloud-spheres/"><u>[New] Photo Memory Locker at No Cost, Plus Elite Charged Cloud Spheres</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-rapid-file-transformation-from-srt-to-text-in-minutes/"><u>[New] Rapid File Transformation  From SRT to Text in Minutes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-tunes-prime-sites-for-got-ringtone-downloads/"><u>[New] Top Tunes  Prime Sites for GoT Ringtone Downloads</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-your-quick-guide-to-google-voice-call-history-for-2024/"><u>[New] Your Quick Guide to Google Voice Call History for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-precision-in-every-frame-top-9-tips-for-vr-filmmaking/"><u>[Updated] 2024 Approved  Precision in Every Frame  Top 9 Tips for VR Filmmaking</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-smooth-integration-of-vimeo-videos-into-instagram/"><u>[Updated] 2024 Approved  Smooth Integration of Vimeo Videos Into Instagram</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-game-testers-and-beta-gamers-online-for-2024/"><u>[Updated] Game Testers & Beta Gamers Online for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-2023s-best-free-dvd-players-for-windowsmac-pcs/"><u>[Updated] In 2024, 2023'S Best Free DVD Players for Windows/Mac PCs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-deciphering-your-pathway-to-youtubes-maker-land/"><u>[Updated] In 2024, Deciphering Your Pathway to YouTube's Maker Land</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-discovering-androids-and-ioss-best-rated-wedding-clock-apps/"><u>[Updated] In 2024, Discovering Android's and iOS's Best-Rated Wedding Clock Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-master-the-art-of-9gag-memes-tips-for-creativity-and-impact/"><u>[Updated] In 2024, Master the Art of 9GAG Memes  Tips for Creativity and Impact</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-navigate-motion-sickness-in-virtual-reality-with-ease/"><u>[Updated] In 2024, Navigate Motion Sickness in Virtual Reality with Ease</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-navigating-through-the-world-of-ar-stickers-highlighting-google/"><u>[Updated] In 2024, Navigating Through the World of AR Stickers, Highlighting Google</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-online-meme-maker/"><u>[Updated] In 2024, Online MEME Maker</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-selecting-superior-sound-10-top-mic-recommendations/"><u>[Updated] In 2024, Selecting Superior Sound  10 Top Mic Recommendations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-guide-to-designing-captivating-podcast-logos/"><u>[Updated] In 2024, The Ultimate Guide to Designing Captivating Podcast Logos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-top-10plus-best-free-online-screen-recorders/"><u>[Updated] In 2024, Top 10+ Best Free Online Screen Recorders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-make-your-mark-personalized-brands-zero-price-tag/"><u>[Updated] Make Your Mark - Personalized Brands, Zero Price Tag</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-virtual-havens-of-adventure-but-not-like-gta-for-2024/"><u>[Updated] Virtual Havens of Adventure (But Not Like GTA) for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-budget-friendly-webinar-strategies-for-youtube/"><u>2024 Approved  Budget-Friendly Webinar Strategies for YouTube</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-chortle-chronicles-recording-7-amusing-video-adventures/"><u>2024 Approved  Chortle Chronicles  Recording 7 Amusing Video Adventures</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-elevating-your-gaming-the-xbox-recorder-playbook/"><u>2024 Approved  Elevating Your Gaming  The Xbox Recorder Playbook</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-iphotovidsyncer-seamless-imageplusvideo-playback/"><u>2024 Approved  IPhotoVidSyncer  Seamless Image+Video Playback</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-miniature-movie-dialogue-draft/"><u>2024 Approved  Miniature Movie Dialogue Draft</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-earning-trajectory-of-youtube-star-pewdopeep/"><u>2024 Approved  The Earning Trajectory of YouTube Star PewDoPeep</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-productivity-playlist-podcast-inspired-tasks/"><u>2024 Approved  The Ultimate Productivity Playlist  Podcast-Inspired Tasks</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/delightful-digests-a-list-of-top-food-channels-for-2024/"><u>Delightful Digests  A List of Top Food Channels for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-asus-rog-phone-7-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Asus ROG Phone 7 Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-zte-blade-a73-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from ZTE Blade A73 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-facebook-video-integration-for-pc-and-android-users-explained/"><u>In 2024, Facebook Video Integration for PC & Android Users Explained</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-from-beginner-to-champion-essential-drone-races-tips-and-best-models/"><u>In 2024, From Beginner to Champion  Essential Drone Races Tips and Best Models</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Lenovo ThinkPhone? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unveiling-my-lost-followers-insta-unfollow-check/"><u>In 2024, Unveiling My Lost Followers  Insta Unfollow Check</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-get-ready-to-be-amazed-the-best-4k-video-samples-around/"><u>New 2024 Approved Get Ready to Be Amazed The Best 4K Video Samples Around</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-how-to-use-korean-to-english-video-translators-for-creators/"><u>New 2024 Approved How To Use Korean to English Video Translators for Creators</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/perfecting-film-editing-final-cut-pro-101/"><u>Perfecting Film Editing  Final Cut Pro 101</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/profit-from-reddit-easy-style-top-13-beginner-strategies/"><u>Profit From Reddit Easy Style  Top 13 Beginner Strategies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/strategies-for-effective-content-promotion-on-youtube-for-2024/"><u>Strategies for Effective Content Promotion on YouTube for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-hdr-camera-connoisseurs-handbook-for-2024/"><u>The HDR Camera Connoisseur's Handbook for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-secret-behind-crafting-mesmerizing-slow-motion-media-for-instagram/"><u>The Secret Behind Crafting Mesmerizing Slow Motion Media for Instagram</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-nokia-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Nokia Android SIM Unlock APK</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-voice-generator-in-2024/"><u>What Is an AI Voice Generator, In 2024</u></a></li>
+<li><a href="https://techidaily.com/will-galaxy-s21-fe-5g-2023-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Galaxy S21 FE 5G (2023) play AVCHD mts files?</u></a></li>
+</ul></div>

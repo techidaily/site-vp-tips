@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Heaviest Lifting UAVs  The Definitive Top 10\""
-date: 2024-06-06T04:06:22.227Z
-updated: 2024-06-07T04:06:22.227Z
+date: 2024-07-30T18:26:33.392Z
+updated: 2024-07-31T18:26:33.392Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 
 # Best 10 Heavy Lift Drones
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -30,6 +33,9 @@ There is no doubt that people are using drones for art (photography and film mak
 
 With this rising need of consumers needing more than just a [flying camera](https://tools.techidaily.com/wondershare/filmora/download/) at their disposal, the market for heavy lift drones is starting to reveal itself as a well-served market. This means you will need to know what you are looking for, as there will be many options laid out before you.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Top 10 Heavy lift drones
 
 Here are the best heavy lifting drones available in 2020, broken into over-10 kg and under-10 kg payloads.
@@ -50,6 +56,9 @@ Here are the best heavy lifting drones available in 2020, broken into over-10 kg
 | [FREEFLY ALTA 8](#freefly)                     | 18kg                                    | 16min       |       |
 | [ONYXSTAR HYDRA-12](#hydra12)                  | 12kg                                    | 30min       |       |
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Heavy lifting Drones: Under-10kg payload
 
 #### 1\. Tarot T-18 Ready To Fly Drone
@@ -94,12 +103,19 @@ The DJI's Matrice 100 combines the benefits of an easy-to-fly quadocpter with th
 
 #### 1\. Vulcan UAV Airlift
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![vulcan uav airlift](https://images.wondershare.com/filmora/article-images/vulcan-uav-airlift.jpg)
 
 The Airlift series is one of Vulcan's heaviest lifting drones to date. With the ability to lift and move a payload of about 30 kg, this drone has a tough, and durable frame that allows it to display such extraordinary strength and grace. Its central core is made of transparent tubes which allow users to easily check in on the power systems, while also making sure that all vitals are protected, which makes the Vulcan UAV Airlift the ideal machine for working in rugged environments.
 
 #### 2\. AZ 4K UHD Camera Drone Green Bee 1200
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![az 4k uhd camera drone green bee 1200](https://images.wondershare.com/filmora/article-images/az-4k-uhd-camera-drone-green-bee-1200.jpg)
 
 As the need for drones that can do some seriously heavy lifting has increased, the AZ 4K UHD Camera Drone Green Bee 1200 has stepped up to fill these needs. Whether you are looking to do some heavy lifting in the realm of photography or cinema, or you need a drone that can move your research and development technology around your indoor or outdoor work area, this drone has you covered. With the ability to carry a payload of up to 20 kg, and a flight time of 20 min. per battery, the AZ 4K UHD Camera Drone Green Bee 1200 is going to allow you to master any heavy lifting work situation with ease.
@@ -120,6 +136,9 @@ Building off of an already sturdy line of drones, the Freefly ALTA 8 is the perf
 
 #### 5\. ONYXSTAR HYDRA-12
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![onyxstar hydra-12](https://images.wondershare.com/filmora/article-images/onyxstar-hydra-12.jpg)
 
 The HYDRA-12 was purpose-designed to be able to help you handle heavy payloads with absolute ease. Thanks to its 12 motors, this drone is capable of carrying a payload of up to 12 kg effectively and smoothly. Thanks to the HYDRA-12's ability to carry heavy payloads the possibilities for this drone are nearly endless. What is impossible for many drones on the market, the HYDRA-12 will do with great ease. And with a 30 min. flight time, you will have a lot of time in the air to get your job done.
@@ -152,3 +171,41 @@ Follow @Liza Brown
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-premier-promises-the-art-of-the-podcast-prelude/"><u>[New] 2024 Approved  Premier Promises  The Art of the Podcast Prelude</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-strategic-placement-sites-for-video-marketing/"><u>[New] 2024 Approved  Strategic Placement Sites for Video Marketing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-the-benefits-with-creative-commons-licenses-for-2024/"><u>[New] Harnessing the Benefits with Creative Commons Licenses for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-dji-phantom-3-an-overview-review/"><u>[New] In 2024, DJI Phantom 3 - An Overview Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-find-your-favorite-skype-ringtones-with-these-4-websites/"><u>[New] In 2024, Find Your Favorite Skype Ringtones with These 4 Websites</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-mobiles-best-explore-8-leading-free-mp3-download-applications-for-2024/"><u>[New] Mobile's Best  Explore 8 Leading Free MP3 Download Applications for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ultimate-brainiac-challenge-gk-quizzes-for-2024/"><u>[New] Ultimate Brainiac Challenge - GK Quizzes for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-from-raw-footage-to-final-cut-adopting-luts-in-premiere/"><u>[Updated] 2024 Approved  From Raw Footage to Final Cut  Adopting LUTs in Premiere</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-cutting-edge-hexadrones-leaderboard-for-2024/"><u>[Updated] Cutting-Edge HexaDrones Leaderboard for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-elite-6-software-for-audiovisual-translation/"><u>[Updated] Elite 6 Software for Audio/Visual Translation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-entry-level-sports-cameras-that-dont-break-the-bank/"><u>[Updated] Entry-Level Sports Cameras that Don't Break the Bank</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-total-gaze-coverage-camera-analysis/"><u>[Updated] In 2024, Total Gaze Coverage Camera Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-what-is-public-domain-art/"><u>[Updated] In 2024, What Is Public Domain Art</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-insightful-selection-elite-free-srt-translation-services-for-2024/"><u>[Updated] Insightful Selection  Elite Free SRT Translation Services for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-nba-live-action-your-guide-to-15-effective-livestream-tips-for-2024/"><u>[Updated] NBA Live Action  Your Guide to 15 Effective Livestream Tips for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-powerslide-music-integration-a-comprehensive-guide-for-2024/"><u>[Updated] PowerSlide Music Integration  A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-professional-edge-in-instagram-videos-with-green-screen-tech-for-2024/"><u>[Updated] Professional Edge in Instagram Videos with Green Screen Tech for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-secrets-of-montage-image-assembly/"><u>[Updated] Unveiling the Secrets of Montage Image Assembly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-weaving-pictures-into-a-musical-tapestry/"><u>[Updated] Weaving Pictures Into a Musical Tapestry</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-playing-halted-a6400-video-viewing-woes/"><u>2024 Approved  Playing Halted  A6400 Video Viewing Woes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-saving-linkedin-videos-made-easy-with-this-6-app-selection-guide/"><u>2024 Approved  Saving LinkedIn Videos Made Easy with This 6-App Selection Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-solution-of-iphone-x-face-id-not-working/"><u>2024 Approved  The Ultimate Solution of iPhone X Face ID Not Working</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/achieving-seamless-group-discussions-in-google-chat-for-2024/"><u>Achieving Seamless Group Discussions in Google Chat for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-a2plus-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi A2+ Phones with/without a PC</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-audio-essentials-latest-speakers/"><u>In 2024, Audio Essentials  Latest Speakers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-avoiding-grainy-zoom-videos-techniques-included/"><u>In 2024, Avoiding Grainy Zoom Videos – Techniques Included</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-elite-4k-reflections-the-best-mirrorless-picks/"><u>In 2024, Elite 4K Reflections  The Best Mirrorless Picks</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-10-youtube-video-to-mp3-converter-withwithout-editor/"><u>In 2024, Top 10 YouTube Video to Mp3 Converter With/Without Editor</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-digital-compositing-with-kinemasters-gs-capabilities/"><u>Mastering Digital Compositing with KineMaster's GS Capabilities</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/palette-perfection-the-colorists-manual/"><u>Palette Perfection  The Colorist's Manual</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/professional-4k-at-your-fingertips-benq-bl2711u-uncovered-for-2024/"><u>Professional 4K at Your Fingertips  BenQ BL2711U Uncovered for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/uninterrupted-access-to-9-premium-christmas-films-enjoyment-at-zero-cost/"><u>Uninterrupted Access to 9 Premium Christmas Films  Enjoyment at Zero Cost</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/zoomed-to-glory-with-these-leading-video-editing-titles/"><u>Zoomed to Glory with These Leading Video Editing Titles</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"Exploring Popularity  Stock Images' Meme Journey\""
-date: 2024-06-06T05:44:23.219Z
-updated: 2024-06-07T05:44:23.219Z
+date: 2024-07-30T20:32:38.018Z
+updated: 2024-07-31T20:32:38.018Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,9 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 * It also features on stock image sites such as Imgur, where user “someshitbag” has a gallery post titled Hide-the-pain-Harold. In addition, the page received over 880 thousand views during the first three weeks. Furthermore, it won Imgur's meme of the decade title in 2020 by receiving 10,954 votes (about 20%) of the 54,768 votes cast by Imgurians.
 * The meme appears on social media platforms such as Facebook, 4Chan, and Reddit. For example, a Facebook page titled Maurice has had over 10,000 likes since its creation in January 2014.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![meme appears on social media](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-2.jpg)
 
 * A text-to-speech YouTube video on the meme has over 492,000 views since going live in September 2015.
@@ -51,6 +54,14 @@ Another popular stock image meme is Distracted Boyfriend. It features the stock 
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
 
 According to Meme Documentation, the first version of the Distracted boyfriend theme dates back to January 2017\. Prog Snob, a Turkish progressive rock group on Facebook, posted the meme on their page to reference Phil Collin's distraction from progressive rock by pop music. However, it was the August 2017 Twitter version referencing the youth's feelings towards capitalism and socialism that went viral.
@@ -64,10 +75,16 @@ Since then, the meme continues to enjoy mass popularity, including:
 
 The latest version of Distracted boyfriend is a compilation of photos featuring the three models, with the last one showing the women hanging out.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part3: I Bet He's Thinking About Other Women
 
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
@@ -76,12 +93,19 @@ The meme features a couple in bed with the stock photo meme guy in contemplation
 
 However, subsequent memes feature satirical themes. Here are some of the most popular versions and their popularity.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the most popular versions](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-8.jpg)
 
 A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In this version, the man wonders why there are so many Fast and the Furious movies.
 
 * Redditor GallowBoob received 34,700 points and 350 comments within 24 hours of posting it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
 
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
@@ -90,12 +114,30 @@ The post references the Toy Story character Buzz Lightyear, with the man contemp
 
 According to sources, the stock photo meme was first featured on Twitter in December 2016.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part4: Bonjour Bear
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
 
 Unlike the previous stock image memes, Bonjour Bear was not an instant hit among netizens. The stock image was posted online in 2016 by Uryadnikov Sergey and featured a polar bear peeking through its winter den. However, it began causing a buzz in early 2019, following a Reddit post that included hilarious captions.
@@ -113,6 +155,9 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part5: FAQs
 
 ### 1\. Can you use stock photos for memes?
@@ -160,3 +205,41 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-bright-futures-in-film-revolutionary-setup-tips/"><u>[New] Bright Futures in Film  Revolutionary Setup Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-decoding-advanced-image-editing-the-role-of-luts-in-cs6-for-2024/"><u>[New] Decoding Advanced Image Editing  The Role of LUTs in CS6 for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-reverse-image-search-instagram-for-2024/"><u>[New] How To Reverse Image Search Instagram for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-best-budget-asmr-mic-stellar-sound-value/"><u>[New] In 2024, Best Budget ASMR Mic  Stellar Sound Value</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-integrating-fb-live-on-roku-step-by-step-guide/"><u>[New] In 2024, Integrating FB Live on Roku  Step-by-Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-quick-play-music-10-best-apps-phones/"><u>[New] In 2024, Quick Play Music  10 Best Apps, Phones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-top-ten-frame-enhancers-for-visual-artistry/"><u>[New] In 2024, Top Ten Frame Enhancers for Visual Artistry</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-insta-prowess-guide-the-9-secrets-behind-top-posters-success/"><u>[New] Insta Prowess Guide  The 9 Secrets Behind Top Posters' Success</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-iphone-time-lapse-101-minimizing-wait-times-for-2024/"><u>[New] IPhone Time Lapse 101  Minimizing Wait Times for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ultimate-chorus-conductor-android-edition/"><u>[New] Ultimate Chorus Conductor, Android Edition</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/isualize-your-vision-access-no-cost-templates-for-youtube-creators-for-2024/"><u>[New] Visualize Your Vision – Access No-Cost Templates for YouTube Creators for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-dynamic-dialogues-animated-text-for-instagram-storytellers/"><u>[Updated] 2024 Approved  Dynamic Dialogues  Animated Text for Instagram Storytellers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-revolutionize-unboxing-on-instagram-a-guide-to-popularity/"><u>[Updated] 2024 Approved  Revolutionize Unboxing on Instagram  A Guide to Popularity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-cutting-edge-design-practices-for-career-advancement/"><u>[Updated] Cutting-Edge Design Practices for Career Advancement</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-cutting-edge-televisions-top-10-4ks-for-2024/"><u>[Updated] Cutting-Edge Televisions – Top 10 4Ks for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-enhancing-content-reach-igtv-and-facebook-synergy/"><u>[Updated] Enhancing Content Reach  IGTV & Facebook Synergy</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-create-and-combine-high-dynamic-range-photos-with-lightroom-for-2024/"><u>[Updated] How to Create and Combine High Dynamic Range Photos with Lightroom for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-digital-sound-artists-guide-discovering-no-cost-audio-effect-solutions/"><u>[Updated] In 2024, The Digital Sound Artist's Guide  Discovering No-Cost Audio Effect Solutions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-simplifying-subtitle-addition-in-multilingual-vimeo-video-platforms/"><u>[Updated] Simplifying Subtitle Addition in Multilingual Vimeo Video Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-perfect-pitch-in-words-crafting-captivating-podcast-episodes/"><u>2024 Approved  Perfect Pitch in Words  Crafting Captivating Podcast Episodes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-splendid-screenplay-strategies-for-spectaculous-lights/"><u>2024 Approved  Splendid Screenplay  Strategies for Spectaculous Lights</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/data-sanitization-wisdom-hand-picked-tips-and-analysis-by-data-protection-specialists-at-stellar/"><u>Data Sanitization Wisdom: Hand-Picked Tips and Analysis by Data Protection Specialists at Stellar</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-these-top-5-iphone-friendly-podcast-services/"><u>Discover These Top 5 iPhone-Friendly Podcast Services</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-8-srt-tools-for-streaming-media-files/"><u>Essential 8 SRT Tools for Streaming Media Files</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-to-watch-facebook-videos-on-my-apple-tv-for-2024/"><u>How to Watch Facebook Videos on My Apple TV for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-samsung-galaxy-s23-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Samsung Galaxy S23 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-inspire-chuckles-designing-memes-on-kapwing/"><u>In 2024, Inspire Chuckles – Designing Memes on Kapwing</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-spark-inspiration-free-soundtracks-to-enhance-projects/"><u>In 2024, Spark Inspiration - Free Soundtracks to Enhance Projects!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-ultimate-collection-of-elite-cost-free-vfx-and-editing-websites/"><u>In 2024, The Ultimate Collection of Elite, Cost-Free VFX & Editing Websites</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/outro-designs-ending-credits-for-every-budget-for-2024/"><u>Outro Designs  Ending Credits for Every Budget for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-premier-list-best-android-cloud-saving-options/"><u>The Premier List  Best Android Cloud Saving Options</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-top-5-drones-experts-choice-revealed-for-2024/"><u>Ultimate Top 5 Drones - Expert's Choice Revealed for 2024</u></a></li>
+</ul></div>

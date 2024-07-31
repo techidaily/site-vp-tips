@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Navigating YouTube Feedback  A User Guide\""
-date: 2024-06-06T02:15:30.530Z
-updated: 2024-06-07T02:15:30.530Z
+date: 2024-07-30T16:02:37.629Z
+updated: 2024-07-31T16:02:37.629Z
 tags: 
   - screen-recording
   - ai video
@@ -22,12 +22,19 @@ All social media has a comment section where in those who watch or follow you ar
 
 If you are a content creator who makes product reviews, the comment section is also one that will help the brand. Most brands want to have a voice on matters that affect them. The most powerful way to do that on YouTube is to make amazing videos on topics dear to your heart. But you don't want people to think of you as merely a broadcaster. Social media requires that you be social and make intelligent comments on your videos and those of others, showing that you are trying, and engaging with your audience.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![how to view comments on youtube](https://images.wondershare.com/filmora/article-images/2022/11/how-to-view-comments-on-youtube.jpg)
 
 Unfortunately, when it comes to comment, YouTube can be a little clunky and time consuming especially as your channel grows and you have more comments to respond to.
 
 Want to become the master of moderation? Read on for everything you need to know about comments on YouTube, and get that conversation going. This is another article to help you make the best out of your YouTube channel.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What is YouTube Comment
 
 YouTube comments are an opportunity for the site's 1.7 million unique monthly visitors to share what they love, hate or simply must troll. It's like the internet own personal Thunderdome, but while it can be a place for negativity, YouTube comments can also be a powerful opportunity for positive community building and engagement.
@@ -44,6 +51,9 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Comment on a YouTube Video
 
 Moderating comments that appear on your video is important (and we'll get to the details of that in a minute) but as a brand, you'll want to pipe up with your own commentary, too.
@@ -72,6 +82,9 @@ To manage your comments on YouTube using a PC, the operating system does not mat
 
 Step1 Open your chosen browser, head to YouTube, then sign in to your Google/YouTube account if not already signed in.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
@@ -88,6 +101,9 @@ Step5 To edit your comment, click on the “vertical ellipsis” (three vertical
 
 Step6 Make the necessary edits and choose “Save”.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Highlighted Comments and Replies on YouTube
 
 Among the comments you see on a video, you might notice some that YouTube has labeled “Highlighted Comment.” that label is specific to you, and only appears in your comments list. YouTube that you have a particular interest in a section of comments.
@@ -112,6 +128,9 @@ Retrieve a comment so that you can share it with others outside of YouTube.
 
 Comments history also contains the link to the video where you've left the comment along with the date and time when the comment was made. Clicking on this link will open the video page with your comment highlighted at the top of the comment section.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
 ## Conclusion
@@ -149,3 +168,44 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-master-the-art-of-earning-on-tiktok-a-guide-to-8-proven-techniques/"><u>[New] 2024 Approved  Master the Art of Earning on TikTok  A Guide to 8 Proven Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-quick-clicks-big-grins-the-kinemaster-way/"><u>[New] 2024 Approved  Quick Clicks, Big Grins  The KineMaster Way</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-clickbait-curator-supreme/"><u>[New] Clickbait Curator Supreme</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-eagle-eyed-elites-superior-laptops-for-high-res-video-edits-for-2024/"><u>[New] Eagle-Eyed Elites  Superior Laptops for High-Res Video Edits for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-hdr-editing-essentials-for-pc-users-for-2024/"><u>[New] HDR Editing Essentials for PC Users for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-mac-users-guide-to-stellar-tiktok-beginnings/"><u>[New] In 2024, Mac Users' Guide to Stellar TikTok Beginnings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-minimalists-guide-to-aerial-imagery-with-dji-spark/"><u>[New] The Minimalist's Guide to Aerial Imagery with DJI Spark</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-xbox-live-success-top-four-steps-to-perfect-your-recording-for-2024/"><u>[New] Xbox Live Success  Top Four Steps to Perfect Your Recording for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-your-comprehensible-guide-to-economical-webinars-on-youtube/"><u>[New] Your Comprehensible Guide to Economical Webinars on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-blending-youtube-soundtracks-into-video-essence/"><u>[Updated] 2024 Approved  Blending YouTube Soundtracks Into Video Essence</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-insta-tiktik-mastery-uniting-two-social-giants/"><u>[Updated] 2024 Approved  Insta-TikTik Mastery  Uniting Two Social Giants</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-selecting-sacred-sounds-a-step-by-step-guide/"><u>[Updated] 2024 Approved  Selecting Sacred Sounds  A Step-by-Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-360-camera-rigsmounts-for-vr-video-production/"><u>[Updated] 360 Camera Rigs/Mounts for VR Video Production</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-best-start-up-cameras-from-35mm-to-point-shot/"><u>[Updated] Best Start-Up Cameras From 35Mm to Point-Shot</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-expert-advice-top-ranked-call-alert-creators-for-2024/"><u>[Updated] Expert Advice  Top-Ranked Call Alert Creators for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-get-ready-to-download-best-ios-apps-transforming-fb-videos/"><u>[Updated] Get Ready to Download  Best iOS Apps Transforming FB Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-hilarity-in-a-click-meme-creation-for-2024/"><u>[Updated] Hilarity in a Click (Meme Creation) for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unleashing-potential-vr-innovations-for-fun-and-games/"><u>[Updated] In 2024, Unleashing Potential  VR Innovations for Fun & Games</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-innovative-ways-to-decrease-audio-levels-for-2024/"><u>[Updated] Innovative Ways to Decrease Audio Levels for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-perfecting-gopro-cinematography-with-these-15-luts/"><u>[Updated] Perfecting GoPro Cinematography with These 15 LUTs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-understanding-the-edge-of-av1-in-video-encoding/"><u>[Updated] Understanding the Edge of AV1 in Video Encoding</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-decoding-the-secrets-of-advanced-color-correction-techniques/"><u>2024 Approved  Decoding the Secrets of Advanced Color Correction Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-premier-10-drone-teams-for-cinematic-mastery/"><u>2024 Approved  Premier 10-Drone Teams for Cinematic Mastery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-quick-steps-to-become-a-9gag-meme-genius/"><u>2024 Approved  Quick Steps to Become a 9GAG Meme Genius</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-visual-splendor-of-blade-cameras-in-full-hd/"><u>2024 Approved  The Visual Splendor of Blade Cameras in Full HD</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-vanish-without-a-trace-tips-for-anonymous-instagram-live/"><u>2024 Approved  Vanish Without A Trace  Tips for Anonymous Instagram Live</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-beyond-simple-cuts-deep-insights-into-vidas-editing-power/"><u>In 2024, Beyond Simple Cuts  Deep Insights Into Vida’s Editing Power</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-channel-identity-constructing-memorable-templates-for-gamers/"><u>In 2024, Channel Identity  Constructing Memorable Templates for Gamers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-explore-movies-for-free-simple-video-player-software/"><u>In 2024, Explore Movies for Free  Simple VIDEO Player Software</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-professional-mix-techniques-for-crossfading-sounds-with-audacity/"><u>In 2024, Professional Mix Techniques for Crossfading Sounds with Audacity</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-steps-to-cure-intermittent-obs-frames/"><u>In 2024, Steps to Cure Intermittent OBS Frames</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-seekers-manual-a-comprehensive-approach-to-purchasing-high-definition-monitors/"><u>In 2024, The Seeker's Manual  A Comprehensive Approach to Purchasing High-Definition Monitors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-visual-narrative-crafting-your-podcasts-brand-image/"><u>In 2024, The Visual Narrative  Crafting Your Podcast's Brand Image</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-tips-for-smooth-and-efficient-photo-background-blurring/"><u>In 2024, Tips for Smooth and Efficient Photo Background Blurring</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/navigating-instagrams-video-limit-regulations-for-2024/"><u>Navigating Instagram's Video Limit Regulations for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-seamless-journey-of-filming-and-editing-haul-videos-for-2024/"><u>The Seamless Journey of Filming and Editing Haul Videos for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Capture with Purpose  IPhone's 10 Commandments of Image Design\""
-date: 2024-06-06T04:33:09.868Z
-updated: 2024-06-07T04:33:09.868Z
+date: 2024-07-30T19:01:08.298Z
+updated: 2024-07-31T19:01:08.298Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 # 10 Photography Composition Rules for iPhone
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -28,24 +31,40 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
  Capturing photographs with an iPhone have always been a favorite hobby of community at large. Well, who wouldn’t want to make use of its high quality camera and powerful functionalities to capture the most alluring view! Nevertheless, most of the people fail to take better photos since they don’t know some key photography rules. If you are one of those, all you need to have is little more knowledge on photography composition rules. In today’s post, we have collated 10 golden photography rules that will empower you to steal the view perfectly with your iPhone. So let’s explore and make your photos even more stunning.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Rule of Thirds
 
  The Rule of Thirds consists of a set of guidelines to assist a photographer correctly position the subject in a particular scene. It is meant to draw the attention of the viewer directly towards the subject. According to this rule, the picture is divided into nine equal grids that break the entire image with two vertical and two horizontal lines into vertical and horizontal thirds. As per the Rule of Thirds, the subject should be placed at the intersecting points of the grids.
 
 ![rule of third](https://images.wondershare.com/filmora/article-images/rule-of-third.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Leading Lines
 
  Leading lines add depth and scale to an image by leading the eyes into an image. When you want to capture a road running between two rows of trees, a suspended wooden bridge vanishing at a distant point, leading lines make sure that the picture is taken in such a way that the viewer’s eyes would follow your direction (here, the way you guide them along the rows of trees or the bridge vanishing in the horizon). Leading lines create a great impact on the photographs that you click with your iPhone and don’t let the observer wander away from your subject. The leading lines can be diagonal, straight, zigzag, curvy, or radial.
 
 ![leading lines](https://images.wondershare.com/filmora/article-images/leading-lines.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Symmetry
 
  For the perfect photo composition with an iPhone, one should understand what all make for the right composition. Photographers divide the frame they want to click into rough patterns and position the subject at the right place to get wonderful shots. Both man-made and natural symmetry and patterns represent eye-catching compositions. You can either take a shot following the symmetric patterns or break them to make the subject stand out by adding focal points and tension.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![symmetrical](https://images.wondershare.com/filmora/article-images/Symmetrical.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Framing
 
  When we see a framed photograph, the frame brings out the beauty of the photograph. There are natural and man-made frames lying around. You just need to find that while clicking a picture. Framing the subject with such frames amplifies focus towards it, by isolating it from the world around. You can capture your subject through a hole, an arch, and different shapes and structures that you can visualize at that time.
@@ -62,18 +81,30 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
  Speaking of shape in photography composition sounds odd? ‘Rule of Thirds’ and ‘Leading Lines’ are not the only rules that make a photo composition. Line, shape, texture, form, space, color, and pattern also play a key role to make your iPhone photography a real treasure. Shape defines the two dimensional view of the subject and the entire scene as well. A well defined subject with a silhouette and backlighting or a black and white picture looks more appealing than a color picture where the shape of the subject or other objects is not prominent. Forms and shapes play an integral role in photography.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![shape](https://images.wondershare.com/filmora/article-images/shape.jpg)
 
 ## Leave Empty Space
 
  You may wonder if I leave too much empty space in my photo contradicts the concept of ‘filling the frame’. But, it brings out the best for your iPhone photography when you have a strong subject in your scene. A clutter free and less distractive environment leads the viewers’ focus towards the main subject. You can think of clicking a giant statue against a clear blue sky, where the sky would act as a perfect background for the statue and render a clean look to the empty space.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![space](https://images.wondershare.com/filmora/article-images/Space.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## The Direction of Subject
 
  Like all the photography composition rules, it is important to take note of the direction of the subject in a photograph. This is known as the ‘Rule of Space’ and it leads the viewer towards the subject’s direction of motion. For example, if there is a person walking on the road, then there should be space ahead of him. If there is a person sitting in a bench or rock, he should be clicked facing into the frame, and there should be space in front of him. It will help the viewer’s eyes to go along with the direction he is facing and take notice of the other subjects such as, other people walking in front him, or any pet moving around etc.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![direction](https://images.wondershare.com/filmora/article-images/direction.jpg)
 
 ## Fill Your Frame
@@ -86,6 +117,9 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
  Lastly, we would say that forget and break all the rules. Make use of the above mentioned rules in photography, but don’t let your heart stick to it. Explore, experiment and let your imaginations fly high to capture whatever you want and however you can that fills your soul. Photography is a passion and you must enjoy it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![breal the rules](https://images.wondershare.com/filmora/article-images/break.jpg)
 
 ## Conclsion
@@ -120,3 +154,36 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-discovering-the-secrets-of-snapchats-spotlight/"><u>[New] 2024 Approved  Discovering the Secrets of Snapchat's Spotlight</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-open-source-image-editors-for-enthusiasts/"><u>[New] Best Open Source Image Editors for Enthusiasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-crafting-meaningful-communication-in-the-comment-section-for-2024/"><u>[New] Crafting Meaningful Communication in the Comment Section for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-absolute-zero-to-huge-audiences-the-10-key-steps-to-boosting-view-count-for-2024/"><u>[New] From Absolute Zero to Huge Audiences  The 10 Key Steps to Boosting View Count for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-hdr-technology-demystified-with-a-look-at-aurora-for-2024/"><u>[New] HDR Technology Demystified with a Look at Aurora for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-taking-your-virtual-meetings-to-new-heights-with-zoom-filters-for-2024/"><u>[New] Taking Your Virtual Meetings to New Heights with Zoom Filters for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-thumbnail-size-mastery-for-higher-traffic-videos/"><u>[New] Thumbnail Size Mastery for Higher Traffic Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-12-budget-friendly-high-performing-video-players-pcandroid-devices/"><u>[New] Top 12 Budget-Friendly, High-Performing Video Players PC/Android Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-tales-and-truths-the-worlds-finest-schools-top-8/"><u>[Updated] 2024 Approved  Mastering Tales & Truths  The World's Finest Schools (Top 8)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-easy-relaxation-no-license-sounds-for-2024/"><u>[Updated] Easy Relaxation No-License Sounds for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-crafting-memorable-experiences-with-vr-escapades/"><u>[Updated] In 2024, Crafting Memorable Experiences with VR Escapades</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-discover-how-asmr-can-enhance-your-life-quality/"><u>[Updated] In 2024, Discover How ASMR Can Enhance Your Life Quality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unveiling-the-spectrum-of-hand-tracking-technologies/"><u>[Updated] In 2024, Unveiling the Spectrum of Hand Tracking Technologies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-public-access-zen-beats-for-2024/"><u>[Updated] Public Access Zen Beats for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-beginners-guide-to-straightforward-hdr-techniques/"><u>[Updated] The Beginner's Guide to Straightforward HDR Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unlock-the-secret-to-exceptional-time-lapse-videos-on-galaxy-for-2024/"><u>[Updated] Unlock the Secret to Exceptional Time-Lapse Videos on Galaxy for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-guarding-against-virtual-sickness/"><u>2024 Approved  Guarding Against Virtual Sickness</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-onoff-switch-windows-11s-auto-hdr-feature/"><u>2024 Approved  On/Off Switch  Windows 11'S Auto-HDR Feature</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-video-translator/"><u>2024 Approved Video Translator</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/harmonizing-photos-with-musical-scores/"><u>Harmonizing Photos With Musical Scores</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-y28-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Y28 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-vivo-s17-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo S17</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-infinix-note-30-vip-racing-edition-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Infinix Note 30 VIP Racing Edition Location Settings | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-6s-plus-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 6s Plus when Phone is Broken?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-top-mic-lists-tailored-for-high-definition-4k-cameras/"><u>In 2024, Top Mic Lists Tailored for High-Definition 4K Cameras</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-unrivaled-screenplays-reflective-of-diverse-themes/"><u>In 2024, Unrivaled Screenplays Reflective of Diverse Themes</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-huawei-enjoy-60x-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Huawei Enjoy 60X</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unrivaled-tale-composers-hub/"><u>Unrivaled Tale Composers Hub</u></a></li>
+</ul></div>

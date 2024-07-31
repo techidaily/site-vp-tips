@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Enhance Visual Stories  Utilizing StoryRemix in Windows 11 Video Editing\""
-date: 2024-06-06T01:25:03.834Z
-updated: 2024-06-07T01:25:03.834Z
+date: 2024-07-30T14:57:54.929Z
+updated: 2024-07-31T14:57:54.929Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 
 # How to Use Story Remix to Edit a Video in Windows 10 Photos
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -41,6 +44,9 @@ Moreover, creating own videos is also possible with this tool.
 * [**Part5: How to add 3D effects to a Story Remix project**](#part5)
 * [**Part6: How to export a Story Remix video**](#part6)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to download Story Remix in Windows
 
 In case you want to download Story Remix, we must tell you it is not a standalone product. It is bundled within the Windows Photos App.
@@ -49,8 +55,14 @@ Downloading Photos App will add Story Remix to your system for brilliant video e
 
 Go to **Start** menu and open **Windows Photos**. you can see videos and photos saved under the default **Pictures** folder organized by the Photos App. Tap on the ‘Create’ button on the top menu to discover **Story Remix**.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to create Story Remix automatically and randomly
 
 In this part of the article, we would elaborate creation of Story Remix in different ways. The content is auto-generated or you can manually create it from scratch. The automatic method has themes, transitions, and soundtracks within.
@@ -61,13 +73,23 @@ How to create a Story Remix project automatically –
    2. You got to choose the image and videos and click **New video**. Then choose Automatic video with music.
    3. Give a name and tap on **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![story remix](https://images.wondershare.com/filmora/article-images/start-remix-video.jpg)
 
    1. After the above process gets over, the content gets scanned to automatically create a video adding styles, transitions, and music. The final preview of the project is displayed thereafter.
    2. You can rearrange the content by tapping **Remix it for me** button.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-name-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## Part 3: How to create a Story Remix project from scratch
 
 Here is the guide –
@@ -119,11 +141,17 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-motion-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Trimming video clips
 
 1. Pick the video from timeline and choose ‘Trim’ button. Mark the trim area and click ‘Play’ to preview.
 2. Hit ‘Done’ in the end.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 5: How to add 3D effects to a Story Remix project
 
 Adding 3D special effects to video clips is one of the lucrative features of Photos app.
@@ -134,6 +162,9 @@ Adding 3D special effects to video clips is one of the lucrative features of Pho
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-effects-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 6: How to export a Story Remix video
 
 Now that you have learnt how to edit videos in Story Remix, let’s see how can you export or share them with the world. You can directly share from Photos or use a USB drive to do the needful.
@@ -159,6 +190,9 @@ If you want to edit video, we recommend [Wondershare Filmora](https://tools.tech
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -185,3 +219,44 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-harnessing-the-power-of-burst-mode-for-dynamic-videos/"><u>[New] 2024 Approved  Harnessing the Power of Burst Mode for Dynamic Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-master-your-art-on-iphone-discover-the-8-prime-drawing-tools/"><u>[New] 2024 Approved  Master Your Art on iPhone  Discover the 8 Prime Drawing Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-pros-recommendations-for-free-and-paid-drawing-software-on-pc/"><u>[New] 2024 Approved  Pro's Recommendations for Free & Paid Drawing Software on PC</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-charting-new-territory-strategies-for-youtube-keyword-research/"><u>[New] Charting New Territory  Strategies for YouTube Keyword Research</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-creative-product-launches/"><u>[New] Creative Product Launches</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-fading-sounds-gently-a-guide-to-softening-audibility-in-lumafusion-for-2024/"><u>[New] Fading Sounds Gently  A Guide to Softening Audibility in Lumafusion for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-embrace-mematic-your-personal-digital-diary/"><u>[New] In 2024, Embrace Mematic  Your Personal Digital Diary</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-hero-black-vs-keymission-for-the-ultimate-cinematographer/"><u>[New] In 2024, HERO Black vs Keymission  For the Ultimate Cinematographer</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-ultimate-guide-to-youtube-fame-with-spectacular-music-videos/"><u>[New] In 2024, The Ultimate Guide to YouTube Fame with Spectacular Music Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-top-10-vr-apps-for-iphoneandroid/"><u>[New] In 2024, Top 10 VR Apps for iPhone/Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-sliding-to-victory-celebrating-the-best-in-snowboard-cross-winter-games-22/"><u>[New] Sliding to Victory  Celebrating the Best in Snowboard Cross, Winter Games '22</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-guide-to-proficiently-navigating-win-10-for-2024/"><u>[New] The Ultimate Guide to Proficiently Navigating Win 10 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-capture-the-extraordinary-tips-for-spectacular-slow-motion-video-on-mobile/"><u>[Updated] 2024 Approved  Capture the Extraordinary  Tips for Spectacular Slow Motion Video on Mobile</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-screen-saver-successes-a-video-showcase-evaluation/"><u>[Updated] 2024 Approved  Screen Saver Successes - A Video Showcase Evaluation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-accelerate-your-creative-process-instagram-collage-tips/"><u>[Updated] Accelerate Your Creative Process  Instagram Collage Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-androids-premier-8-apps-harmonizing-free-and-paid-videomosaic-experience-for-2024/"><u>[Updated] Android's Premier 8 Apps  Harmonizing Free & Paid Videomosaic Experience for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-elevate-your-gaming-experience-with-a-new-character-voice-all-free/"><u>[Updated] Elevate Your Gaming Experience with a New Character Voice – All Free</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-mistakenly-refreshed-tiktok-how-to-go-back/"><u>[Updated] In 2024, Mistakenly Refreshed TikTok - How to Go Back?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-smirk-sculptor-image-maker/"><u>[Updated] In 2024, Smirk Sculptor  Image Maker</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-complete-analysis-hero4-black-system/"><u>2024 Approved  Complete Analysis  Hero4 Black System</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-free-top-10-subtitles-tools-srt-file-transformers/"><u>2024 Approved  Free Top 10 Subtitles Tools  SRT File Transformers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-guffaw-glory-top-downloads-of-jingles/"><u>2024 Approved  Guffaw Glory  Top Downloads of Jingles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-strategic-approaches-to-subtitle-embedding-on-facebook-reddit/"><u>2024 Approved  Strategic Approaches to Subtitle Embedding on Facebook, Reddit</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-timing-of-a-20mb-sized-video/"><u>2024 Approved  Timing of a 20MB-Sized Video</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conquer-job-interviews-with-confidence-and-excellence/"><u>Conquer Job Interviews with Confidence & Excellence</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-lenovo-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Lenovo FRP In 3 Different Ways</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-celebrating-cinemas-most-uplifting-scenes-and-stories/"><u>In 2024, Celebrating Cinema's Most Uplifting Scenes & Stories</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-iphone-camera-accessories-for-better-filming-and-photo-experience/"><u>In 2024, IPhone Camera Accessories for Better Filming and Photo Experience</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-purifying-audio-from-films-and-movies-cost-effective-methods/"><u>In 2024, Purifying Audio From Films and Movies  Cost-Effective Methods</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-revolutionizing-receiving-packages-boosting-joyful-openings/"><u>In 2024, Revolutionizing Receiving Packages  Boosting Joyful Openings</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-simple-vocal-transformation-facilities-analysis-of-capabilities-guidelines-for-usage-and-multiple-approaches/"><u>In 2024, Simple Vocal Transformation Facilities Analysis of Capabilities, Guidelines for Usage, and Multiple Approaches</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/moviemeld-editor-review-in-depth-analysis/"><u>MovieMeld Editor Review – In-Depth Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimize-clarity-mastering-close-up-techniques-in-videoleap/"><u>Optimize Clarity  Mastering Close-Up Techniques in Videoleap</u></a></li>
+<li><a href="https://extra-information.techidaily.com/rapidly-develop-dazzling-facebook-collage-designs/"><u>Rapidly Develop Dazzling Facebook Collage Designs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/streamline-and-enhance-your-filmmaking-an-intro-to-final-cut-pro/"><u>Streamline and Enhance Your Filmmaking  An Intro to Final Cut Pro</u></a></li>
+</ul></div>

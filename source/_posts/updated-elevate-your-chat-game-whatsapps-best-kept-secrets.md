@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Elevate Your Chat Game  WhatsApp's Best-Kept Secrets\""
-date: 2024-06-06T03:12:24.305Z
-updated: 2024-06-07T03:12:24.305Z
+date: 2024-07-30T17:16:39.222Z
+updated: 2024-07-31T17:16:39.222Z
 tags: 
   - screen-recording
   - ai video
@@ -52,6 +52,9 @@ Just like the bold, you can also italicize your fonts by simply inserting Unders
 
 Strikethrough is largely used to intend puns in WhatsApp, but sometimes it is also a functional tool for text corrections, used at large for online tutorials, editorials, or brainstorming. For adding Strikethrough use the Tilde Symbol (\~text\~) at the starting and end of your text.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Whatsapp Text Tricks Strikethrough](https://images.wondershare.com/filmora/article-images/whatsapp-text-tricks-strikethrough.png)
 
 #### 4.Monospace
@@ -70,6 +73,9 @@ WhatsApp introduced the Blue Tick feature to notify users when their messages ar
 
 Many times, we have just one or a few people whose texts matter the most. So, avoid letting those important message threads from getting pushed down below by message floods. You can pin priority contacts by opening WhatsApp, then tapping and holding the chat thread of the contact without opening it. This will show a new toolbar on the green border at the top of the window. Use the first icon of a pin to freeze the chat thread in the top position.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Whatsapp Pin Prioritized Contacts](https://images.wondershare.com/filmora/article-images/whatsapp-pin-prioritized-contacts.jpg)
 
 Source: techmesto.com
@@ -78,12 +84,18 @@ Source: techmesto.com
 
 If you wish to save the chats that you exchanged with someone special, you can email the entire chat thread to yourself or someone else, you can even save it to Drive. Open the chat thread and tap on the 3 dots icon, then click >>More<< and then click on >>Export Chat<<. This will open a host of options allowing you to export your chat logs to a multitude of destinations.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Whatsapp Export Chat Logs](https://images.wondershare.com/filmora/article-images/whatsapp-export-chat-logs.png)
 
 #### 8.WhatsApp Font Tricks for Formatting
 
 Though we have already mentioned the shortcuts for bold, italics, and other text formatting features, there is another way to format your texts if you forget the shortcuts - go for the Native Settings Strip. Once you are done typing, then tap and hold the text sections you want to format, this will open all the options in a list. You can scroll it to select your formatting command.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![Whatsapp Font Tricks Formatting](https://images.wondershare.com/filmora/article-images/whatsapp-font-tricks-formatting.png)
 
 #### 9.You Can Apply All WhatsApp Font Tricks on One Word or Sentence
@@ -96,6 +108,9 @@ There are plenty of things you can do with one word. It can be bold, italic, mon
 
 While typing a WhatsApp message if you need to cross-check certain areas with someone else, and don’t want to copy the text or overwrite your clipboard, you can directly share the text without copy-pasting or taking screenshots. This WhatsApp Typing Trick is in the same native setting strip mentioned earlier, which you can access by tapping and holding the text section you want to share, which will open the formatting strip. Once it opens then click on the 3 dots, which will turn the strip into a panel, in the panel you will find what you are looking for. The coolest part is that you can share the text not only in WhatsApp but multiple other apps like Zoom, Skype, Email… even Bluetooth!
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Whatsapp Typing Trick](https://images.wondershare.com/filmora/article-images/whatsapp-typing-trick.png)
 
 ## What are the Hidden Features of WhatsApp?
@@ -110,6 +125,9 @@ Never be caught up creating a group for a one-time cause and see it becoming som
 
 There are many ways how you can save mobile data consumed by WhatsApp. First, you can reduce the data consumption while on call, secondly, control the downloading of media when mobile data is running. You will find both the customization options under Data and Storage in your WhatsApp settings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Whatsapp Save More Data](https://images.wondershare.com/filmora/article-images/whatsapp-save-more-data.png)
 
 Source: androidauthority.com
@@ -122,6 +140,10 @@ If there is confusion with a location, where sharing addresses is not an option,
 
 As long as you have the chat history intact you can search specific words to trace an old chat within a thread. Open the message thread of the specific contact, tap on the 3 Dots button on the top left and click on “Search”. Then type a word from the particular chat, hit enter to trace it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![Whatsapp Search Old Chat](https://images.wondershare.com/filmora/article-images/whatsapp-search-old-chat.png)
 
 #### 5.Restore Your Chat History, and Deleted Chats
@@ -138,6 +160,9 @@ Sometimes you just need to hush your WhatsApp for just a while. Perhaps you have
 
 Not every message thread is important, and many people have the habit of deleting messages just to feel organized. WhatsApp brings some zero-effort minimalism for you with this new feature available for Android users. Update your app and visit the contact’s page in WhatsApp and you will be able to see the “Disappearing Messages” option. If you enable this, your chats with the particular contact will be deleted automatically on their own.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Whatsapp Auto Delete Messages](https://images.wondershare.com/filmora/article-images/whatsapp-auto-delete-messages.png)
 
 #### 8.Mute Stories that You Don’t Want to See
@@ -158,6 +183,9 @@ Manage how you are notified of messages from specific contacts and groups. Go to
 
 Source: beebom.com
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Edit WhatsApp Videos with Ease
 
 Some of the best WhatsApp video editing tricks are coming up, wherein you can add doodles, text, and crop an image. Moreover, you also check in some external video editing tools that are quite handy to integrate with WhatsApp.
@@ -166,6 +194,9 @@ Some of the best WhatsApp video editing tricks are coming up, wherein you can ad
 
 There are no download options for photos and videos for WhatsApp Statuses, yet you can have it on your PC, iPhone, and Android device and surprise a loved one by editing the videos they did not send you personally. To do this, you can go to File Manager >> Settings >> Turn on Show Hidden Files; after doing this go back to Internal Storage >> WhatsApp >> Media >> Statuses. Once you have the Video, you can import it to Filmora and use a gamut of video editing tools to create the magic!
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 2.Record Video Calls from PC and Improve Its Quality
@@ -182,6 +213,9 @@ When it comes to WhatsApp Tricks and Trades, you always have to look forward to 
 
 **You may also like:**[Best Bio for Whatsapp](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -208,3 +242,62 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-decoding-the-nuances-of-whatsapp-audio-messages/"><u>[New] 2024 Approved  Decoding the Nuances of WhatsApp Audio Messages</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-master-multi-tasking-on-edge-with-picture-in-picture/"><u>[New] 2024 Approved  Master Multi-Tasking on Edge with Picture-in-Picture</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-master-plan-youtube-content-into-mp4/"><u>[New] 2024 Approved  Master Plan  YouTube Content Into MP4</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-prevent-plagiarism-copyright-check-for-uploading-videos-2e/"><u>[New] 2024 Approved  Prevent Plagiarism  Copyright Check for Uploading Videos (2E)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-art-of-format-transmutation-srt-to-ssa-and-more/"><u>[New] 2024 Approved  The Art of Format Transmutation  SRT to SSA & More</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-split-between-panoramic-and-virtual-realities/"><u>[New] 2024 Approved  The Split Between Panoramic & Virtual Realities</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-editing-apps-revolutionize-your-photo-backgrounds/"><u>[New] 2024 Approved  Top Editing Apps  Revolutionize Your Photo Backgrounds</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unmuting-your-social-network-fixing-half-volume-videos/"><u>[New] 2024 Approved  Unmuting Your Social Network  Fixing Half-Volume Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-crafting-captivating-slow-motion-photos-for-instagram/"><u>[New] Crafting Captivating Slow-Motion Photos for Instagram</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-current-innovations-in-vr-gear/"><u>[New] Current Innovations in VR Gear</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-financial-face-off-comparing-dailymotion-and-youtube-profitability-for-2024/"><u>[New] Financial Face-Off  Comparing Dailymotion & YouTube Profitability for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-free-srt-translator-showdown-the-best-eight-in-ranking-for-2024/"><u>[New] Free SRT Translator Showdown  The Best Eight in Ranking for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ghostly-replay-instructional-guide-for-2024/"><u>[New] Ghostly Replay Instructional Guide for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-htc-vive-review-the-epitome-of-ultimate-virtual-reality-playtime-for-2024/"><u>[New] HTC Vive Review  The Epitome of Ultimate Virtual Reality Playtime for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-subconversions-at-peak-discover-the-top-8-tools-for-converting-sbt-to-srt/"><u>[New] In 2024, Subconversions at Peak - Discover the Top 8 Tools for Converting SBT to SRT</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unraveling-the-enigma-how-to-download-messages-from-facebook/"><u>[New] In 2024, Unraveling the Enigma  How to Download Messages From Facebook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-laugh-labs-free-comedy-creation-for-creative-souls-for-2024/"><u>[New] Laugh Labs  Free Comedy Creation for Creative Souls for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-lightroom-workflow-creating-and-merging-professional-hdr-images-for-2024/"><u>[New] Lightroom Workflow  Creating & Merging Professional HDR Images for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-navigate-macs-screen-capture-like-a-pro-with-simple-keys-for-2024/"><u>[New] Navigate Mac's Screen Capture Like a Pro with Simple Keys for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-panoramic-lenses-and-fixed-angle-gear-for-2024/"><u>[New] Panoramic Lenses & Fixed-Angle Gear for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-art-of-conveying-content-mastering-onestream-livestreams/"><u>[New] The Art of Conveying Content  Mastering OneStream Livestreams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-your-sound-potential-a-modern-look-at-pazeras-techniques/"><u>[New] Unlocking Your Sound Potential  A Modern Look at Pazera's Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-camera-roundup-top-picks-for-superior-videography/"><u>[Updated] 2024 Approved  Camera Roundup  Top Picks for Superior Videography</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-magical-voice-change-tools-for-efficient-calls/"><u>[Updated] 2024 Approved  Magical Voice Change Tools for Efficient Calls</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-platform-faceoff-twitchs-challenge-to-youtube/"><u>[Updated] 2024 Approved  The Platform Faceoff  Twitch's Challenge to YouTube</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-transfer-tactics-for-seamless-online-video-sharing/"><u>[Updated] 2024 Approved  Transfer Tactics for Seamless Online Video Sharing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-advanced-guide-to-documenting-online-sport-spectacles-for-2024/"><u>[Updated] Advanced Guide to Documenting Online Sport Spectacles for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-complete-walkthrough-mastering-adobe-cloud-services/"><u>[Updated] Complete Walkthrough  Mastering Adobe Cloud Services</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-greatest-of-all-time-reddits-favorite-threads/"><u>[Updated] In 2024, Greatest of All Time  Reddit's Favorite Threads</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-seamless-switch-to-virtual-reality-your-phones-next-step-for-2024/"><u>[Updated] Seamless Switch to Virtual Reality  Your Phone's Next Step for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-shadows-and-highlights-for-text-depth-in-illustrator/"><u>[Updated] Shadows & Highlights for Text Depth in Illustrator</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-essential-uav-upgrade-kit-must-haves-for-the-modern-pilot-for-2024/"><u>[Updated] The Essential UAV Upgrade Kit - Must-Haves for the Modern Pilot for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unleash-creativity-transformative-techniques-with-snapchat-photos-for-2024/"><u>[Updated] Unleash Creativity  Transformative Techniques with Snapchat Photos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unveiling-adobes-storage-mastery-and-the-hunt-for-top-non-adobe-backup-services-for-2024/"><u>[Updated] Unveiling Adobe's Storage Mastery & The Hunt for Top Non-Adobe Backup Services for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-assessing-your-needs-selecting-the-optimal-4k-camera-lens/"><u>2024 Approved  Assessing Your Needs  Selecting the Optimal 4K Camera Lens</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-discover-the-most-popular-screen-recorders-free-version/"><u>2024 Approved  Discover the Most Popular Screen Recorders - Free Version</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-harness-your-footage-potential-with-vimeo-record/"><u>2024 Approved  Harness Your Footage Potential with Vimeo Record</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-master-the-art-of-downloading-gifs-from-facebook-on-multiple-devices-effortlessly/"><u>2024 Approved  Master the Art of Downloading GIFs From Facebook on Multiple Devices Effortlessly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-navigating-the-best-lipo-cells-for-quality-flight-time/"><u>2024 Approved  Navigating the Best LiPo Cells for Quality Flight Time</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-symphonic-syncopation-perfecting-audio-transitions/"><u>2024 Approved  Symphonic Syncopation  Perfecting Audio Transitions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-video-space-understanding-64128gb-limits/"><u>2024 Approved  Video Space  Understanding 64/128GB Limits</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-backgrounds-for-live-streaming-2023/"><u>Best Backgrounds for Live Streaming 2023</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/excellent-text-plugin-compendium/"><u>Excellent Text Plugin Compendium</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/from-sub-to-srt-with-ease-uncover-our-top-8-software-picks-for-desktop-systems/"><u>From SUB to SRT with Ease! Uncover Our Top 8 Software Picks for Desktop Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/hidden-methods-for-dodging-digital-study-vids-for-2024/"><u>Hidden Methods for Dodging Digital Study Vids for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/highest-praised-videos-celebrating-the-15-most-outstanding-unboxing-youtubers-2024/"><u>Highest Praised Videos  Celebrating the 15 Most Outstanding Unboxing YouTubers, 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-from-iphone-15-pro-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock From iPhone 15 Pro Online</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-8-real-time-strategies-to-boost-viewership/"><u>In 2024, Top 8 Real-Time Strategies to Boost Viewership</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-flight-a-complete-review-of-the-dji-inspire-2-drone/"><u>Mastering Flight  A Complete Review of the DJI Inspire 2 Drone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-itel-p55t-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Itel P55T? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fix-optimize-acer-drivers-for-win10-efficiency/"><u>Quick Fix! Optimize Acer Drivers for Win10 Efficiency</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-artisans-guide-to-unique-photographic-assemblages-for-2024/"><u>The Artisan's Guide to Unique Photographic Assemblages for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-founders-flowchart-for-launching-a-review-video-channel/"><u>The Founder's Flowchart for Launching a Review Video Channel</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-pros-handbook-to-perfecting-your-gopro-studio-project-for-2024/"><u>The Pro's Handbook to Perfecting Your GoPro Studio Project for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-broadcom-wi-fi-adapter-for-windows-compatibility/"><u>Troubleshooting Broadcom Wi-Fi Adapter for Windows Compatibility</u></a></li>
+</ul></div>

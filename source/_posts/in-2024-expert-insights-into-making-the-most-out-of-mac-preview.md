@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Expert Insights Into Making the Most Out of Mac Preview"
-date: 2024-06-06T01:46:45.754Z
-updated: 2024-06-07T01:46:45.754Z
+date: 2024-07-30T15:25:33.269Z
+updated: 2024-07-31T15:25:33.269Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/668fe014e6bae21be4d1f17bf36923c523f3242cb
 
 # How to Use Preview App on Mac
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -30,6 +33,9 @@ The **Preview app** is a built-in program in macOS, and works as a default viewe
 
 That said, the sections below explain **how to use Preview on Mac** for elementary picture editing like rotating, cropping, adding annotations, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
@@ -64,6 +70,9 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -80,6 +89,10 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -108,6 +121,9 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -140,6 +156,9 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -210,3 +229,57 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-master-the-art-of-avi-gif-conversion-via-filmora-platform/"><u>[New] 2024 Approved  Master the Art of AVI-GIF Conversion via Filmora Platform</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-protecting-your-digital-memories-how-to-save-tiktok-videos/"><u>[New] 2024 Approved  Protecting Your Digital Memories  How to Save TikTok Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-staying-unseen-in-the-world-of-instagram-live-broadcasts/"><u>[New] 2024 Approved  Staying Unseen in the World of Instagram Live Broadcasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-storage-space-used-for-daily-extended-videography/"><u>[New] 2024 Approved  Storage Space Used for Daily Extended Videography</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-a-beginners-insight-into-av1-encoding/"><u>[New] A Beginner's Insight Into AV1 Encoding</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-a-top-10-curated-list-of-superior-vector-portals-for-2024/"><u>[New] A Top 10 Curated List of Superior Vector Portals for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-from-daydream-to-reality-a-short-vr-history-for-2024/"><u>[New] From Daydream to Reality  A Short VR History for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-navigating-video-transformations-in-vlc-from-mp4-variety/"><u>[New] In 2024, Navigating Video Transformations in VLC From MP4 Variety</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-secrets-for-transcribing-twitter-videos-into-mp3-format/"><u>[New] In 2024, Secrets for Transcribing Twitter Videos Into MP3 Format</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-essential-guide-to-asmr-for-sleep-enthusiasts/"><u>[New] In 2024, The Essential Guide to ASMR for Sleep Enthusiasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-time-stamping-your-photographs-efficiently/"><u>[New] In 2024, Time Stamping Your Photographs Efficiently</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-unleash-your-auditory-adventures-installing-apple-podcasts-app/"><u>[New] In 2024, Unleash Your Auditory Adventures  Installing Apple Podcasts App</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-live-sound-perfection-our-selections-of-the-top-6-stream-friendly-mics-for-2024/"><u>[New] Live Sound Perfection  Our Selections of the Top 6 Stream-Friendly Mics for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-rethinking-social-media-presence-in-light-of-instagrams-new-algorithm-for-2024/"><u>[New] Rethinking Social Media Presence in Light of Instagram's New Algorithm for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-seamless-multitasking-via-firefoxs-pip-mode/"><u>[New] Seamless Multitasking via Firefox's PIP Mode</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unveiling-hidden-gems-essential-tricks-for-win11-for-2024/"><u>[New] Unveiling Hidden Gems  Essential Tricks for Win11 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-srt-file-management-for-seamless-audible-experience/"><u>[Updated] 2024 Approved  SRT File Management for Seamless Audible Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-video-editor-comparing-inshots-features/"><u>[Updated] 2024 Approved  Top Video Editor  Comparing InShot's Features</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-basic-win10-screen-save-program-for-2024/"><u>[Updated] Basic Win10 Screen Save Program for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-breathe-new-life-into-your-ig-story-with-simple-animated-text-tips-for-2024/"><u>[Updated] Breathe New Life Into Your IG Story with Simple Animated Text Tips for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-charming-calls-verify-if-vocal-alteration-apps-are-real-then-find-others/"><u>[Updated] Charming Calls  Verify if Vocal Alteration Apps Are Real, Then Find Others</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-essential-tv-gear-for-premium-live-broadcasts/"><u>[Updated] Essential TV Gear for Premium Live Broadcasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-exclusive-insights-top-30-hidden-windows-11-tips-uncovered-for-2024/"><u>[Updated] Exclusive Insights  Top 30 Hidden Windows 11 Tips Uncovered for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-exploring-digital-film-coloring-methods-for-2024/"><u>[Updated] Exploring Digital Film Coloring Methods for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-top-13-easy-to-master-revenue-strategies-on-reddit/"><u>[Updated] In 2024, Top 13 Easy-to-Master Revenue Strategies on Reddit</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-optimal-video-player-best-availability-on-multiple-systems-for-2024/"><u>[Updated] Optimal Video Player  Best Availability on Multiple Systems for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-professional-drone-use-in-visual-storytelling-for-2024/"><u>[Updated] Professional Drone Use in Visual Storytelling for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-simplifying-fast-forward-on-snapchat-a-first-timers-guide-for-2024/"><u>[Updated] Simplifying Fast-Forward on Snapchat  A First Timer's Guide for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-easy-peasy-guide-to-using-ifunnys-meme-app/"><u>[Updated] The Easy-Peasy Guide to Using iFunny's Meme App</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unlock-pubgs-hidden-voice-tweaks-quickly/"><u>[Updated] Unlock PUBG's Hidden Voice Tweaks Quickly</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-samsung-galaxy-m14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-dive-deep-into-detail-advanced-zooming-tips-for-videoleap/"><u>2024 Approved  Dive Deep Into Detail  Advanced Zooming Tips for VideoLeap</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-gear-vr-and-mobile-devices-the-2023-compatibility-guide/"><u>2024 Approved  Gear VR and Mobile Devices  The 2023 Compatibility Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-maximizing-zoom-collaboration-essential-setup-tips/"><u>2024 Approved  Maximizing Zoom Collaboration  Essential Setup Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-optimum-affordable-asmr-microphones-with-incredible-performance/"><u>2024 Approved  Optimum Affordable ASMR Microphones with Incredible Performance</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-pros-list-top-5-timelapse-software/"><u>2024 Approved  Pro's List  Top 5 Timelapse Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-failures-when-attempting-to-share-via-experience/"><u>Addressing Failures When Attempting to Share via Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/click-magic-secrets-to-stunning-polished-pics/"><u>Click Magic  Secrets to Stunning, Polished Pics</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-infinix-hot-30i-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Infinix Hot 30i</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-itel-a60s-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Itel A60s in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/free-ways-to-save-your-desktop-on-windows-8/"><u>Free Ways to Save Your Desktop on Windows 8</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-11-pro-max-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By Apple iPhone 11 Pro Max without the Previous Owner?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-oneplus-ace-3-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing OnePlus Ace 3 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-share-wisdom-top-strategies-for-video-sharing-on-instagram/"><u>In 2024, Share Wisdom  Top Strategies for Video Sharing on Instagram</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-quest-for-superior-video-playback-software/"><u>In 2024, The Quest for Superior Video Playback Software</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-x-flip-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo X Flip Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-how-to-create-a-video-slideshow-with-final-cut-pro/"><u>New 2024 Approved How to Create a Video Slideshow with Final Cut Pro</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-guide-to-using-hashtags-for-youtube-gaming-videos-for-2024/"><u>The Ultimate Guide To Using Hashtags For YouTube Gaming Videos for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/under-100-investments-in-action-cameras-top-selections-for-2024/"><u>Under $100 Investments in Action Cameras – Top Selections for 2024</u></a></li>
+</ul></div>

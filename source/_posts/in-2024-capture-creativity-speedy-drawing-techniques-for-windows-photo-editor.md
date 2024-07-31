@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Capture Creativity  Speedy Drawing Techniques for Windows Photo Editor\""
-date: 2024-06-06T02:53:25.654Z
-updated: 2024-06-07T02:53:25.654Z
+date: 2024-07-30T16:51:56.053Z
+updated: 2024-07-31T16:51:56.053Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b463
 
 # How to Easily and Quickly Draw on Photos App in Windows 10
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -31,6 +34,10 @@ The Photos app in Windows 10 is one of the best and with the addition of the dra
 * [**Part1: How to Draw On Photos App in Windows 10**](#part1)
 * [**Part2: How to Draw on Photos Online**](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Part 1: How to Draw On Photos App in Windows 10
 
 When you can add a personal touch to your videos and photos, it becomes all the way more special. Many times, it becomes essential to add a note to explain a video in a better way. Here are the steps to draw on photos in Windows 10 –
@@ -38,6 +45,18 @@ When you can add a personal touch to your videos and photos, it becomes all the 
 * Firstly, open a video or a photo from your phone gallery
 * Select the **Edit and Create** option and click on Draw
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/draw-on-photos-in-windows-10.jpg)
 
 * You can see a Windows Ink Toolbar, select your preferred pen from the options available
@@ -50,6 +69,9 @@ When you can add a personal touch to your videos and photos, it becomes all the 
 
 When you draw on the image or video, the ink can be attached to a particular object or person within the video. As you move the camera angle or the object, the ink stays or moves along. You just need to select the anchor icon and link it to the object in the video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## Part 2: How to Draw on Photos Online
 
 Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lunapic.com/editor/?action=draw) is one such tool that lets you draw on your photos easily online. It is more of a paint tool that lets you edit, adjust, draw borders, add filters, effects, art, animation, and more. It has more than 200 effects option to choose from. To draw on photos online with LunaPic, follow the below-mentioned steps-
@@ -59,6 +81,9 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 * You can see a range of options when you click on Draw, but you need to select the drawing tool
 * You get 7 options for tool selection – filled polygon, filled ellipse, ellipse, filled rectangle, rectangle, straight line, and free hand pencil. Select the free hand pencil option
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/lunapic-drawing.jpg)
 
 * Select the color from the range of palette available
@@ -73,6 +98,9 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 
 The Photos app has an interface that is restructured with dark theme options and new drawing and editing features making it a great tool. If you want to draw on Photos in Windows 10, follow the above steps and make your actions easier. If you want to have more options to edit videos with drawing in Windows 10, why not choose [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)? You can edit your video with various drawing and text style.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -101,3 +129,56 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-foremost-4k-camcorders-our-best-picks/"><u>[New] 2024 Approved  Foremost 4K Camcorders  Our Best Picks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-how-to-use-vimeo-record-tool/"><u>[New] 2024 Approved  How to Use Vimeo Record Tool</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-quick-guide-installing-and-exploring-ifunnys-meme-app/"><u>[New] 2024 Approved  Quick Guide  Installing & Exploring iFunny's Meme App</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-simplifying-the-art-of-gif-production/"><u>[New] 2024 Approved  Simplifying the Art of GIF Production</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-harmony-of-collaboration-brands-and-youtube-unite/"><u>[New] 2024 Approved  The Harmony of Collaboration  Brands & YouTube Unite</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-10-webcams-elevating-audio-quality-in-podcasts/"><u>[New] 2024 Approved  Top 10 Webcams Elevating Audio Quality in Podcasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unmask-subject-with-backdrop-blanket-removal/"><u>[New] 2024 Approved  Unmask Subject with Backdrop Blanket Removal</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-creative-stop-motion-cinema-top-15-selections/"><u>[New] Creative Stop-Motion Cinema - Top 15 Selections</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-demystifying-color-grading-with-powerful-luts/"><u>[New] Demystifying Color Grading with Powerful LUTs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-exceptional-14-visual-text-motion-examples/"><u>[New] Exceptional 14 Visual Text Motion Examples</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-exploring-youtubes-regular-pay-structure/"><u>[New] Exploring YouTube’s Regular Pay Structure</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-auditory-interpretation-made-easy-priceless-access/"><u>[New] In 2024, Auditory Interpretation Made Easy, Priceless Access</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-diverse-technology-scrutiny-easeus-edition/"><u>[New] In 2024, Diverse Technology Scrutiny  EaseUS Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-swiftly-delete-autoplayed-podcast-suggestions-on-spotify/"><u>[New] In 2024, Swiftly Delete Autoplayed Podcast Suggestions on Spotify</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-zenith-pinnacle-prodigy-review/"><u>[New] In 2024, Zenith Pinnacle Prodigy Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-tailored-touch-up-top-6-apps-to-exclude-unwanted-elements-from-photos-for-2024/"><u>[New] Tailored Touch-Up  Top 6 Apps to Exclude Unwanted Elements From Photos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-twitch-reversion-made-simple-top-ten-instructions-at-hand-for-2024/"><u>[New] Twitch Reversion Made Simple  Top Ten Instructions at Hand for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-premium-editing-enhance-iphone-hdr-with-these-four-master-techniques-in-adobe/"><u>[Updated] 2024 Approved  [Premium Editing] Enhance iPhone HDR with These Four Master Techniques in Adobe</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-all-about-dji-inspire-1-detailed-survey/"><u>[Updated] 2024 Approved  All About  DJI Inspire 1 Detailed Survey</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-ultimate-hdr-tutorial-for-exceptional-portraits/"><u>[Updated] 2024 Approved  The Ultimate HDR Tutorial for Exceptional Portraits</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-discovering-best-5k-displays-list-8/"><u>[Updated] Discovering Best 5K Displays - List #8</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-download-youtube-beats-on-android-the-ultimate-6-app-guide-for-2024/"><u>[Updated] Download YouTube Beats on Android  The Ultimate 6-App Guide for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-tech-equipment-picking-game/"><u>[Updated] High-Tech Equipment Picking Game</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-dusk-to-dawn-iphone-night-photography-essentials/"><u>[Updated] In 2024, Dusk to Dawn  IPhone Night Photography Essentials</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-mastering-the-visuals-a-podcast-logo-blueprint/"><u>[Updated] In 2024, Mastering the Visuals  A Podcast Logo Blueprint</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-innovation-in-minimization-the-finest-selection-of-43-mobile-video-trimming-apps-for-2024/"><u>[Updated] Innovation in Minimization  The Finest Selection of 43 Mobile Video Trimming Apps for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-the-art-of-digital-distortion-in-minutes/"><u>[Updated] Mastering the Art of Digital Distortion in Minutes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-perfecting-your-ringtone-choices-on-an-iphone-for-2024/"><u>[Updated] Perfecting Your Ringtone Choices on an iPhone for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-polaroid-cubeplus-action-camera-review-for-2024/"><u>[Updated] Polaroid Cube+ Action Camera Review for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-quintessential-list-of-top-15-masterpieces-in-stop-motion/"><u>[Updated] The Quintessential List of Top 15 Masterpieces in Stop Motion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unleash-clarity-in-depth-tutorial-on-video-enhancer-22-for-2024/"><u>[Updated] Unleash Clarity  In-Depth Tutorial on Video Enhancer 2.2 for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-balancing-soundtracks-with-visual-storytelling-in-trailers/"><u>2024 Approved  Balancing Soundtracks with Visual Storytelling in Trailers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-elevate-your-videos-the-basics-of-stunning-slow-motion-capturing-in-android/"><u>2024 Approved  Elevate Your Videos  The Basics of Stunning Slow Motion Capturing in Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-navigating-through-telegram-web-easily-and-quickly/"><u>2024 Approved  Navigating Through Telegram Web Easily and Quickly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-vr-adventures-with-lgs-360-headset-insights/"><u>2024 Approved  VR Adventures with LG's 360 Headset Insights</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/a-compreayers-guide-to-smooth-and-clear-xbox-screen-recordings/"><u>A Compreayer’s Guide to Smooth and Clear Xbox Screen Recordings</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-comprehensive-motion-dynamics-review/"><u>In 2024, Comprehensive Motion Dynamics Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-elite-7-camcorders-for-winter-sports-enthusiasts/"><u>In 2024, Elite 7 Camcorders for Winter Sports Enthusiasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-instant-anonymity-shield-face-details/"><u>In 2024, Instant Anonymity  Shield Face Details</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-surpassing-peers-standing-out-in-the-vimeo-staffs-choices/"><u>In 2024, Surpassing Peers  Standing Out in the Vimeo Staff's Choices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-vivo-v29-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Vivo V29 Location | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/leading-6-social-spaces-for-enterprise-driven-collaboration/"><u>Leading 6 Social Spaces for Enterprise-Driven Collaboration</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/moviemakermag-comprehensive-editor-review-for-2024/"><u>MovieMakerMag  Comprehensive Editor Review for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/seamless-scenes-integrating-fade-inout-effects/"><u>Seamless Scenes  Integrating Fade In/Out Effects</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/srt-soundfile-compatibility-pc-and-mac/"><u>SRT Soundfile Compatibility  PC & Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-top-8-free-resources-for-3d-text-psds/"><u>The Top 8 Free Resources for 3D Text PSDs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winning-brands-over-strategies-for-effective-youtube-product-sponsorship-for-2024/"><u>Winning Brands Over  Strategies for Effective YouTube Product Sponsorship for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-k70e-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi K70E Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+</ul></div>

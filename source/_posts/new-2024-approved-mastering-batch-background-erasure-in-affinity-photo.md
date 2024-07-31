@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Mastering Batch Background Erasure in Affinity Photo\""
-date: 2024-06-06T02:12:34.736Z
-updated: 2024-06-07T02:12:34.736Z
+date: 2024-07-30T15:58:43.498Z
+updated: 2024-07-31T15:58:43.498Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ Affinity Photo is an image editor developed by Serif Ltd. in 2009 and is used by
 
 No matter you are a professional content creator or a newbie, we'll be discussing how to remove background in Affinity Photo. Let's explore how to use the good editing tool to be free of the stressful editing process.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Remove Affinity Photo to Remove Image's Background
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
@@ -38,10 +41,21 @@ Now access the **Pixel Persona** section in the left corner of the software scre
 
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
@@ -56,6 +70,9 @@ Step5 In the last step, press the **"Delete"** key on your keyboard to remove th
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Remove a Busy Background in Affinity Designer
 
 If you want to remove a busy background of an image in the Affinity Designer software, follow these steps carefully:
@@ -85,6 +102,9 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -119,12 +139,19 @@ And if you have any interests in finding free images to expand your resource, yo
 
 Hopefully, this article and video can help you create ideal images!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
@@ -176,3 +203,41 @@ Hopefully, this article and video can help you create ideal images!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-blur-and-bury-backgrounds-with-ease/"><u>[New] Blur and Bury Backgrounds with Ease</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-crafting-star-stirred-stories-for-your-whatsapp-bio/"><u>[New] Crafting Star-Stirred Stories for Your WhatsApp Bio</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-discover-best-watermarking-apps-for-images-for-2024/"><u>[New] Discover Best WaterMarking Apps for Images for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fast-tracked-fine-arts-edits-made-easy-with-windows-10-paint-application/"><u>[New] Fast-Tracked Fine Arts  Edits Made Easy with Windows 10 Paint Application</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-flickvista-app-performance-index-for-2024/"><u>[New] FlickVista App Performance Index for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-gratuitous-high-quality-ideas-for-profitable-slideshows/"><u>[New] Gratuitous, High-Quality Ideas for Profitable Slideshows</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-premier-tools-best-mac-devices-for-capturing-videos/"><u>[New] In 2024, Premier Tools  Best Mac Devices for Capturing Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-prime-panzoid-layout-libraries-for-2024/"><u>[New] Prime Panzoid Layout Libraries for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-storing-image-frames-from-videos-on-windows-11/"><u>[New] Storing Image Frames From Videos on Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-nvidia-method-to-perfect-gaming-replays/"><u>[New] The NVIDIA Method to Perfect Gaming Replays</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-thrilling-tales-at-the-top-engaging-openers-for-2024/"><u>[New] Thrilling Tales at the Top  Engaging Openers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-5-slick-online-apps-for-direct-gif-to-video-updates/"><u>[New] Top 5 Slick Online Apps for Direct GIF to Video Updates</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-an-impactful-podcast-intro-video/"><u>[Updated] Crafting an Impactful Podcast Intro Video</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-exclusive-free-intro-templates-for-videos/"><u>[Updated] Exclusive Free Intro Templates for Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-from-chaos-unleashed-to-organized-oasis-edit-your-hefty-tiktoks/"><u>[Updated] From Chaos Unleashed to Organized Oasis  Edit Your Hefty TikToks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-inverting-media-flow-apple-device-technique-for-2024/"><u>[Updated] Inverting Media Flow  Apple Device Technique for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-polishing-video-journeys-inshots-segmentation-excellence/"><u>[Updated] Polishing Video Journeys  Inshot's Segmentation Excellence</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-public-perceptions-unveiling-vllo-realities/"><u>[Updated] Public Perceptions  Unveiling VLLO Realities</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-new-bird-bebops-parrot-as-a-flight-marvel-review/"><u>[Updated] The New Bird  Bebop’s Parrot as a Flight Marvel Review</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-a-compreenas-guide-for-efficient-pip-integration-in-edge-browser/"><u>2024 Approved  A Compreenas Guide for Efficient PIP Integration in Edge Browser</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-revealed-top-10-powerful-fcp-plugin-tools/"><u>2024 Approved  Revealed  Top 10 Powerful FCP Plugin Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-vivo-y02t-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Vivo Y02T</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/expert-guide-to-android-time-lapse-video-magic-for-2024/"><u>Expert Guide to Android Time-Lapse Video Magic for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/explore-creativity-top-8-innovative-editing-tools-for-iphone-android-for-2024/"><u>Explore Creativity  Top 8 Innovative Editing Tools for iPhone, Android for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-manipulate-your-instagram-storys-playback-velocity/"><u>How to Manipulate Your Instagram Story's Playback Velocity</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-adrenaline-rushes-and-epic-missions-top-10-gaming-winners/"><u>In 2024, Adrenaline Rushes & Epic Missions  Top 10 Gaming Winners</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-become-a-pro-with-2023s-free-templates/"><u>In 2024, Become a Pro with 2023'S FREE Templates</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-gadget-games-galore-quickest-quality-flash-titles/"><u>In 2024, Gadget Games Galore  Quickest Quality Flash Titles</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-samsung-galaxy-s23-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Samsung Galaxy S23 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-how-to-make-and-download-your-own-instagram-sound/"><u>In 2024, How to Make & Download Your Own Instagram Sound</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/premium-sound-quality-best-of-the-best-9-mic-recording-tools-2e/"><u>Premium Sound Quality  Best of the Best 9 Mic Recording Tools (2E)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-experts-list-of-top-vector-stock-portals/"><u>The Expert's List of Top Vector Stock Portals</u></a></li>
+</ul></div>
