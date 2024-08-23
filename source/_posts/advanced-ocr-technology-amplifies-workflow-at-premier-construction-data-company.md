@@ -1,7 +1,7 @@
 ---
 title: Advanced OCR Technology Amplifies Workflow at Premier Construction Data Company
-date: 2024-08-20 14:27:28
-updated: 2024-08-22 12:12:28
+date: 2024-08-22T07:28:46.314Z
+updated: 2024-08-23T07:28:46.314Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c13cdc82a6c440d60f80e5fd3.jpg
@@ -63,14 +63,23 @@ Construction Management Data (CMD) provides information to construction firms on
 
 ###### SEE HOW ABBYY CAN HELP
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### over **35**
 
 million pages to process
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **156**
 
 networked cores for OCR
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **7** months
 
 to digitize the archive
@@ -125,14 +134,23 @@ And as Dan DuBois confirms, Recognition Server has helped CMD realize its long-t
 
 [![ABBYY Recognition Server has rebranded as ABBYY FineReader Server](https://static4.abbyy.com/abbyycommedia/20638/11-frs-casepreview.jpg)](https://tools.techidaily.com/abbyy/products/) ") [ABBYY Recognition Server (now FineReader Server)](https://tools.techidaily.com/abbyy/products/) ") 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [read more](https://tools.techidaily.com/abbyy/products/) ") 
 
 [![Digital Archiving](https://static1.abbyy.com/abbyycommedia/14355/5-document-archiving.jpg)](https://tools.techidaily.com/abbyy/products/) [Document Archiving](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![PDF Version](https://static3.abbyy.com/abbyycommedia/15558/11-construction-management-data-cmd-2.png)](https://static4.abbyy.com/abbyycommedia/3429/rs%5Fcmd%5Fconstruction%5F2015.pdf "PDF version") [PDF version](https://static4.abbyy.com/abbyycommedia/3429/rs%5Fcmd%5Fconstruction%5F2015.pdf "PDF version") 
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [read more](https://static4.abbyy.com/abbyycommedia/3429/rs%5Fcmd%5Fconstruction%5F2015.pdf "PDF version") 
 
 ###### Like, share or repost
@@ -159,3 +177,49 @@ We'd love to help you along your automation journey.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-facebooks-visual-storytelling-what-angle-matters-most-in-2024/"><u>[New] Facebook's Visual Storytelling  What Angle Matters Most, In 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-whats-stopping-my-sony-a6400-from-playing-video/"><u>[New] In 2024, What's Stopping My Sony A6400 From Playing Video?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-meta-vs-omni-navigating-digital-realms-for-2024/"><u>[New] Meta Vs. Omni  Navigating Digital Realms for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-premier-productions-first-impression-for-2024/"><u>[New] Premier Productions First Impression for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-seamless-virtual-conferencing-in-gmail-via-zoom-best-practices-for-2024/"><u>[New] Seamless Virtual Conferencing in Gmail via Zoom Best Practices for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-filmmakers-blueprint-to-panoramic-perfection-9-key-techniques-for-2024/"><u>[New] The Filmmaker's Blueprint to Panoramic Perfection  9 Key Techniques for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-10-best-4k-mirrorless-cameras-for-2024/"><u>[New] Top 10 Best 4K Mirrorless Cameras for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-5-engine-picks-for-peak-performance-quadcopters/"><u>[New] Top 5 Engine Picks for Peak Performance Quadcopters</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unlock-animoji-secrets-on-iphone-x-a-step-by-step-guide/"><u>[New] Unlock Animoji Secrets on iPhone X - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-sierras-icloud-drives-for-all-access/"><u>[New] Unlocking Sierra's iCloud Drives for All-Access</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unplugged-fun-the-best-non-networked-android-apps/"><u>[New] Unplugged Fun  The Best Non-Networked Android Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unveiling-the-best-10-online-background-variant-software-for-2024/"><u>[New] Unveiling the Best 10 Online Background Variant Software for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-coders-showdown-which-codec-will-dominate-video-quality/"><u>[Updated] 2024 Approved  Coders' Showdown  Which Codec Will Dominate Video Quality?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-quick-connectivity-iphone-images-to-windows/"><u>[Updated] 2024 Approved  Quick Connectivity  IPhone Images to Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-strategies-to-shoot-a-flawless-green-screen-scene/"><u>[Updated] 2024 Approved  Top Strategies to Shoot a Flawless Green Screen Scene</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ultimate-list-of-costless-online-editors-for-professionals/"><u>[Updated] 2024 Approved  Ultimate List of Costless Online Editors for Professionals</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-apple-musics-role-in-professional-video-production-for-2024/"><u>[Updated] Apple Music's Role in Professional Video Production for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-audio-visual-elites-selecting-5-exceptional-creators-who-mix-sounds-for-2024/"><u>[Updated] Audio-Visual Elites  Selecting 5 Exceptional Creators Who Mix Sounds for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-funniest-memes-born-select-the-best-generators-for-2024/"><u>[Updated] Funniest Memes Born  Select the Best Generators for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-exploring-the-land-of-virtual-possibilities/"><u>[Updated] In 2024, Exploring the Land of Virtual Possibilities</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ultimate-ranking-of-15-4k-video-devices/"><u>[Updated] In 2024, Ultimate Ranking of #15 4K Video Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-method-for-capturing-internet-radio-frequencies/"><u>[Updated] Step-by-Step Method for Capturing Internet Radio Frequencies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-voice-memo-reference-manual-for-2024/"><u>[Updated] The Ultimate Voice Memo Reference Manual for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-audience-appeal-the-ultimate-guide-to-youtube-video-formats/"><u>2024 Approved  Audience Appeal  The Ultimate Guide to YouTube Video Formats</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-from-novice-to-master-photographer-with-lunapic/"><u>2024 Approved  From Novice to Master Photographer with LunaPic</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comedic-calls-ringtones-best-picks-online-for-2024/"><u>Comedic Calls  Ringtones' Best Picks Online for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/comprehensive-guide-to-advanced-screen-capture-via-adobe-captive-for-2024/"><u>Comprehensive Guide to Advanced Screen Capture via Adobe Captive for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cutting-edge-convenience-smartwatch-mac-access/"><u>Cutting-Edge Convenience  Smartwatch, Mac Access</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-sensational-no-cost-visual-collaboration-games/"><u>In 2024, Sensational No-Cost Visual Collaboration Games</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/intellectual-stimulation-through-foreign-words/"><u>Intellectual Stimulation Through Foreign Words</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/maximizing-impact-10-key-strategies-for-instagram-video-promotion-for-2024/"><u>Maximizing Impact  10 Key Strategies for Instagram Video Promotion for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-beyond-quik-exploring-the-best-pc-video-editing-software-for-gopro-footage-for-2024/"><u>New Beyond Quik Exploring the Best PC Video Editing Software for GoPro Footage for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/premier-digital-repair-suite-for-videos/"><u>Premier Digital Repair Suite for Videos</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-14-plus-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Plus Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/snapshot-safeguarding-an-easy-tutorial-for-your-phone-for-2024/"><u>Snapshot Safeguarding  An Easy Tutorial for Your Phone for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-best-practice-manual-for-text-on-picture-edits-for-2024/"><u>The Best Practice Manual for Text-on-Picture Edits for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-pros-guide-to-exceptional-cameras-and-lenses-in-4k-for-2024/"><u>The Pro's Guide to Exceptional Cameras and Lenses in 4K for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-xiaomi-redmi-note-12t-pro-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Xiaomi Redmi Note 12T Pro Android SIM Unlock APK</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-16-from-realme-v30-to-other-android-devices-data-transfer-apps-to-switch-phone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 16 from Realme V30 to Other Android Devices Data Transfer Apps to Switch Phone Easily | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-vr-selection-top-8-must-have-titles/"><u>Ultimate VR Selection  Top 8 Must-Have Titles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/valorant-pc-stability-issues-ultimate-guide-to-resolving-game-crashes/"><u>Valorant PC Stability Issues - Ultimate Guide to Resolving Game Crashes</u></a></li>
+</ul></div>

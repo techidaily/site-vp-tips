@@ -1,7 +1,7 @@
 ---
 title: Mastering Voice Capture, Card Swap, and Running Routes with Guidance From ABBYY's Insights
-date: 2024-08-20 17:19:22
-updated: 2024-08-22 10:45:54
+date: 2024-08-22T07:27:21.004Z
+updated: 2024-08-23T07:27:21.004Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1fd97819f96aea4d97e8ac4ff57edab197b6c14d91b0c90b63f17b606d1e7ada.jpg
@@ -49,6 +49,9 @@ Besides saving your calls as audio files locally, you can also save them to Drop
 
 ![google voice record talk android](https://static1.abbyy.com/abbyycommedia/26260/google-voice.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 Be warned: Google Voice is only available within the US. The service allows you to record incoming calls. It’s free of charge, but you will need to register with a Google account.
 
 1. **Cube Call Recorder ACR**
@@ -61,6 +64,9 @@ By default, Cube Call Recorder ACR will record all calls, but you can add phone 
 
 Please remember to inform the other party that you’re going to record the call.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **ABBYY Tip: iMessage for BCR**
 
 Did you know that you could send your business card from [BCR iOS](http://qrs.ly/ip56xfe) to new contacts using iMessage? When using iMessage for this purpose for the very first time, you’ll have to tweak a few settings:
@@ -80,6 +86,9 @@ Now when you want to send a business card using iMessage:
 
 The addressee will receive your card in VCF format and will be able to save it directly to their **Contacts**. Nifty!
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **App of the week: Does Not Commute**
 
 Does Not Commute is a simple driving strategy that can be very annoying at the beginning, as you will be punished for every bad tap. However, as you get deeper into the game you will become more tolerant of other people on the road.
@@ -88,10 +97,16 @@ Your task is to map routes for several cars within a limited time (you’ll have
 
 ![App Does Not Commute drive car](https://static1.abbyy.com/abbyycommedia/26263/does-not-commute.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 The action takes place in a small town in the 1970s, the townsfolk (i.e. the drivers) have their own quirks, strange hobbies, and skeletons in the cupboard, which you will discover as you progress in the game. Theoretically, you can get to the top level free of charge, but you’ll have to do it in just one try. Or you can pay USD 1.99 to be able to save anywhere at a checkpoint.
 
 Available on [iOS](https://itunes.apple.com/us/app/does-not-commute/id971756507?mt=8)and [Android](https://play.google.com/store/apps/details?id=com.mediocre.commute&hl=ru).
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## First-Hand Experience: Advice From a Colleague
 
 _By Sofiya Semenova, Head of Internal Communication and CSR_
@@ -176,6 +191,9 @@ P.S. You can find the previous issue of this newsletter [here](https://tools.tec
 
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -239,3 +257,72 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-how-to-edit-youtube-videos-in-imovie/"><u>[New] 2024 Approved  How to Edit YouTube Videos in iMovie?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-masterclass-in-merging-movies-with-modern-education/"><u>[New] 2024 Approved  Masterclass in Merging Movies with Modern Education</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-social-snapshot-post-photosvideos-without-a-twit/"><u>[New] 2024 Approved  Social Snapshot  Post Photos/Videos without a Twit</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rom-raw-footage-to-final-cut-chroma-mastery/"><u>[New] From Raw Footage to Final Cut  Chroma Mastery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-stepwise-training-for-effective-transcription-with-gdoc/"><u>[New] In 2024, Stepwise Training for Effective Transcription with GDoc</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-vantage-point-critique/"><u>[New] In 2024, Vantage Point Critique</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-lighted-paths-guiding-viewers-with-intelligent-illumination-for-2024/"><u>[New] Lighted Paths  Guiding Viewers with Intelligent Illumination for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-masterclass-comprehensive-overview-of-dji-phantom-4/"><u>[New] Masterclass  Comprehensive Overview of DJI Phantom 4</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-mastering-kinemasters-gs-complete-guide/"><u>[New] Mastering KineMaster's GS  Complete Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-average-incomes-in-the-podcasting-industry/"><u>[New] Navigating Average Incomes in the Podcasting Industry</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-picture-perfect-pairings-expert-comparison-of-top-8k-televisions/"><u>[New] Picture Perfect Pairings  Expert Comparison of Top 8K Televisions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-premium-android-screenshot-and-video-tools-ranked-five-for-2024/"><u>[New] Premium Android Screenshot & Video Tools - Ranked Five for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-savory-storytelling-in-video-cooking-top-7-insights/"><u>[New] Savory Storytelling in Video Cooking - Top 7 Insights</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-streamlined-steps-to-share-videos-on-twitter-and-tumblr-for-2024/"><u>[New] Streamlined Steps to Share Videos on Twitter & Tumblr for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-35-humorous-image-alterers-onlineiosandroid-edition/"><u>[New] Top 35 Humorous Image Alterers  Online/iOS/Android Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ultimate-mix-seamless-free-and-paid-blu-ray-playback-windows-macos-for-2024/"><u>[New] Ultimate Mix  Seamless Free & Paid Blu-Ray Playback (Windows, macOS) for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unlocking-full-sphere-video-potential-on-ios-devices-for-2024/"><u>[New] Unlocking Full-Sphere Video Potential on iOS Devices for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-whimsical-videoland-assessment-for-2024/"><u>[New] Whimsical Videoland Assessment for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-detailed-verification-gopro-hero4-silver-edition/"><u>[Updated] 2024 Approved  Detailed Verification  GoPro HERO4 Silver Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-discover-the-new-era-of-photography-with-toolwiz-comprehensive-2023-reviews/"><u>[Updated] 2024 Approved  Discover the New Era of Photography with Toolwiz  Comprehensive 2023 Reviews</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-essential-software-for-windows-filmmakers-critical-edits-selection/"><u>[Updated] 2024 Approved  Essential Software for Windows Filmmakers  Critical Edits Selection</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-exploring-6-exquisite-eastern-themed-homes-in-mc/"><u>[Updated] 2024 Approved  Exploring 6 Exquisite Eastern Themed Homes in MC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-infuse-sound-with-microsoft-powerpoint-decks/"><u>[Updated] 2024 Approved  Infuse Sound with Microsoft PowerPoint Decks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-peak-performance-win-tunes/"><u>[Updated] 2024 Approved  Peak Performance WIN Tunes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-smart-sync-strategy-transferring-photos-from-iphone-to-snapchat-correctly/"><u>[Updated] 2024 Approved  Smart Sync Strategy  Transferring Photos From iPhone to Snapchat Correctly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-pros-guide-to-documenting-your-online-facebook-interactions/"><u>[Updated] 2024 Approved  The Pro's Guide to Documenting Your Online Facebook Interactions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-virtual-reality-walking-platforms-an-in-depth-look/"><u>[Updated] 2024 Approved  Virtual Reality Walking Platforms  An In-Depth Look</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-audiovisual-updates-integrating-sounds-with-statuses/"><u>[Updated] Audiovisual Updates  Integrating Sounds with Statuses</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-become-a-communication-connoisseur-with-these-hidden-whatsapp-techniques-for-2024/"><u>[Updated] Become a Communication Connoisseur with These Hidden WhatsApp Techniques for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-creating-a-decreasing-volume-effect-in-audacity-for-2024/"><u>[Updated] Creating a Decreasing Volume Effect in Audacity for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-exclusive-roundup-30-leading-free-vectr-and-illustration-sites-online/"><u>[Updated] Exclusive Roundup  30 Leading Free Vectr and Illustration Sites Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-full-slomo-recording-app-evaluation-future-outlook-for-2024/"><u>[Updated] Full SloMo Recording App Evaluation - Future Outlook for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-green-screen-resources-download-free-for-2024/"><u>[Updated] Green Screen Resources, Download Free for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-guide-to-animating-scenes-with-windows-movie-maker/"><u>[Updated] Guide to Animating Scenes with Windows Movie Maker</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-create-a-live-stream-online-for-2024/"><u>[Updated] How to Create a Live Stream Online for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-capturing-hulu-live-anywhere-a-practical-how-to-manual/"><u>[Updated] In 2024, Capturing Hulu Live Anywhere - A Practical How-To Manual</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ditch-thumbnail-peek-turn-off-video-preview-yt/"><u>[Updated] In 2024, Ditch Thumbnail Peek  Turn Off Video Preview YT</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-giggle-genesis-creepy-clones-with-a-smile/"><u>[Updated] In 2024, Giggle Genesis  Creepy Clones with a Smile</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-insiders-guide-to-superior-apps-for-vocal-transformation/"><u>[Updated] In 2024, Insider's Guide to Superior Apps for Vocal Transformation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-guide-to-digital-marketing-triumphs/"><u>[Updated] In 2024, The Ultimate Guide to Digital Marketing Triumphs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-video-upgrade-pathway-sdr-to-hdri-transformation-techniques/"><u>[Updated] In 2024, The Ultimate Video Upgrade Pathway  SDR to HDRI Transformation Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-masterclass-in-picture-text-edits-and-overlays-for-2024/"><u>[Updated] Masterclass in Picture Text Edits and Overlays for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-navigating-the-world-of-filmmaking-best-cameras-for-novices/"><u>[Updated] Navigating the World of Filmmaking  Best Cameras for Novices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-perfecting-your-playlists-adapting-spotify-to-the-youtube-music-ecosystem-for-2024/"><u>[Updated] Perfecting Your Playlists  Adapting Spotify to the YouTube Music Ecosystem for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-pixelpunch-custom-humor-images/"><u>[Updated] PixelPunch  Custom Humor Images</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-meme-crafters-playbook-building-a-library-of-laughter-gifs-for-2024/"><u>[Updated] The Meme Crafter's Playbook  Building a Library of Laughter (GIFs) for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-time-lapse-a-guide-with-gopro-studio/"><u>2024 Approved  Mastering Time-Lapse  A Guide with GoPro Studio</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-13-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 13 to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-google-pixel-7awithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Google Pixel 7awith/without a PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-k70-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi K70 Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-performance-best-windows-player-apps-reviewed/"><u>In 2024, Prime Performance  Best Windows Player Apps Reviewed</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Vivo V29e? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/locate-hidden-watch-video-preview-for-2024/"><u>Locate Hidden Watch Video Preview for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-subtitles-the-ultimate-guide-to-free-tools-for-2024/"><u>Mastering Subtitles  The Ultimate Guide to FREE Tools for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/proven-ways-to-create-engaging-intros-on-iphones-and-android/"><u>Proven Ways to Create Engaging Intros on iPhones & Android</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-more-using-emojis-in-youtube-conversations/"><u>Smile More  Using Emojis in YouTube Conversations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solution-for-fixing-the-absent-msvcr80dll-file-on-windows-systems/"><u>Step-by-Step Solution for Fixing the Absent msvcr80.dll File on Windows Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/superior-supplements-to-enhance-gopro/"><u>Superior Supplements to Enhance GoPro</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-assessment-of-the-nokia-72-why-it-outshines-its-competitors/"><u>The Definitive Assessment of the Nokia 7.2: Why It Outshines Its Competitors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-enhanced-ultrablade-samsungs-2023-take/"><u>The Enhanced UltraBlade  Samsung’s 2023 Take</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-essential-distinctions-between-metaverse-and-multimeva-for-2024/"><u>The Essential Distinctions Between Metaverse and Multimeva for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-5-effortlessly-converted-gif-to-professional-videos-online/"><u>Top 5 Effortlessly Converted  GIF to Professional Videos Online</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/top-5-gaming-chairs-on-a-shoestring-budget-for-2024/"><u>Top 5 Gaming Chairs on a Shoestring Budget for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Why does the pokemon go battle league not available On Apple iPhone 7 | Dr.fone</u></a></li>
+</ul></div>

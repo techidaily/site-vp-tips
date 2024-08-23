@@ -1,7 +1,7 @@
 ---
 title: The Role of Tech-Savvy Staff in Accelerating Business Transformation
-date: 2024-08-21 22:11:55
-updated: 2024-08-22 10:10:46
+date: 2024-08-22T07:28:33.781Z
+updated: 2024-08-23T07:28:33.781Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/924b42c675af7e54d265aac523b5dbe2839bad9cc4e31e018921bfcd577d0db7.jpg
@@ -36,6 +36,9 @@ Infographic
 
 [Learn more](https://static3.abbyy.com/abbyycommedia/37719/infographic-intelligent-automation-history-timeline-en.pdf "Learn more") 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ### LLMs and digital employees
 
 Digital employees, also referred to as digital workers, non-human workers, or intelligent agents, are software-driven entities capable of autonomously performing end-to-end knowledge-based processes using a diverse set of skills. The specific tasks and responsibilities of digital employees vary based on their job role, industry, and the objectives set by the manager or employer.
@@ -56,6 +59,9 @@ But it’s not just in software where digital employees can contribute toward a 
 
 Imagine a transportation company with 100 trucks, where 90 trucks are operated by human drivers while ten trucks are controlled by digital drivers that operate 24/7 non-stop without requiring any fuel but are limited to routine routes. The ten digital drivers can work alongside human drivers and could potentially spare humans from urgent, undesirable routes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ### Human workers welcome AI counterparts
 
 The stigma of using AI among the workforce is lessening. In fact, human workers are embracing the performance enhancement results digital workers are offering. A recent global ABBYY survey, [State of Intelligent Automation: Impact of the Economy on AI Priorities](https://tools.techidaily.com/abbyy/products/), found that 60 percent of IT leaders implementing AI attributed an increase in higher value work; 62 percent reported employees are happier; and 59 percent said employees are more innovative. Furthermore, nearly half have had an increase in staff retention levels since introducing AI in automation.
@@ -64,18 +70,36 @@ To further the dialogue of the impact of digital workers with human workers, lea
 
 ![DavidYang-99x99.png](https://static4.abbyy.com/abbyycommedia/25651/davidyang-99x99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 David Yang
 
 Founder and Chairman of the Board, ABBYY
 
 David Yang, Ph.D., is a physicist by training and a Silicon Valley-based entrepreneur with a focus on AI. He is the founder of [ABBYY](https://abbyy.com/) and is a Board of Director, and the co-founder of [Newo.ai](https://www.newo.ai/), the creator of the drag-n-drop builder of the Non-Human Workers, Digital Employees. Yang is a TEDx speaker [Will robots ever become part of the human family](https://www.ted.com/talks/morfeus%5Fai%5Fwill%5Frobots%5Fever%5Fbecome%5Fpart%5Fof%5Fthe%5Fhuman%5Ffamily), a member of Band of Angels, founded 12 companies, and holds numerous patents and scientific publications. The World Economic Forum in Davos named him one of the top 100 World Technology Pioneers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Additional Insights:
 
 1 / 3 
 
 [![New ABBYY Report: 80% Have Increased Intelligent Automation Budgets in Past Year](https://static3.abbyy.com/abbyycommedia/38053/ds-191_ai-team-player-survey_848x4442.jpg) **New ABBYY Report: 80% Have Increased Intelligent Automation Budgets in Past Year** Read more](https://tools.techidaily.com/abbyy/products/) [![Are Large Language Models (LLMs) the Future?](https://static2.abbyy.com/abbyycommedia/37511/are-llms-the-future_848x444.jpg) **Are Large Language Models (LLMs) the Future?** Read more](https://tools.techidaily.com/abbyy/products/) [![Customer Point of View: Highs and Lows of the Intelligent Automation Journey](https://static3.abbyy.com/abbyycommedia/38066/ds-191_customer-point-of-view_tn_848x444-1.jpg) **Customer Point of View: Highs and Lows of the Intelligent Automation Journey** Read more](https://tools.techidaily.com/abbyy/products/) [![The Gap Is Closing Between AI Innovation and Time-to-Value](https://static4.abbyy.com/abbyycommedia/37512/executive-insight_848x444.jpg) **The Gap Is Closing Between AI Innovation and Time-to-Value** Read more](https://tools.techidaily.com/abbyy/products/) [![How Banks Are Meeting Compliance Regulations and Fighting Fraud with AI and Machine Learning](https://static3.abbyy.com/abbyycommedia/37506/how-banks-fight-fraud-with-ai-and-ml_848x444.jpg) **How Banks Are Meeting Compliance Regulations and Fighting Fraud with AI and Machine Learning** Read more](https://tools.techidaily.com/abbyy/products/) [![How Process Mining Improves Business Processes and Prevents Cyber Threats](https://static3.abbyy.com/abbyycommedia/37507/howprocessminingpreventscyberthreats_848x444.jpg) **How Process Mining Improves Business Processes and Prevents Cyber Threats** Read more](https://tools.techidaily.com/abbyy/products/) [![Customer Point of View: Process Mining Reveals $6 Million in Savings](https://static2.abbyy.com/abbyycommedia/37509/leading-financial-institution-saves-millions_848x444.jpg) **Customer Point of View: Process Mining Reveals $6 Million in Savings** Read more](https://tools.techidaily.com/abbyy/products/) [![Analysis Reveals Top Use Cases for IDP in US, Europe, and Asia-Pacific](https://static4.abbyy.com/abbyycommedia/37508/idp-trends-and-outcomes-report_848x444.jpg) **Analysis Reveals Top Use Cases for IDP in US, Europe, and Asia-Pacific** Read more](https://tools.techidaily.com/abbyy/products/) [![The Second Tax Revolution—How Trustworthy AI Transforms Online Tax Filing](https://static1.abbyy.com/abbyycommedia/37510/the-second-tax-revolution_848x444.jpg) **The Second Tax Revolution—How Trustworthy AI Transforms Online Tax Filing** Read more](https://tools.techidaily.com/abbyy/products/) [![How AI Can Help Government Agencies Win at Total Experience (TX)](https://static5.abbyy.com/abbyycommedia/37014/government_1214434168_848x444.jpg) **How AI Can Help Government Agencies Win at Total Experience (TX)** Read more](https://tools.techidaily.com/abbyy/products/) [![Creating an Intelligent Automation Symphony](https://static1.abbyy.com/abbyycommedia/36940/tlp_ia_orchestra_485765348_848x444.jpg) **Creating an Intelligent Automation Symphony** Read more](https://tools.techidaily.com/abbyy/products/) [![Document AI Creating a Safer World](https://static1.abbyy.com/abbyycommedia/37016/saferworld_863497498_848x444.jpg) **Document AI Creating a Safer World** Read more](https://tools.techidaily.com/abbyy/products/) [![Customer Point of View: Approach Automation Step by Step](https://static4.abbyy.com/abbyycommedia/37013/fte_613347676_848x444.jpg) **Customer Point of View: Approach Automation Step by Step** Read more](https://tools.techidaily.com/abbyy/products/) [![Top Reasons Why Customers Abandon Your Onboarding Processes...and How to Fix Them](https://static1.abbyy.com/abbyycommedia/37015/onboarding_875247286_848x444.jpg) **Top Reasons Why Customers Abandon Your Onboarding Processes...and How to Fix Them** Read more](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Subscribe for updates
 
 Get updated on the latest insights and perspectives for business & technology leaders
@@ -132,3 +156,41 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-embedding-audio-in-instant-storytelling-platforms-for-2024/"><u>[New] Embedding Audio in Instant Storytelling Platforms for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ow-to-download-youtube-thumbnail-in-3-ways-onlinewinmac/"><u>[New] How to Download YouTube Thumbnail in 3 Ways [Online/Win/Mac]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-melody-of-affection-greatest-love-songs-to-sweeten-a-proposal/"><u>[New] Melody of Affection  Greatest Love Songs to Sweeten a Proposal</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-pathways-to-acquiring-facebooks-distinguished-verification/"><u>[New] Pathways to Acquiring Facebook's Distinguished Verification</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-tech-assisted-jogs-top-virtual-reality-walking-machines-explored-for-2024/"><u>[New] Tech-Assisted Jogs  Top Virtual Reality Walking Machines Explored for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-insiders-guide-to-slow-motion-with-photos-and-web-tools/"><u>[New] The Insider's Guide to Slow Motion with Photos & Web Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-science-of-perfectly-timed-episodes/"><u>[New] The Science of Perfectly Timed Episodes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-uncovering-8-superior-online-srt-translation-tools/"><u>[New] Uncovering 8 Superior Online SRT Translation Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-effortless-ways-to-grab-high-quality-images-at-no-cost/"><u>[Updated] 2024 Approved  Effortless Ways To Grab High Quality Images at No Cost</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-learn-to-bring-text-alive-free-animation-for-vids/"><u>[Updated] 2024 Approved  Learn to Bring Text Alive  Free Animation for Vids</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-navigating-skies-drone-shooting-basics/"><u>[Updated] 2024 Approved  Navigating Skies  Drone Shooting Basics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-pros-picks-of-handheld-stabilizers-ensuring-perfect-videos/"><u>[Updated] 2024 Approved  Pro's Picks of Handheld Stabilizers  Ensuring Perfect Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-audio-harmony-seekers-perfecting-video-moods/"><u>[Updated] Audio Harmony Seekers  Perfecting Video Moods</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-bring-to-life-the-dance-of-light-on-faces-employing-motion-blur-effects-in-picsart/"><u>[Updated] In 2024, Bring to Life the Dance of Light on Faces  Employing Motion Blur Effects in Picsart</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-smartphone-streaming-success-without-a-massive-subscriber-base/"><u>[Updated] In 2024, Smartphone Streaming Success Without a Massive Subscriber Base</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-step-by-step-enhancing-photos-with-cropping-tools/"><u>[Updated] In 2024, Step-by-Step  Enhancing Photos with Cropping Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-navigating-the-concealed-commentary-on-online-media/"><u>[Updated] Navigating the Concealed Commentary on Online Media</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-seamless-media-magic-turning-xml-ssa-into-dynamic-srts/"><u>[Updated] The Seamless Media Magic  Turning XML, SSA Into Dynamic SRTs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unlocking-creative-potential-garageband-editing-guide-for-2024/"><u>[Updated] Unlocking Creative Potential  GarageBand Editing Guide for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-visual-voice-principles-of-attractive-podcast-imagery/"><u>[Updated] Visual Voice  Principles of Attractive Podcast Imagery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-your-ultimate-guide-to-affordable-vector-design-websites-for-2024/"><u>[Updated] Your Ultimate Guide to Affordable Vector Design Websites for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtubes-rivalry-the-leading-3-video-streaming-sites/"><u>[Updated] YouTube's Rivalry  The Leading 3 Video Streaming Sites</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-zipped-texts-to-subtitles-converting-files-in-a-flash/"><u>[Updated] Zipped Texts to Subtitles  Converting Files in a Flash</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-vivo-x100-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Vivo X100 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/child-friendly-alarms-redefined-in-depth-analysis-of-the-mirari-wake-up-device/"><u>Child-Friendly Alarms Redefined: In-Depth Analysis of the Mirari Wake-Up Device</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effective-troubleshooting-steps-to-rectify-call-of-duty-warzone-errors-50-and-31/"><u>Effective Troubleshooting Steps to Rectify Call of Duty Warzone Errors [5.0] & [3.1]</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-everyday-use-to-extraordinary-virtual-adventures-smartphone-vr-conversion-guide-for-2024/"><u>From Everyday Use to Extraordinary Virtual Adventures  Smartphone-VR Conversion Guide for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-deactivate-microsofts-guard-in-windows-11-with-3-different-approaches/"><u>How to Deactivate Microsoft's Guard in Windows 11 with 3 Different Approaches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-issue-when-deathloop-wont-open/"><u>How to Overcome the Issue When Deathloop Won't Open</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On OnePlus Ace 3? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-6s-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 6s Plus Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-excessive-graphics-card-usage-by-desktop-window-manager-in-windows-1011-with-these-5-techniques/"><u>Resolve Excessive Graphics Card Usage by Desktop Window Manager in Windows 10/11 with These 5 Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-recording-guide-visuals-plus-vibrant-melodies-for-2024/"><u>Ultimate Recording Guide  Visuals + Vibrant Melodies for 2024</u></a></li>
+</ul></div>

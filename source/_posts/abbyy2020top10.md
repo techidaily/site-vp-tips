@@ -1,7 +1,7 @@
 ---
 title: "「働き方改革に向けて知るべきこと:ABBYYブログが紹介する2020年必見のビジネス記事TOP10」"
-date: 2024-08-21 20:47:41
-updated: 2024-08-22 12:42:45
+date: 2024-08-22T07:28:42.185Z
+updated: 2024-08-23T07:28:42.185Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11d2d4de93a06ce4ca47d0742.jpg
@@ -33,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 
 [記事はこちら](https://chiefexecutive.net/onboarding-your-digital-workforce/)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Coronavirus Pandemic Reveals the Need for a Broader Digital Front Door - 新型コロナ感染流行は、より幅広いデジタルの導線、入り口の必要性を明らかにしました
 
 昨年、全米の医療施設と医療提供者が新型コロナウィルスをさまざま経験し、なお継続していることがわかりました。 この危機により、多くの医療リーダーは、ケアの質を維持し個別のサービスを提供しながら、物理的なサービスの必要性をどのように減らすことができるかを評価するようになりました。 HIT Consultantでは、ヘルスケアシステムの新しい入り口と、デジタル戦略が、もはや「あれば良い」ではなく「必須」となっていることについて述べられています。
@@ -41,8 +44,19 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 
 ![ABBYY Timeline dashboard for hospitals](https://static1.abbyy.com/abbyycommedia/31822/timeline-screenshot-healthcare.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **_ABBYY Timeline は、ヘルスケアを提供されている方々に、継続的な運用上の洞察を提供するクラウドベースのプラットフォームです。 詳細は [こちら](https://tools.techidaily.com/abbyy/products/)。なお、ABBYY Timelineの[体験版申し込み](https://tools.techidaily.com/abbyy/products/)も承っております。日本語UIもサポートしております。_**
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ### 4\. AI and Automation Enabling Remote Working During the COVID-19 Crisis - 新型コロナ感染危機の際にテレワークを可能にしたAIそして自動化
 
 Enterprise Talkでは、ABBYYのAIエバンジェリストであるIvan Yamschikovが、CIOが現在の状況を乗り切るために必要なDX（デジタルトランスフォーメーション）についてインタビューしています。例えば、「時代の先を行くリーダーがどのように皆を先導するか、テレワークの際の従業員の生産性とパフォーマンスをどのように監視するか。 自動化への投資とこれが新型コロナ感染危機を乗り切る組織の能力にどのように直接関連しているのか。 企業が、従業員に権限を与えて自己責任を持つことができるようにし、プロセスがどこで壊れているかを発見させ、将来どのように早く立ち直らせるか。 」などです。
@@ -59,10 +73,17 @@ ITProTodayでは、新型コロナ感染流行が続く中、この通常では�
 
 ![work from home family](https://static1.abbyy.com/abbyycommedia/31774/6_gettyimages-1207391933.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 組織は、どんなタイプの作業環境がモチベーション、生産性、および作業満足度を得られるかについて、従業員の好みに耳を傾け、理解することで、従業員が従事する職場文化を作り出すことができます。これは、混乱や根本的な変化のときに特に重要です。 ReadWriteのコラムでは、新しい時代の仕事をリードするために、機敏で迅速に適応でき、従業員のやる気を引き出し、最高の人材を引き付ける魅力的な職場環境を構築できる組織が、どのようにして良いポジションに立てるかをお話しています。
 
 [記事はこちら](https://readwrite.com/2020/08/25/knowing-wfh-preferences-key-to-employee-recruitment-and-retention/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ### 7\. Want to be a Leader in the Digital-First Era? Upskill Your Workforce - デジタルファースト時代のリーダーになるためのスキルアップ
 
 新型コロナ感染危機により、新しいグローバルなリモートワーカーが生まれ、企業は効率よくワークフローを合理化する革新的な方法を見つけるようになりました。 ソーシャルディスタンスを取ることで、多くの組織は新しいデジタルチャネルを模索し、サービス提供モデルを革新し、顧客にサービスを提供する方法を一から再考するようになりました。 こういったことが起こる中で、それによって必要とされるスキルの新しい基準ができあがりました。 ただし、これらのスキルセットを持った方々は不足しています。 我々が知っている仕事の世界は決してずっと同じではありません。 皆さまは将来の仕事の準備ができていますか？
@@ -93,12 +114,18 @@ ITProTodayでは、新型コロナ感染流行が続く中、この通常では�
 
 ![team meeting via video call](https://static1.abbyy.com/abbyycommedia/31776/8_gettyimages-1248192282.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 最近の統計によると、新型コロナ感染危機により、41％の企業がAI（人工知能）に目を向け、新しいデジタルな働き方を導入しています。 Digital Intelligenceを方針として掲げるABBYYのプロダクトマーケティング部長であるBill Galushaが、Innovation＆Tech Todayにおいて、この変化の影響について説明し、従業員達が新しい同僚としてボットを迎える可能性を述べております。
 
 [記事はこちら](https://innotechtoday.com/six-professions-that-should-get-their-own-robot-in-2021/)
 
 [DX（デジタルトランスフォーメーション）](https://tools.techidaily.com/abbyy/products/) [AI OCR](https://tools.techidaily.com/abbyy/products/) [新型コロナ感染症](https://tools.techidaily.com/abbyy/products/) [デジタルインテリジェンス](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### いいね！、シェア、再投稿
 
 シェア 
@@ -161,3 +188,45 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-masterclass-comprehensive-overview-of-dji-phantom-4/"><u>[New] Masterclass  Comprehensive Overview of DJI Phantom 4</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-picture-perfect-pairings-expert-comparison-of-top-8k-televisions/"><u>[New] Picture Perfect Pairings  Expert Comparison of Top 8K Televisions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-revamp-your-photos-is-pickup-a-game-changer-for-android-users-in-2024/"><u>[New] Revamp Your Photos  Is PickUp a Game-Changer for Android Users, In 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-savory-storytelling-in-video-cooking-top-7-insights/"><u>[New] Savory Storytelling in Video Cooking - Top 7 Insights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-summers-best-10-nostalgic-films-for-the-whole-family/"><u>[New] Summer's Best 10 Nostalgic Films for the Whole Family</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-dji-phantom-4-extension-kit-list/"><u>[New] The Ultimate DJI Phantom 4 Extension Kit List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unlocking-full-sphere-video-potential-on-ios-devices-for-2024/"><u>[New] Unlocking Full-Sphere Video Potential on iOS Devices for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-peak-performance-win-tunes/"><u>[Updated] 2024 Approved  Peak Performance WIN Tunes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-deliberate-pixels-top-cameras-to-freeze-time-in-video-for-2024/"><u>[Updated] Deliberate Pixels  Top Cameras to Freeze Time in Video for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-from-beginner-to-star-top-25-vlogging-ideas-for-2024/"><u>[Updated] From Beginner to Star  Top 25 Vlogging Ideas for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-advanced-photography-iphones-leading-object-cutting-tools-revealed/"><u>[Updated] In 2024, Advanced Photography  IPhone's Leading Object Cutting Tools Revealed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-content-creators-dilemrante-podcasts-vs-youtube-as-a-platform/"><u>[Updated] In 2024, Content Creators' Dilemrante  Podcasts Vs. YouTube as a Platform</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ditch-thumbnail-peek-turn-off-video-preview-yt/"><u>[Updated] In 2024, Ditch Thumbnail Peek  Turn Off Video Preview YT</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-premium-hardware-choices-for-uhd-editors/"><u>[Updated] In 2024, Premium Hardware Choices for UHD Editors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-quickening-realities-with-hyperlapse-methods/"><u>[Updated] In 2024, Quickening Realities with Hyperlapse Methods</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-top-storytelling-schools-1-8-rankings-and-insights/"><u>[Updated] In 2024, Top Storytelling Schools  #1-#8 Rankings & Insights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-top-tune-tracker-and-manager-android-companion/"><u>[Updated] In 2024, Top Tune Tracker & Manager, Android Companion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ultimate-guide-to-applying-vhs-filters-on-computers/"><u>[Updated] In 2024, Ultimate Guide to Applying VHS Filters on Computers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-masterclass-review-unpacking-the-features-of-android-lightroom/"><u>[Updated] Masterclass Review  Unpacking the Features of Android Lightroom</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-tiktok-audio-transform-into-phone-ringtones-for-2024/"><u>[Updated] Mastering TikTok Audio  Transform Into Phone Ringtones for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-social-streaming-downloading-videos-and-turning-them-to-audio/"><u>[Updated] Social Streaming  Downloading Videos & Turning Them to Audio</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-power-of-perception-iconic-podcast-design-tips-for-2024/"><u>[Updated] The Power of Perception  Iconic Podcast Design Tips for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-6-cheapest-action-cameras-to-buy-under-100-for-2024/"><u>[Updated] Top 6 Cheapest Action Cameras to Buy Under $100 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-understanding-the-price-tag-on-youtube-promo-for-2024/"><u>[Updated] Understanding the Price Tag on Youtube Promo for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quickmemes-your-meme-toolkit/"><u>2024 Approved  QuickMemes  Your Meme Toolkit</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-xiaomi-14-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Xiaomi 14 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-easy-to-use-free-instagram-to-mp4-converters-for-all-oss/"><u>In 2024, Easy-to-Use Free Instagram to MP4 Converters for All OSs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-nokia-c12-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Nokia C12 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-pfr-rate-for-easy-going-footage-for-2024/"><u>Premium PFR Rate for Easy-Going Footage for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-best-tripod-for-iphone-and-android-smartphone/"><u>The Best Tripod for iPhone and Android Smartphone</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-definitive-fixes-when-your-computer-mouse-keeps-going-offline/"><u>The Definitive Fixes When Your Computer Mouse Keeps Going Offline</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-unraveling-the-world-of-hardware/"><u>Tom's Tech Insights: Unraveling the World of Hardware</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-8-must-play-virtual-reality-titles-for-now-for-2024/"><u>Top 8 Must-Play Virtual Reality Titles for Now for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-tactics-podcast-recording-on-ios-devices-for-voice-broadcasts/"><u>Top Tactics  Podcast Recording on iOS Devices for Voice Broadcasts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-xs-max-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone XS Max Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-dji-inspire-2s-features-for-2024/"><u>Unveiling DJI Inspire 2'S Features for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/yuneec-breeze-4k-drone-review-for-2024/"><u>Yuneec Breeze 4K Drone Review for 2024</u></a></li>
+</ul></div>

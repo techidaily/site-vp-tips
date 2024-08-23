@@ -1,7 +1,7 @@
 ---
 title: Verstehen Sie Prozessintelligenz - Eine Einführung in Die Welt Von ABBYY
-date: 2024-08-19 20:31:18
-updated: 2024-08-22 10:59:47
+date: 2024-08-22T07:24:35.759Z
+updated: 2024-08-23T07:24:35.759Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/368cd26d3749cfcc0c9a3f4f17a7f654d421407edf74d20f4dbbf4dfcbdaf09d.jpg
@@ -77,6 +77,9 @@ Durch die Nutzung von Process Intelligence können Unternehmen ein breites Spekt
 
 In jeder Branche ermöglicht [die Integration von Process Intelligence in eine digitale Transformationsstrategie](https://tools.techidaily.com/abbyy/products/) den Unternehmen, die zukünftigen Auswirkungen von vorgeschlagenen Änderungen zu bewerten, den Übergang effektiver zu gestalten, die Leistung der implementierten Automatisierungsschritte zu gewährleisten und eine Feedbackschleife für kontinuierliche Verbesserungen zu schaffen. Unternehmen aller Branchen nutzen Process Intelligence, um in einer Vielzahl von Anwendungsfällen bessere Ergebnisse zu erzielen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ### Gesundheitswesen
 
 Krankenhäuser und andere Gesundheitsdienstleister können Process Intelligence nutzen, um das Patientenerlebnis und die klinische Effektivität zu verbessern, Qualitätsstandards aufrechtzuerhalten und Compliance-Risiken zu vermeiden. Sie können die Einhaltung von Vorschriften erleichtern, indem sie klinische Abläufe in Echtzeit überwachen und das Personal proaktiv warnen, wenn Protokolle nicht eingehalten oder Prozessabweichungen festgestellt werden.
@@ -89,6 +92,9 @@ Process Intelligence ermöglicht es Banken und anderen Finanzinstituten, die dig
 
 Versicherungsunternehmen können prädiktive Analysen nutzen, um Risikobewertung, Risikoauswahl und Risikoübernahme-Entscheidungen zu beschleunigen. Sie können die Einhaltung von Vorschriften durch automatisierte Überwachung und Abhilfemaßnahmen verbessern und gleichzeitig Produktivitätssteigerungen erzielen, indem sie eine durchgehende Datenverarbeitung ermöglichen. Prozessanalysen bieten einen Mehrwert für interne Mitarbeitende, Vertragsregulierer, externe Supportorganisationen und andere Partner.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Verknüpfung von Process Intelligence mit intelligenter Prozessautomatisierung
 
 Unter digitaler Transformation versteht man die Integration digitaler Technologien in alle Bereiche eines Unternehmens, wodurch sich die Art und Weise, wie das Unternehmen arbeitet und seinen Kundinnen und Kunden einen Mehrwert bietet, grundlegend ändert. Erfolgreiche Transformationsaktivitäten beinhalten ein radikales Überdenken der Art und Weise, wie ein Unternehmen Technologie, Mitarbeitende und Prozesse einsetzt, um die Unternehmensperformance grundlegend zu verändern. [Intelligente Prozessautomatisierung (IPA)](https://www.abbyy.com/de/solutions/intelligent-process-automation-ipa/?itm%5Fsource=corpblog-de) ist das Herzstück dieses Wandels. Sie kombiniert künstliche Intelligenz (KI) und Automatisierung, um intelligente Geschäftsprozesse zu schaffen, die sich mit der Zeit anpassen und weiterentwickeln können.
@@ -105,6 +111,9 @@ Vor der Implementierung der Automatisierung setzte das Unternehmen Process-Minin
 
 Nach der Umsetzung dieser Optimierungen implementierte das Unternehmen eine intelligente Prozessautomatisierungslösung, die robotische Prozessautomatisierungsbots (RPA-Bots) für die Dateneingabe und -extraktion, KI-Algorithmen für die Entscheidungsfindung, Workflow-Automatisierung für die Orchestrierung des End-to-End-Prozesses und Process-Intelligence-Tools zur Überwachung der Leistung des automatisierten Prozesses und zur Ermittlung weiterer verbesserungswürdiger Bereiche umfasste.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## Ein ganzheitlicher Ansatz für Process Intelligence
 
 Viele Process-Mining- oder Task-Mining-Tools geben zwar vor, umfassende Lösungen zu bieten, sind aber oft nicht in der Lage, die Komplexität und die Feinheiten von Prozessen in der Praxis zu berücksichtigen. Eine wirklich wirksame Lösung muss die fünf oben genannten Säulen vollständig unterstützen. Nur mit einem ganzheitlichen Ansatz, der alle diese Aspekte umfasst, können Unternehmen darauf hoffen, eine sinnvolle und nachhaltige Prozessumstellung zu erreichen.
@@ -113,6 +122,9 @@ Unternehmen auf der ganzen Welt automatisieren zeitaufwendige Routineabläufe, d
 
 [Demo anfordern](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Häufig gestellte Fragen
 
 [Was ist eine Process-Intelligence-Strategie?](https://tools.techidaily.com/abbyy/products/)
@@ -135,6 +147,9 @@ Damit ein Prozess erfolgreich automatisiert werden kann, muss er zunächst verst
 
 ![Scott Opitz ABBYY](https://static1.abbyy.com/abbyycommedia/25562/02a-scottopitz-99x99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 Scott Opitz
 
 Chief Technology Officer at ABBYY
@@ -145,6 +160,9 @@ In seiner 30-jährigen Laufbahn in der Computerbranche hat Scott Opitz verschied
 
 Zuvor fungierte er unter anderem als Senior Vice President, Worldwide Marketing & Business Development für webMethods (heute Software AG), wobei er für Marketing, Geschäftsentwicklung und strategische Produktplanung verantwortlich zeichnete. Zu webMethods war er im Zuge von dessen Übernahme von IntelliFrame Corporation gekommen, einem Unternehmen, das sowohl Produkte zur Datenintegration als auch die integrierte Workflow- und BPM-Plattform InVista bereitstellte, die Opitz mitgegründet hatte. Scott Opitz hat außerdem zahlreiche Führungspositionen in den Bereichen Technologie, Marketing und Geschäftsentwicklung für staatliche und privatwirtschaftliche Unternehmen bekleidet.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Gefällt mir, teilen oder neu posten 
 
 Teilen 
@@ -169,3 +187,53 @@ Vernetzen Sie sich mit uns
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-elevating-your-visual-storytelling-techniques-and-strategies-for-shooting-compelling-slow-motion-content-for-instagram/"><u>[New] 2024 Approved  Elevating Your Visual Storytelling  Techniques and Strategies for Shooting Compelling Slow Motion Content for Instagram</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-transform-your-feed-a-comprehensive-guide-to-videos/"><u>[New] In 2024, Transform Your Feed  A Comprehensive Guide to Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-whats-stopping-my-sony-a6400-from-playing-video/"><u>[New] In 2024, What's Stopping My Sony A6400 From Playing Video?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-leading-phones-best-gopro-videos-editing-tools-for-2024/"><u>[New] Leading Phones' Best GoPro Videos Editing Tools for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-meta-vs-omni-navigating-digital-realms-for-2024/"><u>[New] Meta Vs. Omni  Navigating Digital Realms for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-redefining-efficiency-the-latest-in-windows-10-tech/"><u>[New] Redefining Efficiency  The Latest in Windows 10 Tech</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-seamless-virtual-conferencing-in-gmail-via-zoom-best-practices-for-2024/"><u>[New] Seamless Virtual Conferencing in Gmail via Zoom Best Practices for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-filmmakers-blueprint-to-panoramic-perfection-9-key-techniques-for-2024/"><u>[New] The Filmmaker's Blueprint to Panoramic Perfection  9 Key Techniques for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-10-best-4k-mirrorless-cameras-for-2024/"><u>[New] Top 10 Best 4K Mirrorless Cameras for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unlock-animoji-secrets-on-iphone-x-a-step-by-step-guide/"><u>[New] Unlock Animoji Secrets on iPhone X - A Step-by-Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unveiling-the-best-10-online-background-variant-software-for-2024/"><u>[New] Unveiling the Best 10 Online Background Variant Software for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-coders-showdown-which-codec-will-dominate-video-quality/"><u>[Updated] 2024 Approved  Coders' Showdown  Which Codec Will Dominate Video Quality?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-leading-srs-tuning-methods-for-macwin-users/"><u>[Updated] 2024 Approved  Leading SRS Tuning Methods for Mac/Win Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-making-sense-of-typical-podcaster-profits/"><u>[Updated] 2024 Approved  Making Sense of Typical Podcaster Profits</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-quick-connectivity-iphone-images-to-windows/"><u>[Updated] 2024 Approved  Quick Connectivity  IPhone Images to Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-strategies-to-shoot-a-flawless-green-screen-scene/"><u>[Updated] 2024 Approved  Top Strategies to Shoot a Flawless Green Screen Scene</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ultimate-list-of-costless-online-editors-for-professionals/"><u>[Updated] 2024 Approved  Ultimate List of Costless Online Editors for Professionals</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-a-deep-dive-into-ffmpeg-for-authentic-unaltered-audio-extraction/"><u>[Updated] A Deep Dive Into FFmpeg for Authentic, Unaltered Audio Extraction</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-apple-musics-role-in-professional-video-production-for-2024/"><u>[Updated] Apple Music's Role in Professional Video Production for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-audio-visual-elites-selecting-5-exceptional-creators-who-mix-sounds-for-2024/"><u>[Updated] Audio-Visual Elites  Selecting 5 Exceptional Creators Who Mix Sounds for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-beat-matchers-playlist-selecting-flawless-dj-videos-for-2024/"><u>[Updated] Beat Matcher's Playlist  Selecting Flawless DJ Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-from-abrupt-shifts-to-serene-journeys-expert-crossfade-guidance-with-audacity/"><u>[Updated] From Abrupt Shifts to Serene Journeys  Expert Crossfade Guidance with Audacity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-funniest-memes-born-select-the-best-generators-for-2024/"><u>[Updated] Funniest Memes Born  Select the Best Generators for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-a-complete-overview-of-vsco-photo-editor/"><u>[Updated] In 2024, A Complete Overview of VSCO Photo Editor</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-enhance-your-swipe-rate-ingenious-tips-for-standout-bios/"><u>[Updated] In 2024, Enhance Your Swipe Rate  Ingenious Tips for Standout Bios</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-exploring-the-land-of-virtual-possibilities/"><u>[Updated] In 2024, Exploring the Land of Virtual Possibilities</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ultimate-ranking-of-15-4k-video-devices/"><u>[Updated] In 2024, Ultimate Ranking of #15 4K Video Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-audio-best-practices-for-ipodcasting-interviews-on-ios-devices-for-2024/"><u>[Updated] Mastering Audio  Best Practices for iPodcasting Interviews on iOS Devices for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-navigating-iphone-the-ringtone-alteration-process/"><u>[Updated] Navigating iPhone  The Ringtone Alteration Process</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-voice-memo-reference-manual-for-2024/"><u>[Updated] The Ultimate Voice Memo Reference Manual for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-explore-gbs-best-in-class-emulation-software-for-pc-users/"><u>2024 Approved  Explore GB's Best in Class Emulation Software for PC Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-studio-techniques-decoded-xvideostudio-edition/"><u>2024 Approved  Studio Techniques Decoded  XVideoStudio Edition</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-12-mini-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 12 mini in Lost Mode</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/back-at-it-again-thrilling-insights-on-fortnites-new-and-upbeat-gaming-season/"><u>Back at It Again: Thrilling Insights on Fortnite's New and Upbeat Gaming Season</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/expert-list-of-websites-ease-up-on-youtube-videos-and-templates-for-2024/"><u>Expert List of Websites  Ease Up on Youtube Videos and Templates for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-oppo-find-n3-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2021-for-pc-common-crash-problems-and-solutions-uncovered/"><u>Football Manager 2021 for PC - Common Crash Problems and Solutions Uncovered</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-graphic-design-careers-successfully/"><u>In 2024, Navigating Graphic Design Careers Successfully</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-complete-guide-to-android-time-lapse-creation/"><u>In 2024, The Complete Guide to Android Time-Lapse Creation</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-tutorial-video-with-filmora/"><u>New How to Make Tutorial Video with Filmora</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/premier-digital-repair-suite-for-videos/"><u>Premier Digital Repair Suite for Videos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-redmi-note-12-pro-5g-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Redmi Note 12 Pro 5G has been deleted.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-pros-guide-to-exceptional-cameras-and-lenses-in-4k-for-2024/"><u>The Pro's Guide to Exceptional Cameras and Lenses in 4K for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-and-fixing-broadcom-netlink-gigabit-ethernet-issues-in-windows-10/"><u>Troubleshooting & Fixing Broadcom NetLink Gigabit Ethernet Issues in Windows 10</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ultimate-guide-fixing-damaged-mp4mov-videos-with-vlc-media-player/"><u>Ultimate Guide: Fixing Damaged MP4/MOV Videos with VLC Media Player</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-vr-selection-top-8-must-have-titles/"><u>Ultimate VR Selection  Top 8 Must-Have Titles</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Utilizing Cookiebot Technology for Advanced Online Analytics & Personalization
-date: 2024-08-20 15:10:59
-updated: 2024-08-22 11:56:23
+date: 2024-08-22T07:24:34.158Z
+updated: 2024-08-23T07:24:34.158Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977aace37b8f0906719738cd6b.jpg
@@ -47,6 +47,9 @@ Wenn wir den Order-to-Cash-Prozess aus der Sicht von PI betrachten, verlagert si
 
 So kann Process Intelligence beispielsweise aufzeigen, dass ein bestimmter Prozessschritt, wie die Auftragsprüfung, zu lange dauert und dadurch Verzögerungen verursacht, die sich auf den gesamten Prozess auswirken. Oder PI deckt Fälle auf, in denen wichtige Schritte wie Kreditprüfungen übersprungen werden, was zu einem erhöhten finanziellen Risiko für das Unternehmen führt. Process Intelligence bietet eine ganzheitliche Perspektive und kann entscheidende Einblicke in die Prozessdynamik sowie Optimierungsmöglichkeiten offenbaren.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Was ist Business Intelligence (BI)?
 
 **Business Intelligence hingegen ist ein technologiegestützter Prozess, der die Analyse und Präsentation von Geschäftsinformationen umfasst.** Das Hauptziel von BI ist es, Unternehmen dabei zu helfen, fundierte Entscheidungen zu treffen, indem sie Einblicke in ihre Geschäftsabläufe, das Kundenverhalten, Markttrends und die Wettbewerbslandschaft erhalten.
@@ -68,14 +71,23 @@ Können Sie beispielsweise feststellen, ob die Fälle, in denen bestimmte Verkä
 
 **Process Intelligence** konzentriert sich auf die Analyse und Optimierung von Geschäftsprozessen, wobei der gesamte Prozesslebenszyklus betrachtet wird. **Business Intelligence** konzentriert sich auf die eingehende Analyse einzelner Prozessschritte.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Datenquellen
 
 **Process Intelligence** verwendet Ereignisprotokolle, Audit-Tabellen, Benutzerinteraktionen und Desktop-Aktivitäten als primäre Datenquellen. Business Intelligence nutzt Daten aus verschiedenen Quellen, die sich auf einen bestimmten Schritt/Teil eines Geschäftsprozesses beziehen, um Muster, Trends und Anomalien zu analysieren und zu visualisieren.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Ergebnisse
 
 **Process Intelligence** bietet Einblicke, die Unternehmen dabei helfen, ihre Geschäftsprozesse zu optimieren, indem sie ein besseres Verständnis für den globalen Kontext bestimmter Schritte und Abweichungen zwischen Prozessinstanzen bietet. **Business Intelligence** liefert Erkenntnisse, die Unternehmen helfen, fundierte, datengestützte Entscheidungen zu treffen.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tools
 
 Zu den Tools von **Process Intelligence** gehören Process Mining, Task Mining, Analytik, Überwachung, Vorhersage und Simulation. Tools für **Business Intelligence** sind in der Regel Dashboards, Berichte, Datenanalysen und andere Visualisierungsfunktionen.
@@ -98,6 +110,9 @@ Für diejenigen, die neu im Bereich Process Intelligence und Process Mining sind
 
 ![Scott Opitz ABBYY](https://static1.abbyy.com/abbyycommedia/25562/02a-scottopitz-99x99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Scott Opitz
 
 Chief Technology Officer at ABBYY
@@ -108,6 +123,9 @@ In seiner 30-jährigen Laufbahn in der Computerbranche hat Scott Opitz verschied
 
 Zuvor fungierte er unter anderem als Senior Vice President, Worldwide Marketing & Business Development für webMethods (heute Software AG), wobei er für Marketing, Geschäftsentwicklung und strategische Produktplanung verantwortlich zeichnete. Zu webMethods war er im Zuge von dessen Übernahme von IntelliFrame Corporation gekommen, einem Unternehmen, das sowohl Produkte zur Datenintegration als auch die integrierte Workflow- und BPM-Plattform InVista bereitstellte, die Opitz mitgegründet hatte. Scott Opitz hat außerdem zahlreiche Führungspositionen in den Bereichen Technologie, Marketing und Geschäftsentwicklung für staatliche und privatwirtschaftliche Unternehmen bekleidet.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Gefällt mir, teilen oder neu posten 
 
 Teilen 
@@ -170,3 +188,55 @@ Vernetzen Sie sich mit uns
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-innovative-techniques-for-stunning-hdr-photography-for-2024/"><u>[New] Innovative Techniques for Stunning HDR Photography for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-samsung-photo-editor-review-2023-pros-con-features-and-guide/"><u>[New] Samsung Photo Editor Review 2023 - Pros, Con, Features, and Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-slendersky-saver-economic-storage-for-voluminous-files-for-2024/"><u>[New] SlenderSky Saver - Economic Storage for Voluminous Files for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-strategies-for-discerning-professional-film-making-talents-for-2024/"><u>[New] Strategies for Discerning Professional Film Making Talents for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-most-engaging-ar-games-for-phones-revealed/"><u>[New] The Most Engaging AR Games for Phones Revealed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-dark-heroity-meets-radiant-righteousness/"><u>[Updated] 2024 Approved  Dark Heroity Meets Radiant Righteousness</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-elevate-expression-with-audio-in-statuses/"><u>[Updated] 2024 Approved  Elevate Expression with Audio in Statuses</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-smilesketcher-turn-your-ideas-into-memes-and-graphics/"><u>[Updated] 2024 Approved  SmileSketcher  Turn Your Ideas Into Memes & Graphics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-economics-of-successful-podcasting/"><u>[Updated] 2024 Approved  The Economics of Successful Podcasting</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-rings-rhythm-versus-screen-time-symphony/"><u>[Updated] 2024 Approved  The Ring's Rhythm Versus Screen Time Symphony</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-enhancing-visual-storytelling-with-top-frames-of-2024/"><u>[Updated] Enhancing Visual Storytelling with Top Frames of 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-esports-news-and-analysis-from-top-vloggers/"><u>[Updated] Esports News and Analysis From Top Vloggers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-flashback-flair-top-80s-video-tricks-for-a-contemporary-edge/"><u>[Updated] Flashback Flair  Top 80S Video Tricks for a Contemporary Edge</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-high-performance-graphics-displayed-by-asus-proart-for-2024/"><u>[Updated] High-Performance Graphics Displayed by ASUS ProArt for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-elevating-your-work-with-dynamic-hdr-techniques/"><u>[Updated] In 2024, Elevating Your Work with Dynamic HDR Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-empowering-education-guide-for-film-infused-curricula/"><u>[Updated] In 2024, Empowering Education  Guide for Film-Infused Curricula</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-interpreting-distinctions-360-content-and-virtual-reality/"><u>[Updated] In 2024, Interpreting Distinctions  360° Content & Virtual Reality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-maximizing-auditory-experience-on-windows-10/"><u>[Updated] In 2024, Maximizing Auditory Experience on Windows 10</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-prime-mp4-fb-file-shifter/"><u>[Updated] In 2024, Prime MP4-FB File Shifter</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-pro-fishing-visionaries-discovering-our-5-best-cameras/"><u>[Updated] In 2024, Pro-Fishing Visionaries  Discovering Our 5 Best Cameras</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-prime-selection-top-ranked-gopro-case-models/"><u>[Updated] In 2024, The Prime Selection  Top-Ranked GoPro Case Models</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-inverted-screen-changing-video-ordering-for-2024/"><u>[Updated] Inverted Screen  Changing Video Ordering for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-masterclass-flawless-powerpoint-screen-recordings-for-2024/"><u>[Updated] Masterclass  Flawless PowerPoint Screen Recordings for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-art-of-creating-smooth-audio-cuts/"><u>[Updated] The Art of Creating Smooth Audio Cuts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-art-of-integrating-b-footage-into-main-shots/"><u>[Updated] The Art of Integrating B-Footage Into Main Shots</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-sound-architects-guide-to-memo-mastery-for-2024/"><u>[Updated] The Sound Architect's Guide to Memo Mastery for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-picks-amplifying-vhs-pictures-via-computer-software/"><u>[Updated] Top Picks  Amplifying VHS Pictures via Computer Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-trendsetters-pictures-origins-explored-for-2024/"><u>[Updated] Trendsetters' Pictures  Origins Explored for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-uniting-social-spheres-from-instagram-to-tiktok-triumphs/"><u>[Updated] Uniting Social Spheres  From Instagram to TikTok Triumphs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-what-are-the-best-sites-to-download-text-effects/"><u>[Updated] What Are The Best Sites To Download Text Effects?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-game-changer-samsung-ue590-4k-monitor/"><u>2024 Approved  Unveiling the Game Changer - Samsung UE590 4K Monitor</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/destroy-fearsome-foes-with-our-complete-monster-hunter-world-reviews/"><u>Destroy Fearsome Foes with Our Complete 'Monster Hunter: World' Reviews</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-tecno-pova-6-pro-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Tecno Pova 6 Pro 5G</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-eliminating-the-fifa-21-crashing-issues-on-desktop-computers/"><u>Expert Advice: Eliminating the FIFA 21 Crashing Issues on Desktop Computers</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720673652824-how-to-fix-blue-screen-of-death-bsod-error-in-windows-1011/"><u>How to Fix Blue Screen of Death [BSOD] Error in Windows 10/11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-13-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 13 When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-s23-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy S23 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-honor-play-8t-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Honor Play 8T? Fixed | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Vivo X90S? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-winning-strategies-and-hashtags-for-youtubes-best-freefirers/"><u>In 2024, Winning Strategies & Hashtags for YouTube's Best FreeFirers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/olympic-ice-rush-speed-skaters-best-from-games/"><u>Olympic Ice Rush  Speed Skaters' Best From Games</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/peekpoint-analysis-a-guide-for-2024/"><u>Peekpoint Analysis  A Guide for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/petsafe-healthy-pet-feeder-a-vital-tool-in-your-pets-journey-to-sustainable-weight-management/"><u>PetSafe Healthy Pet Feeder – A Vital Tool in Your Pet's Journey to Sustainable Weight Management</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/smooth-start-gradual-appearance-for-2024/"><u>Smooth Start  Gradual Appearance for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-pcs-with-chatgpt-application/"><u>Streamline PCs with ChatGPT Application</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unboxing-and-testing-the-syma-s111g-drone-for-budget-aerial-adventures-inside-your-home/"><u>Unboxing and Testing the Syma S111G Drone for Budget Aerial Adventures Inside Your Home</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlocking-visual-potential-a-step-by-step-guide-to-video-enhancer-22/"><u>Unlocking Visual Potential  A Step-by-Step Guide to Video Enhancer 2.2</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-identifying-repositories-of-flatulence-related-auditory-experiences-for-creative-use/"><u>Updated In 2024, Identifying Repositories of Flatulence-Related Auditory Experiences for Creative Use</u></a></li>
+</ul></div>

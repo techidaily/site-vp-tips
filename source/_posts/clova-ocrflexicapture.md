@@ -1,7 +1,7 @@
 ---
 title: 日本語の手書き文字を効果的に読み取るCLOVA OCRとFlexiCaptureの連携方法
-date: 2024-08-21 13:32:17
-updated: 2024-08-22 10:47:57
+date: 2024-08-22T07:27:46.725Z
+updated: 2024-08-23T07:27:46.725Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/dd0fbdf5cb36119cb6841081ccc0579ed7b5b44574bcc137517a05ce80e5ff57.jpg
@@ -31,6 +31,10 @@ AI OCRは常に進化しており、クラウド上のサービスも多く、�
 
 ![日本語手書き読み取りAI OCR](https://static1.abbyy.com/abbyycommedia/35333/clovaocr-content-1-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## FlexiCaptureは複雑な文書の処理が可能
 
 FlexiCaptureは、複雑な文書にも広く対応しており、他では取得できないフォーマットでも、定型、非定型問わずに、読み取り可能です。これは、一般的なAI OCRに用いられている学習による解析だけでなく、人間が見て判断するように、特定の文字からの相対位置や何行目、何列目といった表構造の中での位置、スキャン時に発生する解像度のばらつきや傾きの補正などの機能FlexiCaptureが有しているからです。加えて、上記の機能により文書を誤認識してしまった際にもロジカルに原因追及が可能となっています。
@@ -39,6 +43,12 @@ FlexiCaptureは、複雑な文書にも広く対応しており、他では取�
 
 ![日本語手書き読み取りAI OCR](https://static1.abbyy.com/abbyycommedia/35332/clovaocr-content-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FlexiCaptureは検証機能も充実
 
 AI OCRを導入するためには新たな業務が必要となります。すべてのAI OCRに対して言えることですが、どんな文書でも100%正しく認識することはできません。必然的に重要な文書であるほどOCRの結果を人の目で見て確認するという作業（以降、検証）が重要となってきます。
@@ -47,6 +57,12 @@ AI OCRを導入するためには新たな業務が必要となります。す�
 
 ![日本語手書き読み取りAI OCR](https://static1.abbyy.com/abbyycommedia/35331/clovaocr-content-3-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FlexiCaptureは業務使用に最適
 
 [FlexiCapture](https://tools.techidaily.com/abbyy/products/)はカスタマイズ性の強さからお客様の業務に合わせた導入が可能です。各種APIおよびファイル連携により様々な入出力に対応しており、既存のシステムと合わせて導入できます。
@@ -73,6 +89,9 @@ FlexiCaptureは単体でも認識、検証、ワークフローにおいて優�
 
 [DX（デジタルトランスフォーメーション）](https://tools.techidaily.com/abbyy/products/) [プロセスインテリジェンス](https://tools.techidaily.com/abbyy/products/) [エンタープライズ](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### いいね！、シェア、再投稿
 
 シェア 
@@ -135,3 +154,48 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-creating-a-cash-flow-from-content-youtubes-monetization-techniques-for-the-future/"><u>[New] Creating a Cash Flow From Content  YouTube's Monetization Techniques for the Future</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-vantage-point-critique/"><u>[New] In 2024, Vantage Point Critique</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-joking-jokebooks-top-10-hilarious-social-media-posts/"><u>[New] Joking Jokebooks  Top 10 Hilarious Social Media Posts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-mastering-kinemasters-gs-complete-guide/"><u>[New] Mastering KineMaster's GS  Complete Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-sparkle-with-style-animating-text-in-your-insta-stories/"><u>[New] Sparkle with Style  Animating Text in Your Insta Stories</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-35-humorous-image-alterers-onlineiosandroid-edition/"><u>[New] Top 35 Humorous Image Alterers  Online/iOS/Android Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ultimate-mix-seamless-free-and-paid-blu-ray-playback-windows-macos-for-2024/"><u>[New] Ultimate Mix  Seamless Free & Paid Blu-Ray Playback (Windows, macOS) for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-video-chat-with-peace-of-mind-top-10-secure-call-apps-available-without-cost-for-2024/"><u>[New] Video Chat with Peace of Mind  Top 10 Secure Call Apps Available without Cost for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-detailed-verification-gopro-hero4-silver-edition/"><u>[Updated] 2024 Approved  Detailed Verification  GoPro HERO4 Silver Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-discover-the-new-era-of-photography-with-toolwiz-comprehensive-2023-reviews/"><u>[Updated] 2024 Approved  Discover the New Era of Photography with Toolwiz  Comprehensive 2023 Reviews</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-essential-software-for-windows-filmmakers-critical-edits-selection/"><u>[Updated] 2024 Approved  Essential Software for Windows Filmmakers  Critical Edits Selection</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-infuse-sound-with-microsoft-powerpoint-decks/"><u>[Updated] 2024 Approved  Infuse Sound with Microsoft PowerPoint Decks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-spotlight-savvy-profiling-and-promoting-on-snapchat/"><u>[Updated] 2024 Approved  Spotlight Savvy  Profiling and Promoting on Snapchat</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-virtual-reality-walking-platforms-an-in-depth-look/"><u>[Updated] 2024 Approved  Virtual Reality Walking Platforms  An In-Depth Look</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-audiovisual-updates-integrating-sounds-with-statuses/"><u>[Updated] Audiovisual Updates  Integrating Sounds with Statuses</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-become-a-communication-connoisseur-with-these-hidden-whatsapp-techniques-for-2024/"><u>[Updated] Become a Communication Connoisseur with These Hidden WhatsApp Techniques for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-full-slomo-recording-app-evaluation-future-outlook-for-2024/"><u>[Updated] Full SloMo Recording App Evaluation - Future Outlook for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-green-screen-resources-download-free-for-2024/"><u>[Updated] Green Screen Resources, Download Free for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-guide-to-animating-scenes-with-windows-movie-maker/"><u>[Updated] Guide to Animating Scenes with Windows Movie Maker</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-create-a-live-stream-online-for-2024/"><u>[Updated] How to Create a Live Stream Online for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-giggle-genesis-creepy-clones-with-a-smile/"><u>[Updated] In 2024, Giggle Genesis  Creepy Clones with a Smile</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-insiders-guide-to-superior-apps-for-vocal-transformation/"><u>[Updated] In 2024, Insider's Guide to Superior Apps for Vocal Transformation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-complete-drone-racing-playbook-plus-5-elite-fpv-brands/"><u>[Updated] In 2024, The Complete Drone Racing Playbook + 5 Elite FPV Brands</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-guide-to-digital-marketing-triumphs/"><u>[Updated] In 2024, The Ultimate Guide to Digital Marketing Triumphs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-masterclass-in-picture-text-edits-and-overlays-for-2024/"><u>[Updated] Masterclass in Picture Text Edits and Overlays for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-navigating-the-world-of-filmmaking-best-cameras-for-novices/"><u>[Updated] Navigating the World of Filmmaking  Best Cameras for Novices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-meme-crafters-playbook-building-a-library-of-laughter-gifs-for-2024/"><u>[Updated] The Meme Crafter's Playbook  Building a Library of Laughter (GIFs) for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-premium-flying-tech-available-right-now/"><u>2024 Approved  Premium Flying Tech Available Right Now</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/diy-guide-mastering-the-art-of-self-ejecting-iphones/"><u>DIY Guide: Mastering the Art of Self-Ejecting iPhones</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enhancing-youtube-videos-for-superior-quality-for-2024/"><u>Enhancing YouTube Videos for Superior Quality for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-google-phone-by-drfone-android/"><u>How to Reset a Locked Google Phone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-c33-2023-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme C33 2023 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From Apple iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-and-evaluation-of-the-netgear-nighthawk-x6-wifi-router-range-extender-kit/"><u>In-Depth Analysis and Evaluation of the Netgear Nighthawk X6 WiFi Router Range Extender Kit</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/seamless-subtitle-conversion-at-your-fingertips-top-8-software-for-windowsmacos-srt-transition/"><u>Seamless Subtitle Conversion at Your Fingertips - Top 8 Software for Windows/MacOS SRT Transition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-essential-distinctions-between-metaverse-and-multimeva-for-2024/"><u>The Essential Distinctions Between Metaverse and Multimeva for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-reality-behind-chatgpts-responses-fact-or-fiction/"><u>The Reality Behind ChatGPT's Responses: Fact or Fiction?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-5-effortlessly-converted-gif-to-professional-videos-online/"><u>Top 5 Effortlessly Converted  GIF to Professional Videos Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-issues-with-the-msi-afterburner-overlay/"><u>Troubleshooting Tips: Resolving Issues with the MSI Afterburner Overlay</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unveiling-youtubes-hidden-gems-the-comment-space/"><u>Unveiling YouTube's Hidden Gems  The Comment Space</u></a></li>
+</ul></div>

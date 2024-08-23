@@ -1,7 +1,7 @@
 ---
 title: Brazil's Growing Demand for Smart IT Technologies at the 2018 Information Show - Insights From the ABBYY Perspective
-date: 2024-08-21 23:41:24
-updated: 2024-08-22 11:36:27
+date: 2024-08-22T07:28:50.467Z
+updated: 2024-08-23T07:28:50.467Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8a309f6aebab825a6cd0baff1d0b8550d45fadce34f31fb21e5a5f2109ae3299.jpg
@@ -37,6 +37,9 @@ This is not ABBYY's first foray into the Brazilian market. Earlier, the company 
 
 [Intelligent Document Processing (IDP)](https://www.abbyy.com/blog/intelligent-document-processing-idp/ "Intelligent Document Processing (IDP)") [Digital Transformation](https://tools.techidaily.com/abbyy/products/) [Events](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -99,3 +102,45 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-text-animations-unleashed-try-these-14-dynamic-showcases/"><u>[New] In 2024, Text Animations Unleashed  Try These 14 Dynamic Showcases</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-long-exposure-iphone-shots-step-by-step-guide/"><u>[New] Long-Exposure iPhone Shots  Step-by-Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-masterful-bio-upgrade-merging-linktree-with-tiktoks-profiles-for-2024/"><u>[New] Masterful Bio Upgrade  Merging Linktree with TikTok's Profiles for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-blueprint-for-virtual-business-growth-for-2024/"><u>[New] The Blueprint for Virtual Business Growth for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-impact-of-weather-on-syma-x8c-performance/"><u>[New] The Impact of Weather on Syma X8C Performance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-role-of-arvr-in-medical-training-for-2024/"><u>[New] The Role of AR/VR in Medical Training for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unleash-creativity-no-cost-high-quality-text-psds-for-2024/"><u>[New] Unleash Creativity  No-Cost, High-Quality Text PSDs for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-innovative-metaverse-gags-and-their-creators/"><u>[Updated] 2024 Approved  Innovative Metaverse Gags & Their Creators</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-streamline-your-view-adding-captions-on-windows-media-player/"><u>[Updated] 2024 Approved  Streamline Your View  Adding Captions on Windows Media Player</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-ios-pro-and-plus-free-film-apps-unveiled/"><u>[Updated] 2024 Approved  Top iOS  Pro & Plus-Free Film Apps - Unveiled</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-winning-hearts-gaining-more-likes-on-tiktok-unboxes/"><u>[Updated] 2024 Approved  Winning Hearts  Gaining More Likes on TikTok Unboxes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-chime-chronicles-compilation-of-top-ringtone-sources/"><u>[Updated] Chime Chronicles  Compilation of Top Ringtone Sources</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flv-conversion-for-content-creators-top-10-youtubes-alternatives-unveiled-for-2024/"><u>[Updated] Flv Conversion for Content Creators  Top 10 YouTubes Alternatives Unveiled for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-grasping-the-basics-of-av1-compression/"><u>[Updated] Grasping the Basics of AV1 Compression</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-reverse-image-search-facebook/"><u>[Updated] How to Reverse Image Search Facebook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-snapshot-sharpening-affinitys-bg-exclusion/"><u>[Updated] In 2024, Snapshot Sharpening - Affinity's Bg Exclusion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-podcasters-guide-to-premium-recorders/"><u>[Updated] Podcaster's Guide to Premium Recorders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-premium-15-groundbreaking-film-processors-for-gopro-cinematography-for-2024/"><u>[Updated] Premium 15 Groundbreaking Film Processors for GoPro Cinematography for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-srt-unveiled-core-concepts-and-practical-info-for-2024/"><u>[Updated] SRT Unveiled  Core Concepts and Practical Info for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-win-and-mac-top-8-excellent-subtitles-converters-to-srt/"><u>[Updated] Win & Mac  Top 8 Excellent Subtitles Converters to SRT</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-breakdown-for-switch-online-expansion/"><u>Budget Breakdown for Switch Online Expansion</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expertise-in-mobile-lut-apps/"><u>Expertise in Mobile LUT Apps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/w-the-footsteps-of-fan-driven-forums/"><u>Follow the Footsteps of Fan-Driven Forums</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-tecno-pova-6-pro-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Tecno Pova 6 Pro 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-zte-axon-40-lite-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-15-pro-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 15 Pro?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oppo-reno-10-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Oppo Reno 10 5G FRP?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-reframe-twitter-video-box-icon/"><u>In 2024, Reframe Twitter Video Box Icon</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1723008595612-master-five-essential-fixes-to-stop-world-of-warships-from-freezing-in-windows/"><u>Master Five Essential Fixes to Stop World of Warships From Freezing in Windows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-6-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your iPhone 6</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/peak-performance-cameras-for-high-speed-sports/"><u>Peak Performance Cameras for High-Speed Sports</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/perfecting-eq-adjustments-in-ableton-for-2024/"><u>Perfecting EQ Adjustments in Ableton for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/revive-dropped-items-in-windows-11/"><u>Revive Dropped Items in Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/strategies-for-procuring-high-quality-clip-art-with-no-cost/"><u>Strategies for Procuring High-Quality Clip Art with No Cost</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/techniques-for-swapping-video-content-in-android-for-2024/"><u>Techniques for Swapping Video Content in Android for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-guide-watching-basketball-with-precision-for-2024/"><u>The Ultimate Guide  Watching Basketball with Precision for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-oneplus-open-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-logitech-c27e-driver-for-windows-11-quick-and-secure-downloading-guide/"><u>Updated Logitech C27e Driver for Windows 11 - Quick and Secure Downloading Guide</u></a></li>
+</ul></div>
