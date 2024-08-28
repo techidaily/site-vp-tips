@@ -1,7 +1,7 @@
 ---
 title: "Solving Playback Timing Problems: Fixing Offset Sound on Digitized Video Files"
-date: 2024-08-25 13:17:38
-updated: 2024-08-27 11:59:27
+date: 2024-08-27T01:17:06.754Z
+updated: 2024-08-28T01:17:06.754Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c83a82113344d8ae306f1223c.jpg
@@ -55,6 +55,9 @@ Rip protected DVDs easily without video/audio out of sync issues using **[MacX D
 * [Part 3\. How to **Correct** Out-of-Sync Audio after DVD Ripping](https://tools.techidaily.com/macxdvd/products/)
 * [Part 4\. FAQ](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. How to Fix Ripped DVD A/V Lip-Sync Problems
 
 DVD ripping audio sync errors are common with many free and paid DVD tools, such as VLC, MakeMKV, DVDFab, etc.
@@ -65,10 +68,17 @@ DVD ripping audio sync errors are common with many free and paid DVD tools, such
 * "Video I created with Aimersoft DVD Ripper gives me audio errors - AVI files have no audio at all. MP4 files have audio but it is out of sync."
 * "Get the 'AV synchronization issues were found in file xxx... AV sync issue in stream 1...' message with MakeMKV DVD rips." ...
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. DVD encryption tech
 
 Copyright protection tech has caused many DVD ripping problems, including the AV desync error after the DVD rips. One reason that causes the DVD A/V out of sync issues is the copy protection. Most commercial DVDs are protected by DRM measures. So you need to choose a DVD ripper that has the capability to remove DRM protection; or [install libdvdcss](https://tools.techidaily.com/macxdvd/products/) (esp. for Handbrake) properly or turn to another program.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ### 2\. Mixed frame rates
 
 There are DVDs that use a mixture of PAL (23.976) and NTSC (29.970). The two frame rates or "VFR" may cause A/V out of sync after the DVD ripping. Even then, the variable frame rate is accepted by most video players. If your player can't play the ripped DVD without lip-syncing audio, you need to set the frame rate to a fixed or constant rate.
@@ -96,6 +106,9 @@ Many rippers don't support MKV very well. Therefore, when you rip a more complex
 
 Even some video players, such as Kodi on Android, cannot keep audio in an MKV file synchronized for long periods. So the MKV video from a DVD rip doesn't have the audio out of sync issues, the audio is out of sync during playback. Try playing an MKV file with another media player, such as VLC. 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2\. How to Keep Video & Audio in Sync when Ripping DVDs
 
 If you're experiencing lip sync/audio delay with Handbrake, MakeMKV, VLC, DVDFab, or other tools, there are always more powerful helpers available. Try **[MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)**! 
@@ -107,12 +120,18 @@ If you're experiencing lip sync/audio delay with Handbrake, MakeMKV, VLC, DVDFab
 
 [![](https://www.macxdvd.com/mac-dvd-ripper-pro/../image-style/new-seo/btn-win.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/mac-dvd-ripper-pro/../image-style/new-seo/btn-mac.png)](https://tools.techidaily.com/macxdvd/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 **Step 1**: Download and launch the A/V sync DVD ripper. Click the Disc button to load the problematic disc into the software.
 
 **Step 2**: The DVD ripper will automatically remove the protections and skip any bad sectors. Then it will detect the correct movie title and open the output format window. Select an output format from the list, such as MP4\. 
 
 ![rip DVD without audio lag/delay](https://www.macxdvd.com/mac-dvd-ripper-pro/step-images/dvd-to-hevc-700.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 Rip DVD without audio lag/delay
 
 **Step 3**: Set an output folder to save the synced DVD video in the Destination Folder settings. Then click the RUN button to start ripping DVDs without audio out of sync issue.
@@ -125,6 +144,9 @@ If the sound sync errors continue with the ripped DVD, you can try:
 
 ![rip DVD without audio sync errors](https://www.macxdvd.com/mac-dvd-ripper-pro/article-image/hw-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Fix audio lag/delay in DVD ripping
 
 ## Part 3\. How to Correct Out-of-Sync Audio and Save It? 
@@ -148,6 +170,9 @@ Load the a/v out of sync DVD video
 
 ![fix audio sync errors after DVD ripping](https://www.macxdvd.com/mac-dvd-ripper-pro/../mac-video-converter-pro/step-image/fix-av-sync.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 Force the audio video sync
 
 **Step 3:** In addition to fix the out-of-sync DVD ripped audio and video, you can decide to save the synced video in any other format as you need. Simply select an output format from the Target Format toolbar at the bottom. 
@@ -196,6 +221,10 @@ ABOUT THE AUTHOR
 
 ![author- bella](https://www.macxdvd.com/mac-dvd-ripper-pro/../image-style/new-seo/bella.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 [Bella Brown ![](https://www.macxdvd.com/mac-dvd-ripper-pro/../image-style/new-seo/share-in1.jpg)](https://www.linkedin.com/in/bella-brown-920145104/) 
 
 Bella has been working with DVD digitization for over 12 years. She writes articles about everything related to DVD, from disc drive, DVD copyright protection, physical structure, burning and backup tips. The unceasing passion of DVD movies helps her build a rich DVD library and ensure a practical solution to address almost all possible DVD issues. Bella is also a crazy fan for Apple products.
@@ -214,14 +243,24 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-ripper-pro/../image-style/new-seo/pic5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 [Play DVD On Chromebook | DVD Not Playing on Chromebook Issue Fixed](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-ripper-pro/../image-style/new-seo/pic4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 [How to Fix DVD Player No Sound Problem on TV/Computer](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-ripper-pro/../image-style/new-seo/pic3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 [How to Play DVD on Mac without Mac SuperDrive](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-ripper-pro/../image-style/new-seo/pic2.jpg)
@@ -232,6 +271,10 @@ Related Articles
 
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-ripper-pro/../icon/logo.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
 ### Hot Products
@@ -240,6 +283,9 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tips and Tricks
 
 * [DVD Topics >>](https://tools.techidaily.com/macxdvd/products/)
@@ -279,3 +325,53 @@ Apple, the Apple logo, Mac, iPhone, iPad, iPod and iTunes are trademarks of Appl
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-unlocking-full-capabilities-in-macs-preview-software/"><u>[New] In 2024, Unlocking Full Capabilities in Mac's Preview Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-learning-the-art-of-soundshaping-in-audacity/"><u>[New] Learning the Art of Soundshaping in Audacity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-professional-level-edits-made-simple-10-pixlr-strategies/"><u>[New] Professional-Level Edits Made Simple  10 Pixlr Strategies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-screen-ready-images-opting-for-srgb-for-2024/"><u>[New] Screen Ready Images  Opting for Srgb for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-supreme-selection-acclaimed-8k-camera-models-for-2024/"><u>[New] Supreme Selection  Acclaimed 8K Camera Models for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-pillars-of-profitable-digital-marketing-for-2024/"><u>[New] The Pillars of Profitable Digital Marketing for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-premier-8-video-transformers-for-your-mac-and-phone/"><u>[New] The Premier 8 Video Transformers for Your Mac & Phone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-rated-components-for-smooth-live-transmissions/"><u>[New] Top-Rated Components for Smooth Live Transmissions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-virtual-sound-devices/"><u>[New] Ultimate Virtual Sound Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unveiling-sonys-best-full-review-of-fdr-x1000v-camera/"><u>[New] Unveiling Sony's Best - Full Review of FDR-X1000V Camera</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-why-does-imovie-adjust-video-borders-in-2024/"><u>[New] Why Does iMovie Adjust Video Borders, In 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-30-innovative-video-themes-and-layouts/"><u>[Updated] 2024 Approved  30 Innovative Video Themes and Layouts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-crafting-a-content-schedule-the-path-to-gaining-traction-on-youtube/"><u>[Updated] 2024 Approved  Crafting a Content Schedule  The Path to Gaining Traction on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-enlarging-images-preserving-pixel-perfection/"><u>[Updated] 2024 Approved  Enlarging Images  Preserving Pixel Perfection</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-lgs-visual-masterpiece-comprehensive-monitor-analysis/"><u>[Updated] 2024 Approved  LG’s Visual Masterpiece  Comprehensive Monitor Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-add-customized-ringtones-and-sounds-on-your-android-phone-in-a-for-2024/"><u>[Updated] How to Add Customized Ringtones and Sounds on Your Android Phone in A for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-save-photo-from-video-in-windows-10-photos-app/"><u>[Updated] How to Save Photo From Video in Windows 10 Photos App</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-action-cam-aesthetics-top-15-high-impact-gopro-lut-choices/"><u>[Updated] In 2024, Action Cam Aesthetics  Top 15 High-Impact GOPRO LUT Choices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-campaign-tactics-for-enhancing-health-awareness/"><u>[Updated] In 2024, Campaign Tactics for Enhancing Health Awareness</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-creating-a-professional-periscope-presence/"><u>[Updated] In 2024, Creating a Professional Periscope Presence</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-hymn-based-ringtone-options-for-every-believer/"><u>[Updated] In 2024, Hymn-Based Ringtone Options for Every Believer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-simplified-screen-switching-utilizing-pip-mode-on-netflix-for-smooth-viewing/"><u>[Updated] In 2024, Simplified Screen Switching  Utilizing PIP Mode on Netflix for Smooth Viewing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-guide-altering-voices-for-a-competitive-edge-in-free-fire/"><u>[Updated] In 2024, The Ultimate Guide  Altering Voices for a Competitive Edge in Free Fire</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-instagrams-algorithm-unlocked-optimizing-your-reels/"><u>[Updated] Instagram’s Algorithm Unlocked  Optimizing Your Reels</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-proven-strategies-safe-and-effective-tiktok-following-for-2024/"><u>[Updated] Proven Strategies  Safe and Effective TikTok Following for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-savory-sensations-top-youtube-food-influencers/"><u>[Updated] Savory Sensations  Top YouTube Food Influencers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-speedy-transmission-techniques-ultimate-app-and-extension-guide/"><u>[Updated] Speedy Transmission Techniques  Ultimate App and Extension Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-essentials-of-writing-attractive-vlog-narratives/"><u>[Updated] The Essentials of Writing Attractive Vlog Narratives</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-vertiginous-views-unveiling-gopro-karma-capabilities/"><u>[Updated] Vertiginous Views  Unveiling GoPro Karma Capabilities</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-instant-freeze-capture-feature-guide/"><u>2024 Approved  Instant Freeze Capture Feature Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-video-production-with-clear-sound-effects/"><u>2024 Approved  Streamlining Video Production with Clear Sound Effects</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mp4-files-on-motorola-edge-40-pro-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-lava-agni-2-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Lava Agni 2 5G</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/flip-your-video-frames-effortlessly-with-vlc-for-2024/"><u>Flip Your Video Frames Effortlessly with VLC for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-tips-and-reviews-by-toms-hardware/"><u>Navigating the World of Electronics - Tips & Reviews by Tom's Hardware</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/polishing-your-tiktok-content-a-guide-to-filters-for-2024/"><u>Polishing Your TikTok Content  A Guide to Filters for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/spicing-up-videos-with-youtube-music-linking-techniques/"><u>Spicing Up Videos with YouTube Music Linking Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-art-of-engaging-crafting-compelling-reddit-content-for-2024/"><u>The Art of Engaging  Crafting Compelling Reddit Content for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-preeminent-visionaries-of-av-artistry-online/"><u>The Preeminent Visionaries of AV Artistry Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-virtual-quest-a-jaunt-vr-exploration/"><u>The Virtual Quest  A Jaunt VR Exploration</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207365148-troubleshooting-runtime-brokers-overuse-of-resources-on-windows-10-solved/"><u>Troubleshooting Runtime Broker's Overuse of Resources on Windows 10 - Solved</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-stop-code-0x0000001d-expert-solutions/"><u>Troubleshooting Stop Code 0X0000001D: Expert Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-astro-a10s-nonfunctional-mic-solutions-proven-to-work/"><u>Troubleshooting Your Astro A10's Nonfunctional Mic: Solutions Proven to Work!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/turbocharge-your-fb-search-game/"><u>Turbocharge Your FB Search Game</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-psd-transparency-tricks/"><u>Ultimate PSD Transparency Tricks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/visual-aesthetics-mastering-vsco-styles-and-looks/"><u>Visual Aesthetics  Mastering VSCO Styles and Looks</u></a></li>
+</ul></div>
