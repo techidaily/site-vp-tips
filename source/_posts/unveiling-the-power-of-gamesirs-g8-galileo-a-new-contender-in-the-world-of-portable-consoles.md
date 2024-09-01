@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Power of GameSir's G8 Galileo: A New Contender in the World of Portable Consoles"
-date: 2024-08-26 17:27:58
-updated: 2024-08-29 11:41:10
+date: 2024-08-31T08:52:19.708Z
+updated: 2024-09-01T08:52:19.708Z
 tags:
   - product-reviews
 categories:
@@ -87,6 +87,18 @@ Sergio Rodriguez / How-To Geek
 
  Due to its versatility, it also is the most customizable way to play, at least when compared to the console’s shrinking to a handheld, convenient size.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Button Mapping and Customization Enhance the Experience
 
  As with [GameSir’s X2 Pro controller](https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-g22-phone-pattern-lock-without-factory-reset-by-drfone-android/), a big part of the experience with the G8 is customizing it to your liking. In fact, it’s bigger. With this model, customization goes a step further than previous, with options for button mapping accompanied by a set of different textured thumbsticks and the ability to swap between PlayStation, G-Touch, and Android modes on the fly.
@@ -95,6 +107,9 @@ Sergio Rodriguez / How-To Geek
 
 ![GameSir Mobile Controller faceplate removed to show interchangeable thumbstick](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/gamesir-mobile-controller-faceplate.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Mark LoProto / How-To Geek
 
  While you can map the rear L4 and R4 buttons and activate hair triggers by pressing the right combination of buttons on the controller, everything is much easier in the GameSir app (available on [iPhone](https://apps.apple.com/us/app/gamesir/id1372674215) and [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2001946/https://play.google.com/store/apps/details?id=com.xiaoji.xtouch.google&hl=en%5FUS&gl=US)). There are designated sections that allow you to alter whether you’re using the Xbox or Switch face button layout, assign virtually any button to the rear buttons, calibrate and change the sensitivity of the sticks, or toggle the hair trigger on either trigger button.
@@ -103,6 +118,9 @@ Mark LoProto / How-To Geek
 
  Of course, even the best stumble, and a few things are holding the G8 back from near perfection. Unfortunately, much of it, GameSir has no control of.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Some Frequent Hiccups
 
  Before I get to the biggest issue with a device like GameSir’s G8, let’s cover the small but annoying stuff. On more than a few occasions, and for reasons I could never pinpoint, the controller didn’t always register with my Pixel 8\. Regardless of when I plugged them together, both before and after the cloud service loaded, I’d run into occasional dead controls and have to re-establish the connection.
@@ -113,12 +131,18 @@ Close
 
  It’s not a dealbreaker at all, and there are plenty of benefits that come with the app to warrant using it, but as I watch my phone’s 128GB fill up, I get a little itchy at being forced to use more software. Especially when it just kind of serves as a bridge to a different app, and that’s kind of where my biggest problem lies.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  It’s All a Matter of Apps
 
  Without apps like [Xbox Cloud](https://tech-revival.techidaily.com/chatbot-showdown-which-ai-runs-the-house/), [GeForce NOW](https://www.nvidia.com/en-us/geforce-now/download/), [Steam Link](https://store.steampowered.com/app/353380/Steam%5FLink/), or PS Remote Play, the controller is kind of unnecessary. Sure, there are more involved games on mobile that would warrant its use, like "Resident Evil 4" or "Call of Duty Mobile," but are they worth buying a whole mobile controller for if you can already experience them on a console?
 
 ![GameSir G8 Galileo with phone inserted playing Brawhalla](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/53376428392_9288d99bd4_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  So, we’re left with some flawed apps as the primary driving forces for the controller. It winds up being a matter of if you don’t mind dealing with Xbox’s limited library and potentially long wait times to even play, Steam Link’s stuttering and frequent lag on more taxing games, PS Remote Play’s unintuitive and clunky interface, or GeForce NOW’s limited session length. As it turns out, I wound up not minding.
@@ -133,6 +157,9 @@ Sergio Rodriguez / How-To Geek
 
 ![Coros Apex 2 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/coros-apex-2-pro.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 #####  GameSir G8 Galileo Mobile Gaming Controller
@@ -157,3 +184,51 @@ GameSir's G8 Galileo takes the best parts of console gaming and condenses it int
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-understanding-instagrams-tunes-and-their-legal-boundaries/"><u>[New] In 2024, Understanding Instagram’s Tunes and Their Legal Boundaries</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-nuances-the-artists-hue-harmony-handbook/"><u>[New] Navigating Nuances  The Artist’s Hue Harmony Handbook</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-taking-flight-in-content-creation-dji-drones-and-fb-live/"><u>[Updated] 2024 Approved  Taking Flight in Content Creation  DJI Drones & FB Live</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-a-comprehensive-walkthrough-setting-up-your-first-wirecast-livestream-to-youtube/"><u>[Updated] A Comprehensive Walkthrough  Setting Up Your First WireCast Livestream to Youtube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-twitch-reversion-made-simple-top-ten-instructions-at-hand/"><u>[Updated] Twitch Reversion Made Simple  Top Ten Instructions at Hand</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-best-5-video-webcams-equipped-with-microphones/"><u>2024 Approved  Best 5 Video Webcams Equipped With Microphones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024bilibilipciphone/"><u>2024年投稿先行解除方法：bilibiliで見られない時のPC、iPhone、スマホ対処法！ビリビリ動画を閲覧・ダウンロード</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-samsung-galaxy-a05s-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Samsung Galaxy A05s to Roku | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/5-top-rangierte-4k-medienabspieler-fur-high-definition-videoinhalte/"><u>5 Top-Rangierte 4K Medienabspieler Für High-Definition-Videoinhalte</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/6zplusz6yep44k644os5zwp6agm6kej5rg677yb57ch5y2y44gr5lplusu5q2j44gn44gn44kl5pa55rov/"><u>音量ズレ問題解決！簡単に修正できる方法</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/all-time-favorites-the-ultimate-top-10-kids-choice-easter-dvds/"><u>All-Time Favorites: The Ultimate Top 10 Kid's Choice Easter DVDS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/avoid-unauthorized-tools-safe-ways-to-save-bbc-videos/"><u>Avoid Unauthorized Tools: Safe Ways to Save BBC Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/complete-mac-hd-to-ios-conversion-suite-ultimate-toolkit-for-transferring-videos-and-drives-from-mac-to-iphone/"><u>Complete Mac HD to iOS Conversion Suite: Ultimate Toolkit for Transferring Videos & Drives From Mac to iPhone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effiziente-moglichkeiten-zur-ubertragung-musikalischer-inhalte-vom-iphone-zum-mac-computer-eine-anleitung-ohne-itunes/"><u>Effiziente Möglichkeiten Zur Übertragung Musikalischer Inhalte Vom iPhone Zum Mac-Computer: Eine Anleitung Ohne iTunes.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effizientes-video-konvertierungswerkzeug-fur-macos-high-sierra-herunterladen-von-handbrake/"><u>Effizientes Video-Konvertierungswerkzeug Für macOS High Sierra - Herunterladen Von HandBrake</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effortless-methods-to-erase-ringtones-from-an-ios-device/"><u>Effortless Methods to Erase Ringtones From an iOS Device</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effortless-pdf-transfer-techniques-for-instant-ipad-access-a-step-by-step-guide/"><u>Effortless PDF Transfer Techniques for Instant iPad Access - A Step-by-Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effortless-transition-converting-dvds-for-seamless-integration-into-your-home-media-hub/"><u>Effortless Transition: Converting DVDs for Seamless Integration Into Your Home Media Hub</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/expert-advice-on-optimizing-your-mac-experience/"><u>Expert Advice on Optimizing Your Mac Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/fixing-handbrake-errors-when-encountering-unknown-video-file-types/"><u>Fixing HandBrake Errors When Encountering Unknown Video File Types</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/focusing-on-fine-details-a-minecraft-journey-for-2024/"><u>Focusing on Fine Details  A Minecraft Journey for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-dvd-playback-made-easy-top-10-windows-10-players/"><u>Free DVD Playback Made Easy Top 10 Windows 10 Players</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-can-chatgpt-revolutionize-the-medical-industry/"><u>How Can ChatGPT Revolutionize the Medical Industry?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-ultimate-compilation-budget-friendly-editing-tools/"><u>In 2024, The Ultimate Compilation  Budget-Friendly Editing Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/is-obs-studio-unable-to-record-audio-on-windows-11-try-these-fixes/"><u>Is OBS Studio Unable to Record Audio on Windows 11? Try These Fixes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macdvd2mov-mastery-topnotch-no-cost-software-for-seamless-dvd-and-video-file-transfers-on-mac/"><u>MacDVD2MOV Mastery: Topnotch, No-Cost Software for Seamless DVD & Video File Transfers on Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-youtubes-requirements-how-to-adjust-video-sizes-for-successful-uploads/"><u>Mastering YouTube's Requirements: How to Adjust Video Sizes for Successful Uploads</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/multiple-methods-for-deleting-iphone-videos-a-comprehensive-guide/"><u>Multiple Methods for Deleting iPhone Videos: A Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimal-video-file-types-for-playback-on-android-smartphones-and-tablets/"><u>Optimal Video File Types for Playback on Android Smartphones & Tablets</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/purchase-macx-mediatrans-at-a-reduced-price-shop-online/"><u>Purchase MacX MediaTrans at a Reduced Price – Shop Online!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-setup-obtain-your-samsung-c46-driver-for-smooth-printing-operations/"><u>Quick Setup: Obtain Your Samsung C46# Driver for Smooth Printing Operations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-converting-swf-files-to-mov-format-on-a-mac-for-enhanced-video-quality/"><u>Step-by-Step Guide: Converting SWF Files to MOV Format on a Mac for Enhanced Video Quality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-instructions-for-transforming-and-downsizing-mod-media-files-into-mp4-on-a-mac-system/"><u>Step-by-Step Instructions for Transforming and Downsizing Mod Media Files Into MP4 on a Mac System</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-tutorial-on-crafting-seamless-youtube-music-enhanced-photo-slideshows/"><u>Step-by-Step Tutorial on Crafting Seamless YouTube Music-Enhanced Photo Slideshows</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rt-of-crafting-youtube-content-expert-tips-with-imovie-integration/"><u>The Art of Crafting YouTube Content  Expert Tips with iMovie Integration</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-guide-to-using-macx-imkcvmaker-for-converting-dvds-into-mkv-files-on-your-mac-computer/"><u>The Ultimate Guide to Using MacX iMKCVMaker for Converting DVDs Into MKV Files on Your Mac Computer</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-mac-os-x-mp3-konvertierungsprogramme-auf-youtube-20172018-gratis-herunterladen/"><u>Top Mac OS X MP3 Konvertierungsprogramme Auf YouTube (2017/2018) - Gratis Herunterladen</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-picks-ultimate-hevc-converter-tools-to-capture-and-save-810-bit-videos-in-both-mp4-and-mkv-codes/"><u>Top Picks: Ultimate HEVC Converter Tools to Capture and Save 8/10 Bit Videos in Both MP4 & MKV Codes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-ranked-providers-of-ultra-hd-uhd-streaming-services-a-comprehensive-guide/"><u>Top-Ranked Providers of Ultra HD (UHD) Streaming Services: A Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/troubleshoot-failed-iphoneipad-screen-capture-issues-with-these-6-tips/"><u>Troubleshoot Failed iPhone/iPad Screen Capture Issues with These 6 Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-optimizing-your-youtube-videos-for-maximum-viewership-and-engagement/"><u>Ultimate Guide: Optimizing Your YouTube Videos for Maximum Viewership and Engagement</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-selecting-the-perfect-nas-solution-for-media-file-organization-and-streaming/"><u>Ultimate Guide: Selecting the Perfect NAS Solution for Media File Organization and Streaming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1724766115181-18/"><u>ダイジャリー・スペシャル18周年企画 - 限定コレクション紹介</u></a></li>
+</ul></div>

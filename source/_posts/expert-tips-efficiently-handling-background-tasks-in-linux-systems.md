@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Efficiently Handling Background Tasks in Linux Systems"
-date: 2024-08-27 22:38:48
-updated: 2024-08-29 11:25:23
+date: 2024-08-31T08:54:26.195Z
+updated: 2024-09-01T08:54:26.195Z
 tags:
   - desktop
 categories:
@@ -39,12 +39,18 @@ ping www.howtogeek.com
 
 ![ping www.howtogeek.com in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/1-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
  We get the expected results, scrolling down the terminal window. We can't do anything else in the terminal window while ping is running. To terminate the command hit Ctrl+C.
 
 Ctrl+C
 
 ![ping trace output in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/2-9.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The visible effect of the Ctrl+C is highlighted in the screenshot. ping gives a short summary and then stops.
 
  Let's repeat that. But this time we'll hit Ctrl+Z instead of Ctrl+C. The task won't be terminated. It will become a background task. We get control of the terminal window returned to us.
@@ -67,6 +73,10 @@ ps T
 
 ![jobs command in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/4-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
  The jobs command tells us:
 
 * \[1\]: The number in square brackets is the job number. We can use this to refer to the job when we need to control it with job control commands.
@@ -120,6 +130,9 @@ bg
 
 ![resumed ping background process with output in a terminal widow](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/6-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  But we have a problem. The task is running in the background and won't accept input. So how do we stop it? Ctrl+C doesn't do anything. We can see it when we type it but the background task doesn't receive those keystrokes so it keeps pinging merrily away.
 
 ![Background task ignoring Ctrl+C in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/7-5.png) 
@@ -144,6 +157,12 @@ Ctrl+C
 
 ![Ctrl+C stopping the ping command in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/9-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  We Need to Send the Right Signals
 
  That wasn't exactly pretty. Evidently running a process in the background works best when the process doesn't produce output and doesn't require input.
@@ -168,6 +187,9 @@ Ctrl+C
 
  We must use the kill command to issue signals that do not have key combinations assigned to them.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Further Job Control
 
  A process moved into the background by using Ctrl+Z is placed in the stopped state. We have to use the bg command to start it running again. To launch a program as a running background process is simple. Append an ampersand & to the end of the command line.
@@ -178,6 +200,9 @@ Ctrl+C
 
 ![while true; do echo "How-To Geek Loop Process"; sleep 3; done & in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/10-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  We are told the job number and process ID id of the process. Our job number is 1, and the process id is 1979\. We can use these identifiers to control the process.
 
  The output from our endless loop starts to appear in the terminal window. As before, we can use the command line but any commands we issue are interspersed with the output from the loop process.
@@ -196,6 +221,9 @@ kill %1
 
 ![jobs and kill %1 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/12-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  kill sends the SIGTERM signal, signal number 15, to the process and it is terminated. When the Enter key is next pressed, a status of the job is shown. It lists the process as "terminated." If the process does not respond to the kill command you can take it up a notch. Use kill with SIGKILL , signal number 9\. Just put the number 9 between the kill command the job number.
 
 kill 9 %1
@@ -232,3 +260,51 @@ kill 9 %1
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-brand-identity-in-pictures-how-to-watermark-on-instagram/"><u>[New] 2024 Approved  Brand Identity in Pictures  How to Watermark on Instagram</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unleashing-instagram-success-through-precision-metrics-monitoring/"><u>[New] In 2024, Unleashing Instagram Success Through Precision Metrics Monitoring</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-rethinking-content-strategy-with-instagrams-new-order-for-2024/"><u>[New] Rethinking Content Strategy with Instagram's New Order for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-discovering-your-customized-youtube-playlist/"><u>[Updated] 2024 Approved  Discovering Your Customized YouTube Playlist</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-mr-beast-financial-evolution-analysis-for-2024/"><u>[Updated] Mr. Beast  Financial Evolution Analysis for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-revolutionizing-content-with-square-shapes-for-social-media-gains-for-2024/"><u>[Updated] Revolutionizing Content with Square Shapes for Social Media Gains for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-free-mac-app-convert-and-transfer-your-movies-from-dvds-directly-to-iphone-xsxrx8-and-more-devices/"><u>1. Free Mac App: Convert and Transfer Your Movies From DVDs Directly to iPhone, XS/XR/X/8 & More Devices</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-nokia-c22-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/celebrating-18-years-digiartys-exclusive-limited-time-event/"><u>Celebrating 18 Years - Digiarty's Exclusive Limited-Time Event</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comprehensive-guide-to-instagram-video-format-and-resolution-changes-in/"><u>Comprehensive Guide to Instagram Video Format & Resolution Changes In</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/custom-templates-n-indicates-a-new-line-for-readability/"><u>Custom Templates (\\N Indicates a New Line for Readability)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/demystifying-4k-resolution-the-complete-guide-to-ultra-high-definition-video/"><u>Demystifying 4K Resolution: The Complete Guide to Ultra High Definition Video</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-new-dawn-of-computing-with-intels-bean-canyon-nucs-superior-speed-and-throttled-tdp/"><u>Discover the New Dawn of Computing with Intel's Bean Canyon NUCs - Superior Speed & Throttled TDP!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-the-new-look-of-macx-video-converter-pro-v6-advanced-ui-full-support-for-macos-sierra-now-available/"><u>Discover the New Look of MacX Video Converter Pro V6 - Advanced UI, Full Support for macOS Sierra Now Available!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-comical-animated-cartoons-enjoy-free-viewing-on-iphone-and-ipad-without-internet/"><u>Download Comical Animated Cartoons: Enjoy Free Viewing on iPhone and iPad Without Internet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-steps-to-transform-your-macs-flac-audio-into-mp3-format-without-itunes/"><u>Easy Steps to Transform Your Mac's FLAC Audio Into MP3 Format Without iTunes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/essential-strategies-successful-webcam-and-gaming-recordings-for-2024/"><u>Essential Strategies  Successful Webcam & Gaming Recordings for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-nokia-c12-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gfx-analysis-the-role-of-basic-display-adapter-bda/"><u>GFX Analysis: The Role of Basic Display Adapter (BDA)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/google-chrome/"><u>Google Chromeで動画ダウンロード! お得な保存方法を詳しく解説</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gopro-footage-transformation-techniques-flipping-and-adjusting-orientation-by-90/"><u>GoPro Footage Transformation Techniques: Flipping & Adjusting Orientation by 90°</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-transfer-and-enhance-your-images-with-apples-photos-on-mac-a-step-by-step-guide/"><u>How to Transfer and Enhance Your Images with Apple's Photos on Mac: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-in-depth-analysis-of-best-youtube-channel-design-practices/"><u>In 2024, In-Depth Analysis of Best YouTube Channel Design Practices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-ultimate-vr-experience-the-htc-vive-story/"><u>In 2024, Unveiling the Ultimate VR Experience  The HTC Vive Story</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-software-for-your-logitech-g430-headset-get-the-latest-drivers/"><u>Install Software for Your Logitech G430 Headset: Get the Latest Drivers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macx-dvd-ripper-pro-5th-anniversary-sale-630/"><u>MacX DVD Ripper Pro 5Th Anniversary Sale - 有料ソフトが特別無料! 期限は6/30まで</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macx-ipad-video-transporter-seamlessly-rip-dvds-to-your-apple-tablet-on-macos-devices/"><u>MacX iPad Video Transporter: Seamlessly Rip DVDs to Your Apple Tablet on macOS Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-participation-in-xtwitter-discussions/"><u>Mastering the Art of Participation in X/Twitter Discussions</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/mastery-of-storing-snaps-on-devices-post-snapchat-use/"><u>Mastery of Storing Snaps on Devices Post-Snapchat Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversal-of-extra-privileges-win11-standardization-tutorial/"><u>Reversal of Extra Privileges: Win11 Standardization Tutorial</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/seamless-conversion-of-instagram-content-to-mp4-files-for-easy-sharing-and-upload/"><u>Seamless Conversion of Instagram Content to MP4 Files for Easy Sharing and Upload</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/speedy-and-superior-mac-techniques-ripping-dvds-into-h2-amt-format/"><u>Speedy and Superior Mac Techniques: Ripping DVDs Into H.2지늬클러 Amt Format</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/speedy-transformation-from-matroska-mkv-to-mp4-format-without-quality-loss/"><u>Speedy Transformation From Matroska (MKV) to MP4 Format Without Quality Loss</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-tutorial-for-high-quality-vob-to-mkv-transcoding-on-your-macbook-or-imac/"><u>Step-by-Step Tutorial for High-Quality VOB to MKV Transcoding on Your MacBook or iMac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-tutorial-duplicating-academy-award-worthy-movies-onto-windows-and-macos-systems/"><u>Step-by-Step Tutorial: Duplicating Academy Award-Worthy Movies Onto Windows & macOS Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-tutorial-enabling-and-viewing-high-efficiency-video-coding-files-on-ios-devices/"><u>Step-by-Step Tutorial: Enabling and Viewing High-Efficiency Video Coding Files on iOS Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-tutorial-transforming-vob-video-content-into-mp3-format-using-a-mac-computer/"><u>Step-by-Step Tutorial: Transforming VOB Video Content Into MP3 Format Using a Mac Computer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-list-of-2024s-most-efficient-4k-uhd-video-extractors-compatible-with-apple-computers/"><u>The Ultimate List of 2024'S Most Efficient 4K UHD Video Extractors Compatible with Apple Computers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-top-20-list-of-multi-platform-video-download-tools-for-your-mobile-and-desktop/"><u>The Ultimate Top 20 List of Multi-Platform Video Download Tools for Your Mobile & Desktop</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-strategies-to-get-your-iphones-control-center-working-again/"><u>Top 8 Strategies To Get Your iPhone's Control Center Working Again</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-handbook-accessing-childrens-learning-videos-at-no-cost-a-comprehensive-guide/"><u>Ultimate Handbook: Accessing Children's Learning Videos at No Cost - A Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-macx-hd-pro-video-editor-and-converter-for-windows-10-convert-hevc-to-mp4-with-one-click/"><u>Ultimate MacX HD Pro Video Editor & Converter for Windows 10 - Convert HEVC to MP4 with One Click!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/up-to-date-tech-how-to-seamlessly-update-your-samsung-smart-tv/"><u>Up-to-Date Tech: How to Seamlessly Update Your Samsung Smart TV</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-elevate-your-videos-top-rated-ipad-video-editors/"><u>Updated In 2024, Elevate Your Videos Top-Rated iPad Video Editors</u></a></li>
+</ul></div>

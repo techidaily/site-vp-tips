@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate 4 FREE Utilities to Check Disk Space on Windows Computers
-date: 2024-08-26 10:16:18
-updated: 2024-08-29 10:53:18
+date: 2024-08-31T08:55:03.695Z
+updated: 2024-09-01T08:55:03.695Z
 tags:
   - desktop
 categories:
@@ -40,6 +40,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![WinDirStat represents files and folders as colorful rectangles.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/img_593eec9ed2237.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 [WinDirStat](https://windirstat.net/) is a strong contender for the best storage space analysis software. Its interface allows you to see exactly what's using space on your hard drive at a glance. When you launch WinDirStat, you can tell it to scan all local drives, a single drive like your C: drive, or a specific folder on your computer.
 
  After it finishes scanning, you'll see three panes. On top, there's a [directory](https://extra-information.techidaily.com/quick-and-easy-iphone-burst-techniques/) list that shows you the folders using the most space in descending order. On the bottom, there's a "treemap"
@@ -50,10 +53,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  WinDirStat doesn't offer a [portable app](https://extra-lessons.techidaily.com/top-strategies-to-shoot-a-flawless-green-screen-scene/) on its website, but you can download a portable version of WinDirStat from [PortableApps.com](https://portableapps.com/apps/utilities/windirstat%5Fportable) if you'd like to take it with you and use it on various PCs without installing it first.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ##  SpaceSniffer Offers the Best Graphical View
 
 ![SpaceSniffer is similar to WinDirStat, but has a less colorful interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/img_593eef597d3a6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
  Try [SpaceSniffer](https://www.fosshub.com/SpaceSniffer.html) if you're looking for something different. SpaceSniffer doesn't have the directory list included in WinDirStat. It's just a graphical view that displays folders and the files in them by relative size, like the bottom treemap view in WinDirStat's interface.
 
  However, unlike WinDirStat's treemap, you can double-click folders in this interface to drill down graphically. So, if you have a bunch of files taking up space in your "C:\\Users\\Name\\Videos" directory, you could double-click each directory in turn to drill down and eventually right-click a file or folder to access options like Delete and Open.
@@ -68,6 +77,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![TreeSize has a more minimalist way of displaying files and folders, but sacrifices no functionality.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/img_593ef108d6c45.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
  If you want something simpler than WinDirStat, [TreeSize Free](http://www.jam-software.de/treesize%5Ffree/) is a good alternative. It provides you with the same directory list and treemap interfaces you'll see in WinDirStat, but it doesn't have WinDirStat's file extension list, and its ribbon-style interface is a little more at home on modern versions of Windows than WinDIrStat's toolbar. TreeSize Free also adds a convenient scan option to Explorer, so you can right-click any folder in File Explorer and Windows Explorer and select "TreeSize Free" to scan its contents.
 
  To view a treemap in TreeSize Free, click View > Show Treemap. As in the other applications here, you can right-click files or folders in the application to delete or open them.
@@ -76,6 +88,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  This application is also available as a portable application, so you don't have to install it before running it, if you prefer.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Windows' Built-In Storage Usage Tool
 
 ![The Storage view on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/storage-stuff-on-windows-11.png) 
@@ -86,6 +101,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  While this tool isn't as powerful as the above ones, it can be helpful for quickly understanding disk usage and freeing space in a pinch.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  How to Clear Disk Space
 
  Once you've identified what is using up all your space, it is a simple matter to free up space. All of the third-party apps we listed allow you to easily open Explorer folder or open a file directly to check out what it is. Just right-click, then click "Open" or "Explorer Here" in the case of WinDirStat or WizTree. You can then delete files as you would normally. Make sure to double check what you're deleting though.
@@ -106,3 +125,58 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-copyright-concern-unscheduled-video-displacement-for-2024/"><u>[New] Copyright Concern  Unscheduled Video Displacement for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-free-tools-convert-youtube-audio-to-mp3-on-iphone-for-2024/"><u>[New] Essential Free Tools  Convert YouTube Audio to MP3 on iPhone for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-proven-techniques-to-convert-and-download-pinterest-video-audio/"><u>[New] Proven Techniques to Convert and Download Pinterest Video Audio</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-eyevid-fb-content-grabber/"><u>[Updated] EyeVid  FB Content Grabber</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-elevating-engagement-a-comprehensive-guide-to-insta-vids/"><u>[Updated] In 2024, Elevating Engagement  A Comprehensive Guide to Insta Vids</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-hassle-free-tutorial-ripping-and-streaming-dvd-films-onto-your-roku-using-mac-or-pc/"><u>1. Hassle-Free Tutorial: Ripping & Streaming DVD Films Onto Your Roku Using Mac or PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-macx-dvd-ripper-pro-historys-top-ranked-mac-dvd-converter/"><u>1. MacX DVD Ripper Pro - History's Top-Ranked Mac DVD Converter</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-engaging-audiences-with-wirecast-hosted-facebook-streams/"><u>2024 Approved  Engaging Audiences with Wirecast-Hosted Facebook Streams</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-quick-methods-syncing-ios-images-and-movies-to-windows/"><u>2024 Approved  Quick Methods  Syncing iOS Images & Movies to Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/tsmovmp4avimac-macx/"><u>高性能TSファイルをMOV、MP4、AVIに変換するMac専用無料ツールダウンロード - MacXの驚異的な解決方法</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-list-ringtone-picks-for-adoring-tyrion-lannister-fans/"><u>A-List Ringtone Picks for Adoring Tyrion Lannister Fans</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-unwanted-interrucier-top-7-selective-android-adblockers-reviewed/"><u>Avoid Unwanted Interrucier  Top 7 Selective Android AdBlockers Reviewed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/buy-one-get-one-free-macxdvd-discounts-exclusive-summer-sale-deal/"><u>Buy One Get One Free MacXDVD Discounts: Exclusive Summer Sale Deal!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comparing-audio-formats-m4a-vs-mp3-differences-in-sound-quality-file-size-and-industry-backing/"><u>Comparing Audio Formats: M4A Vs. MP3 - Differences in Sound Quality, File Size & Industry Backing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comprehensive-guide-on-troubleshooting-youtube-not-working-errors/"><u>Comprehensive Guide on Troubleshooting 'YouTube Not Working' Errors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/digiarty-18th-anniversary-limited-time-special-project-celebrating-a-legacy/"><u>Digiarty 18Th Anniversary Limited-Time Special Project: Celebrating a Legacy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-ai-variants-unpacking-the-contrast-between-strong-and-weak-artificial-intelligence/"><u>Exploring AI Variants: Unpacking the Contrast Between Strong and Weak Artificial Intelligence</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/flawless-avi-video-viewing-on-your-iphone-xsxr-a-comprehensive-guide/"><u>Flawless AVI Video Viewing on Your iPhone XS/XR: A Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/get-free-kid-friendly-song-downloads-from-youtube-easily/"><u>Get Free Kid-Friendly Song Downloads From YouTube Easily</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-11-pro-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix iPhone 11 Pro Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-guide-for-proficient-use-of-movie-maker-in-win11/"><u>In 2024, Step-by-Step Guide for Proficient Use of Movie Maker in Win11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-canon-d530-software-upgrade-free-download-available-now/"><u>Latest Canon D530 Software Upgrade - Free Download Available Now</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macxdvd-exclusive-promo-huge-discounts-on-software-and-free-gifts-for-fans/"><u>MacXDVD Exclusive Promo: Huge Discounts on Software & Free Gifts for Fans!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mac-mkv-mkv-mac/"><u>Macにおすすめ! マクスシリーズ MKV 自由版変換プログラムで無料でMKVを簡単変換 - Mac用の安心ソフト</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/microphone-not-picking-up-voice-solved/"><u>Microphone Not Picking up Voice [Solved]</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-split-screen-video-apps-for-ios-and-android/"><u>New Best Split Screen Video Apps for iOS And Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/pc2024dvd/"><u>PC入門者向け★無料ソフトで簡単！2024年DVDをブルーレイに移行方法</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/poll-power-players-quintessential-politic-games/"><u>Poll Power Players  Quintessential Politic Games</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-poco-m6-pro-4g-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Poco M6 Pro 4G</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quick-and-easy-methods-for-shifting-ipad-footage-to-a-mac/"><u>Quick & Easy Methods for Shifting iPad Footage to a Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quick-and-easy-methods-transferring-iphone-pictures-to-mac-in-under-3-steps/"><u>Quick & Easy Methods: Transferring iPhone Pictures to Mac in Under 3 Steps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/solve-your-redbox-dvd-issues-top-7-strategies-to-ensure-smooth-plays-on-your-pc/"><u>Solve Your RedBox DVD Issues: Top 7 Strategies to Ensure Smooth Plays on Your PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/speedy-conversion-seamlessly-sync-ipad-media-photos-music-video-with-your-computer/"><u>Speedy Conversion: Seamlessly Sync iPad Media (Photos, Music, Video) with Your Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-resolving-packet-disruption-in-your-discord-chat-experience/"><u>Step-by-Step Guide: Resolving Packet Disruption in Your Discord Chat Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-tutorial-enjoying-high-quality-4k-hevc-content-on-mac-pro-macbook-air-and-macbook-pro-computers/"><u>Step-by-Step Tutorial: Enjoying High-Quality 4K HEVC Content on Mac Pro, Macbook Air & MacBook Pro Computers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/strategic-approaches-for-solving-nvidia-driver-failures/"><u>Strategic Approaches for Solving Nvidia Driver Failures</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/strategic-hashing-techniques-for-success-in-youtube-game-vids-for-2024/"><u>Strategic Hashing Techniques for Success in YouTube Game Vids for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/super-efficient-video-compressor-minimize-video-footage-by-70-preserving-crisp-quality-every-time/"><u>Super-Efficient Video Compressor: Minimize Video Footage by 70%%, Preserving Crisp Quality Every Time!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/toms-tech-review-the-definitive-guide/"><u>Tom's Tech Review: The Definitive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-15-kostenlose-videokonverter-fur-macos-die-beste-auswahl-testen/"><u>Top 15 Kostenlose Videokonverter Für macOS - Die Beste Auswahl Testen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-oppo-reno-10-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Oppo Reno 10 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-compatible-av-formats-on-playstation-4-a-comprehensive-guide/"><u>Top Compatible AV Formats on PlayStation 4: A Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-techniques-for-rapid-downloads-of-vevo-tracks-at-lightning-fast-speeds/"><u>Top Techniques for Rapid Downloads of Vevo Tracks at Lightning-Fast Speeds</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/troubleshooting-title-retrieval-problems-on-handbrake-when-converting-dvd-content/"><u>Troubleshooting Title Retrieval Problems on Handbrake When Converting DVD Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-to-enhancing-your-mac-usage-with-pro-tactics/"><u>Ultimate Guide to Enhancing Your Mac Usage with Pro Tactics</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/uncovering-the-dynamics-of-youtubes-post-upload-system/"><u>Uncovering the Dynamics of YouTube's Post-Upload System</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unleash-your-potential-on-facebook-keyword-strategies-reviewed/"><u>Unleash Your Potential on Facebook  Keyword Strategies Reviewed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unveiling-strengths-and-weaknesses-a-detailed-review-of-apple-m1-ipad-pro/"><u>Unveiling Strengths and Weaknesses - A Detailed Review of Apple M1 iPad Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/updated-list-of-linksys-default-login-details-july-2024-edition/"><u>Updated List of Linksys Default Login Details - July 2024 Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dvdipad-macx-free-dvd-ripper-for-macos-dvdmac-osipad/"><u>コピーガード付きDVDからiPadへ直接変換: MacX Free DVD Ripper for macOS - DVDのコピーライト保護無くても、Mac OS環境でスムーズにiPad用動画/音楽を取り込みます</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mac-iphone-dvdmaciphone/"><u>ダイレクトmacコンバータ - iPhoneビデオ変換ツール | DVDをMacからiPhoneに直接移行する手軽ソフト</u></a></li>
+</ul></div>

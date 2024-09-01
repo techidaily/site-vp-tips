@@ -1,7 +1,7 @@
 ---
 title: "Guide to Effective Printer Management on Windows 11: Tips and Tricks"
-date: 2024-08-27 13:57:19
-updated: 2024-08-29 12:50:55
+date: 2024-08-31T08:55:13.644Z
+updated: 2024-09-01T08:55:13.644Z
 tags:
   - desktop
 categories:
@@ -41,12 +41,18 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 
  You can remove a printer from here, too, if you like. In the Settings window, click a printer and click "Remove Device." In the Control Panel, right-click a printer and select "Remove Device."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ##  How to Change Printing Preferences
 
  To change your printer's settings, head to either Settings > Devices > Printers & Scanners or Control Panel > Hardware and Sound > Devices and Printers. In the Settings interface, click a printer and then click "Manage" to see more options.
 
 ![img_5b760d784359d](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760d784359d.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
  In the Control Panel, right-click a printer to find various options.
 
 ![img_5b760dc514f59](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760dc514f59.png) 
@@ -57,10 +63,19 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 
 ![img_5b760ec197ec6](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760ec197ec6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
  You can also access these settings while printing. Just select a printer in the Print window and then click the "Preferences" button. Note that some applications have their own print dialogs, so this option might not always be present or the window might look different
 
 ![img_5b760ef96454b](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760ef96454b.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ##  How to Change Printer Device Settings
 
  To configure your printer device, click "Printer Properties" instead of "Printing Preferences" from the context menu after right-clicking a printer.
@@ -95,10 +110,16 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 
 ![img_5b7613d4cbff2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7613d4cbff2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
  You can also right-click a printer in the Control Panel's Devices and Printers window and select "Set as Default Printer" to set it as your default.
 
 ![img_5b7612fc559b2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7612fc559b2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Manage Your Print Queue
 
  Each printer on your system has a print queue. When you print a document, that print job is stored in the print queue before it's sent to the printer and finishes printing.
@@ -109,6 +130,9 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 
 ![img_5b76179d0fa59](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76179d0fa59.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
  Each pending print job appears in the queue. If no documents are printing, the list will be empty. You can right-click a job to cancel, pause, or restart it. Sometimes print jobs can get "stuck," and you may need to [delete them and try again](https://facebook-record-videos.techidaily.com/new-in-2024-cooking-crusaders-youtube-stars-serving-up-deliciousness/).
 
 ![img_5b761558b26c8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761558b26c8.png) 
@@ -117,6 +141,9 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 
 ![img_5b761543dc6fd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761543dc6fd.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ##  How to Create Multiple Printer Profiles
 
  Normally, you must go into your printer's preferences or properties to change various settings. However, this can be inconvenient when you have multiple groups of settings you want to toggle between. For example, perhaps you have a color printer on which you sometimes print high-quality color photos and sometimes print lower detail black and white documents.
@@ -125,6 +152,9 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 
 ![img_5b76026c81a21](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76026c81a21.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Set Up a Shared Printer
 
  Windows 10's April 2018 Update [removed the HomeGroup feature](https://support.microsoft.com/en-us/windows/homegroup-removed-from-windows-10-version-1803-07ca5db1-7bca-4d11-68a3-a31ff4a09979), which was introduced in Windows 7 for sharing files and printers on a local network. However, it's still possible to share printers on your local network.
@@ -135,6 +165,9 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 
 ![img_5b76108e3056f](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76108e3056f.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  With the default settings, people on your local network can find the printer—but they'll need the username and password of an account on your computer to connect to it. The printer should be automatically detected as an available printer in the normal Add Printer interface. Bear in mind that the printer won't be available while your computer is asleep.
 
  To share a printer over the Internet—for example, to print to your home printer when you're away from home—[set up Google Cloud Print](https://facebook-video-footage.techidaily.com/updated-your-smartphone-as-an-artists-canvas-producing-quality-youtube-video-content/).
@@ -147,10 +180,16 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 
 ![img_5b7616f600c24](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7616f600c24.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
  The printer troubleshooter checks for a variety of issues that could cause printing problems on your PC and tried to fix any it finds.
 
 ![img_5b7617390a489](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7617390a489.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If the printer has a built-in display, check the display to see if it's reporting an error message. If you're not sure what the error messages mean, try plugging them into a web search engine or looking them up in your printer's manual.
 
  You might also need to run various diagnostic functions on the printer itself. Check your printer's manual for more information on its diagnostic features.
@@ -169,3 +208,45 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-flying-economically-top-five-drones-(100-price-tag/"><u>[Updated] Flying Economically  Top Five Drones <$100 Price Tag</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-eliminating-iphoneandroid-issues-with-fb-message-video-sharing/"><u>[Updated] In 2024, Eliminating iPhone/Android Issues with FB Message Video Sharing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-innovative-strategies-for-effective-live-webcam-recording/"><u>[Updated] In 2024, Innovative Strategies for Effective Live Webcam Recording</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-maximizing-social-media-roi-with-judicious-facebook-hash-usage/"><u>[Updated] In 2024, Maximizing Social Media ROI with Judicious Facebook Hash Usage</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2021digiarty-macx-dvd-ripper-proplusamazon3000/"><u>「2021春節Digiarty MacX DVD Ripper Pro永久驅動器+Amazonギフト款券3,000元大獎：幸福新年抽選！」</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-intense-presentation-review-8x-version/"><u>2024 Approved  Intense Presentation Review 8X Version</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-smooth-transition-altering-snapchat-videos-tempo/"><u>2024 Approved  Smooth Transition  Altering Snapchat Videos' Tempo</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macx-dvd-converter-pro-pack/"><u>公式ガイド:MacX DVD Converter Pro Packを使う方法とライセンスコード分析</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/windows-11-dvd/"><u>新登場! Windows 11 DVD書き込み解決法が今日発表 - 高い評価受けています</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/all-in-one-dvd-ripper-and-video-editor-convert-edit-and-burn-videos-with-ease/"><u>All-in-One DVD Ripper and Video Editor: Convert, Edit & Burn Videos with Ease</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/become-a-headline-hero-proven-strategies-in-focus-for-2024/"><u>Become a Headline Hero  Proven Strategies in Focus for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/celebrating-digiartys-special-collection-for-the-18th-anniversary/"><u>Celebrating Digiarty's Special Collection for the 18Th Anniversary</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/claim-your-share-of-a-whopping-half-million-dollar-christmas-bonanza-featuring-macxdvds-top-tier-video-conversion-technology/"><u>Claim Your Share of a Whopping Half-Million Dollar Christmas Bonanza, Featuring MacXDVD's Top-Tier Video Conversion Technology!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/digiartys-memorial-gratitude-sale-up-to-95-off-limited-time-offer/"><u>Digiarty's Memorial Gratitude Sale: Up to 95%% Off - Limited Time Offer</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/dive-into-digital-clarity-the-guide-for-full-hd-on-tweet-for-2024/"><u>Dive Into Digital Clarity  The Guide for Full HD on Tweet for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-instagram-inhalte-auf-computer-pcmac-mit-schritt-fur-schritt-anleitung-fur-ios-und-android-gerate/"><u>Download Instagram-Inhalte Auf Computer (PC/Mac) Mit Schritt-Für-Schritt-Anleitung Für iOS Und Android Geräte</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/entdecken-sie-die-top-4-methoden-zum-beziehen-von-dvds-auf-einem-mac-fur-macbook-pro-air-und-imac/"><u>Entdecken Sie Die Top-4 Methoden Zum Beziehen Von DVDs Auf Einem Mac - Für MacBook Pro, Air Und iMac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/exclusive-offer-on-macx-mediatrans-grab-it-for-an-unbelievable-price-cut-of-up-to-63-off-now/"><u>Exclusive Offer on MacX MediaTrans - Grab It for an Unbelievable Price Cut of up to 63%% OFF Now!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/handbrake-app-is-it-secure-and-compliant-for-legitimate-video-downloads/"><u>HandBrake App: Is It Secure and Compliant for Legitimate Video Downloads?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-convert-videos-from-43-to-169-for-perfect-widescreen-viewing/"><u>How to Convert Videos From 4:3 to 16:9 for Perfect Widescreen Viewing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-recover-your-data-after-the-ios-17-upgrade-immediate-solutions/"><u>How to Recover Your Data After the iOS 17 Upgrade: Immediate Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/imovie-basics-step-by-step-guide-to-video-editing-on-a-mac/"><u>IMovie Basics: Step-by-Step Guide to Video Editing on a Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-artisans-approach-to-metaverse-laughter-and-online-jokes/"><u>In 2024, The Artisan's Approach to Metaverse Laughter & Online Jokes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/lightning-fast-pro-movie-editor-advanced-encoding-with-cuda-technology-enabled/"><u>Lightning Fast Pro Movie Editor: Advanced Encoding With Cuda Technology Enabled!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1724766787843-makemkv/"><u>MakeMKVを始めるための究極ガイド:初心者向け完全徹底解説!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/managing-and-expanding-storage-capacity-for-the/"><u>Managing & Expanding Storage Capacity for The</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/maximize-your-ipads-potential-with-these-3-effective-strategies-to-reclaim-space/"><u>Maximize Your iPad's Potential with These 3 Effective Strategies to Reclaim Space</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/nvidias-revolutionary-approach-to-faster-video-rendering-using-cuda-and-nvenc-for-superior-gpu-acceleration/"><u>NVIDIA's Revolutionary Approach to Faster Video Rendering Using CUDA and NVENC for Superior GPU Acceleration</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/online-purchase-of-macx-mediatrans-at-a-reduced-price/"><u>Online Purchase of MacX MediaTrans at a Reduced Price</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quick-time-converter-effortless-and-gratis-tool-to-transfer-dvds-onto-your-mac/"><u>Quick Time Converter: Effortless & Gratis Tool to Transfer DVDs Onto Your Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/resolved-issue-apple-tv-4k-compatible-with-high-resolution-youtube-content/"><u>Resolved Issue: Apple TV 4K Compatible with High-Resolution YouTube Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/sichere-methoden-zum-schutz-von-kopiergeschutzten-disney-dvds-auf-deinem-computer/"><u>Sichere Methoden Zum Schutz Von Kopiergeschützten Disney-DVDs Auf Deinem Computer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-top-10-magical-disney-christmas-classics-your-ultimate-film-selection-for-festive-cheer/"><u>The Top 10 Magical Disney Christmas Classics: Your Ultimate Film Selection for Festive Cheer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-guide-transforming-youtube-footage-into-high-quality-mp4-files-tips-for-both-computer-and-online-tools/"><u>The Ultimate Guide: Transforming YouTube Footage Into High-Quality MP4 Files - Tips for Both Computer and Online Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-showdown-exploring-the-distinctive-features-of-aac-vs-mp3-formats-for-high-quality-music-streaming/"><u>The Ultimate Showdown: Exploring the Distinctive Features of AAC Vs. MP3 Formats for High-Quality Music Streaming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/troubleshoot-your-youtube-video-problems-with-quick-fixes-for-fullscreen-glitches-and-dark-background-issues/"><u>Troubleshoot Your YouTube Video Problems with Quick Fixes for Fullscreen Glitches and Dark Background Issues</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unbeatable-mac-xdvd-offer-save-86-upgrade-with-media-bundle-and-enjoy-6-premium-apps-at-no-extra-cost-this-black-friday/"><u>Unbeatable Mac XDVD Offer: Save 86%%, Upgrade with Media Bundle & Enjoy 6 Premium Apps at No Extra Cost This Black Friday</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-asus-rog-phone-7-ultimate-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+</ul></div>

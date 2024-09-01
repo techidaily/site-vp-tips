@@ -1,7 +1,7 @@
 ---
 title: "Lenovo's New AMD Powerhouse: The Unbeatable ThinkPad Z13 Gen 2"
-date: 2024-08-27 15:35:16
-updated: 2024-08-29 11:28:21
+date: 2024-08-31T08:51:08.922Z
+updated: 2024-09-01T08:51:08.922Z
 tags:
   - product-reviews
 categories:
@@ -138,6 +138,9 @@ Close
 
  The laptop's base houses the large 10keyless chiclet keyboard, which also includes a customizable TrackPoint button. The keyboard takes up about 60% of the surface area, and right below it is a 2.79 by 4.72-inch glass-surface touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Ports: Two Good Ones... and Nothing Else
 
  By way of ports, this Z13 doesn't offer much to write home about. However, the two ports included are USB4 with a 40Gbps speed. (In case you're unaware of [what USB4 is](https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/), it's basically an upgraded version of a standard USB-C port, comparable to Thunderbolt 4, though in some arguments, USB-4 isn't _quite_ as good as this counterpart due to specific limitations).
@@ -154,6 +157,9 @@ Close
 
 ![The TrackPoint of the Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-trackpoint-of-the-lenovo-z13-gen-2-2jpg_53480774934_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  Like other ThinkPads I've reviewed, such as the [ThinkPad Z16 Gen 2](https://discord-videos.techidaily.com/prime-free-tools-to-sketch-unique-discord-icons/) or the [ThinkPad X1 Nano Gen 3](https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-gt-neo-5-location-settings-drfone-by-drfone-virtual/), the inputs of the Z13 all have the comfortable and premium feel that the ThinkPad line is known for. Despite the Z13's small build, the keyboard is full-size and has a pleasantly springy type feel. I also appreciated, as I usually do, the inclusion of the Trackpoint, which helped me make precise mouse movements without moving my right hand from the keyboard area.
@@ -180,14 +186,37 @@ Close
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ##  Performance: Solid and Trustworthy, but Not Lightning Speed
 
 ![AMD Ryzen Pro 7 processor sticker on the Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/amd-ryzen-pro-7-processor-sticker-on-the-lenovo-z13-gen-2jpg_53480774764_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  My model came with the AMD Ryzen 7 Pro 7840U processor, which handled many tasks with ease alongside the 32GB of RAM, but I found that the CPU commonly lacked the speeds I was hoping to find. Starting up the Z13 took longer than other similar ThinkPads and several product downloads took longer than I anticipated. This isn't to say the Z13 was slow by any means, but it wasn't as fast as other Lenovos I've worked with that also had 32GB of memory. For instance, the Z13 began to lag in speed when I had about 20 browser tabs open (with one playing a movie on Peacock), as well as a few office programs, the Xbox app, and the Microsoft store. I should note that you can upgrade the Z13's memory to 64GB, which would make the speed faster for multitasking purposes.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Gaming Performance: Only Good for a Small Amount of Casual Gaming
 
  Gaming with the Lenovo ThinkPad Z13 Gen 2 wasn't enjoyable unless I was playing a game with low to medium resource requirements. While playing "Atomic Heart," for example, I had to adjust the graphics settings down to "low" or "medium" to make it playable, and even after doing that, the latency during some of the gameplay made playing it anything but smooth. Other games, such as "Planet of Lana," performed well enough to make any casual gamer happy. But I consistently ran into issues with games such as "The Last Case of Benjamin Fox" or "Bramble: The Mountain King." As expected, the specs couldn't handle "A Plague Tale: Requiem," even when I adjusted the graphics quality way down.
@@ -208,10 +237,19 @@ Close
 
  The dual microphone system captures the human voice well, and it has noise-canceling features that work well to cut out background noise. In a noisy environment, I was still audible to the people on the other end of the call, and the recordings also came through crystal clear. It does cut out noises at higher volumes, which I discovered in singing tests.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 
 
 ##  Battery and Charging: Long-Lasting Battery Life
@@ -236,6 +274,9 @@ Sergio Rodriguez / How-To Geek
 
 ![The Lenovo Z13 Gen 2 open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3hkubxx903po29y50bbq45fk4feyo0833940.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Lenovo ThinkPad Z13 Gen 2
 
 7/ 10 
@@ -258,3 +299,57 @@ The Lenovo ThinkPad Z13 Gen 2 laptop is a premium portable option that suits stu
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-batch-save-presentations-in-video-format/"><u>[New] 2024 Approved  Batch Save Presentations in Video Format</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-text-transformation-tactics-for-images/"><u>[New] 2024 Approved  Text Transformation Tactics for Images</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-free-video-intro-templates-you-need-to-download/"><u>[New] Free Video Intro Templates You Need to Download</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-sourav-joshis-income-tactics-the-future-of-monetizing-content/"><u>[New] Sourav Joshi's Income Tactics  The Future of Monetizing Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-real-time-game-capture-aps4-strategies-in-obs/"><u>[Updated] 2024 Approved  Real-Time Game Capture  APS4 Strategies in OBS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/wi-fi2024/"><u>【Wi-Fi無し、通信エリア外でも聞ける】2024新着無料ミュージックアプリ - すぐに使える最高の選択</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-seamlessly-moving-your-app-store-buys-from-ios-device-to-itunes-library/"><u>1. Seamlessly Moving Your App Store Buys From iOS Device to iTunes Library</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-lightrooms-top-grading-tools-a-curated-list-of-best-rated-luts/"><u>2024 Approved  Lightroom's Top Grading Tools – A Curated List of Best-Rated LUTs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-solving-grey-voids-in-gaming-capture-software/"><u>2024 Approved  Solving Grey Voids in Gaming Capture Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-comprehensive-manual-for-effective-morphvox-voice-changes/"><u>2024 Approved  The Comprehensive Manual for Effective MorphVOX Voice Changes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-unlocking-untapped-utility-zoom-in-on-minecraft/"><u>2024 Approved  Unlocking Untapped Utility  Zoom in on Minecraft</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/adjusting-windows-10s-lock-screen-duration-settings/"><u>Adjusting Windows 10'S Lock Screen Duration Settings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/beginners-ultimate-online-guide-to-downloading-free-yoga-videos-all-skill-levels/"><u>Beginner's Ultimate Online Guide to Downloading Free Yoga Videos (All Skill Levels)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-instructions-for-generating-restore-points-on-your-windows-10-device/"><u>Easy Instructions for Generating Restore Points on Your Windows 10 Device</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-instructions-how-to-turn-off-quick-access-button-in-microsofts-latest-os-windows/"><u>Easy Instructions: How to Turn Off Quick Access Button in Microsoft's Latest OS, Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/expert-tips-for-accessing-elevated-powershellcommand-prompt-in-windows-11-8-and-81/"><u>Expert Tips for Accessing Elevated PowerShell/Command Prompt in Windows 11, 8 & 8.1</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/fixing-windows-10-calculator-issues-comprehensive-solutions-guide/"><u>Fixing Windows 10 Calculator Issues - Comprehensive Solutions Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-itel-p55-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Itel P55 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-8-plus-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 8 Plus Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-infinix-smart-8-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Infinix Smart 8 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-infinix-note-30-vip-racing-edition-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Infinix Note 30 VIP Racing Edition to iPod | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-rooting-in-cities-cultivating-urban-biodiversity/"><u>In 2024, Rooting in Cities  Cultivating Urban Biodiversity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-user-interface-and-functionality-app-checkup/"><u>In 2024, User Interface & Functionality App Checkup</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macx-dvd-ripper-mac-free-edition-review-and-top-picks-a-comprehensive-guide-for-ripping-software/"><u>MacX DVD Ripper Mac Free Edition Review & Top Picks: A Comprehensive Guide for Ripping Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macxdvd-dvd/"><u>MacXDVD DVDリッピング無料ライセンスコード付き - 最新ソフトウェア配布</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/manual-to-install-brother-built-in-drivers-for-windows-8-or-later-systems/"><u>Manual to Install Brother Built-In Drivers (For Windows 8 or Later Systems)</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-facebooks-insight-hub-for-enhanced-network-comprehension/"><u>Mastering Facebook's Insight Hub for Enhanced Network Comprehension</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-the-conversion-the-ultimate-guide-to-changing-mpg-into-mp4-on-your-macbook/"><u>Mastering the Conversion: The Ultimate Guide to Changing MPG Into MP4 on Your MacBook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-the-ping-command-a-step-by-step-guide-to-test-your-network-connectivity/"><u>Mastering the Ping Command: A Step-by-Step Guide to Test Your Network Connectivity</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-syncs-up-with-pearson-educational-services/"><u>Mondly Syncs Up with Pearson Educational Services</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-cutting-through-chaos-effective-techniques-to-silence-unwanted-sounds-in-audacity-and-filmorapro/"><u>New 2024 Approved Cutting Through Chaos Effective Techniques to Silence Unwanted Sounds in Audacity and FilmoraPro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/official-serial-number-for-macx-dvd-ripper-pro-secure-and-legal-downloads-verified-codice-di-licenza-2021-edition/"><u>Official Serial Number for MacX DVD Ripper Pro: Secure and Legal Downloads, Verified Codice Di Licenza 2021 Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/overcoming-iphone-and-itunes-integration-error-54-after-upgrading-to-windows-10-a-step-by-step-guide/"><u>Overcoming iPhone & iTunes Integration Error -54 After Upgrading to Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/passare-da-mkv-a-avi-senza-problemi-sul-tuo-mac-il-metodo-piu-facile-per-la-conversione/"><u>Passare Da MKV a AVI Senza Problemi Sul Tuo Mac - Il Metodo Più Facile per La Conversione</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/removing-quick-launch-from-the-taskbar-for-a-cleaner-experience-on-your-pc/"><u>Removing Quick Launch From the Taskbar for a Cleaner Experience on Your PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/resolved-fixing-the-iphone-sync-issue-with-itunes-error-code-54-post-windows-10-update/"><u>Resolved: Fixing the iPhone Sync Issue with iTunes Error Code -54 Post-Windows 10 Update</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/resolving-iphone-syncing-issues-with-itunes-overcoming-the-error-code-54-on-windows-11/"><u>Resolving iPhone Syncing Issues with iTunes: Overcoming the Error Code -54 on Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/resolving-the-post-windows-10-update-fixing-iphone-cant-sync-with-itunes-54/"><u>Resolving the Post-Windows 10 Update: Fixing 'iPhone Can't Sync with iTunes -54'</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/revamp-your-computer-experience-with-tailored-themes-in-windows-10/"><u>Revamp Your Computer Experience with Tailored Themes in Windows 10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revolutionize-notes-with-mematic-software/"><u>Revolutionize Notes with Mematic Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-to-setting-up-a-windows-system-restore-point/"><u>Step-by-Step Guide to Setting Up a Windows ^System Restore Point</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-clearing-your-browser-history-on-microsoft-edge/"><u>Step-by-Step Guide: Clearing Your Browser History on Microsoft Edge</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-launching-admin-mode-command-prompt-on-windows-11-8-and-81/"><u>Step-by-Step Guide: Launching Admin Mode Command Prompt on Windows 11, 8, and 8.1</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-setting-up-a-system-restore-on-windows-11/"><u>Step-by-Step Guide: Setting Up a System Restore on Windows 11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/synchronizing-social-channels-transferring-fb-videos-on-whatsapp-for-2024/"><u>Synchronizing Social Channels  Transferring FB Videos on WhatsApp for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-artisans-approach-to-profiling-brilliance/"><u>The Artisan's Approach to Profiling Brilliance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-your-guide-to-top-tech-reviews/"><u>Tom's Computer Components: Your Guide to Top Tech Reviews</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlocking-the-secrets-to-eliminating-fast-links-in-windows-10-easily-and-safely/"><u>Unlocking the Secrets to Eliminating Fast Links in Windows 10 Easily and Safely</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/windows-10-creators-update-fixes-downloading-and-audio-problems/"><u>Windows 10 Creator's Update Fixes Downloading and Audio Problems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/windows-10-remote-connectivity-setup-mastering-the-use-of-rdc/"><u>Windows 10 Remote Connectivity Setup: Mastering the Use of RDC</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Exploring the Dual Functions of Kobo Elipsa 2E – The Ultimate eBook Reader and Digital Planner
-date: 2024-08-26 13:53:23
-updated: 2024-08-29 10:12:48
+date: 2024-08-31T08:51:51.119Z
+updated: 2024-09-01T08:51:51.119Z
 tags:
   - product-reviews
 categories:
@@ -112,10 +112,16 @@ Expand
 
 [Rakuten Kobo](https://us.kobobooks.com/products/kobo-elipsa-2e) [$400 at Amazon](https://www.amazon.com/Kobo-Glare-Free-Touchscreen-ComfortLight-Adjustable/dp/B0C15G7J3V?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000558&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fkobo-elipsa-2e-review%2F&asc%5Fcampaign=Affiliate) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Unboxing and Design: The Kobo Elipsa 2E Hands-On
 
 ![The Kobo Elipsa 2E's box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/kobo-elipsa-2e-with-box-2jpg_53125255423_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  Boxed up in a high-quality box, my first impression of the Kobo Elipsa 2E was that it was the premium eReader it's advertised as. Inside the Elipsa box are a quick start guide, the Kobo Elipsa 2E, the Kobo Stylus 2, a USB-A to USB-C charging cable, and a safety guide. I also received the SleepCover, which is sold separately.
@@ -136,10 +142,16 @@ Joe Robinson / How-To Geek
 
  The Kobo Stylus 2 worked well, though it isn't pressure-sensitive. I was a bit stymied that I couldn't use the pen to turn the virtual page, but that's because the pen is limited to writing only and will put a dot on the page. Setting up the pen was simple—a quick tap on the screen after charging it up via its USB-C port, and I was ready to start writing all over my eBooks and notebooks. The Kobo Stylus 2 also has an "eraser" on the end, which serves as a digital "undo" button but is much more fun than tapping a back arrow.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The UI: Getting Around the Kobo Elipsa 2E
 
 ![The Kobo Elipsa 2E with its stylus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/kobo-elipsa-2e-with-stylus-3jpg_53125177800_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  The user interface for the Kobo Elipsa 2E is easy to navigate. I learned my way around quickly, and every tab has a clear label. From left to right of the bottom menu bar, the tabs are "Home," "My Books," "My Notebooks," "Discover," and "More." The Home page showed me my books in progress, a "My Books" section, as well as a "Recommended" tab. I also found the OverDrive option here and a "Related Reads" section that promised to show me books similar to the ones I was reading.
@@ -156,6 +168,9 @@ Joe Robinson / How-To Geek
 
 ![Kobo Elipsa 2E in a person's hands.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/kobo-elipsa-2e-in-hands-1jpg_53125263363_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  I was (mostly) impressed with the Kobo Elipsa 2E's performance. The ability to highlight sections with my finger, add notes, or write on the digital pages of each book was entertaining and helpful. Students, if you're reading this, this eReader might make sense for you.
@@ -166,12 +181,18 @@ Joe Robinson / How-To Geek
 
 ![The Kobo Elipsa 2E in a person's hands while taking notes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/kobo-elipsa-2e-in-hands-taking-notes-1jpg_53124181777_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  Although the reading and annotation experience was fantastic, I encountered some issues I couldn't overlook. The first was the OS's rather buggy performance when completing specific tasks. For instance, when highlighting a section of text and then selecting "Undo Highlight," the highlighted text stayed on the page like a ghost, even when I was several pages past that original highlight.
 
  I also experienced some blips when using my Beats Studio Buds to listen to an audiobook. Frequent lags occurred in playback, as well as when I hit the 30-second rewind button, and it was too distracting to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Battery and Charging: Long-Lasting Charge With Light to Moderate Use
 
 ![The Kobo Elipsa 2E with its accessories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/kobo-elipsa-2e-with-accessories-2jpg_53125176950_o.jpg) 
@@ -220,3 +241,65 @@ The Kobo Elipsa 2E eReader makes digital reading, note-taking, and annotating ea
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/2-best-vlogging-cameras-for-vloggers-for-2024/"><u>[New] 12 Best Vlogging Cameras for Vloggers for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-decoding-the-underlying-messages-in-snapchats-symbolic-language-for-2024/"><u>[New] Decoding the Underlying Messages in Snapchat's Symbolic Language for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-elite-no-cost-fb-imagemovie-design-toolkit/"><u>[New] In 2024, Elite No-Cost FB Image/Movie Design Toolkit</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-detecting-changes-in-your-instagram-network/"><u>[Updated] In 2024, Detecting Changes in Your Instagram Network</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-top-picks-for-latest-kid-friendly-films-securing-your-collection-with-dvd-backup-strategies/"><u>1. Top Picks for Latest Kid-Friendly Films: Securing Your Collection with DVD Backup Strategies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-inshot-tips-achieving-seamless-video-segmentation/"><u>2024 Approved  Inshot Tips  Achieving Seamless Video Segmentation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-key-environment-choices-for-live-sharing/"><u>2024 Approved  Key Environment Choices for Live Sharing</u></a></li>
+<li><a href="https://article-files.techidaily.com/5-essential-sites-revolutionizing-how-we-style-text-for-2024/"><u>5 Essential Sites Revolutionizing How We Style Text for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/adjusting-windows-10s-lock-screen-duration-settings/"><u>Adjusting Windows 10'S Lock Screen Duration Settings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/compare-30fps-vs-60fps-in-gaming-watch-high-frame-rate-gameplay/"><u>Compare 30Fps Vs. 60Fps in Gaming - Watch High-Frame Rate Gameplay</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/complete-macxdvd-suite-buy-the-full-license-with-a-complimentary-update/"><u>Complete MacXDVD Suite: Buy the Full License with a Complimentary Update!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/descubre-la-solucion-ideal-para-cambiar-videos-wmv-a-mp4-sin-costo-en-mac-el-convertidor-de-mp4-libre-y-facil-de-uso/"><u>Descubre La Solución Ideal Para Cambiar Videos WMV a MP4 Sin Costo en Mac: El Convertidor De MP4 Libre Y Fácil De Uso</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discovering-your-windows-11-update-level-how-to-locate-and-verify-the-system-build-number-easily/"><u>Discovering Your Windows 11 Update Level: How to Locate and Verify the System Build Number Easily</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-high-resolution-ios-17-wallpapers-best-full-hd-backgrounds-for-iphone-and-ipad/"><u>Download High-Resolution IOS 17 Wallpapers: Best Full HD Backgrounds for iPhone and iPad</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-instructions-for-generating-restore-points-on-your-windows-10-device/"><u>Easy Instructions for Generating Restore Points on Your Windows 10 Device</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-instructions-how-to-turn-off-quick-access-button-in-microsofts-latest-os-windows/"><u>Easy Instructions: How to Turn Off Quick Access Button in Microsoft's Latest OS, Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effortless-dvd-conversion-for-imac-users-mastering-the-art-of-film-transfers/"><u>Effortless DVD Conversion for iMac Users: Mastering the Art of Film Transfers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effortless-guide-converting-your-macs-dvds-into-ts-files-with-ease/"><u>Effortless Guide: Converting Your Mac's DVDs Into TS Files with Ease</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhance-user-experience-with-our-cutting-edge-cookiebot-solutions/"><u>Enhance User Experience with Our Cutting-Edge Cookiebot Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-peak-performance-of-your-samsung-vevo-960-with-the-latest-drivers-download-guide-for-windows-systems/"><u>Ensure Peak Performance of Your Samsung Vevo 960 with the Latest Drivers - Download Guide for Windows Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/erwerbung-der-hochwertigen-deutschen-fassung-download-and-streaming-des-wm-hymns-von-2018-mp3-hd-mp4/"><u>Erwerbung Der Hochwertigen Deutschen Fassung: Download & Streaming Des WM-Hymns Von 2018 (MP3, HD MP4)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/expert-tips-for-accessing-elevated-powershellcommand-prompt-in-windows-11-8-and-81/"><u>Expert Tips for Accessing Elevated PowerShell/Command Prompt in Windows 11, 8 & 8.1</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/fixing-windows-10-calculator-issues-comprehensive-solutions-guide/"><u>Fixing Windows 10 Calculator Issues - Comprehensive Solutions Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Vivo S18 Pro? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-tecno-pova-5-pro-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-6s-plus-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 6s Plus When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-samsung-galaxy-a34-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-3d-luts-in-creative-pixels/"><u>In 2024, Harnessing the Power of 3D LUTs in Creative Pixels</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-motorola-moto-g84-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Motorola Moto G84 5G</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-innovator-of-cinematic-soundscapes-and-imagery/"><u>In 2024, Innovator of Cinematic Soundscapes & Imagery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macx-dvd-ripper-mac-free-edition-review-and-top-picks-a-comprehensive-guide-for-ripping-software/"><u>MacX DVD Ripper Mac Free Edition Review & Top Picks: A Comprehensive Guide for Ripping Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/manual-to-install-brother-built-in-drivers-for-windows-8-or-later-systems/"><u>Manual to Install Brother Built-In Drivers (For Windows 8 or Later Systems)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-the-ping-command-a-step-by-step-guide-to-test-your-network-connectivity/"><u>Mastering the Ping Command: A Step-by-Step Guide to Test Your Network Connectivity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mp4-to-dvd-vob-conversion-guide-for-mac-users-play-and-create-with-ease/"><u>MP4 to DVD-VOB Conversion Guide for Mac Users: Play and Create with Ease</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/overcoming-iphone-and-itunes-integration-error-54-after-upgrading-to-windows-10-a-step-by-step-guide/"><u>Overcoming iPhone & iTunes Integration Error -54 After Upgrading to Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/perfect-your-presence-with-solo-video-setups-and-techniques/"><u>Perfect Your Presence with Solo Video Setups and Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/removing-quick-launch-from-the-taskbar-for-a-cleaner-experience-on-your-pc/"><u>Removing Quick Launch From the Taskbar for a Cleaner Experience on Your PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/resolved-fixing-the-iphone-sync-issue-with-itunes-error-code-54-post-windows-10-update/"><u>Resolved: Fixing the iPhone Sync Issue with iTunes Error Code -54 Post-Windows 10 Update</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/resolved-overcoming-silence-fixing-the-lack-of-sound-during-mp4-file-imports-into-imovie/"><u>Resolved: Overcoming Silence - Fixing the Lack of Sound During MP4 File Imports Into iMovie</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/resolving-iphone-syncing-issues-with-itunes-overcoming-the-error-code-54-on-windows-11/"><u>Resolving iPhone Syncing Issues with iTunes: Overcoming the Error Code -54 on Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/resolving-the-post-windows-10-update-fixing-iphone-cant-sync-with-itunes-54/"><u>Resolving the Post-Windows 10 Update: Fixing 'iPhone Can't Sync with iTunes -54'</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/revamp-your-computer-experience-with-tailored-themes-in-windows-10/"><u>Revamp Your Computer Experience with Tailored Themes in Windows 10</u></a></li>
+<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-tecno-pop-7-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-to-setting-up-a-windows-system-restore-point/"><u>Step-by-Step Guide to Setting Up a Windows ^System Restore Point</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-clearing-your-browser-history-on-microsoft-edge/"><u>Step-by-Step Guide: Clearing Your Browser History on Microsoft Edge</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-launching-admin-mode-command-prompt-on-windows-11-8-and-81/"><u>Step-by-Step Guide: Launching Admin Mode Command Prompt on Windows 11, 8, and 8.1</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-setting-up-a-system-restore-on-windows-11/"><u>Step-by-Step Guide: Setting Up a System Restore on Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transfer-your-favorite-films-onto-a-microsoft-surface-pro-portable-movie-watching-made-easy/"><u>Transfer Your Favorite Films Onto a Microsoft Surface Pro: Portable Movie Watching Made Easy</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-overcoming-initialization-issues-with-windows-10s-configuration-system/"><u>Troubleshooting Guide: Overcoming Initialization Issues with Windows 10'S Configuration System</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/ultimate-gopro-comparison-max-360-vs-hero-11-performance-for-2024/"><u>Ultimate GoPro Comparison  Max 360 vs Hero 11 Performance for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721434632646-unleash-bings-ai-now-available-for-both-ios-and-android/"><u>Unleash Bing's AI: Now Available for Both iOS & Android.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlocking-the-secrets-to-eliminating-fast-links-in-windows-10-easily-and-safely/"><u>Unlocking the Secrets to Eliminating Fast Links in Windows 10 Easily and Safely</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-best-audio-chat-applications-tailored-for-gaming-enthusiasts-for-2024/"><u>Updated Best Audio Chat Applications Tailored for Gaming Enthusiasts for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-video-editor-for-mavericks-how-to-edit-videos-in-os-x-mavericks/"><u>Updated In 2024, Video Editor for Mavericks How to Edit Videos in OS X Mavericks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/windows-10-creators-update-fixes-downloading-and-audio-problems/"><u>Windows 10 Creator's Update Fixes Downloading and Audio Problems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/windows-10-remote-connectivity-setup-mastering-the-use-of-rdc/"><u>Windows 10 Remote Connectivity Setup: Mastering the Use of RDC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/windows-10-troubleshooting-mastering-the-art-of-clean-boots/"><u>Windows 10 Troubleshooting: Mastering the Art of Clean Boots</u></a></li>
+</ul></div>

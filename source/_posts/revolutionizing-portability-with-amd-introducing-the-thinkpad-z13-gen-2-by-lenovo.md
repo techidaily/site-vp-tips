@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Portability with AMD: Introducing the ThinkPad Z13 Gen 2 by Lenovo"
-date: 2024-08-26 17:12:39
-updated: 2024-08-29 11:21:15
+date: 2024-08-31T08:52:09.971Z
+updated: 2024-09-01T08:52:09.971Z
 tags:
   - product-reviews
 categories:
@@ -150,6 +150,9 @@ Close
 
  I also had one tiny gripe worth mentioning—the power button below the USB4 port on the right side is tiny and relatively hard to push and hold down if you want to manually turn off the laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ##  Inputs: The Keyboard, Touchpad, and Touchscreen
 
 ![The TrackPoint of the Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-trackpoint-of-the-lenovo-z13-gen-2-2jpg_53480774934_o.jpg) 
@@ -166,6 +169,9 @@ Sergio Rodriguez / How-To Geek
 
 ![The Lenovo ThinkPad Z13 Gen2 laptop playing a nature video of a puffin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/graphics-hero-image-youtube-screenshot.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Cianna Garrison / How-To Geek
 
 _BBC Earth_
@@ -180,6 +186,9 @@ Close
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ##  Performance: Solid and Trustworthy, but Not Lightning Speed
 
 ![AMD Ryzen Pro 7 processor sticker on the Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/amd-ryzen-pro-7-processor-sticker-on-the-lenovo-z13-gen-2jpg_53480774764_o.jpg) 
@@ -198,6 +207,9 @@ Sergio Rodriguez / How-To Geek
 
 ![The closed Lenovo Z13 Gen 2 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-closed-lenovo-z13-gen-2-laptop-4jpg_53480466146_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  I enjoyed listening to music as I worked via the two AI-powered 2W Dolby Atmos speakers, but I had to turn the volume up to about 80 to 100% for it to be a good volume. That said, I didn't notice much distortion, even when listening to crunchy guitar-laden music like the blues or hard rock. But I found the speakers sounded the best when recordings were more simplistic, focusing on one to three instruments and vocals more than a complex, noisy blend, such as some vocal-heavy jazz tracks from Chet Baker and Etta James. The speakers do have a sort of condensed quality to them, but this is nothing I wouldn't expect from most laptop speaker systems, which are still sorely behind in audio quality compared to external speakers and even [some smartphone speakers](https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-honor-magic5-ultimate-to-your-pcmac-drfone-by-drfone-android/). Of course, you can always [improve the sound of the laptop's speakers](https://extra-guidance.techidaily.com/revolutionize-note-taking-with-mematic-app-for-2024/) by investing in some [desktop speaker systems](https://some-approaches.techidaily.com/new-synergizing-visual-cues-with-the-right-musical-choices/) or using [good-quality wired headphones](https://mondly-stories.techidaily.com/perfezionamento-dei-numeri-italiani-per-la-comunicazione-da-1-1000/).
@@ -212,8 +224,14 @@ Close
 
 ### 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Battery and Charging: Long-Lasting Battery Life
 
 ![The Lenovo Z13 Gen 2 with its charger.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-lenovo-z13-gen-2-with-its-chargerjpg_53480870670_o.jpg) 
@@ -224,10 +242,16 @@ Sergio Rodriguez / How-To Geek
 
  My experience with the battery makes the up to 16.5-hour MobileMark score seem a bit high, but I kept it consistently at 300 to 400 nits, while the benchmark measured performance at 250 nits.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the Lenovo ThinkPad Z13 Gen 2 (AMD) Laptop?
 
 ![The closed Lenovo Z13 Gen 2 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-closed-lenovo-z13-gen-2-laptop-2jpg_53480775254_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  The [ThinkPad Z13 Gen 2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadz%2Fthinkpad-z13-gen-2-%2813-inch-amd%29%2Flen101t0073) is a premium offering that's a good choice for anyone who travels a lot or wants a portable laptop with decent processing power. However, it has some weaknesses in terms of its speaker system, an occasional lag when heavily multitasking, and a lack of port options that might make this a poor choice for you. If you're looking for something different, the [ThinkPad Z16 Gen 2](https://digital-screen-recording.techidaily.com/updated-in-2024-experts-guide-to-the-best-ipad-voice-recording-tools-3/) performed better in some of these categories, as did the [ThinkPad X1 Carbon Gen 10](https://extra-hints.techidaily.com/cinematographic-cuisine-expert-tips-on-filming-edibles/).
@@ -236,6 +260,9 @@ Sergio Rodriguez / How-To Geek
 
 ![The Lenovo Z13 Gen 2 open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3hkubxx903po29y50bbq45fk4feyo0833940.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Lenovo ThinkPad Z13 Gen 2
 
 7/ 10 
@@ -258,3 +285,56 @@ The Lenovo ThinkPad Z13 Gen 2 laptop is a premium portable option that suits stu
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-step-by-step-guide-to-adjust-youtube-video-speeds-on-the-fly/"><u>[New] 2024 Approved  Step-By-Step Guide to Adjust YouTube Video Speeds on the Fly</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-boosting-stream-consistency-with-obs-fixes-for-2024/"><u>[New] Boosting Stream Consistency with OBS Fixes for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-essential-breakdown-of-dji-phantom-3-mechanics/"><u>[New] The Essential Breakdown of DJI Phantom 3 Mechanics</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unraveling-the-mystery-of-frame-rates-in-videos-for-2024/"><u>[New] Unraveling the Mystery of Frame Rates in Videos for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-from-forgotten-to-found-a-guide-to-using-tiktok-hashtags-right/"><u>[Updated] 2024 Approved  From Forgotten to Found  A Guide to Using TikTok Hashtags Right</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-how-to-share-screen-on-skype-when-working-from-home-for-2024/"><u>[Updated] How to Share Screen on Skype When Working From Home for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mac-x-dvd-ripper-pro/"><u>「線上直接讓Mac X DVD Ripper Pro成功採購」 - 絕對安全與可靠的電子影片移除工具</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-superleistende-moglichkeiten-8-effiziente-methoden-zum-hochladen-von-iphonofotos-auf-macos/"><u>1. Superleistende Möglichkeiten: 8 Effiziente Methoden Zum Hochladen Von iPhonofotos Auf macOS</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-holographic-horizons-unveiling-new-dimensions-with-sci-fi-classics/"><u>2024 Approved  Holographic Horizons  Unveiling New Dimensions with Sci-Fi Classics</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-maximizing-your-idevices-screen-record-functionality/"><u>2024 Approved  Maximizing Your iDevice's Screen Record Functionality</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-picture-pieces-proposals-radiate-positivity-and-creativity/"><u>2024 Approved  Picture Pieces Proposals  Radiate Positivity and Creativity</u></a></li>
+<li><a href="https://review-topics.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-honor-100-pro-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Honor 100 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macx-dvd-iphone-mac-os-x/"><u>無償で利用！MacX DVD を iPhone に簡単変換する Mac OS X アプリケーション</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/a-complete-guide-to-burning-dvd-movies-onto-a-laptop-or-desktop-for-both-windows-and-macos-users/"><u>A Complete Guide to Burning DVD Movies Onto a Laptop or Desktop – For Both Windows and macOS Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/copy-dvd-safely-to-your-ipad-with-macxs-free-app-compatible-with-all-mac-operating-systems/"><u>Copy DVD Safely to Your iPad with MacX's Free App: Compatible with All Mac Operating Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cutting-costs-not-content-guide-to-freely-editing-self-uploaded-and-other-creators-youtube-videos/"><u>Cutting Costs Not Content: Guide to Freely Editing Self-Uploaded and Other Creator's YouTube Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-macx-pro-the-ultimate-and-reliable-mac-app-for-converting-webm-videos-to-mov-mp4-avid-formats/"><u>Download MacX Pro: The Ultimate & Reliable Mac App For Converting WebM Videos To Mov, Mp4, Avid Formats</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-guide-to-moving-your-iphone-pictures-onto-a-portable-usb-thumb-drive/"><u>Easy Guide to Moving Your iPhone Pictures Onto a Portable USB Thumb Drive</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/efficiently-reduce-mkv-file-sizes-without-sacrificing-video-quality/"><u>Efficiently Reduce MKV File Sizes Without Sacrificing Video Quality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/get-windows-movie-maker-for-mac-at-no-cost-detailed-tutorials-and-links/"><u>Get Windows Movie Maker for Mac at No Cost - Detailed Tutorials and Links</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guide-to-reactivating-gpu-fan-spin/"><u>Guide to Reactivating GPU Fan Spin</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guide-watching-dvd-films-on-a-chromebook-three-reliable-techniques/"><u>Guide: Watching DVD Films on a Chromebook – Three Reliable Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/handbrake/"><u>HandBrakeエンコード失敗を回避するための詳細手順</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-and-set-up-the-latest-brother-l2700dw-printer-driver-for-your-pc/"><u>How to Get and Set Up the Latest Brother L2700DW Printer Driver for Your PC</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-audiovisual-adventures-unleashed-by-polaroid-camplus-cubeplus/"><u>In 2024, Audiovisual Adventures Unleashed by Polaroid Cam+ Cube+</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-decoding-the-visual-language-of-youtube-thumbnails/"><u>In 2024, Decoding the Visual Language of YouTube Thumbnails</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-samsung-galaxy-f54-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-xiaomi-redmi-note-12-proplus-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Xiaomi Redmi Note 12 Pro+ 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-s17es-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo S17es Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-2024-anticipated-launch-details-pricing-predictions-and-leaked-specifications/"><u>IPhone 2024 Anticipated Launch Details, Pricing Predictions & Leaked Specifications</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/iphone-se-versus-iphone-7-showdown-exploring-the-differences-between-ios-9-and-ios-10-features/"><u>IPhone SE versus iPhone 7 Showdown - Exploring the Differences Between iOS 9 and iOS 10 Features</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macx-pro-your-go-to-solution-for-free-wmv-mov-and-mpeg-to-avi-conversion-on-macos/"><u>MacX Pro: Your Go-To Solution for Free WMV, MOV, and MPEG to AVI Conversion on macOS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-video-format-changes-convert-wmv-to-popular-formats-like-mp4-mov-and-imovie-with-ease/"><u>Mastering Video Format Changes: Convert WMV to Popular Formats Like MP4, MOV & iMovie with Ease.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimize-your-videos-with-an-aspect-ratio-adjuster-enhance-visual-quality/"><u>Optimize Your Videos with an Aspect Ratio Adjuster – Enhance Visual Quality!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/seamless-film-transfer-shifting-iphone-content-onto-your-mac-system/"><u>Seamless Film Transfer: Shifting iPhone Content Onto Your Mac System</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/seamless-mp4-to-iphone-conversion-ensure-flawless-video-playback/"><u>Seamless MP4 to iPhone Conversion: Ensure Flawless Video Playback</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-resizing-videos-perfectly-for-any-display/"><u>Step-by-Step Guide: Resizing Videos Perfectly for Any Display</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-easy-peasy-guide-to-using-ifunnys-meme-app-for-2024/"><u>The Easy-Peasy Guide to Using iFunny's Meme App for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-3-methods-for-capturing-your-gaming-moments-in-minecraft-on-a-mac/"><u>Top 3 Methods for Capturing Your Gaming Moments in Minecraft on a Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-free-film-applications-watch-and-save-movies-on-your-iphone-8iphone-plus/"><u>Top Free Film Applications: Watch & Save Movies on Your iPhone 8/iPhone Plus</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-methods-for-converting-wmv-files-to-premium-quality-mp3-on-your-mac/"><u>Top Methods for Converting WMV Files to Premium-Quality MP3 on Your Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/troubleshooting-how-to-overcome-icloud-backup-obstacles-on-your-iphone/"><u>Troubleshooting: How to Overcome iCloud Backup Obstacles on Your iPhone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-to-freemake-video-converter-top-choice-for-seamless-video-transformation/"><u>Ultimate Guide to Freemake Video Converter: Top Choice for Seamless Video Transformation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-selecting-the-best-flv-video-downloader-on-a-mac/"><u>Ultimate Guide: Selecting the Best FLV Video Downloader on a Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultra-fast-macx-mediatrans-simplify-your-apple-device-management-with-easy-transfers-of-photos-videos-and-music/"><u>Ultra-Fast MacX MediaTrans: Simplify Your Apple Device Management with Easy Transfers of Photos, Videos & Music</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/us-customers-rejoice-premium-loongson-processor-integrated-boards-and-pc-units-start-as-low-as-3er-thousand-starting-your-tech-upgrade-effortlessly/"><u>US Customers Rejoice: Premium Loongson Processor-Integrated Boards and PC Units Start As Low as $3Er Thousand, Starting Your Tech Upgrade Effortlessly</u></a></li>
+</ul></div>

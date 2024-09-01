@@ -1,7 +1,7 @@
 ---
 title: "Effortless Access to PowerShell in Windows 11: Discover These 9 Quick Tips!"
-date: 2024-08-28 10:56:16
-updated: 2024-08-29 11:43:11
+date: 2024-08-31T08:56:12.563Z
+updated: 2024-09-01T08:56:12.563Z
 tags:
   - desktop
 categories:
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 
  PowerShell is a more powerful command-line shell and scripting language than Command Prompt. Since the release of Windows 10, it's become the default choice, and there are many ways you can open it.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What Is the Difference Between PowerShell and Command Prompt? 
 
  PowerShell is more complicated to use, but it's a [much more robust](https://techno-recovery.techidaily.com/x-men-film-series-viewing-guide-the-ultimate-sequence/) and powerful than Command Prompt. That's why it's become the preferred scripting language and command-line interface for Power Users and IT pros, competing favorably with other Linux and Unix-like shells.
@@ -52,6 +55,9 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 
  It's straightforward to [switch back to showing the PowerShell](https://video-screen-grab.techidaily.com/updated-in-2024-gameboy-advance-mastered-android-emulator-selection/) in the Power User menu. 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Use the Start Menu Search to Open PowerShell
 
  Probably one of the fastest ways to open PowerShell is via a Start Menu Search. Just click the Start or Search icon, and then type "powershell" in the search box.
@@ -62,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 
 ![Click &quot;Open&quot; or &quot;Run As Administrator.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_13h52_39.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  By Scrolling Through All Apps in the Start Menu
 
  Because PowerShell is a default Windows 10 program, you can find its application icon in the "All Apps" section of the Start Menu.
@@ -78,12 +88,18 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 
 ![Right-click &quot;Windows PowerShell,&quot; and then click &quot;Run as Administrator.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_14h34_16.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  From the Run Box
 
  Press Windows+R to open the Run dialog box, and then type "powershell" in the text box. You can either click "OK" (or press the Enter) to open a regular PowerShell window, or press Ctrl+Shift+Enter to open an elevated PowerShell window.
 
 ![Type &quot;powershell&quot; in the text box, and then click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_15h56_56.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Launch PowerShell From the File Explorer File Menu
 
  If you need to open a PowerShell instance from a specific folder on your computer, you can use File Explorer to initiate it within the currently selected directory.
@@ -105,6 +121,9 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 
 ![Type &quot;powershell&quot; in the File Explorer address bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_19h29_17.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
  PowerShell will open with the path of the current folder already set.
 
 ![PowerShell open in Windows Terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/powershell-1.png) 
@@ -115,26 +134,41 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 
 ![Click &quot;More details.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_19h14_11.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
  Now, click File > Run New Task.
 
 ![Click &quot;File,&quot; and then click &quot;Run New Task.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_19h16_01.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Type "powershell" in the text box, and then click "OK" to continue.
 
 ![Type &quot;powershell&quot; in the text box, and then click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_19h17_20.png) 
 
  If you want to run PowerShell with administrator permissions, make sure the "Create This Task with Administrator Privileges" option is selected.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ##  From the Right-Click Context Menu
 
  Another way you can open Windows PowerShell from wherever you are is via the right-click context menu. If you simply right click the folder, though, you won't see the option. Instead, press Shift as you right click. This opens the context menu and includes the "Open PowerShell Window Here" option.
 
 ![Click &quot;Open PowerShell Window Here.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_17h29_34.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also permanently add PowerShell to the right-click context menu with [this registry hack](https://win-amazing.techidaily.com/1722976989163-get-your-insignia-usbvga-driver-installed-step-by-step-guide/).
 
 ![The &quot;Open PowerShell Here&quot; option in the context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/apc_top.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Create a PowerShell Shortcut on the Desktop
 
  If you'd rather just click an icon to open PowerShell, it's easy to create one for your Desktop.
@@ -147,10 +181,16 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 
 ![Type &quot;powershell&quot; in the text box, and then click &quot;Next.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_18h57_27.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
  Name your shortcut, and then click "Finish" to create it.
 
 ![Type a name for your shortcut in the text box, and then click &quot;Finish.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_18h58_05.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
  Now, whenever you double click the icon, PowerShell will open.
 
 ![A &quot;Windows PowerShell&quot; window opened from a desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_19h09_17.png) 
@@ -159,6 +199,9 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 
 ![Click &quot;Properties.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-17_13h57_38.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Click "Advanced".
 
 ![Click &quot;Advanced.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-17_13h57_53.png) 
@@ -167,6 +210,9 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 
 ![Select the &quot;Run as Administrator&quot; option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-17_13h58_05.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
  Click "OK" in both windows to save your changes and close the properties windows.
 
 ---
@@ -187,3 +233,43 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/macdvdand-dvd/"><u>[公式] 一覧 - Mac専用DVDコピー&リッピングソフトウェア - DVD作成・動画編集・ファイル管理ツール</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-high-quality-360-cameras-for-youtube-and-facebook-coverage/"><u>[New] High-Quality 360° Cameras for YouTube & Facebook Coverage</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-from-slide-show-to-screen-share-recording-tips-for-professionals/"><u>[New] In 2024, From Slide Show to Screen Share  Recording Tips for Professionals</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-capturing-moments-like-never-before-toolwiz-apps-2023-review/"><u>[Updated] In 2024, Capturing Moments Like Never Before  Toolwiz App's 2023 Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sound-synchronization-secrets-for-instagram-savvy/"><u>[Updated] Sound Synchronization Secrets for Instagram Savvy</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-dynamic-photovideo-gimbal-unmatched-stabilization/"><u>2024 Approved  Dynamic Photo/Video Gimbal  Unmatched Stabilization</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-light-up-dull-iphone-videos-in-seconds/"><u>2024 Approved  Light Up Dull Iphone Videos in Seconds</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1724766284588-mac/"><u>限定無料 Mac 使いやすい最新アプリで大人気ソフトウェア獲得 - クリスマス特別キャンペーン!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ace-the-collection-most-acclaimed-disney-pixar-features-ever-made-secrets-to-successful-streaming-and-download/"><u>Ace the Collection: Most Acclaimed Disney Pixar Features Ever Made - Secrets to Successful Streaming and Download</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-error-code-727e66ac-in-nba-2mysql-ultimate-guide-to-enhancing-your-2024-gaming-experience/"><u>Beat Error Code 727E66AC in NBA 2MySQL: Ultimate Guide to Enhancing Your 2024 Gaming Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-free-high-definition-movies-downloads-top-15-1080p-and-720p-mp4-websites/"><u>Best FREE High-Definition Movies Downloads: Top 15 1080P & 720P MP4 Websites</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-handbrake-substitutes-on-macos-top-picks/"><u>Best Handbrake Substitutes on MacOS: Top Picks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/buy-macx-pro-top-tier-professional-video-editor-for-quick-seamless-file-conversions/"><u>Buy MacX Pro - Top-Tier Professional Video Editor for Quick, Seamless File Conversions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/critique-on-microsofts-surface-duo-overpriced-with-persistent-glitches/"><u>Critique on Microsoft's Surface Duo: Overpriced with Persistent Glitches</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1724765969005-dvd-decrypter/"><u>DVD Decrypter日本語フリューゲルダウンロード・トラブルシューティング</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dvdiphone-ipad-apple-tv-mac-dvd-ripper/"><u>DVDをiPhone, iPad, Apple TVに転送する Macユーザー向けシンプル方法 - DVD Ripperツール</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-steps-to-trim-videos-on-your-mac-and-remove-excess-footage/"><u>Easy Steps to Trim Videos on Your Mac and Remove Excess Footage</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/esegui-lacquisto-di-macx-video-converter-pro-per-un-editing-facile-e-senza-problemi/"><u>Esegui L'acquisto Di MacX Video Converter Pro per Un Editing Facile E Senza Problemi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/excellent-idevice-file-organizing-apps-more-than-just-mail-and-photos/"><u>Excellent iDevice File Organizing Apps: More Than Just Mail and Photos!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-extract-and-delete-both-hard-coded-and-soft-subtitles-in-mp4-videos/"><u>How To Extract And Delete Both Hard-Coded & Soft Subtitles in MP4 Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-moto-g-5g-2023-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Moto G 5G (2023) on Mac?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-the-art-of-youtube-thumbnails-on-macos/"><u>In 2024, Mastering the Art of YouTube Thumbnails on macOS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-marvell-ac-wifi-in-windows-server-environment/"><u>Install Marvell Ac WiFi in Windows Server Environment</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/introducing-macx-mediatrans-the-premier-solution-for-managing-your-iphone-and-transforming-heic-images-into-jpg-format/"><u>Introducing MacX MediaTrans: The Premier Solution for Managing Your iPhone and Transforming HEIC Images Into JPG Format</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/leading-tools-for-transforming-iso-media-how-to-convert-to-avi-mp4-and-mkv-with-precision/"><u>Leading Tools for Transforming ISO Media - How to Convert to AVI, MP4 & MKV with Precision</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macx-video-converter-pro-masterclass-effortless-video-downloads-and-conversion-techniques-exclusive-for-mac-enthusiasts/"><u>MacX Video Converter Pro Masterclass: Effortless Video Downloads & Conversion Techniques Exclusive for Mac Enthusiasts</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-6-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your iPhone 6</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/parrots-in-flight-a-deep-dive-into-bebops-essence/"><u>Parrots in Flight  A Deep Dive Into Bebop's Essence</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-to-flawlessly-duplicating-your-disney-movies-from-a-need-for-speed-disc-on-macos-retaining-perfect-sound-and-picture-integrity/"><u>Step-by-Step Guide to Flawlessly Duplicating Your Disney Movies From a Need for Speed Disc on macOS, Retaining Perfect Sound & Picture Integrity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-converting-dvd-show-episodes-into-multiple-file-formats-like-mp4-avi-and-mkv/"><u>Step-by-Step Guide: Converting DVD Show Episodes Into Multiple File Formats Like MP4, AVI & MKV</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-rated-free-movies-applications-for-ipad-pro-ultimate-downloads-guide/"><u>Top Rated Free Movies Applications for iPad Pro: Ultimate Downloads Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-rated-external-hardware-solutions-for-seamless-iphone-data-movement/"><u>Top-Rated External Hardware Solutions for Seamless iPhone Data Movement</u></a></li>
+<li><a href="https://fox-http.techidaily.com/uncovering-if-vlogger-critiques-are-paid/"><u>Uncovering If Vlogger Critiques Are Paid</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unforgettable-holiday-treats-the-ultimate-selection-of-5-amazing-gifts-for-the-whole-family-this-christmas-season/"><u>Unforgettable Holiday Treats: The Ultimate Selection of 5 Amazing Gifts for the Whole Family This Christmas Season</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-oppo-find-n3-flip-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Oppo Find N3 Flip Phones</u></a></li>
+</ul></div>

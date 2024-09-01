@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Security with ACL Masks: Advanced Techniques for Configuring Linux File Access Rights"
-date: 2024-08-27 14:56:35
-updated: 2024-08-29 11:52:44
+date: 2024-08-31T08:56:13.890Z
+updated: 2024-09-01T08:56:13.890Z
 tags:
   - desktop
 categories:
@@ -68,6 +68,9 @@ getfacl mysupersecretfile.txt`
     
 ![A terminal window showing the setfacl command to add the contractor user with read and write permissions, and getfacl command and its output, particularly the modified mask permissions..](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-16.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
  Now, in addition to the manager (r) ACL entry, we also see the contractor (rw) entry. But why did the mask entry change to read and write?
 
  When we added the contractor user with read and write permissions, it affected the ACL mask because, as I mentioned above, the mask relates to the _maximum_ allowed permissions of ACL users and group entries. Since we added write permissions to the contractor user's ACL entry, the mask also gets the write permission.
@@ -76,6 +79,10 @@ getfacl mysupersecretfile.txt`
 
  Keep in mind that if you add another user with fewer permissions, for example read-only, they do not inherit the mask permissions—just like the manager user didn't get the write permission when we added the contractor user's ACL entry.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  Effective Permissions
 
  We can set the mask entry permissions manually by using the setfacl command. This will allow us to filter any named user and/or group permissions set on the file at the same time, or for existing users' ACL entries of the file, to the lowest common denominator. This is called effective permissions.
@@ -88,6 +95,9 @@ getfacl mysupersecretfile.txt
     
 ![A terminal window showing the setfacl command, modifying the mask, and the getfacl command showing effective permissions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-13.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The comment showing the contractor user's effective permissions lets us know that, even though they were granted read and write permissions, in reality, they only have read permission. Modifying the mask caused this. If we look at the file again with **ls -l**, we'll see the group class permissions (which again is re-purposed to reflect the mask) have changed:
 
         `ls -l mysupersecretfile.txt`
@@ -102,6 +112,12 @@ getfacl mysupersecretfile.txt
     
 ![A terminal window showing the setfacl command, adding rwx permissions for the milton user, and getfacl command showing effective permissions of r, due to the use of the -n parameter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-12.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ##  Default Masks
 
  When you're working with ACLs, the concept of default masks is very similar to default ACL entries. For example, when you add a default mask to a directory, all newly created files and subdirectories inside of it will inherit that same mask (as well as the default mask entry). Just use the **\-d** parameter with the setfacl command to apply a default mask:
@@ -114,6 +130,9 @@ getfacl mysupersecretdirectory/mysupersecretsubdirectory/`
     
 ![A terminal window showing the mkdir, setfacl and getfacl commands to reflect a default mask assignment](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Default masks, and default ACL entries for that matter, are only applicable to directories since they're the only objects that can contain files and/or other directories inside of them to apply these inheritable entries to.
 
 ---
@@ -136,3 +155,44 @@ getfacl mysupersecretdirectory/mysupersecretsubdirectory/`
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-visualization-vanguards-battle/"><u>[New] 2024 Approved  Visualization Vanguard's Battle</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-captivating-your-curbsides-glow-inside-your-house/"><u>[New] Captivating Your Curbside's Glow Inside Your House</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-quick-photovideo-recovery-on-snapchat/"><u>[New] Quick Photo/Video Recovery on Snapchat</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pro-editors-insight-restore-true-colors-to-faded-iphone-hdr-in-adobe-premiere-for-2024/"><u>[Pro Editor's Insight] Restore True Colors to Faded iPhone HDR in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-essential-guide-to-screen-recording-facetime-meetings/"><u>[Updated] Essential Guide to Screen-Recording FaceTime Meetings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-revolutionary-recorders-outside-the-native-windows-ecosystem/"><u>[Updated] Revolutionary Recorders Outside the Native Windows Ecosystem</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-best-ios-resources-for-playing-retro-psp-games-1-5-for-2024/"><u>[Updated] The Best iOS Resources for Playing Retro PSP Games #1-5 for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-2023s-best-updated-lg-bp550-overview/"><u>2024 Approved  2023'S Best  Updated LG BP550 Overview</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-no-cost-hd-video-recording-apps-compatible-with-pc-and-mac-systems/"><u>Best No-Cost HD Video Recording Apps Compatible with PC and Mac Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/billboard-music-awards-2022-live-performance-full-hd-streaming-and-download/"><u>Billboard Music Awards 2022 Live Performance - Full HD Streaming and Download</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/click-download-button-next-to-the-latest-version-compatible-with-your-os-n-indicates-a-new-line-for-readability/"><u>Click Download Button Next to the Latest Version Compatible with Your OS. (\\N Indicates a New Line for Readability)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comparing-streaming-devices-apple-tv-4k-versus-roku-ultra/"><u>Comparing Streaming Devices: Apple TV 4K Versus Roku Ultra</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/complete-set-of-macxdvd-professional-tools-unlocked-with-free-license-renewal/"><u>Complete Set of MacXDVD Professional Tools Unlocked with Free License Renewal</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/creating-a-burned-dvd-on-your-mac-from-various-file-formats/"><u>Creating a Burned DVD on Your Mac From Various File Formats</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-how-to-securely-obtain-and-enjoy-the-official-2018-world-cup-fifa-hymn-for-free/"><u>Discover How to Securely Obtain and Enjoy the Official 2018 World Cup FIFA Hymn for Free!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effective-techniques-for-shrinking-4k-and-full-hd-dslr-footage-without-compromising-on-clarity/"><u>Effective Techniques for Shrinking 4K and Full HD DSLR Footage Without Compromising on Clarity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/family-favorites-unveiled-the-quintessential-list-of-top-10-films-for-every-generation/"><u>Family Favorites Unveiled: The Quintessential List of Top 10 Films for Every Generation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guide-for-ios-device-users-wanting-to-return-to-previous-os-switching-from-ios-10-back-to-ios-93-compatible-with-iphone-se6s5ipad-and-ipod-models/"><u>Guide for iOS Device Users Wanting To Return To Previous OS, Switching From iOS 10 Back to iOS 9.3 - Compatible with iPhone SE/6S/5/iPad and iPod Models.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-honor-x50-gt-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Honor X50 GT Without PUK Codes</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-honor-magic-5-pro-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-select-selections-ideal-pages-for-acquiring-snapalert-tunes/"><u>In 2024, Select Selections  Ideal Pages for Acquiring SnapAlert Tunes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ios-evolution-unveiled-key-differences-and-trade-offs-between-ios-16-and-the-new-ios-nvme-17-features/"><u>IOS Evolution Unveiled: Key Differences and Trade-Offs Between iOS 16 and the New iOS Nvme 17 Features</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/iphone-15-release-headless-and-charmless-is-it-still-a-worthwhile-upgrade/"><u>IPhone 15 Release - Headless and Charmless: Is It Still a Worthwhile Upgrade?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/is-netflix-not-working-properly-uncover-the-causes-and-quick-fixes/"><u>Is Netflix Not Working Properly? Uncover the Causes and Quick Fixes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimized-list-of-top-free-audio-editors-and-converters-for-media-enthusiasts/"><u>Optimized List of Top Free Audio Editors & Converters for Media Enthusiasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/reorient-your-gopro-captures-tutorial-for-inverting-and-rotating-videos-by-quarter-turns/"><u>Reorient Your GoPro Captures: Tutorial for Inverting and Rotating Videos by Quarter Turns</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/solving-iphone-video-playback-issues-top-fixes-for-iphone-11-video-troubleshooting/"><u>Solving iPhone Video Playback Issues: Top Fixes for iPhone 11 Video Troubleshooting</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-transforming-mp4-files-into-avi-format-using-handbrake/"><u>Step-by-Step Guide: Transforming MP4 Files Into AVI Format Using HandBrake</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-vivo-y100-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Vivo Y100 FRP</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-dichotomy-of-ai-titans-vs-tamer-machines/"><u>The Dichotomy of AI: Titans Vs. Tamer Machines</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-selection-of-must-have-and-highly-rated-apps-for-your-apple-watch-device/"><u>The Ultimate Selection of Must-Have and Highly Rated Apps for Your Apple Watch Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-wayback-machine-walkthrough-how-to-access-and-use-online-archives-efficiently/"><u>The Wayback Machine Walkthrough: How to Access and Use Online Archives Efficiently</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-iphone-14-plus-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On iPhone 14 Plus</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-ranked-video-bit-rate-changer-quickly-and-simplify-your-mp4-mp3-and-more/"><u>Top-Ranked Video Bit Rate Changer: Quickly & Simplify Your MP4, MP3, & More</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlock-more-powerful-features-with-these-superior-youtube-downloaders-orbit-downloaders-alternatives/"><u>Unlock More Powerful Features with These Superior YouTube Downloaders (Orbit Downloader's Alternatives)</u></a></li>
+<li><a href="https://techidaily.com/will-mov-files-play-on-p60-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on P60 ?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/windowsdvd/"><u>WindowsでDVDコピー保護を回避する方法：手順ガイド</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Review: Compelling Design Meets Imperfect Software"
-date: 2024-08-26 12:56:43
-updated: 2024-08-29 10:32:53
+date: 2024-08-31T08:51:12.075Z
+updated: 2024-09-01T08:51:12.075Z
 tags:
   - product-reviews
 categories:
@@ -98,6 +98,9 @@ Andrew Heinzman / How-To Geek
 
  The only concern I have in terms of hardware is power consumption. Ugreen says that the DXP2800 will fluctuate between 50 and 70 watts depending on its power state, which seems a bit excessive for a two-bay NAS device. I'd love to know if power consumption can be better optimized in software in the future. Also, while this has nothing to do with the amount of power the DXP2800 uses, I was surprised to see that this NAS runs on a third-party 9v power supply. I'm using a pre-release unit that was (presumably) used for testing or press events, so maybe it's just a pre-release quirk.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Easy To Upgrade
 
  Out of the box, the NASync DXP2800 has 8GB of built-in DDR4 memory, which may prove to be a limitation for some users. Thankfully, you can upgrade to 16GB of RAM, and the upgrade process is outrageously easy.
@@ -112,6 +115,9 @@ Close
 
  However, the NASync DXP2800 offers no form of PCIe upgradeability. If you were hoping to upgrade from 2.5 GbE to a 10 Gig connection, tough luck.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  An Operating System in Its Infancy
 
  The Debian-based Ugreen operating system, called UGOS, needs a lot of work. It currently lacks third-party app support, meaning that you can't run [Docker](https://instagram-clips.techidaily.com/2024-approved-the-quick-guide-to-disconnect-on-ig/), [Plex Media Server](https://screen-recording.techidaily.com/new-the-insiders-guide-to-flawless-game-recordings-on-playstation-4-for-2024/), or other home server applications. UGOS also lacks any [hybrid RAID](https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-oneplus-ace-2-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/) options, it doesn't support cloud storage backups (to Dropbox, Google Drive, etc), and it doesn't provide 2FA protection when remote access is enabled.
@@ -130,10 +136,16 @@ Close
 
  Flashing an alternate OS will have no impact on the NASync hardware warranty. This has been confirmed to me by Ugreen, though it's also mentioned in the NASync Kickstarter listing. However, the company suggests that people stick with UGOS. I have intentionally refrained from using Unraid or TrueNAS during my review process, but I will begin testing alternate operating systems after this review is published.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ##  Security Concerns
 
 ![UG8 locking hard drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/ug8-locking-hard-drive.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Andrew Heinzman / How-To Geek
 
  I first encountered Ugreen's NASync lineup at [CES 2024](https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-gt-3withwithout-a-pc-by-drfone-android/). And, like many other attendees, I was impressed to learn that a company known for phone and laptop accessories could make such a compelling shift into the NAS market.
@@ -146,6 +158,9 @@ Andrew Heinzman / How-To Geek
 
  If security experts vouch for UGOS, or if the UGOS operating system goes a few years without any security incidents, I'll adjust my opinion. For now, I'm erring on the side of caution and gut feeling.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the Ugreen NASync DXP2800?
 
 ![The UGREEN NASYNC DXP2800 with a drive bay removed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/ug14.jpg) 
@@ -158,6 +173,9 @@ Andrew Heinzman / How-To Geek
 
 ![UGREEN NASync DSP2800 thumbnail](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-02-at-5-04-52-pm.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Ugreen NASync DXP2800
 
 6/ 10 
@@ -180,3 +198,45 @@ This cutting-edge network-attached storage device transforms how you store and a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-pro-gamers-and-casters-to-subscribe-now/"><u>[New] 2024 Approved  Pro Gamers & Casters to Subscribe Now!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-real-time-recording-for-gamers-explained/"><u>[New] 2024 Approved  Real-Time Recording for Gamers Explained</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-streamlining-social-media-multiplying-instagram-posts-via-photos-and-videos/"><u>[New] Streamlining Social Media  Multiplying Instagram Posts via Photos & Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-perfecting-iphoneipad-screenshots-a-youtube-guide/"><u>[Updated] Perfecting iPhone/iPad Screenshots  A YouTube Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tips-for-safeguarding-your-youtube-presence/"><u>[Updated] Tips for Safeguarding Your YouTube Presence</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-elevate-your-sims-gaming-with-recording-expertise/"><u>2024 Approved  Elevate Your Sims Gaming with Recording Expertise</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-premier-collectors-list-top-shorts-for-free-online/"><u>2024 Approved  Premier Collector's List  Top Shorts for FREE Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/achetez-maintenant-la-version-pro-du-convertisseur-video-mac-x-en-ligne-pour-une-experience-optimisee/"><u>Achetez Maintenant La Version Pro Du Convertisseur Vidéo Mac X en Ligne Pour Une Expérience Optimisée</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/die-besten-kostenlosen-dvd-extraktionswerkzeuge-fur-deutschland-hochwertige-freeware-zum-filmpacken/"><u>Die Besten Kostenlosen DVD Extraktionswerkzeuge Für Deutschland - Hochwertige Freeware Zum Filmpacken</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-the-hidden-gems-among-dvd-rental-websites-are-you-one-of-the-few/"><u>Discover the Hidden Gems Among DVD Rental Websites - Are You One of the Few?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/downloadable-software-for-mac-users-rip-dvd-content-seamlessly-onto-ios-phones-like-iphone-xsxrx8/"><u>Downloadable Software for Mac Users: Rip DVD Content Seamlessly Onto iOS Phones Like iPhone XS/XR/X/8</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-realme-gt-3-device-sim-by-drfone-android/"><u>Easily Unlock Your Realme GT 3 Device SIM</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effortless-movies-anywhere-how-to-brennen-hd-dvd-iso-files-from-a-pc-or-mac-onto-a-usb-flash-drive-compatible-with-ipad-and-laptop/"><u>Effortless Movies Anywhere - How to Brennen HD DVD ISO Files From a PC or Mac Onto a USB Flash Drive, Compatible with iPad & Laptop</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/experience-unmatched-speed-and-performance-macxs-latest-release-video-converter-pro-59-boosts-multimedia-tasks-using-cutting-edge-hardware-tech/"><u>Experience Unmatched Speed and Performance: MacX's Latest Release, Video Converter Pro 5.9, Boosts Multimedia Tasks Using Cutting-Edge Hardware Tech.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-downloads-of-kid-friendly-instructional-videos-your-essential-resource/"><u>Free Downloads of Kid-Friendly Instructional Videos – Your Essential Resource</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/high-definition-video-capturing-on-mac-with-4k-60fps30fps-screen-recorder/"><u>High-Definition Video Capturing on Mac with 4K 60Fps/30fps Screen Recorder</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-fix-quicktime-issues-with-avi-files-step-by-step-guide/"><u>How to Fix QuickTime Issues with AVI Files: Step-by-Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-transfer-ultra-hd-videos-to-your-ios-device-without-losing-quality/"><u>How to Transfer Ultra HD Videos to Your iOS Device Without Losing Quality</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Motorola Razr 40? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-c53-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-htc-u23-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your HTC U23 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-slow-motion-footage-gopro-hero-10-tips/"><u>In 2024, Mastering Slow-Motion Footage  GoPro Hero 10 Tips</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-review-assessing-the-dual-efficiency-of-netgears-cable-modem-and-wireless-router-c3700/"><u>In-Depth Review: Assessing the Dual Efficiency of Netgear's Cable Modem and Wireless Router (C3700)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macmp4mkvm2ts/"><u>Mac上的無限影片下載：免費轉換MP4、MKV、M2TS和更多格式</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/maximizing-success-essential-strategies-for-organizing-large-scale-events/"><u>Maximizing Success: Essential Strategies for Organizing Large-Scale Events</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mp3and/"><u>MP3変換&保存できず、クリップボックスの詳細解明：究極の回避方法</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-what-you-can-do-roles-of-every-crew-member-in-filming-for-2024/"><u>New What You Can Do Roles of Every Crew Member in Filming for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-corsair-hs7-cufflinks-a-comprehensive-guide-to-fix-a-broken-mic/"><u>Overcoming Corsair HS7 Cufflinks: A Comprehensive Guide to Fix a Broken Mic</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/preserving-image-integrity-while-downsizing-how-to-transform-your-1080p-videos-into-nhd-resolution-without-losing-quality/"><u>Preserving Image Integrity While Downsizing: How To Transform Your 1080P Videos Into nHD Resolution Without Losing Quality</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-samsung-galaxy-m14-4g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Samsung Galaxy M14 4G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-sync-with-print-devices/"><u>Restoring Sync with Print Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-the-autonomous-smartdesk-a-balancing-act-between-ease-of-assembly-and-functionality/"><u>Review of the Autonomous SmartDesk: A Balancing Act Between Ease of Assembly and Functionality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/specialized-digital-solutions-by-digiarty-for-seamless-dvd-and-video-format-transformation/"><u>Specialized Digital Solutions by Digiarty for Seamless DVD & Video Format Transformation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-tutorial-how-to-save-flash-content-in-macos-systems/"><u>Step-by-Step Tutorial: How to Save Flash Content in macOS Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/techniques-expertises-pour-une-prise-de-visionnage-optimale-sur-les-mac/"><u>Techniques Expertises Pour Une Prise De Visionnage Optimale Sur Les Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/troubleshooting-your-malfunctioning-mac-dvd-drive-easy-fixes-for-optimal-functionality/"><u>Troubleshooting Your Malfunctioning Mac DVD Drive - Easy Fixes for Optimal Functionality</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-stuttering-in-half-life-alyx-boost-your-gaming-pcs-performance-now/"><u>Ultimate Fixes for Stuttering in Half-Life: Alyx - Boost Your Gaming PC's Performance Now</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-tutorial-seamlessly-move-pictures-from-your-iphone-to-macbook-using-these-simple-techniques/"><u>Ultimate Tutorial: Seamlessly Move Pictures From Your iPhone to Macbook Using These Simple Techniques</u></a></li>
+</ul></div>

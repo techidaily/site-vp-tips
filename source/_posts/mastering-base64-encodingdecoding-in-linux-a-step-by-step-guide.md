@@ -1,7 +1,7 @@
 ---
 title: "Mastering Base64 Encoding/Decoding in Linux: A Step-by-Step Guide"
-date: 2024-08-26 23:49:49
-updated: 2024-08-29 11:37:53
+date: 2024-08-31T08:54:35.337Z
+updated: 2024-09-01T08:54:35.337Z
 tags:
   - desktop
 categories:
@@ -61,6 +61,9 @@ base64 base.txt
 
 ![The Linux terminal displaying the process of encoding a file to base64 using the base64 command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Remember to replace base.txt with your file name. The above command only displays the output in the terminal. It doesn't save the encoded string anywhere. However, you can easily do that by redirecting the output to a new file. I've created another file called output.txt. This time I'll save the output to that empty file. Here's the command for that:
 
 base64 base.txt > output.txt
@@ -69,6 +72,10 @@ base64 base.txt > output.txt
 
  As you can see, the terminal didn't display the output. This command saved it to another file instead.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ##  Decoding a base64 String Using the base64 Command
 
  For decoding a base64 string and turning it into a regular string, you'll need to use the "-d" flag with the base64 command. Let's see a demonstration using the echo command.
@@ -83,6 +90,9 @@ base64 -d <<< SG93VG9HZWVrCg==
 
 ![The Linux terminal displaying the process of decoding a base64 string using the base64 command with the help of here-strings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Sometimes, there might be non-alphanumeric characters in a string. You can ignore those while decoding the string by using the "-i" option.
 
 ##  Using Python to Encode and Decode a base64 String
@@ -95,12 +105,23 @@ echo 'I love Linux' | python3 -m base64 # Using the echo commandpython3 -m base6
 
 ![The Linux terminal displays the process of encoding a string to base64 using Python language](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
  To decode a base64 string, all you need to do is use the "-d" flag as seen previously with the base64 command. The syntax is below:
 
 echo 'SSBsb3ZlIExpbnV4Cg==' | python3 -m base64 -d # Using the echo command​​​​​​python3 -m base64 -d <<< 'SSBsb3ZlIExpbnV4Cg==' # Using here-strings
 
 ![The Linux terminal showing the process of decoding a base64 string using the Python language](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  Of course, the convenient way is to create a Python program that can handle the encoding and decoding by taking user input. First, let's create a program that will encode a string. Here's the encoding code:
 
         `import base64  
@@ -108,6 +129,9 @@ echo 'SSBsb3ZlIExpbnV4Cg==' | python3 -m base64 -d # Using the echo command​�
 input_string = input("Enter the string to encode: ")  
 ## Encode the string using base64  
 encoded_string = base64.b64encode(input_string.encode('utf-8'))  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Decode the encoded string to ensure it's correct (optional)  
 decoded_string = base64.b64decode(encoded_string).decode('utf-8')  
 ## Print the encoded and decoded strings  
@@ -121,6 +145,9 @@ python3 base64_encoder.py
 
 ![The Linux terminal showcasing the process of encoding a string using a Python program](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
  You can also create a program to decode a base64 string. Here's a code snippet you can use:
 
         `import base64  
@@ -140,6 +167,9 @@ python3 base64_decoder.py
 
 ![The Linux terminal displaying the process of decoding a base64 string using a Python program](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  Now you can use these Python programs to encode and decode any strings.
 
 ---
@@ -160,3 +190,50 @@ python3 base64_decoder.py
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-dividing-top-4k-captures-best-gimbal-pairings/"><u>[New] Dividing Top 4K Captures  Best Gimbal Pairings</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-inside-track-to-superior-srt-upgrades/"><u>[New] In 2024, Inside Track to Superior SRT Upgrades</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-insta-film-conversion-blueprints-to-mp3-formats/"><u>[New] Insta Film Conversion Blueprints to MP3 Formats</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-task-mastery-top-picks-for-efficient-calendar-management-in-fb/"><u>[New] Task Mastery  Top Picks for Efficient Calendar Management in FB</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-ez-grabber-a-comprehensive-guide/"><u>[Updated] In 2024, Mastering EZ Grabber  A Comprehensive Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-visual-data-harvester/"><u>[Updated] Visual Data Harvester</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2022-guide-exceeding-whatsapps-video-size-restrictions-with-ease-and-securely-sharing-large-files/"><u>2022 Guide: Exceeding WhatsApp's Video Size Restrictions with Ease and Securely Sharing Large Files</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-infusing-humor-into-your-social-media-posts/"><u>2024 Approved  Infusing Humor Into Your Social Media Posts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/accelerate-video-processing-with-hevc-hardware-encoding-the-key-to-lightning-fast-speeds/"><u>Accelerate Video Processing with HEVC Hardware Encoding: The Key to Lightning-Fast Speeds</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/appearance/"><u>Appearance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/avoid-redbox-hiccups-essential-tips-for-seamless-dvd-viewing-on-computers/"><u>Avoid RedBox Hiccups: Essential Tips for Seamless DVD Viewing on Computers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/buy-macx-gear-from-our-online-store-the-ultimate-destination-for-all-your-macx-needs/"><u>Buy MacX Gear From Our Online Store – The Ultimate Destination for All Your MacX Needs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparing-iphones-to-androids-which-device-fits-your-lifestyle/"><u>Comparing iPhones to Androids: Which Device Fits Your Lifestyle?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/compatible-video-and-audio-formats-on-apple-tv-streaming-devices/"><u>Compatible Video & Audio Formats on Apple TV Streaming Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cross-platform-data-exchange-with-iphone-ipad-mac-and-pc/"><u>Cross-Platform Data Exchange with iPhone, iPad, Mac, and PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/digiarty-technical-assistance-einvernehmliche-losungen-durch-kontinuierliches-kundenfeedback-gewahrleistet/"><u>Digiarty Technical Assistance: Einvernehmliche Lösungen Durch Kontinuierliches Kundenfeedback Gewährleistet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-free-ultra-hd-8k-video-players-compatible-with-ios-android-and-pc/"><u>Download Free Ultra HD 8K Video Players - Compatible with iOS, Android & PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-now-the-speedier-way-to-transfer-dvd-content-to-quicktime-on-your-mac-for-free/"><u>Download Now: The Speedier Way to Transfer DVD Content to QuickTime on Your Mac for Free!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/efficiently-storing-instagram-reels-two-simplified-techniques-for-2024/"><u>Efficiently Storing Instagram Reels  Two Simplified Techniques for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effortless-mp3-downloader-with-one-click-youtube-converter/"><u>Effortless MP3 Downloader with One-Click YouTube Converter</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/fastest-free-video-converter-top-ranking-tools-for-quick-avi-file-transformation/"><u>Fastest Free Video Converter: Top Ranking Tools for Quick AVI File Transformation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-mac-app-for-securely-converting-dvds-to-ipod-friendly-formats-with-macx/"><u>Free Mac App for Securely Converting DVDs to iPod-Friendly Formats with MacX</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guide-effortless-steps-to-stream-or-rip-your-dvds-on-chromecast-via-pc/"><u>Guide: Effortless Steps to Stream or Rip Your DVDs on Chromecast via PC</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/handy-brake/"><u>HANDY Brake 最新リリース: 迅速かつ安全なダウンロードと設定手順をご案内!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-iphone-7-plus-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On iPhone 7 Plus Online</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-x8b-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor X8b Phones with/without a PC</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-transform-your-fb-videos-into-1080p720p-mp4-seamlessly-for-free/"><u>In 2024, Transform Your FB Videos Into 1080P/720p MP4 Seamlessly, For Free</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mactop5/"><u>Macで音楽ダウンロードする簡単なTOP5手順 - 評判の良さとゼロコスト</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximizing-your-creations-uploading-imovie-videos-to-youtube-for-2024/"><u>Maximizing Your Creations  Uploading IMovie Videos to YouTube for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/optimal-sustainable-screen-capture-tools-usage-strategies-for-2024/"><u>Optimal Sustainable Screen Capture Tools  Usage Strategies for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/solving-the-mystery-of-error-code-0xe8000065-in-itunes-during-iphone-sync/"><u>Solving the Mystery of Error Code 0xE8000065 in iTunes During iPhone Sync</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/struggling-with-whatsapp-status-video-downloads-easy-solutions-inside/"><u>Struggling with WhatsApp Status Video Downloads? Easy Solutions Inside!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-ranked-warner-bros-film-classics-and-exciting-2amo-releases/"><u>Top-Ranked Warner Bros. Film Classics & Exciting 2Amo Releases</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-rated-mac-webm-to-video-format-converters-swiftly-transform-webm-into-mp4-avi-and-mov/"><u>Top-Rated Mac WebM to Video Format Converters: Swiftly Transform WebM Into MP4, AVI & MOV</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/troubleshooting-resolving-persistent-reboots-on-your-iphone-post-ios-17-upgrade/"><u>Troubleshooting: Resolving Persistent Reboots on Your iPhone Post-iOS 17 Upgrade</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-realme-narzo-60-pro-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Realme Narzo 60 Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-on-creating-picture-rich-dvds-with-idvd/"><u>Ultimate Guide on Creating Picture-Rich DVDs with iDVD</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-14-leading-software-options-for-downloading-music-from-youtube-as-high-quality-mp3s/"><u>Ultimate Guide: 14 Leading Software Options for Downloading Music From YouTube as High-Quality MP3s</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimatives-benutzer-gebrauchsanweisung-fur-macx-dvd-ripper-pro-unter-windows-transkodieren-von-dvds-zu-mp4-avi-and-flv-fur-pc-und-mobile-gerate/"><u>Ultimatives Benutzer-Gebrauchsanweisung Für MacX DVD Ripper Pro Unter Windows – Transkodieren Von DVDs Zu MP4, AVI & FLV Für PC Und Mobile Geräte</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlock-full-access-2022-serial-numbers-for-macx-hd-video-encoder-professional-edition/"><u>Unlock Full Access: 2022 Serial Numbers for MacX HD Video Encoder Professional Edition</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-hello-isnt-available-on-this-device-on-windows-10-solved/"><u>Windows Hello Isn’t Available on This Device on Windows 10 [Solved]</u></a></li>
+</ul></div>

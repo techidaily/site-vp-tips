@@ -1,7 +1,7 @@
 ---
 title: "OnePlus 12R Evaluation: Back with a Vengeance as the Unbeatable Contender"
-date: 2024-08-28 20:29:46
-updated: 2024-08-29 10:26:57
+date: 2024-08-31T08:52:03.324Z
+updated: 2024-09-01T08:52:03.324Z
 tags:
   - product-reviews
 categories:
@@ -119,10 +119,16 @@ Close
 
  Most importantly, the OnePlus 12R does not feel like the “budget” option in the OnePlus 12 family. It’s $300 cheaper than the standard OnePlus 12, but I would not have guessed that based on the feel of the phone. When I’m holding the 12R, it feels weighty, solid, and premium. That’s not always the case with budget devices.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  OnePlus 12R Display: Big, Bright, and Beautiful
 
 ![The lockscreen of the OnePlus 12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/person-holding-the-oneplus-12r-on-its-homescreenjpg_53485137588_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  OnePlus has generally equipped its flagship phones with great displays ([though I can’t say the same for the Nord series](https://video-screen-grab.techidaily.com/new-step-into-professionalism-aiseesofts-screen-recording-made-accessible-for-2024/)), and the 12R is no exception. The phone has a 6.78-inch LTPO4.0 AMOLED panel that boasts a resolution of 2, 780 x 1,264, a dynamic refresh rate of 1-120Hz, and a peak brightness of 4500 nits. It also has ProXDR display technology that enhances the contrast, color, and clarity of the screen.
@@ -137,10 +143,16 @@ Sergio Rodriguez / How-To Geek
 
  In terms of durability, the display is protected by Gorilla Glass Victus 2, which is the toughest glass ever made by Corning. The display is curved along the edges, and a lot of people complain about that, but it’s not something that has ever bothered me. The screen also has an in-display fingerprint sensor that I found to be fast and accurate and a centered punch-hole selfie camera that is barely noticeable.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  OnePlus 12R Software: Steady as She Goes
 
 ![The quick settings menu of the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-pull-down-settings-menu-on-the-oneplus-12rjpg_53485136928_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  The OnePlus 12R ships with OxygenOS 14, the latest version of the Android 14-based skin. This is the same software that was launched with the OnePlus Open. It brings some subtle but welcome changes to the interface, performance, and features.
@@ -153,6 +165,9 @@ Close
 
  Software support is another big thing to mention. OnePlus promises only three years of OS upgrades and four years of security patches. That's far behind what [Samsung and Google are offering these days](https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-iphone-se-2022windowsmac-by-drfone-ios/). OxygenOS is a perfectly fine UI, but it might not be the best if you plan to use the 12R for many years down the road.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  OnePlus 12R Performance & Battery: The Main Event
 
 ![Box with included accessories for the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/box-with-included-accessories-for-the-oneplus12rjpg_53484088717_o.jpg) 
@@ -165,6 +180,13 @@ Jerome Thomas / How-To Geek
 
 ![Close up of the OnePlus12R front camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/oneplus12r.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  On the battery front, OnePlus has put its biggest battery yet in the 12R. It packs a 5,500mAh battery along with 80W SUPERVOOC charging. Honestly, I’ve never had a bad experience with battery life on OnePlus devices, and the 12R is no exception. In the past, I've said phones could last multiple days if you adjust your usage, but you truly can make the 12R last multiple days just by using it normally (assuming you aren't gaming and watching videos all day).
@@ -211,6 +233,9 @@ Jerome Thomas / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 #####  OnePlus 12R
 
 8/ 10 
@@ -233,3 +258,47 @@ The OnePlus 12R is a budget-friendly smartphone that offers a lot of power and f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/macdvdand-dvd/"><u>[公式] 一覧 - Mac専用DVDコピー&リッピングソフトウェア - DVD作成・動画編集・ファイル管理ツール</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-bend-the-light-homegrown-animated-innovations/"><u>[New] In 2024, Bend the Light  Homegrown Animated Innovations</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-best-budget-game-recording-software-for-gamers/"><u>[New] In 2024, The Best Budget Game Recording Software for Gamers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-secret-sauce-to-outstanding-online-identity-creation/"><u>[New] The Secret Sauce to Outstanding Online Identity Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-kids-friendly-drones-for-new-flyers/"><u>[New] Top 10 Kids' Friendly Drones - For New Flyers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-core-components-for-transformative-facebook-advertisements/"><u>[Updated] Core Components for Transformative Facebook Advertisements</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-win11s-premier-selection-of-videography-software/"><u>[Updated] In 2024, Win11's Premier Selection of Videography Software</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-precise-process-installing-snapchat-on-a-mac-os-for-2024/"><u>[Updated] Precise Process  Installing Snapchat on a Mac OS for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-7-voice-changer-recorder-apps/"><u>[Updated] Top 7 Voice Changer Recorder Apps</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1724766284588-mac/"><u>限定無料 Mac 使いやすい最新アプリで大人気ソフトウェア獲得 - クリスマス特別キャンペーン!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ace-the-collection-most-acclaimed-disney-pixar-features-ever-made-secrets-to-successful-streaming-and-download/"><u>Ace the Collection: Most Acclaimed Disney Pixar Features Ever Made - Secrets to Successful Streaming and Download</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-free-high-definition-movies-downloads-top-15-1080p-and-720p-mp4-websites/"><u>Best FREE High-Definition Movies Downloads: Top 15 1080P & 720P MP4 Websites</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-handbrake-substitutes-on-macos-top-picks/"><u>Best Handbrake Substitutes on MacOS: Top Picks</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-iphone-11ipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on iPhone 11/iPad/iPod</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/buy-macx-pro-top-tier-professional-video-editor-for-quick-seamless-file-conversions/"><u>Buy MacX Pro - Top-Tier Professional Video Editor for Quick, Seamless File Conversions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-and-convert-dvds-on-macos-without-cost-using-macx-dvd-ripper-free-version/"><u>Download & Convert DVDs on macOS Without Cost - Using MacX DVD Ripper (Free Version)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1724765969005-dvd-decrypter/"><u>DVD Decrypter日本語フリューゲルダウンロード・トラブルシューティング</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dvdiphone-ipad-apple-tv-mac-dvd-ripper/"><u>DVDをiPhone, iPad, Apple TVに転送する Macユーザー向けシンプル方法 - DVD Ripperツール</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-v30-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from V30</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-steps-to-trim-videos-on-your-mac-and-remove-excess-footage/"><u>Easy Steps to Trim Videos on Your Mac and Remove Excess Footage</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/esegui-lacquisto-di-macx-video-converter-pro-per-un-editing-facile-e-senza-problemi/"><u>Esegui L'acquisto Di MacX Video Converter Pro per Un Editing Facile E Senza Problemi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/excellent-idevice-file-organizing-apps-more-than-just-mail-and-photos/"><u>Excellent iDevice File Organizing Apps: More Than Just Mail and Photos!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/exploring-the-mystery-of-the-blue-video-symbol-on-fb-messages/"><u>Exploring the Mystery of the Blue Video Symbol on FB Messages</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-downloads-gigabyte-gc-wb867d-i-graphic-adapter-drivers-available-now/"><u>Free Downloads: Gigabyte GC-WB^867D-I Graphic Adapter Drivers Available Now</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-extract-and-delete-both-hard-coded-and-soft-subtitles-in-mp4-videos/"><u>How To Extract And Delete Both Hard-Coded & Soft Subtitles in MP4 Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-samsung-galaxy-s24plus-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Samsung Galaxy S24+? Fixed | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-uncharted-territory-6-secrets-to-documenting-your-minecraft-journey/"><u>In 2024, Uncharted Territory  6 Secrets to Documenting Your Minecraft Journey</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/introducing-macx-mediatrans-the-premier-solution-for-managing-your-iphone-and-transforming-heic-images-into-jpg-format/"><u>Introducing MacX MediaTrans: The Premier Solution for Managing Your iPhone and Transforming HEIC Images Into JPG Format</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/leading-tools-for-transforming-iso-media-how-to-convert-to-avi-mp4-and-mkv-with-precision/"><u>Leading Tools for Transforming ISO Media - How to Convert to AVI, MP4 & MKV with Precision</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macx-video-converter-pro-masterclass-effortless-video-downloads-and-conversion-techniques-exclusive-for-mac-enthusiasts/"><u>MacX Video Converter Pro Masterclass: Effortless Video Downloads & Conversion Techniques Exclusive for Mac Enthusiasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-to-flawlessly-duplicating-your-disney-movies-from-a-need-for-speed-disc-on-macos-retaining-perfect-sound-and-picture-integrity/"><u>Step-by-Step Guide to Flawlessly Duplicating Your Disney Movies From a Need for Speed Disc on macOS, Retaining Perfect Sound & Picture Integrity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-converting-dvd-show-episodes-into-multiple-file-formats-like-mp4-avi-and-mkv/"><u>Step-by-Step Guide: Converting DVD Show Episodes Into Multiple File Formats Like MP4, AVI & MKV</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-transforming-mp4-files-into-avi-format-using-handbrake/"><u>Step-by-Step Guide: Transforming MP4 Files Into AVI Format Using HandBrake</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-tecno-phantom-v-flip-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Tecno Phantom V Flip ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-rated-free-movies-applications-for-ipad-pro-ultimate-downloads-guide/"><u>Top Rated Free Movies Applications for iPad Pro: Ultimate Downloads Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-rated-external-hardware-solutions-for-seamless-iphone-data-movement/"><u>Top-Rated External Hardware Solutions for Seamless iPhone Data Movement</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unforgettable-holiday-treats-the-ultimate-selection-of-5-amazing-gifts-for-the-whole-family-this-christmas-season/"><u>Unforgettable Holiday Treats: The Ultimate Selection of 5 Amazing Gifts for the Whole Family This Christmas Season</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-prioritizing-your-online-privacy-is-vital-in-todays-digital-age-facebooks-take/"><u>Why Prioritizing Your Online Privacy Is Vital in Today’s Digital Age - Facebook's Take</u></a></li>
+</ul></div>

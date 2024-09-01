@@ -1,7 +1,7 @@
 ---
 title: "Ingenious Extension Board Critique: The Ultimate Gadget Lover's Intelligent House Hub"
-date: 2024-08-26 15:29:47
-updated: 2024-08-29 10:56:57
+date: 2024-08-31T08:51:03.850Z
+updated: 2024-09-01T08:51:03.850Z
 tags:
   - product-reviews
 categories:
@@ -76,10 +76,16 @@ Tyler Hayes / How-To Geek
 
  Beyond the motion sensor, there's also a camera integrated into the unit above the touch strips. It's intended to be used from one control panel to another and is a compelling reason to get more than one. But I was able to test it from the Brilliant app. The video from the tiny camera was dark and grainy. It really needs a lot of light in the room. Talking from my phone to the Plug-In Panel was also delayed enough that it was annoying to use.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Plenty of Products Connect, But Not Everything Is Covered
 
 ![close view of the Brilliant Plug-In Panel installed on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/close-view-of-the-brilliant-plug-in-panel-installed-on-a-wall.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  It might not be immediately clear to everyone, but Brilliant is playing the intermediary here, working with dozens of companies, and harnessing their APIs to get as many smart home devices as possible integrated into their system. You’ll need to jump out to different company sites and sign in to authorize access, but otherwise, the process is seamless and fairly invisible.
@@ -94,6 +100,9 @@ Tyler Hayes / How-To Geek
 
  This often made me question why I was trying to juggle the mental load of remembering what was connected where instead of just pulling out my phone for everything and tapping on the folder with all my smart home apps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Access to Sonos and Other Smart Home Products Is a Mixed Bag
 
 Close 
@@ -104,6 +113,9 @@ Close
 
  This makes the Plug-In Panel great for controlling music that’s already playing, but not particularly good for putting on music the first time—another instance of needing to go to a smartphone app.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Some Things to Consider
 
  Even though the Plug-In Panel is easy to power up, its wire length is a little awkward. It’s much too long to install right above a wall outlet that’s out in the open. The best bet is to try and mount the panel above a piece of furniture so that the wiring can be zip-tied and hidden behind it. I tried to hide my wire behind a plant.
@@ -122,6 +134,9 @@ Close
 
  The part I really struggle with is introducing another middleman into the fickle smart home. Brilliant has proven to me over several weeks that it’s mostly up to the task of wrangling a host of connected devices. (Though my Nest doorbell was constantly laggy.) And still, those connected devices have a mind of their own and operate irrationally, which means there is yet another thing to troubleshoot in the chain of whether something works or not.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Brilliant App Is Stuffed But Manageable
 
 Close 
@@ -148,6 +163,9 @@ Tyler Hayes / How-To Geek
 
 ![Brilliant Smart Home Control Panel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/brilliant-smart-home-control-panel.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 #####  Brilliant Plug-In Panel
 
 7/ 10 
@@ -188,3 +206,63 @@ This Brilliant Plug-in Panel flush mounts to any wall and plugs into any outlet.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-how-to-take-screenshots-on-xbox-one/"><u>[New] 2024 Approved  How to Take Screenshots on Xbox One</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-digging-deep-into-facebooks-short-video-shift-the-2023-scenario/"><u>[New] Digging Deep Into Facebook's Short Video Shift  The 2023 Scenario</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-viral-visionaries-most-watched-clips-2023/"><u>[New] In 2024, Viral Visionaries  Most Watched Clips 2023</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-mastering-quick-mac-screen-capture-with-deft-shortcuts-for-2024/"><u>[New] Mastering Quick Mac Screen Capture with Deft Shortcuts for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-top-10-ubuntu-screen-recorders-for-2024/"><u>[New] Top 10 Ubuntu Screen Recorders for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-a-cool-youtube-video-intro-in-imovie-step-by-step/"><u>[Updated] In 2024, How to Make a Cool YouTube Video Intro in iMovie (Step-by-Step)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-fast-and-easy-guide-transforming-your-quicktime-mov-files-into-compatible-wmv-format/"><u>1. 'Fast and Easy Guide: Transforming Your QuickTime MOV Files Into Compatible WMV Format'</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-selecting-video-editors-filmora-vs-democreator-compared/"><u>2024 Approved  Selecting Video Editors  Filmora Vs. Democreator Compared</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-list-premium-voice-modifiers-for-virtual-creators/"><u>2024 Approved  Ultimate List  Premium Voice Modifiers for Virtual Creators</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/windows-11-dvd/"><u>新登場! Windows 11 DVD書き込み解決法が今日発表 - 高い評価受けています</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/access-endless-films-on-the-go-with-the-movie-box-downloads-for-your-apple-devices/"><u>Access Endless Films on the Go with The Movie Box Downloads for Your Apple Devices!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/all-in-one-dvd-ripper-and-video-editor-convert-edit-and-burn-videos-with-ease/"><u>All-in-One DVD Ripper and Video Editor: Convert, Edit & Burn Videos with Ease</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/break-language-barriers-with-mondlys-freshest-phrasebook/"><u>Break Language Barriers with Mondly's Freshest Phrasebook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/celebrating-18-years-digiartys-exclusive-commemorative-project/"><u>Celebrating 18 Years: Digiarty's Exclusive Commemorative Project</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comparing-resolutions-a-deep-dive-into-2160p-versus-4k-ultra-high-definition-explained/"><u>Comparing Resolutions: A Deep Dive Into 2160P versus 4K Ultra High Definition Explained</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comparing-the-two-worlds-series-2-apple-watch-vs-swiss-timepieces-an-in-depth-analysis/"><u>Comparing the Two Worlds: Series 2 Apple Watch vs Swiss Timepieces – An In-Depth Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/creating-new-projects-n-indicates-a-new-line-for-readability/"><u>Creating New Projects (\\N Indicates a New Line for Readability)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-our-free-online-tool-for-converting-movies-mp4-and-mov-and-youtube-clips-into-mp3-format-at-no-charge/"><u>Download Our FREE Online Tool for Converting Movies (MP4 & MOV) and YouTube Clips Into MP3 Format at No Charge!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-the-best-free-m4v-video-player-codec-suite-enhance-your-streaming-experience/"><u>Download the Best FREE M4V Video Player Codec Suite - Enhance Your Streaming Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-guide-to-converting-youtube-videos-to-itunes-format-on-your-mac-works-with-macos-mojave/"><u>Easy Guide to Converting YouTube Videos to iTunes Format on Your Mac - Works with macOS Mojave</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-steps-to-erase-music-from-any-version-of-apples-ipod-series/"><u>Easy Steps to Erase Music From Any Version of Apple's iPod Series</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/entdecken-sie-die-top-4-methoden-zum-beziehen-von-dvds-auf-einem-mac-fur-macbook-pro-air-und-imac/"><u>Entdecken Sie Die Top-4 Methoden Zum Beziehen Von DVDs Auf Einem Mac - Für MacBook Pro, Air Und iMac</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-and-solutions-restoring-audio-in-cyberpunk-2077-on-windows-11/"><u>Fixes & Solutions: Restoring Audio in Cyberpunk 2077 on Windows 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-in-pc-building-intel-z270-killer-motherboard-for-gamers/"><u>Get the Latest in PC Building: Intel Z270 Killer Motherboard for Gamers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guide-for-converting-g2m2g2m4-video-files-from-gotomeeting-to-popular-codecs-such-as-mp4-and-mov/"><u>Guide for Converting G2M2/G2M4 Video Files From GoToMeeting to Popular Codecs Such as MP4 & MOV</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guide-to-converting-mp4-to-compatible-vob-format-for-dvd-viewing-on-macos-systems/"><u>Guide to Converting MP4 to Compatible VOB Format for DVD Viewing on macOS Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-convert-videos-from-43-to-169-for-perfect-widescreen-viewing/"><u>How to Convert Videos From 4:3 to 16:9 for Perfect Widescreen Viewing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-recover-your-data-after-the-ios-17-upgrade-immediate-solutions/"><u>How to Recover Your Data After the iOS 17 Upgrade: Immediate Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/imovie-basics-step-by-step-guide-to-video-editing-on-a-mac/"><u>IMovie Basics: Step-by-Step Guide to Video Editing on a Mac</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-apple-iphone-13-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing Apple iPhone 13 iCloud Activation Lock</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-motorola-moto-g34-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Motorola Moto G34 5G Phone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-v30-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo V30 Pro FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-vn-video-editor-review-the-good-the-bad-and-the-ugly/"><u>In 2024, VN Video Editor Review The Good, the Bad, and the Ugly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macdvd-and-macx/"><u>Mac向けDVD & ビデオ変換ツールセットで大幅値下げ:MacXパック - ダブル特典キャンペーン</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-seas-without-interruptions-five-quick-ways-to-stop-world-of-warships-from-crashing-on-your-computer/"><u>Master the Seas without Interruptions: Five Quick Ways to Stop World of Warships From Crashing on Your Computer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/maximize-your-ipads-potential-with-these-3-effective-strategies-to-reclaim-space/"><u>Maximize Your iPad's Potential with These 3 Effective Strategies to Reclaim Space</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-moto-g73-5g-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Motorola Moto G73 5G won’t play AVCHD .mts files</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/online-purchase-of-macx-mediatrans-at-a-reduced-price/"><u>Online Purchase of MacX MediaTrans at a Reduced Price</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a56s-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A56s 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/premier-media-players-for-windows-11-enjoy-seamless-4k5k1080p-hd-movie-and-music-experience/"><u>Premier Media Players for Windows 11 - Enjoy Seamless 4K/5K/1080p HD Movie & Music Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quick-time-converter-effortless-and-gratis-tool-to-transfer-dvds-onto-your-mac/"><u>Quick Time Converter: Effortless & Gratis Tool to Transfer DVDs Onto Your Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quick-tips-converting-your-videots-content-to-mp4-seamless-solutions-for-macos-and-windows/"><u>Quick Tips: Converting Your Video_TS Content to MP4 - Seamless Solutions for macOS and Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/resolving-slide-to-upgrade-issue-successfully-completing-ios-17-update/"><u>Resolving 'Slide to Upgrade' Issue: Successfully Completing iOS 17 Update</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/seamless-setup-get-popcorn-time-on-ios-devices-easily-no-jailbreak-needed/"><u>Seamless Setup: Get Popcorn Time on iOS Devices Easily, No Jailbreak Needed!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/seamlessly-move-apple-photos-a-comprehensive-list-of-10-techniques-for-iphone-to-mac-transfer/"><u>Seamlessly Move Apple Photos: A Comprehensive List of 10 Techniques for iPhone to Mac Transfer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-moving-your-tunes-from-mac-to-ipad-on-ios-17-no-itunes-needed/"><u>Step-by-Step Guide: Moving Your Tunes From Mac to iPad on iOS 17 - No iTunes Needed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/streaming-in-ultimate-clarity-a-guide-to-enjoying-netflix-4k-uhd-content/"><u>Streaming in Ultimate Clarity: A Guide to Enjoying Netflix 4K UHD Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-full-breakdown-of-toolwizs-image-processing-for-2024/"><u>The Full Breakdown of Toolwiz's Image Processing for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-showdown-exploring-the-distinctive-features-of-aac-vs-mp3-formats-for-high-quality-music-streaming/"><u>The Ultimate Showdown: Exploring the Distinctive Features of AAC Vs. MP3 Formats for High-Quality Music Streaming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-rated-mkv-to-mp4avimov-converters-for-mac-free-ultimate-guide-to-best-quality-file-format-transformation/"><u>Top-Rated MKV to MP4/AVI/MOV Converters for Mac: FREE Ultimate Guide to Best Quality File Format Transformation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transform-your-standard-dvds-into-high-definition-brilliance-learn-how-to-upscale-and-rip-in-hd/"><u>Transform Your Standard DVDs Into High Definition Brilliance: Learn How to Upscale and Rip in HD!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/troubleshoot-your-youtube-video-problems-with-quick-fixes-for-fullscreen-glitches-and-dark-background-issues/"><u>Troubleshoot Your YouTube Video Problems with Quick Fixes for Fullscreen Glitches and Dark Background Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-your-hyperx-cloud-alpha-microphone/"><u>Troubleshooting Guide: Resolving Issues with Your HyperX Cloud Alpha Microphone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-to-editing-4k-video-content-on-a-mac/"><u>Ultimate Guide to Editing 4K Video Content on a Mac</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-note-12-pro-4g-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Xiaomi Redmi Note 12 Pro 4G won’t play MP4 files</u></a></li>
+</ul></div>

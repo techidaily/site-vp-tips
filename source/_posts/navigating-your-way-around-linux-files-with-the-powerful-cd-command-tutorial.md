@@ -1,7 +1,7 @@
 ---
 title: Navigating Your Way Around Linux Files with the Powerful CD Command Tutorial
-date: 2024-08-28 21:58:24
-updated: 2024-08-29 11:55:55
+date: 2024-08-31T08:56:28.746Z
+updated: 2024-09-01T08:56:28.746Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Well, more than you'd think. Here are a few hints and tips that might improve your efficiency.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Standard cd Operations
 
  For the sake of being complete, let's quickly run through the standard uses of `cd`.
@@ -43,6 +46,9 @@ cd /home/dave
 
 ![cd /usr/lib/firefox/browser/ in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/04/1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
  You don't have to type the whole directory path; you can use auto-complete. For each part of a path, after you type enough letters to distinguish the name of the directory from the others, press Tab to auto-complete the directory name.
 
  For example, type the following on the command line:
@@ -59,6 +65,9 @@ cd /usr/lib/fire
 
 ![cd ~ in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/04/2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  These are examples of absolute paths, in which you provide the entire path from the root of the filesystem to the target directory, to `cd`.
 
  Relative paths are referenced from the current working directory. In the home directory, there's a directory called `work`. You can use the `tree` command to [see the directory tree](https://linux.die.net/man/1/tree) inside the `work` directory—just type the following:
@@ -67,6 +76,9 @@ tree
 
 ![tree command in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/04/3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The `work` directory contains a directory called `dev` . There's also a directory called `dev` in the root directory of the filesystem. You can [use ls](https://extra-tips.techidaily.com/in-2024-capturecraft-hd-top-10-freepaid-filters-list/) with `-d` (directory) to look at each of these. The `-hl` (human-readable, long listing) option tells `ls` to use easy to read units for the directory sizes, and the long format listing.
 
  If you type **`dev`**, the shell assumes you mean the "dev" in the current directory. To force it to look at the "dev" in the root directory, just add a leading forward slash to represent the root of the filesystem, as shown below:
@@ -89,6 +101,9 @@ cd dev/mobile/android
 
 ![cd dev/mobile/android in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/04/6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Changing the Directory with Double Dot
 
  The double dot identifier represents the parent directory of the current working one. If you're in a deeply nested subdirectory, you can use `..` with `cd` to move to the parent directory of the one you're in.
@@ -103,6 +118,10 @@ cd ../..
 
 ![cd .. in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/04/7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
  You can also create a set of aliases to perform these maneuvers for you, by typing the following:
 
 alias .2="cd ../.."
@@ -131,6 +150,14 @@ cd -`
     
 ![Running 'cd ../forth' followed by two 'cd -' commands.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/10-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
  The name of the directory you're moving to appears before you move into it.
 
 ##  Another Kind of Relative
@@ -161,6 +188,9 @@ cd forth
 
 ![Running a few different CD commands.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The `CDPATH` environment variable is truly a path, just like [the PATH environment variable](https://screen-sharing-recording.techidaily.com/2024-approved-best-tools-for-live-gameplay-screen-grabs/). When you type a command, the shell searches the locations in the `PATH` for a match. When you use `CDPATH`, the shell searches the locations in the `CDPATH` environment variable for a match. Also, the same as `PATH`, `CDPATH` can contain multiple locations.
 
  To have the shell search the current directory before other locations in the `CDPATH` environment variable, you just add a period (`.`) at the beginning of the path like so:
@@ -189,6 +219,9 @@ cd Desktpo
 
 ![Run 'shopt -s cdspell' to enable Shell spellchecker.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/13-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
  The shell caught the error, corrected it, and changed to the "Desktop" directory.
 
  Another `shopt` option you can use with `cd` is `autocd`. It eliminates the need for you to type `cd` at all. Anything you type that isn't a command, script, or other executable (such as an alias), is used as a target directory. If you can transfer to that directory, it's printed in the terminal window, and you're changed to that directory.
@@ -209,6 +242,9 @@ shopt -s autocd
 
  The settings you change with `shopt` only affect interactive shells, not scripts.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The cd Collection
 
  You probably won't adopt all of these. However, it's likely you found something of interest or benefit here. After all, anything that speeds up or simplifies your command-line navigation is all good!
@@ -233,3 +269,63 @@ shopt -s autocd
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-recapturing-moments-the-xiaomi-mi-11s-superior-screen-record/"><u>[New] 2024 Approved  Recapturing Moments  The Xiaomi Mi 11'S Superior Screen Record</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-retrospective-graphics-radeons-reprise/"><u>[New] 2024 Approved  Retrospective Graphics  Radeon's Reprise</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-elevating-your-instagram-presence-a-guide-to-smart-hashtag-use/"><u>[New] Elevating Your Instagram Presence  A Guide to Smart Hashtag Use</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-discover-the-best-photo-frame-software/"><u>[New] In 2024, Discover the Best Photo Frame Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-strategies-to-combat-freezing-in-high-quality-mode/"><u>[New] Strategies to Combat Freezing in High Quality Mode</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-streamlining-screen-record-on-mac-via-keyboard-shortcuts/"><u>[New] Streamlining Screen Record on Mac via Keyboard Shortcuts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-collect-premium-audio-for-video-editors/"><u>[Updated] In 2024, Collect Premium Audio for Video Editors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/15-must-watch-films-perfect-for-your-new-years-eve-celebration/"><u>15 Must-Watch Films Perfect for Your New Year's Eve Celebration</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/5-top-rangierte-4k-medienabspieler-fur-high-definition-videoinhalte/"><u>5 Top-Rangierte 4K Medienabspieler Für High-Definition-Videoinhalte</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/6zplusz6yep44k644os5zwp6agm6kej5rg677yb57ch5y2y44gr5lplusu5q2j44gn44gn44kl5pa55rov/"><u>音量ズレ問題解決！簡単に修正できる方法</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/all-time-favorites-the-ultimate-top-10-kids-choice-easter-dvds/"><u>All-Time Favorites: The Ultimate Top 10 Kid's Choice Easter DVDS</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-cluttered-drives-the-defrag-walkthrough/"><u>Clearing Cluttered Drives: The Defrag Walkthrough</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/comprehensive-video-guide-for-mac-users-on-disk-encryptiondecryption-processes/"><u>Comprehensive Video Guide for Mac Users on Disk Encryption/Decryption Processes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convert-mts-videos-to-mp4-free-and-easy-compatible-with-iphoneipadipod-on-mac/"><u>Convert MTS Videos to MP4 Free & Easy: Compatible with iPhone/iPad/iPod on Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/digiartys-spectacular-18th-anniversary-special-project/"><u>Digiarty's Spectacular 18Th Anniversary Special Project</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/dive-into-filmmaking-the-role-of-lenses-in-videos-for-2024/"><u>Dive Into Filmmaking  The Role of Lenses in Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effiziente-moglichkeiten-zur-ubertragung-musikalischer-inhalte-vom-iphone-zum-mac-computer-eine-anleitung-ohne-itunes/"><u>Effiziente Möglichkeiten Zur Übertragung Musikalischer Inhalte Vom iPhone Zum Mac-Computer: Eine Anleitung Ohne iTunes.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effizientes-video-konvertierungswerkzeug-fur-macos-high-sierra-herunterladen-von-handbrake/"><u>Effizientes Video-Konvertierungswerkzeug Für macOS High Sierra - Herunterladen Von HandBrake</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effortless-transition-converting-dvds-for-seamless-integration-into-your-home-media-hub/"><u>Effortless Transition: Converting DVDs for Seamless Integration Into Your Home Media Hub</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/eliminating-unnatural-distortions-from-fisheye-footage-for-enhanced-video-quality/"><u>Eliminating Unnatural Distortions From Fisheye Footage for Enhanced Video Quality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/expert-advice-on-optimizing-your-mac-experience/"><u>Expert Advice on Optimizing Your Mac Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/fixing-handbrake-errors-when-encountering-unknown-video-file-types/"><u>Fixing HandBrake Errors When Encountering Unknown Video File Types</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-nokia-c210mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Nokia C210Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-audiophiles-guide-selecting-prime-tools-for-vtuber-voice-alteration/"><u>In 2024, Audiophile's Guide  Selecting Prime Tools for VTuber Voice Alteration</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-realme-11-proplus-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Realme 11 Pro+ Without PUK Codes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-overwatch-on-screen-recording-made-easy/"><u>In 2024, Overwatch On-Screen Recording Made Easy</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-depth-analysis-the-best-livestreaming-video-tech/"><u>In-Depth Analysis  The Best Livestreaming Video Tech</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ipoditunes-isync/"><u>IPodがiTunesに同期できない？これが音楽リンクの究極解決策！ - iSyncスキルアップのポイント</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mac-os-x-unveiled-exploring-its-core-concepts-and-distinctive-traits/"><u>Mac OS X Unveiled: Exploring Its Core Concepts and Distinctive Traits</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mac-users-handbook-transforming-dvd-media-into-wmv-files-with-ease/"><u>Mac Users' Handbook: Transforming DVD Media Into WMV Files with Ease</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mac-friendly-top-5-dvd-management-tools-essential-picks-for-optimal-performance/"><u>Mac-Friendly Top 5 DVD Management Tools: Essential Picks for Optimal Performance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macdvd-burn/"><u>Mac用DVD Burnとディスクコピー: 専門家が推薦する方法</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-youtubes-requirements-how-to-adjust-video-sizes-for-successful-uploads/"><u>Mastering YouTube's Requirements: How to Adjust Video Sizes for Successful Uploads</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mp4-vs-avi-files-which-format-wins-the-video-quality-showdown/"><u>MP4 Vs. AVI Files: Which Format Wins the Video Quality Showdown?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimal-video-file-types-for-playback-on-android-smartphones-and-tablets/"><u>Optimal Video File Types for Playback on Android Smartphones & Tablets</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/solved-how-to-fix-iphone-connection-issues-during-itunes-backup-process/"><u>Solved: How to Fix iPhone Connection Issues During iTunes Backup Process</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/solving-playback-timing-problems-fixing-offset-sound-on-digitized-video-files/"><u>Solving Playback Timing Problems: Fixing Offset Sound on Digitized Video Files</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-adding-voiceover-to-your-powerpoint-slides/"><u>Step-by-Step Guide: Adding Voiceover to Your PowerPoint Slides</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-converting-swf-files-to-mov-format-on-a-mac-for-enhanced-video-quality/"><u>Step-by-Step Guide: Converting SWF Files to MOV Format on a Mac for Enhanced Video Quality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-eliminating-unwanted-straight-lines-across-your-monitor/"><u>Step-by-Step Guide: Eliminating Unwanted Straight Lines Across Your Monitor</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/streamline-video-storage-with-our-top-choice-for-shrinking-mov-files-into-mp4-avi-or-flv-formats/"><u>Streamline Video Storage with Our Top Choice for Shrinking MOV Files Into MP4, AVI, or FLV Formats</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-guide-to-using-macx-imkcvmaker-for-converting-dvds-into-mkv-files-on-your-mac-computer/"><u>The Ultimate Guide to Using MacX iMKCVMaker for Converting DVDs Into MKV Files on Your Mac Computer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-guide-choosing-the-right-ipod-mount-for-your-macbook-2020-edition/"><u>The Ultimate Guide: Choosing the Right iPod Mount for Your MacBook (2020 Edition)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-2022-movie-debuts-exclusive-list-of-latest-films-available-now-on-itunes/"><u>Top 2022 Movie Debuts: Exclusive List of Latest Films Available Now on iTunes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-mac-os-x-mp3-konvertierungsprogramme-auf-youtube-20172018-gratis-herunterladen/"><u>Top Mac OS X MP3 Konvertierungsprogramme Auf YouTube (2017/2018) - Gratis Herunterladen</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-picks-ultimate-hevc-converter-tools-to-capture-and-save-810-bit-videos-in-both-mp4-and-mkv-codes/"><u>Top Picks: Ultimate HEVC Converter Tools to Capture and Save 8/10 Bit Videos in Both MP4 & MKV Codes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-rated-iphone-video-converter-apps-comprehensive-reviews/"><u>Top Rated iPhone Video Converter Apps: Comprehensive Reviews</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-rated-lossless-encoder-for-ultra-hd-video-compression/"><u>Top Rated Lossless Encoder for Ultra HD Video Compression</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-ranked-fast-mac-video-conversion-tool-enhanced-by-cutting-edge-intel-quick-sync-technology/"><u>Top-Ranked Fast Mac Video Conversion Tool Enhanced by Cutting-Edge Intel Quick Sync Technology</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-ranked-providers-of-ultra-hd-uhd-streaming-services-a-comprehensive-guide/"><u>Top-Ranked Providers of Ultra HD (UHD) Streaming Services: A Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-rated-dvd-editor-programs-easy-trimming-cropping-and-compression-tools/"><u>Top-Rated DVD Editor Programs: Easy Trimming, Cropping & Compression Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/troubleshoot-failed-iphoneipad-screen-capture-issues-with-these-6-tips/"><u>Troubleshoot Failed iPhone/iPad Screen Capture Issues with These 6 Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-optimizing-your-youtube-videos-for-maximum-viewership-and-engagement/"><u>Ultimate Guide: Optimizing Your YouTube Videos for Maximum Viewership and Engagement</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlock-the-ultimate-apple-gadgets-deal-get-your-free-20k-copies-with-macxdvds-iphone-ipad-video-converter-for-halloween/"><u>Unlock the Ultimate Apple Gadgets Deal - Get Your FREE 20K Copies with MacXDVD's iPhone iPad Video Converter for Halloween!</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-best-online-tools-to-extract-audio-from-video-files/"><u>Updated 2024 Approved Best Online Tools to Extract Audio From Video Files</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-voice-recognition-technology-compilation-windows-and-macos-dictation-software-plus-cloud-services-ranked-top-8/"><u>Updated The Ultimate Voice Recognition Technology Compilation Windows & macOS Dictation Software + Cloud Services Ranked (Top 8 )</u></a></li>
+</ul></div>

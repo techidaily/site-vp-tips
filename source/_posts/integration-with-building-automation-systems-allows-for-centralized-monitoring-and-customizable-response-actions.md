@@ -1,7 +1,7 @@
 ---
 title: Integration with Building Automation Systems Allows for Centralized Monitoring and Customizable Response Actions.
-date: 2024-08-28 12:10:46
-updated: 2024-08-29 11:27:15
+date: 2024-08-31T08:51:57.189Z
+updated: 2024-09-01T08:51:57.189Z
 tags:
   - product-reviews
 categories:
@@ -105,6 +105,9 @@ The Origin PC EON16-X boasts premier gaming power with an understated and custom
 
 Expand 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## **Games, Benchmarks, and Overall Performance** 
 
 ![Origin PC EON16-X Laptop open on a table top running Diablo IV](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/2024-08-02-10-32-28.jpg) 
@@ -159,6 +162,18 @@ Bill Loguidice / How-To Geek
 
 ![Origin PC EON16-X Laptop closed on a table top showing the Waves 3 panel print](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/2024-08-02-21-08-04.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  As mentioned, while the keyboard is not the best I've ever used, [even for a laptop](https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-a24-phone-network-ready-by-drfone-android/), and there's no [Copilot key](https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-oppo-a78-without-them-knowing-drfone-by-drfone-virtual-android/), it's still pleasant to type on with good balance and responsiveness to each key. For anyone who says you don't need a tenkey, maybe you don't, but I certainly found its inclusion convenient for entering numbers, even if each key is only half the width of the letter keys.
@@ -169,22 +184,34 @@ Bill Loguidice / How-To Geek
 
 ![Origin PC EON16-X Laptop open on a table top running MythForce](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/2024-08-02-10-36-19.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  As previously indicated, overall thermal regulation is excellent. Unless I was playing a demanding game, I barely felt any heat and rarely heard the fans. When I wasn't gaming, I left it in Office mode and, other than warmth above the function keys and some heat from the sides of the laptop body, I could hardly tell it was doing anything at all. If not for the limited battery life, this would also do well, outside some of its bulkiness, as a good general usage laptop.
 
  There's not much Origin PC adds to the basic Windows 11 Home operating system installation, so there are no real worries about bloatware. The most useful inclusion is the aforementioned Origin Control Center, which lets you monitor and modify general, performance, lighting, battery, display, and system settings. It's not as robust as some of the offerings from other companies, but I appreciated that the user interface for things like adjusting the keyboard and light bar lighting was straightforward and not overwhelming.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Input and Output: Ports for Every Need and Few Other Frills** 
 
 ![Rear of Origin PC EON16-X Laptop open on a table top](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/2024-07-28-16-29-08.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  The EON16-X has a robust port selection. On the right side is a USH-I full-size SD card reader and two USB-A 3.2 Gen 1 ports. On the left side is a 3.5mm combination microphone and headset audio port, USB-C 3.2 Gen 1 port, another USB-A 3.2 Gen 1 port, and a Kensington Lock Port. At the rear is a USB-C Thunderbolt 4/USB 4 port with power delivery, a full-size HDMI 2.1 port, Ethernet port, and DC power port. Using the Thunderbolt 4 ports you can drive up to two 4K displays or one 8K display.
 
 ![Right side of open Origin PC EON16-X Laptop on a table top](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/2024-07-28-16-29-41.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  I was not particularly impressed by the quality of the built-in speakers. The default sound profile sounds good at about 60% volume, but beyond that level I noted some muddiness. There's a little bit of bass, which is nice, but not a great deal of overall presence or noticeable surround effects. In short, these speakers will do in a pinch, but you're better off using external wired or Bluetooth speakers or headphones.
@@ -197,12 +224,18 @@ Bill Loguidice / How-To Geek
 
 ![Origin PC EON16-X Laptop webcam example image showing a man in a chair](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/win_20240806_22_54_33_pro.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
 A sample image from the full HD webcam.
 
  There's no Windows Hello or fingerprint security validation, so you're limited to entering a passcode from the keyboard. This is yet another example of how this is designed as a relatively no-frills laptop primarily dedicated to delivering top-notch gaming performance.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Should You Buy the Origin PC EON16-X Laptop?** 
 
  There's no question that Origin PC has delivered an ultimate gaming, and performance-oriented laptop (with a price to match) in the [EON16-X](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004606/https://www.originpc.com/gaming/laptops/eon16-x/). As expected, battery life is not one of the EON16-X's strong suits, making it more of a transportable workstation than a truly mobile companion. However, if you're a dedicated gamer and general power user, it would be difficult to find a better performer, especially with such a big screen size in such a relatively understated, and customizable, package.
@@ -233,3 +266,54 @@ The Origin PC EON16-X boasts premier gaming power with an understated and custom
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/iving-deep-youtubes-best-immersive-experiences-for-2024/"><u>[New] Diving Deep  YouTube's Best Immersive Experiences for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enhancing-views-with-these-premium-tools-for-youtube-seo-for-2024/"><u>[New] Enhancing Views with These Premium Tools for YouTube SEO for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-fb-hd-stream-to-local-storage/"><u>[New] In 2024, FB HD Stream to Local Storage</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-innovative-approaches-to-gameplay-and-webcam-captures-for-2024/"><u>[New] Innovative Approaches to Gameplay and Webcam Captures for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-techniques-for-pace-modification-on-snapchat-videos/"><u>[New] Unveiling Techniques for Pace Modification on Snapchat Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-why-fake-likes-will-ruin-your-instagram-account/"><u>[New] Why Fake Likes Will Ruin Your Instagram Account</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevating-profits-via-celebrity-skincare-channels/"><u>[Updated] 2024 Approved  Elevating Profits via Celebrity Skincare Channels</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-hand-tracking-explained-types-and-applications/"><u>[Updated] Hand Tracking Explained  Types and Applications</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-ultimate-select-masterful-instagram-hlv-artisans/"><u>[Updated] Ultimate Select  Masterful Instagram HLV Artisans</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-best-8-mac-dvd-writers-of-2023-ultimate-guide-to-flawless-disc-creation/"><u>1. Best 8 Mac DVD Writers of 2023: Ultimate Guide to Flawless Disc Creation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-microvid-recorder-critique-with-alternatives/"><u>2024 Approved  MicroVid Recorder Critique with Alternatives</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-pro-chromebook-zoom-usage-techniques/"><u>2024 Approved  Pro Chromebook Zoom Usage Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-pubg-presence-with-new-sounds/"><u>2024 Approved  Transform Your PUBG Presence with New Sounds</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/iphone-ipad-ipodmac/"><u>完全ガイド：iPhone, iPad, iPodを使ってMacにファイルを転送し、バックアップする方法</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-bets-incredible-back-to-school-discounts-in-2014/"><u>Best Bets: Incredible Back-to-School Discounts in 2014</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-unregistered-movie-streaming-websites-with-free-access/"><u>Best Unregistered Movie Streaming Websites with Free Access</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/clipbox-twitterfc2/"><u>Clipbox ダウンロード困難に終止符！保存できない落とし穴を克服するための包括的解法 - Twitter/ニコニコ動画/FC2</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comprehensive-compatibility-guide-all-videos-and-audios-on-iphone-models-from-xs-through-se/"><u>Comprehensive Compatibility Guide: All Videos & Audios on iPhone Models From XS Through SE</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/critically-acclaimed-grabber-tech-for-2024/"><u>Critically Acclaimed Grabber Tech for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-free-dvd-ripping-tool-for-mac-users-seamlessly-transfer-your-movies-soundtrack-to-digital-format/"><u>Download Free DVD Ripping Tool for Mac Users – Seamlessly Transfer Your Movie's Soundtrack to Digital Format</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-premium-free-3d-films-at-ultra-hd-quality-for-enhanced-television-experience-1080p-and-4k-options-available/"><u>Download Premium Free 3D Films at Ultra HD Quality for Enhanced Television Experience: 1080P & 4K Options Available!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-methods-for-downloading-and-saving-icloud-images-on-pc-or-mac-devices/"><u>Easy Methods for Downloading and Saving iCloud Images on PC or Mac Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/eject-disk-image-dmg-once-installation-is-complete-n-indicates-a-new-line-for-readability/"><u>Eject Disk Image (.dmg) Once Installation Is Complete. (\\N Indicates a New Line for Readability)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/fixing-handbrake-dvd-ripping-problems-solutions-for-incomplete-and-unsuccessful-rips/"><u>Fixing HandBrake DVD Ripping Problems: Solutions for Incomplete and Unsuccessful Rips</u></a></li>
+<li><a href="https://win-dash.techidaily.com/getting-started-how-to-update-or-install-amd-radeon-rx-nvidia-gpu-drivers/"><u>Getting Started: How to Update or Install AMD Radeon RX Nvidia GPU Drivers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratuitamente-scarica-i-video-di-youtube-ad-alta-risoluzione-hd-e-ultra-hd-4k-per-mac/"><u>Gratuitamente Scarica I Video Di YouTube Ad Alta Risoluzione (HD) E Ultra-HD (4K) per Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/high-quality-dvd-duplication-secure-and-flawless-transfer-of-data-from-original-to-duplicate-disc/"><u>High-Quality DVD Duplication: Secure & Flawless Transfer of Data From Original to Duplicate Disc</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-k11-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Oppo K11 5G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/introducing-digiartys-exclusive-project-for-their-18th-anniversary/"><u>Introducing Digiarty's Exclusive Project for Their 18Th Anniversary)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macos-dvd-to-iso-transformation-a-comprehensive-tutorial/"><u>MacOS DVD to ISO Transformation: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macx-mediatrans-pro-revolutionary-iphone-management-software-enabling-seamless-heic-to-jpeg-conversion/"><u>MacX MediaTrans Pro: Revolutionary iPhone Management Software Enabling Seamless HEIC to JPEG Conversion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-the-art-of-mac-based-4k-video-editing-techniques/"><u>Mastering the Art of Mac-Based 4K Video Editing Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pro-tools-for-text-in-adobe-after-effects-for-2024/"><u>Pro Tools For Text in Adobe After Effects for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/solutions-for-your-hot-iphone-understanding-causes-and-remedies/"><u>Solutions for Your Hot iPhone: Understanding Causes and Remedies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-tutorial-for-transforming-mkv-videos-into-hevc-format-across-windowsmac-systems/"><u>Step-by-Step Tutorial for Transforming MKV Videos Into HEVC Format Across Windows/Mac Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-simplest-way-to-enable-wireless-internet-access-on-your-computer-system/"><u>The Simplest Way to Enable Wireless Internet Access on Your Computer System</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-selection-highest-rated-kids-films-from-2016/"><u>The Ultimate Selection: Highest-Rated Kids Films From 2016</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-6-free-streaming-apps-for-live-television-on-your-amazon-firestick/"><u>Top 6 FREE Streaming Apps for Live Television on Your Amazon Firestick</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-clipconverter-substitutes-effortless-downloads-of-youtube-content/"><u>Top ClipConverter Substitutes - Effortless Downloads of YouTube Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-ranked-tools-for-high-quality-4k-video-downsizing-preserve-excellence-in-every-frame/"><u>Top-Ranked Tools for High-Quality 4K Video Downsizing: Preserve Excellence in Every Frame</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/troubleshooting-lack-of-audio-in-iphones-phone-and-app-functionality/"><u>Troubleshooting Lack of Audio in iPhone's Phone and App Functionality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-to-converting-dailymotion-videos-into-multiple-formats-including-mp4-and-extended-graphics-array/"><u>Ultimate Guide to Converting DailyMotion Videos Into Multiple Formats Including MP4 and eXtended Graphics Array</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-to-selecting-the-ideal-hd-video-compressor-for-optimal-storage-and-streaming/"><u>Ultimate Guide to Selecting the Ideal HD Video Compressor for Optimal Storage and Streaming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-converting-ntsc-dvds-into-pal-format-for-european-compatibility/"><u>Ultimate Guide: Converting NTSC DVDs Into PAL Format for European Compatibility</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-optimal-video-formats-compatible-with-itunes/"><u>Ultimate Guide: Optimal Video Formats Compatible with iTunes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-selection-top-6-sustainable-apps-and-tools-for-securely-backing-up-your-iphone-ipad-and-ipod-on-ios-versions-171110/"><u>Ultimate Selection: Top 6 Sustainable Apps and Tools for Securely Backing Up Your iPhone, iPad & iPod on iOS Versions 17/11/10</u></a></li>
+</ul></div>

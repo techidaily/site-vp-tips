@@ -1,7 +1,7 @@
 ---
 title: "WhatsApp Hack Revealed: Message Someone Anonymously Without Saving Their Number"
-date: 2024-08-28 11:13:52
-updated: 2024-08-29 11:28:15
+date: 2024-08-31T08:49:50.650Z
+updated: 2024-09-01T08:49:50.650Z
 tags:
   - web
 categories:
@@ -40,6 +40,9 @@ Close
 
  This trick will work just the same on the WhatsApp app and on [WhatsApp Web](https://fox-that.techidaily.com/dealing-with-iphone-x-troubles-heres-how-you-can-resolve-the-7-biggest-nuisances/).
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Start a WhatsApp Chat Using a Custom Link
 
  Custom links are another platform-agnostic way to start a chat quickly. Open any web browser (phone, tablet, or desktop) and enter this URL in the search bar: https://wa.me/<phone number goes here>.
@@ -64,22 +67,34 @@ https://wa.me/123456789?text=This%is%my%location
 
 ![Sending a WhatsApp text to a phone number using a URL.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240626-032419.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Start WhatsApp Chat Using an Android App
 
  If you start contactless chats often, you can save yourself the typing hassle with a dedicated app.
 
  I typically don’t recommend any mods or companion apps for sensitive apps like WhatsApp, but the two apps I’m listing here don’t need any permissions whatsoever.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  ChatLaunch For WhatsApp
 
  The first ChatLaunch for WhatsApp. It’s an ad-free, safe, and open-source app available on the [F-Droid store](https://desktop-recording.techidaily.com/new-2024-approved-lenovo-laptop-screen-logging-made-easy/). You’ll either need to sideload its APK file or [install it through the F-Droid app](https://f-droid.org/en/packages/dev.theolm.wwc/).
 
 ![Starting a new WhatsApp chat using the ChatLaunch app on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-06-26-03-29-32-272_dev-theolm-wwc-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 Close 
 
  Once installed, you can launch the app by tapping the WhatsApp icon labeled “Chat.” You’ll find it either on your home screen or in the app drawer. The app has a pretty basic interface—just a popup where you can enter a phone number and quick-start a WhatsApp conversation. The gear icon lets you set a default country code.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ###  Click to Chat
 
  The second app is [Click to Chat](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003816/https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp&hl=en). It works just like ChatLaunch, but it has more features, and it’s easier to install. You can download it from the Play Store with a single tap.
@@ -100,6 +115,10 @@ Close
 
 ![Creating a new WhatsApp action in iOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/whatsapp-image-2024-06-26-at-3-36-54-am.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 Close 
 
  When you do that, you’ll get an action that reads, “Ask for Text with Prompt.” Tap “Text” and select “URL” from the dropdown menu. Next, tap “Prompt” and type “phone number.” Finally, tap “Done” on the keyboard bar. First action. Three more to go.
@@ -146,3 +165,42 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-understanding-igtv-from-basics-to-boosting-your-presence/"><u>[New] 2024 Approved  Understanding IGTV  From Basics, to Boosting Your Presence</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-gpus-for-ultra-hd-video-production/"><u>[New] Best GPUs for Ultra HD Video Production</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-screengrabzer-facebook-group/"><u>[New] ScreenGrabzer Facebook Group</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-optimize-iphoneandroid-video-quality-in-online-platforms/"><u>[Updated] Optimize iPhone/Android Video Quality in Online Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-effective-solutions-resolving-issues-with-unresponsive-dvd-drives-on-macbook-and-imac/"><u>1. Effective Solutions: Resolving Issues with Unresponsive DVD Drives on Macbook & iMac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-quick-fix-resolve-your-iphones-sudden-black-screen-issue-in-seconds/"><u>1. Quick Fix: Resolve Your iPhone's Sudden Black Screen Issue in Seconds!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-extensive-review-the-360-degree-capture-of-samsung/"><u>2024 Approved  Extensive Review  The 360-Degree Capture of Samsung</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/apple-it/"><u>忙しく生きるためのAppleガイド - 製品批判から利便性ハックまで、アプリ、ゲーム、IT情報</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-disneydvd/"><u>遊びながら学べる: 2024年の子供たちにおすすめ! Disney映画/アニメ集DVDランキング</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-hilarious-childrens-content-on-youtube-a-kid-friendly-guide/"><u>Best Hilarious Children's Content on YouTube: A Kid-Friendly Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comparing-ios-versions-the-benefits-and-drawbacks-of-upgrading-from-ios-16-to-ios-17/"><u>Comparing iOS Versions: The Benefits and Drawbacks of Upgrading From iOS 16 to iOS 17</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comparison-of-apple-iphone-8-and-samsung-galaxy-s8-unique-features-and-innovative-additions/"><u>Comparison of Apple iPhone 8 and Samsung Galaxy S8: Unique Features & Innovative Additions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comprehensive-guide-on-transferring-personal-data-to-your-iphone-x-integrating-content-from-older-iphones-or-android-gadgets/"><u>Comprehensive Guide on Transferring Personal Data to Your iPhone X: Integrating Content From Older iPhones or Android Gadgets</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convert-protected-dvds-to-video-formats-at-no-cost-with-macx-converter-for-apple-computers/"><u>Convert Protected DVDs to Video Formats at No Cost with MacX Converter for Apple Computers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convert-videos-free-with-macx-for-mac-webm-mp4-to-avi-supported/"><u>Convert Videos FREE with MacX for Mac - WebM, MP4 to AVI Supported!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/copia-dvd-sicura-su-mac-con-imac-e-macbook/"><u>Copia DVD Sicura Su Mac Con iMac E MacBook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/digital-revival-improving-computerized-vhs-visuals-for-2024/"><u>Digital Revival  Improving Computerized VHS Visuals for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-the-changes-in-ios-1nvitation-for-tech-lovers-device-support-new-functions-patch-notes-and-jailbreak-updates/"><u>Discover the Changes in iOS 1Nvitation for Tech Lovers: Device Support, New Functions, Patch Notes, and Jailbreak Updates!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-our-free-m2ts-to-mp4-converter-and-stream-on-your-mobile/"><u>Download Our Free M2TS-to-MP4 Converter and Stream on Your Mobile!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effortless-video-flipping-rotating-footage-seamlessly-using-imovie-for-ios-and-desktop-systems/"><u>Effortless Video Flipping: Rotating Footage Seamlessly Using iMovie for iOS and Desktop Systems</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortlessly-switch-from-webm-to-mov-format-for-optimal-online-video-experience/"><u>Effortlessly Switch From WebM to MOV Format for Optimal Online Video Experience</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-photo-perfection-discover-our-6-best-background-erasers/"><u>In 2024, Ultimate Photo Perfection – Discover Our 6 Best Background Erasers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-acoustic-transitions-in-audacity-pro-suite-for-2024/"><u>Mastering Acoustic Transitions in Audacity Pro Suite for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-iphone-voice-calls-a-comprehensive-how-to/"><u>Mastering the Art of iPhone Voice Calls: A Comprehensive How-To</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/psvitapsvita/"><u>PSVITAに完璧なソリューション！：専用オプションでのみ動作するPSVITAの音楽再生方法</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplified-audio-hardware-firmware-access/"><u>Simplified Audio Hardware Firmware Access</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/solution-for-handbrake-error-codes-4-and-3-encode-seamlessly-with-latest-fixes/"><u>Solution for HandBrake Error Codes 4 & 지 3: Encode Seamlessly with Latest Fixes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-switching-your-macs-dvd-format-and-region-settings/"><u>Step-by-Step Guide: Switching Your Mac's DVD Format & Region Settings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/struggling-with-ios-17-setup-master-it-with-our-expert-guides-top-10-solutions/"><u>Struggling with IOS 17 Setup? Master It With Our Expert Guide's Top 10 Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-4-ipod-mounts-compatible-with-macos-2020-review/"><u>Top 4 iPod Mounts Compatible with macOS - 2020 Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-rated-french-films-essential-watches-from-classic-masterpieces-to-new-releases/"><u>Top Rated French Films: Essential Watches From Classic Masterpieces to New Releases</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-step-by-step-guide-for-macx-iphone-connectivity-transforming-iphone-into-external-hd/"><u>Ultimate Step-by-Step Guide for MacX iPhone Connectivity - Transforming iPhone Into External HD</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-step-by-step-tutorial-getting-the-popcorn-time-app-installed-on-ios-devices/"><u>Ultimate Step-by-Step Tutorial: Getting the Popcorn Time App Installed on iOS Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/aviutndvd/"><u>ストレージメディアへ容易にファイルを焼くAviutnの使用方法：DVD書き込み入門 - 効率的な作成プロセス解明</u></a></li>
+</ul></div>

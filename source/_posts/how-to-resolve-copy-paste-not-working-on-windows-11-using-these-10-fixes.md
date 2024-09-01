@@ -1,7 +1,7 @@
 ---
 title: How to Resolve 'Copy-Paste Not Working' On Windows 11 Using These 10 Fixes
-date: 2024-08-26 23:25:33
-updated: 2024-08-29 12:50:51
+date: 2024-08-31T08:54:30.977Z
+updated: 2024-09-01T08:54:30.977Z
 tags:
   - desktop
 categories:
@@ -40,6 +40,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  In contrast, if copy-paste fails to work throughout your operating system, the problem is more widespread and requires further investigation. In that case, begin applying the remaining fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ##  2\. Try an Alternative Method
 
  There are two main ways to copy and paste text on Windows: using the Ctrl+C and Ctrl+V keyboard shortcuts and through the context menu, which you access by pressing the right-click on a mouse.
@@ -48,6 +51,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  If you are unable to copy-paste using keyboard shortcuts, there could be a problem with your keyboard or its settings. So, use the context menu to copy-paste text. If copy-pasting works with this alternative method, follow the instructions in the next heading to troubleshoot keyboard problems.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  3\. Troubleshoot Your Keyboard Keys and Shortcuts
 
  In case you are unable to copy-paste text using the keyboard shortcuts, ensure the keys are not broken. To check that, go to the [Keyboard Tester website](https://www.keyboardtester.com/) and press the Ctrl, C, and V keys individually. If any of these keys don't work, try [cleaning your keyboard](https://some-approaches.techidaily.com/accelerate-operations-master-document-handling-through-automation-technology-in-the-finance-sector/), or get it inspected by a professional.
@@ -66,8 +72,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![restarting windows explorer process in task manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/restarting-windows-explorer-process-in-task-manager.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
  Your device may take a few seconds to restart File Explorer, and then you can try copy-pasting using the context menu again. However, if you fail to copy-paste text using both shortcuts and the context menu, keep applying the remaining fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ##  5\. Clear the Clipboard History
 
  Any text or visual you copy is saved in the Clipboard history and remains there even after you paste it. If you don't clear the clipboard history for a long time, it could disrupt your copy-paste operation. Therefore, you should clean it up. Press Windows+V to bring up the clipboard tab, then click "Clear All" to clean it.
@@ -82,6 +100,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Likewise, if you have another open app that uses the same shortcut for a different in-app operation, it can also cause problems. To eliminate this possibility, close all other open apps.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ##  7\. Repair Corrupted System Files
 
  Corrupt system files can also cause the issue in question. To rule out this possibility, run the System File Checker utility, which automatically checks and often repairs corrupt system files, potentially fixing major operating system problems.
@@ -92,6 +113,9 @@ SFC /scannow
 
 !['sfc /scannow' highlighted in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/5-windows-sfc-command.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Windows will scan your device for corrupt system files. If it finds corrupted files, it will either fix them automatically or tell you to fix them manually. So, read the scan results carefully after the process has finished and follow any recommended steps.
 
 ##  8\. Scan for Malware Infection
@@ -100,6 +124,9 @@ SFC /scannow
 
 ![Opening the scan options settings in windows security app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/opening-the-scan-options-settings-in-windows-security-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you don't want the virus scan to take much longer, check the circle beside "Quick Scan" and hit "Scan Now."
 
 ![Running a quick scan in the windows security app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/running-a-quick-scan-in-the-windows-security-app-1.jpg) 
@@ -114,10 +141,16 @@ Screenshot by Shan Abdul - NAR
 
 ![The Windows update menu in the Settings app with an arrow pointing to the Check for Updates button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/check-for-updates.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
  Then, click on "Advanced Options" and see if any "Optional Updates" are available. You should also install them if they are available.
 
 ![Optional Updates option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/optional-updates-option.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  10\. Perform a System Restore
 
  If none of the above fixes resolve the issue, you should [perform a system restore](https://article-posts.techidaily.com/in-2024-proven-methods-to-infuse-engaging-dialogue-in-videos/) to restore your computer to an earlier time when copy-paste was functioning normally. It's possible only if you have enabled System Restore and this utility has created a restore point before the current problem started.
@@ -126,6 +159,9 @@ Screenshot by Shan Abdul - NAR
 
 ![Click on the 'System Protection' tab, then select 'System Restore.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/system-res-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the "System Restore" window, click "Next," and you should see at least one restore point. If you don't see any, then you cannot restore your system. If you see a recently created restore point here, select it and click "Next."
 
 ![Select your restore point, then click 'Next.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/execute-system-restore-1.png) 
@@ -150,3 +186,47 @@ Screenshot by Shan Abdul - NAR
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-following-fades-track-losses-on-insta/"><u>[New] In 2024, Following Fades  Track Losses on Insta</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-unveiling-the-secrets-of-successful-videotutorial-production/"><u>[New] Unveiling the Secrets of Successful Videotutorial Production</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-optimizing-audio-and-video-quality-during-zoom-recordings/"><u>[Updated] 2024 Approved  Optimizing Audio & Video Quality During Zoom Recordings</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-direct-focus-the-power-of-leading-lines-in-iphone-photos/"><u>[Updated] Direct Focus  The Power of Leading Lines in iPhone Photos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-7-critical-practices-for-controlling-instagram-tv-videosize/"><u>[Updated] In 2024, 7 Critical Practices for Controlling Instagram TV Videosize</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-navigating-the-landscape-of-snapchat-for-enterprise/"><u>[Updated] In 2024, Navigating the Landscape of Snapchat for Enterprise</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-insiders-handbook-for-instagram-video-woes/"><u>[Updated] In 2024, The Insider’s Handbook for Instagram Video Woes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-fast-and-easy-guide-transforming-your-quicktime-mov-files-into-compatible-wmv-format/"><u>1. 'Fast and Easy Guide: Transforming Your QuickTime MOV Files Into Compatible WMV Format'</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-melody-in-motion-incorporating-music-into-powerpoint/"><u>2024 Approved  Melody in Motion  Incorporating Music Into PowerPoint</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-periscope-presentation-outline-width-height-time/"><u>2024 Approved  Periscope Presentation Outline  Width, Height, Time</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-snapseed-101-basic-editing-techniques-unveiled/"><u>2024 Approved  Snapseed 101  Basic Editing Techniques Unveiled</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/access-endless-films-on-the-go-with-the-movie-box-downloads-for-your-apple-devices/"><u>Access Endless Films on the Go with The Movie Box Downloads for Your Apple Devices!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/all-in-one-dvd-ripper-and-video-editor-convert-edit-and-burn-videos-with-ease/"><u>All-in-One DVD Ripper and Video Editor: Convert, Edit & Burn Videos with Ease</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bridging-audio-gaps-the-complete-guide-to-smooth-blending-in-audacity/"><u>Bridging Audio Gaps  The Complete Guide to Smooth Blending in Audacity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/celebrating-18-years-digiartys-exclusive-commemorative-project/"><u>Celebrating 18 Years: Digiarty's Exclusive Commemorative Project</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comparing-outlook-and-gmail-determining-the-superior-choice-in-email-services/"><u>Comparing Outlook and Gmail: Determining the Superior Choice in Email Services</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comparing-resolutions-a-deep-dive-into-2160p-versus-4k-ultra-high-definition-explained/"><u>Comparing Resolutions: A Deep Dive Into 2160P versus 4K Ultra High Definition Explained</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comparing-the-two-worlds-series-2-apple-watch-vs-swiss-timepieces-an-in-depth-analysis/"><u>Comparing the Two Worlds: Series 2 Apple Watch vs Swiss Timepieces – An In-Depth Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-our-free-online-tool-for-converting-movies-mp4-and-mov-and-youtube-clips-into-mp3-format-at-no-charge/"><u>Download Our FREE Online Tool for Converting Movies (MP4 & MOV) and YouTube Clips Into MP3 Format at No Charge!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-steps-to-erase-music-from-any-version-of-apples-ipod-series/"><u>Easy Steps to Erase Music From Any Version of Apple's iPod Series</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/enrich-your-speech-quality-top-27-french-idiomatic-expressions/"><u>Enrich Your Speech Quality: Top 27 French Idiomatic Expressions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/entdecken-sie-die-top-4-methoden-zum-beziehen-von-dvds-auf-einem-mac-fur-macbook-pro-air-und-imac/"><u>Entdecken Sie Die Top-4 Methoden Zum Beziehen Von DVDs Auf Einem Mac - Für MacBook Pro, Air Und iMac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guide-for-converting-g2m2g2m4-video-files-from-gotomeeting-to-popular-codecs-such-as-mp4-and-mov/"><u>Guide for Converting G2M2/G2M4 Video Files From GoToMeeting to Popular Codecs Such as MP4 & MOV</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guide-to-converting-mp4-to-compatible-vob-format-for-dvd-viewing-on-macos-systems/"><u>Guide to Converting MP4 to Compatible VOB Format for DVD Viewing on macOS Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-recover-your-data-after-the-ios-17-upgrade-immediate-solutions/"><u>How to Recover Your Data After the iOS 17 Upgrade: Immediate Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/imovie-basics-step-by-step-guide-to-video-editing-on-a-mac/"><u>IMovie Basics: Step-by-Step Guide to Video Editing on a Mac</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-6-plus-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 6 Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/innovative-facebook-enhancement-using-letterbox-technique/"><u>Innovative Facebook Enhancement  Using Letterbox Technique</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macdvd-and-macx/"><u>Mac向けDVD & ビデオ変換ツールセットで大幅値下げ:MacXパック - ダブル特典キャンペーン</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-the-labyrinth-of-facebook-privacy-with-7-tools/"><u>Navigating the Labyrinth of Facebook Privacy with 7 Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/online-purchase-of-macx-mediatrans-at-a-reduced-price/"><u>Online Purchase of MacX MediaTrans at a Reduced Price</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/premier-media-players-for-windows-11-enjoy-seamless-4k5k1080p-hd-movie-and-music-experience/"><u>Premier Media Players for Windows 11 - Enjoy Seamless 4K/5K/1080p HD Movie & Music Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quick-tips-converting-your-videots-content-to-mp4-seamless-solutions-for-macos-and-windows/"><u>Quick Tips: Converting Your Video_TS Content to MP4 - Seamless Solutions for macOS and Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/resolving-slide-to-upgrade-issue-successfully-completing-ios-17-update/"><u>Resolving 'Slide to Upgrade' Issue: Successfully Completing iOS 17 Update</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/seamless-setup-get-popcorn-time-on-ios-devices-easily-no-jailbreak-needed/"><u>Seamless Setup: Get Popcorn Time on iOS Devices Easily, No Jailbreak Needed!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/seamlessly-move-apple-photos-a-comprehensive-list-of-10-techniques-for-iphone-to-mac-transfer/"><u>Seamlessly Move Apple Photos: A Comprehensive List of 10 Techniques for iPhone to Mac Transfer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-moving-your-tunes-from-mac-to-ipad-on-ios-17-no-itunes-needed/"><u>Step-by-Step Guide: Moving Your Tunes From Mac to iPad on iOS 17 - No iTunes Needed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-showdown-exploring-the-distinctive-features-of-aac-vs-mp3-formats-for-high-quality-music-streaming/"><u>The Ultimate Showdown: Exploring the Distinctive Features of AAC Vs. MP3 Formats for High-Quality Music Streaming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transform-your-standard-dvds-into-high-definition-brilliance-learn-how-to-upscale-and-rip-in-hd/"><u>Transform Your Standard DVDs Into High Definition Brilliance: Learn How to Upscale and Rip in HD!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-to-editing-4k-video-content-on-a-mac/"><u>Ultimate Guide to Editing 4K Video Content on a Mac</u></a></li>
+</ul></div>

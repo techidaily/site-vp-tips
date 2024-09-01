@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Testing on TP-Link's Tapo C120 Webcam: Exceptional Visual Quality and Subpar Sound Performance"
-date: 2024-08-26 23:52:51
-updated: 2024-08-29 11:52:46
+date: 2024-08-31T08:50:40.522Z
+updated: 2024-09-01T08:50:40.522Z
 tags:
   - product-reviews
 categories:
@@ -149,10 +149,16 @@ Hannah Stryker / How-To Geek
 
  One other thing to keep in mind is the power adapter and USB connection. TP-Link is nice enough to provide a wire clip for managing the cable, but neither the power adapter nor the USB port are weatherproof. That being said, if you’re mounting the camera outside, invest in some kind of covering for the power adapter (if your outdoor outlet isn’t equipped with it already).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Video Quality: Supremely Good
 
 ![The TP-Link Capo C120 on a shelf](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/the-tp-link-tapo-c120-camera-set-up-on-a-shelf-2jpg_53315702437_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  I’m happy to go on the record to say that the C120 delivers some of the best video quality I’ve ever seen on a [budget-friendly security camera](https://youtube-videos.techidaily.com/increase-your-videos-impact-essential-keyword-analysis-resources/). I think it’s also important to note that I’ve seen a lot of smart cams advertising enhanced HD, with pixel counts typically falling somewhere between 1080p and 4K.
@@ -175,6 +181,9 @@ Michael Bizzaco / How-To Geek
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Audio Quality: Not Very Responsive
 
  I didn’t have the best luck when testing the C120’s two-way audio function. I had my girlfriend initiate a two-way communication with me, where she was in one room with my iPhone, and I was in the other with the C120.
@@ -205,18 +214,27 @@ Close
 
 ![The TP-Link Tapo C120 set up on a shelf](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/the-tp-link-tapo-c120-camera-set-up-on-a-shelf-3jpg_53316924009_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  The C120 is compatible with Alexa and Google Assistant, and I was able to add the cam to my Alexa ecosystem. At first, I tried adding the TP-Link Kasa skill to the Alexa app, at which point the app tried to locate the C120 on my Wi-Fi. This actually didn’t work though, so I ended up manually adding the C120 through the Alexa app’s “Devices” menu.
 
  The Alexa app allows you to view live footage and to converse with two-way audio. You can also initiate a conversation using an Alexa-compatible smart speaker or smart display. I own a number of Echo Dots and an Echo Show 5, and the audio quality was solid on both ends. I was also able to pull up a live view of the camera through the Echo Show, and the image quality looked just as good as it did on my iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the TP-Link C120 Indoor Camera?
 
  If you’re not overly concerned with using the two-way audio function, I think the [TP-Link Tapo C120](https://www.amazon.com/Tapo-Security-Detection-Invisible-C120/dp/B0CH45HPZT/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001327&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftp-link-tapo-c120-camera-review%2F&asc%5Fcampaign=Affiliate) is well worth the investment. For less than $50, it delivers exceptionally clear footage and the companion app is intuitive to use and loaded with features and customizations.
 
 ![tp-link tapo 2k](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/tp-link-tapo-2k.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 #####  TP-Link Tapo C120 Indoor/Outdoor Smart Camera
 
 $35 $40 Save $5 
@@ -239,3 +257,50 @@ The TP-Link Tapo C120 features crisp and clear footage, a bevy of in-app feature
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-shopback-up-specialists-judgment/"><u>[Updated] 2024 Approved  ShopBack Up Specialists' Judgment</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-shutterbug-secrets-iphone-night-photography/"><u>[Updated] Shutterbug Secrets  IPhone Night Photography</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-unconventional-text-presentation-methods/"><u>2024 Approved  Unconventional Text Presentation Methods</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-unlock-content-creation-uploading-videos/"><u>2024 Approved  Unlock Content Creation  Uploading Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-no-cost-hd-video-recording-apps-compatible-with-pc-and-mac-systems/"><u>Best No-Cost HD Video Recording Apps Compatible with PC and Mac Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/billboard-music-awards-2022-live-performance-full-hd-streaming-and-download/"><u>Billboard Music Awards 2022 Live Performance - Full HD Streaming and Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-pixma-driver-update-a-hassle-free-tutorial-for-fast-results/"><u>Canon PIXMA Driver Update - A Hassle-Free Tutorial for Fast Results</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/click-download-button-next-to-the-latest-version-compatible-with-your-os-n-indicates-a-new-line-for-readability/"><u>Click Download Button Next to the Latest Version Compatible with Your OS. (\\N Indicates a New Line for Readability)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/complete-set-of-macxdvd-professional-tools-unlocked-with-free-license-renewal/"><u>Complete Set of MacXDVD Professional Tools Unlocked with Free License Renewal</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/creating-a-burned-dvd-on-your-mac-from-various-file-formats/"><u>Creating a Burned DVD on Your Mac From Various File Formats</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cutting-and-editing-videos-seamlessly-on-your-mac-without-resaving/"><u>Cutting and Editing Videos Seamlessly on Your Mac Without Resaving</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/cutting-edge-content-sharing-your-guide-to-youtubeplustiktok-linkup-for-2024/"><u>Cutting-Edge Content Sharing  Your Guide to YouTube+TikTok Linkup for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-how-to-securely-obtain-and-enjoy-the-official-2018-world-cup-fifa-hymn-for-free/"><u>Discover How to Securely Obtain and Enjoy the Official 2018 World Cup FIFA Hymn for Free!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effective-techniques-for-shrinking-4k-and-full-hd-dslr-footage-without-compromising-on-clarity/"><u>Effective Techniques for Shrinking 4K and Full HD DSLR Footage Without Compromising on Clarity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/explore-new-releases-and-updates-from-macxdvd-discover-insights-in-dvd-authoring-innovations/"><u>Explore New Releases & Updates From MacXDVD: Discover Insights in DVD Authoring Innovations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/family-favorites-unveiled-the-quintessential-list-of-top-10-films-for-every-generation/"><u>Family Favorites Unveiled: The Quintessential List of Top 10 Films for Every Generation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guide-for-ios-device-users-wanting-to-return-to-previous-os-switching-from-ios-10-back-to-ios-93-compatible-with-iphone-se6s5ipad-and-ipod-models/"><u>Guide for iOS Device Users Wanting To Return To Previous OS, Switching From iOS 10 Back to iOS 9.3 - Compatible with iPhone SE/6S/5/iPad and iPod Models.</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-oppo-reno-9a-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Oppo Reno 9A Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-extract-and-delete-both-hard-coded-and-soft-subtitles-in-mp4-videos/"><u>How To Extract And Delete Both Hard-Coded & Soft Subtitles in MP4 Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-motorola-g24-power-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Motorola G24 Power for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-edge-40-neo-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Motorola Edge 40 Neo to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/improving-zoom-picture-quality-quick-solutions-for-2024/"><u>Improving Zoom Picture Quality  Quick Solutions for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-iphone-8-plus-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On iPhone 8 Plus? How to Fix it?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-explore-the-world-of-fb-live-broadcasting/"><u>In 2024, Explore the World of FB Live Broadcasting</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-monochrome-to-vibrance-a-film-graders-journey/"><u>In 2024, From Monochrome to Vibrance  A Film Grader's Journey</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-jokesinframe-instant-memes-and-more/"><u>In 2024, JokesInFrame  Instant Memes & More</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo Y100i? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/increasing-likes-and-shares-facebooks-best-practices-for-2024/"><u>Increasing Likes & Shares  Facebook's Best Practices for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ios-evolution-unveiled-key-differences-and-trade-offs-between-ios-16-and-the-new-ios-nvme-17-features/"><u>IOS Evolution Unveiled: Key Differences and Trade-Offs Between iOS 16 and the New iOS Nvme 17 Features</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/iphone-15-release-headless-and-charmless-is-it-still-a-worthwhile-upgrade/"><u>IPhone 15 Release - Headless and Charmless: Is It Still a Worthwhile Upgrade?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macx-video-converter-pro-masterclass-effortless-video-downloads-and-conversion-techniques-exclusive-for-mac-enthusiasts/"><u>MacX Video Converter Pro Masterclass: Effortless Video Downloads & Conversion Techniques Exclusive for Mac Enthusiasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimized-list-of-top-free-audio-editors-and-converters-for-media-enthusiasts/"><u>Optimized List of Top Free Audio Editors & Converters for Media Enthusiasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/reorient-your-gopro-captures-tutorial-for-inverting-and-rotating-videos-by-quarter-turns/"><u>Reorient Your GoPro Captures: Tutorial for Inverting and Rotating Videos by Quarter Turns</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/solving-iphone-video-playback-issues-top-fixes-for-iphone-11-video-troubleshooting/"><u>Solving iPhone Video Playback Issues: Top Fixes for iPhone 11 Video Troubleshooting</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-converting-dvd-show-episodes-into-multiple-file-formats-like-mp4-avi-and-mkv/"><u>Step-by-Step Guide: Converting DVD Show Episodes Into Multiple File Formats Like MP4, AVI & MKV</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-transforming-mp4-files-into-avi-format-using-handbrake/"><u>Step-by-Step Guide: Transforming MP4 Files Into AVI Format Using HandBrake</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-selection-of-must-have-and-highly-rated-apps-for-your-apple-watch-device/"><u>The Ultimate Selection of Must-Have and Highly Rated Apps for Your Apple Watch Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-essential-educational-apps-every-teen-should-have/"><u>Top 10 Essential Educational Apps Every Teen Should Have</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-ranked-video-bit-rate-changer-quickly-and-simplify-your-mp4-mp3-and-more/"><u>Top-Ranked Video Bit Rate Changer: Quickly & Simplify Your MP4, MP3, & More</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/undetected-memory-cards-effective-remedies-and-solutions/"><u>Undetected Memory Cards: Effective Remedies and Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlock-more-powerful-features-with-these-superior-youtube-downloaders-orbit-downloaders-alternatives/"><u>Unlock More Powerful Features with These Superior YouTube Downloaders (Orbit Downloader's Alternatives)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/windowsdvd/"><u>WindowsでDVDコピー保護を回避する方法：手順ガイド</u></a></li>
+</ul></div>
