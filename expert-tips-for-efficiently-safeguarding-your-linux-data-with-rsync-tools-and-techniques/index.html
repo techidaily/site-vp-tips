@@ -124,6 +124,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1000px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -646,15 +703,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">17</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">19</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">15</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">16</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">24254</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">24500</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -1086,7 +1143,7 @@
 <p> The speedup ratio is an order of magnitude better in this instance. In practice, your performance ratios will be somewhere between our two pseudo-artificial readings.</p>
 <h2 id="Using-rsync-Over-SSH"><a href="#Using-rsync-Over-SSH" class="headerlink" title="Using rsync Over SSH"></a>Using rsync Over SSH</h2><p><code>rsync</code> supports backing up across an SSH connection. We need to provide the user account name and the SSH location on the command line. We’re using a network name here, but you can also use an IP address.</p>
 <p> Note the “:” between the SSH connection details and the start of the network path on the remote target.</p>
-<p>rsync -ravz –partial &#x2F;home&#x2F;dave&#x2F;Documents&#x2F; <a class="link"   href="mailto:&#x64;&#x61;&#x76;&#x65;&#x40;&#x73;&#x75;&#x6c;&#x61;&#99;&#111;&#46;&#x6c;&#111;&#99;&#97;&#x6c;" >&#x64;&#x61;&#x76;&#x65;&#x40;&#x73;&#x75;&#x6c;&#x61;&#99;&#111;&#46;&#x6c;&#111;&#99;&#97;&#x6c; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>:&#x2F;home&#x2F;dave&#x2F;Backups&#x2F;</p>
+<p>rsync -ravz –partial &#x2F;home&#x2F;dave&#x2F;Documents&#x2F; <a class="link"   href="mailto:&#x64;&#x61;&#x76;&#x65;&#64;&#115;&#117;&#x6c;&#97;&#99;&#111;&#46;&#108;&#x6f;&#99;&#x61;&#108;" >&#x64;&#x61;&#x76;&#x65;&#64;&#115;&#117;&#x6c;&#97;&#99;&#111;&#46;&#108;&#x6f;&#99;&#x61;&#108; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>:&#x2F;home&#x2F;dave&#x2F;Backups&#x2F;</p>
 <p><img  
                      lazyload
                      src="/images/loading.svg"
