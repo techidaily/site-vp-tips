@@ -1,7 +1,7 @@
 ---
 title: "Optimizarea Imobilului Târzie: Călători, Bunele Și Moduri De Transport Neîmburit În Rezoluția Unui Complex Hotelor Vechi"
-date: 2024-10-10T20:45:07.433Z
-updated: 2024-10-14T05:40:41.886Z
+date: 2024-10-14T16:45:31.098Z
+updated: 2024-10-20T02:38:42.932Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768de909ec1df6dcfa19126cf1.jpg
@@ -156,6 +156,13 @@ Afficher plus
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
@@ -213,13 +220,6 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
@@ -285,6 +285,13 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -313,6 +320,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
@@ -331,14 +345,14 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Optez pour un SSD
 
@@ -351,13 +365,6 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 ### Mettez à niveau votre GPU/CPU
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
@@ -372,13 +379,6 @@ La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise �
 De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente régulièrement, car les titres les plus récents recommandent une mémoire vive de 12 Go. 
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Désactiver l'algorithme de Nagle
 
@@ -400,19 +400,6 @@ Pour overclocker :
 2. Utilisez un programme comme MSI Afterburner pour augmenter l'horloge centrale de la carte. Faites-le par intervalles de 10 MHz et réinitialisez les benchmarks au fur et à mesure.
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
 
@@ -442,18 +429,18 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
 
@@ -503,16 +490,16 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Foire aux questions 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comment optimiser mon ordinateur pour les jeux ?
 
@@ -534,10 +521,10 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Comment faire fonctionner un ordinateur plus rapidement ?
@@ -553,6 +540,13 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comment obtenir 60 fps dans un jeu ?
 
@@ -607,24 +601,19 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-mastering-pip-navigating-netflixs-floating-screen-functionality/"><u>[New] 2024 Approved Mastering PIP Navigating Netflix's Floating Screen Functionality</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-oscillation-crafting-box/"><u>[New] 2024 Approved Oscillation Crafting Box</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-perfecting-online-presence-screen-sharing-techniques/"><u>[New] 2024 Approved Perfecting Online Presence Screen Sharing Techniques</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/roadcast-your-google-meet-directly-to-youtubes-stage-for-2024/"><u>[New] Broadcast Your Google Meet Directly to YouTube's Stage for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-dairy-digest-complete-review-of-ice-cream-recorder-app/"><u>[New] In 2024, Dairy Digest Complete Review of Ice Cream Recorder App</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-mirrorless-mastery-10-best-stabilizing-choices-for-2024/"><u>[New] Mirrorless Mastery 10 Best Stabilizing Choices for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-netizen-humorist-platform/"><u>[New] Netizen Humorist Platform</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-elite-cgi-green-screen-tutorial-for-kinemaster-enthusiasts/"><u>[Updated] Elite CGI Green Screen Tutorial for Kinemaster Enthusiasts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-greatest-copyright-free-pubg-image-anthology/"><u>[Updated] Greatest Copyright-Free PUBG Image Anthology</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-ideal-tactic-fusing-gopro-footage-into-a-unified-360-video-experience/"><u>[Updated] Ideal Tactic Fusing GoPro Footage Into a Unified 360 Video Experience</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-meme-masterpieces-iphones-here/"><u>[Updated] In 2024, Meme Masterpieces, iPhones Here</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-unveiling-the-secrets-of-fisheye-imaging/"><u>[Updated] Unveiling the Secrets of Fisheye Imaging</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-unleash-picture-potential-with-premium-online-grids/"><u>2024 Approved Unleash Picture Potential with Premium Online Grids</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convert-vob-to-asf-files-without-cost-with-ease-try-movavis-online-solution/"><u>Convert Vob to Asf Files without Cost with Ease - Try Movavi's Online Solution</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-tecno-pop-8-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Tecno Pop 8 Phone? Unlock It Now</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-infinix-note-30-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Infinix Note 30 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-kid-approved-drone-choices-summarized-for-2024/"><u>Top Kid-Approved Drone Choices Summarized for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-xml-files-demystified-a-beginners-guide-to-fcpx-for-2024/"><u>Updated XML Files Demystified A Beginners Guide to FCPX for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/your-ultimate-companion-for-mastering-mov-recordings-on-windows-10/"><u>Your Ultimate Companion for Mastering MOV Recordings on Windows 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-quick-file-sync-pc-content-to-iphone-compatibility/"><u>[New] 2024 Approved Quick File Sync PC Content to iPhone Compatibility</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-15-open-world-games-to-beat-the-climb/"><u>[New] 2024 Approved Top 15 Open World Games to Beat the Climb</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-engage-enrich-and-excel-top-ideas-for-productive-podcast-sessions/"><u>[New] In 2024, Engage, Enrich & Excel Top Ideas for Productive Podcast Sessions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-transform-photos-create-masterpieces-with-leading-apps-for-2024/"><u>[New] Transform Photos, Create Masterpieces with Leading Apps for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-premiere-pros-best-practices-free-template-samples/"><u>[Updated] Premiere Pro's Best Practices FREE Template Samples</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-an-in-depth-look-at-copyright-and-sharing-tunes-on-instagram/"><u>2024 Approved An In-Depth Look at Copyright and Sharing Tunes on Instagram</u></a></li>
+<li><a href="https://facebook.techidaily.com/8-essential-calendar-tools-to-plan-your-feeds/"><u>8 Essential Calendar Tools to Plan Your Feeds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/descubre-los-mejores-convertidores-de-video-gratuitos-para-windows-pertinentos-a-la-version-11-analisis-detallado/"><u>Descubre Los Mejores Convertidores De Vídeo Gratuitos Para Windows Pertinentos a La Versión 11 | Análisis Detallado</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-xiaomi-14-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Xiaomi 14 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-zero-to-hero-the-metaverse-avatar-blueprint/"><u>From Zero to Hero The Metaverse Avatar Blueprint</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/low-light-iphone-luminary-techniques/"><u>Low-Light iPhone Luminary Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/premium-selection-the-ultimate-15-video-devices-for-2024/"><u>Premium Selection The Ultimate 15 Video Devices for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-magic-6-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Magic 6 has been deleted.</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-definitive-fixes-to-your-windows-10-update-problems-tackling-error-0x80240034/"><u>The Definitive Fixes to Your Windows 10 Update Problems - Tackling Error 0X80240034</u></a></li>
 </ul></div>
 
