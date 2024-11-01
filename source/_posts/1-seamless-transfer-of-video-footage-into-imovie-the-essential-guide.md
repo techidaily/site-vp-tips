@@ -1,7 +1,7 @@
 ---
 title: "1. Seamless Transfer of Video Footage Into iMovie: The Essential Guide"
-date: 2024-09-12 13:10:20
-updated: 2024-09-13 12:25:45
+date: 2024-10-26T22:28:35.456Z
+updated: 2024-10-31T17:30:12.331Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/876b4cf01691e6a76beb54576565375ccfec6aaf58375585e8d7cab9fd27ade4.jpg
@@ -182,6 +182,13 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
 ### Régler les paramètres graphiques d'un jeu
@@ -214,6 +221,19 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -236,6 +256,13 @@ Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour active
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Gérez vos heures actives
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
@@ -253,6 +280,13 @@ Pour définir vos heures actives, appuyez sur la   **touche Windows** \+ **I**, 
 Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérablement, de sorte que vous ne pouvez pas définir une heure de repos spécifique, nous vous conseillons (en plus de changer vos habitudes de sommeil) de vous assurer que Windows vous rappelle chaque fois qu'il voudra redémarrer afin que, si cela se produit pendant que vous jouez, vous puissiez toujours le retarder.
 
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Réglez les paramètres de vos effets visuels
 
@@ -310,6 +344,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver l'accélération de la souris
 
 Celui-ci n'a rien à voir avec l'amélioration des performances de votre PC en matière de jeu, mais il s'agit plutôt d'un conseil pour vous permettre d'améliorer vos performances personnelles en matière de jeu. L'accélération de la souris est un paramètre qui fait bouger votre souris en se basant non seulement sur la détection des mouvements physiques mais aussi sur la vitesse. Cette option rend en fait les mouvements de votre souris moins précis, car elle ajoute un paramètre supplémentaire au mouvement que vous transmettez à la souris. Étant donné que la précision est cruciale pour la précision de la visée dans les jeux de tir à la première personne, si vous êtes un fan de Call of Duty, Counter-Strike ou Overwatch, vous devriez absolument désactiver cette option.
@@ -325,6 +366,13 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Optez pour un SSD
 
@@ -373,6 +421,13 @@ Pour overclocker :
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver SysMain et Prefetch
 
 C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes essaient de vous aider à accéder plus rapidement aux données, mais ils ajoutent finalement des opérations inutiles qui ralentissent les jeux. Voici comment les désactiver :
@@ -394,6 +449,13 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Double-cliquez sur la valeur **REG\_DWORD EnablePrefetcher**.
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -536,11 +598,33 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-keeping-your-views-private-top-5-insta-tools/"><u>[New] 2024 Approved Keeping Your Views Private - Top 5 Insta Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ableton-tricks-to-subtly-lower-track-amplitude-for-2024/"><u>[New] Ableton Tricks to Subtly Lower Track Amplitude for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-optimizing-tasks-in-teams-with-these-8-social-media-apps-for-2024/"><u>[New] Optimizing Tasks in Teams with These 8 Social Media Apps for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-exclusive-roundup-10-essential-cost-free-iphone-selfie-editors/"><u>[Updated] 2024 Approved Exclusive Roundup 10 Essential, Cost-Free iPhone Selfie Editors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-perfect-precision-the-best-39-video-trimming-tools-from-google-play/"><u>[Updated] 2024 Approved Perfect Precision The Best 39 Video-Trimming Tools From Google Play</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-social-media-savvy-your-guide-to-success/"><u>[Updated] Social Media Savvy Your Guide to Success</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/bebops-avian-evolution-strikes-again-with-parrot-2/"><u>Bebop's Avian Evolution Strikes Again with Parrot 2</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/captivate-your-imagery-with-illustrators-motion-blur-tricks/"><u>Captivate Your Imagery with Illustrator's Motion Blur Tricks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/chuckles-churner-visual-composer/"><u>Chuckles Churner Visual Composer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/from-streaming-to-savings-preserving-your-internet-tunes-for-2024/"><u>From Streaming to Savings Preserving Your Internet Tunes for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-fix-windows-11-usb-detection-issues-step-by-step-guide/"><u>How to Fix Windows 11 USB Detection Issues - Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-xiaomi-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Xiaomi</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-share-vimeo-video-online/"><u>How to Share Vimeo Video Online</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-14-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone 14 when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-honor-magic-v2-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Honor Magic V2 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-motorola-moto-g24-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Motorola Moto G24 Through Google Earth?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-innovative-methods-for-straightforward-ios-screenshots/"><u>In 2024, Innovative Methods for Straightforward IOS Screenshots</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-unrivaled-streaming-experience-ranking-the-leaders/"><u>In 2024, Unrivaled Streaming Experience Ranking the Leaders</u></a></li>
+</ul></div>
+

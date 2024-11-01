@@ -1,7 +1,7 @@
 ---
 title: 網路直接無成本解決 AMV與MP3之間的轉化 - 使用 Movavi 影片編輯器
-date: 2024-10-21T22:51:54.214Z
-updated: 2024-10-25T19:27:59.673Z
+date: 2024-10-30T19:23:25.761Z
+updated: 2024-10-31T22:54:58.916Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559c1a26eb52ce7f94ac706c0b.jpg
@@ -214,6 +214,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -237,10 +244,10 @@ Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour active
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Gérez vos heures actives
@@ -273,13 +280,6 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
@@ -291,6 +291,13 @@ Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez da
 Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive souvent que de nouveaux bogues apparaissent dans les nouvelles mises à jour ou que certains éléments cessent de fonctionner.
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver les notifications
 
@@ -320,28 +327,15 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Désactiver l'accélération de la souris
@@ -396,6 +390,13 @@ Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et s
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Surcadencez votre carte graphique
 
 Overclocker vos cartes graphiques signifie les pousser au-delà des spécifications affichées sur la boîte. De nombreuses cartes récentes disposent d'une fonction automatique permettant de le faire dans les paramètres de contrôle, mais il existe également des moyens de le faire manuellement. Veillez à bien connaître votre carte graphique, car si vous repoussez ses limites, elle risque de surchauffer. 
@@ -441,16 +442,16 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
 
@@ -464,13 +465,6 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 
 
@@ -503,6 +497,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Foire aux questions 
@@ -527,10 +528,10 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Comment faire fonctionner un ordinateur plus rapidement ?
@@ -564,13 +565,6 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -607,21 +601,21 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-visual-victory-top-10-online-apps-to-sharpen-your-snaps/"><u>[New] In 2024, Visual Victory Top 10 Online Apps to Sharpen Your Snaps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-speed-up-techniques-locating-deleted-reddit-posts/"><u>[New] Speed-Up Techniques Locating Deleted Reddit Posts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-accelerated-scanning-process-for-windows/"><u>[Updated] Accelerated Scanning Process for Windows</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-crafting-news-end-credits-a-step-by-step-guide/"><u>[Updated] Crafting News End Credits A Step-by-Step Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-20plus-cool-metaverse-memes-a-deep-dive-guide/"><u>[Updated] In 2024, 20+ Cool Metaverse Memes A Deep Dive Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-the-top-10-filmora-traits-fueling-video-magic/"><u>2024 Approved The Top 10 Filmora Traits Fueling Video Magic</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/download-asus-aura-customization-packs-for-pc-windows-1011-boost-your-desktop-look/"><u>Download ASUS Aura Customization Packs for PC (Windows 10/11) – Boost Your Desktop Look</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-analysis-rarity-of-field-tested-qualcomm-copilotplus-computers-only-a-handful-56-tested-in-wild-confirms-benchmark-maker/"><u>Expert Analysis: Rarity of Field-Tested Qualcomm Copilot+ Computers - Only a Handful (56) Tested in Wild, Confirms Benchmark Maker</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-the-disconnection-problem-for-malwarebytes-in-windows-11/"><u>Fixing the Disconnection Problem for Malwarebytes in Windows 11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/from-drama-to-film-shaping-realistic-dialogue/"><u>From Drama to Film Shaping Realistic Dialogue</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/get-acquainted-with-the-10-best-sketching-apps-for-chrome-os/"><u>Get Acquainted with The 10 Best Sketching Apps for Chrome OS</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-editorial-powerhouses-free-for-web-enthusiasts/"><u>In 2024, Editorial Powerhouses Free for Web Enthusiasts</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-xiaomi-civi-3-disney-100th-anniversary-edition-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Xiaomi Civi 3 Disney 100th Anniversary Edition Phone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/secrets-to-successful-twitpicingvideo-edition-for-2024/"><u>Secrets to Successful Twitpicing—Video Edition for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-streamers-guide-to-best-free-options-across-every-system/"><u>Ultimate Streamer's Guide to Best Free Options Across Every System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/whys-my-computer-so-quiet-solving-windows-11s-silent-song-of-noise-free-dilemma/"><u>Why's My Computer So Quiet? Solving Windows 11'S Silent Song of Noise-Free Dilemma</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-lowering-sounds-strength-progressively-with-lumafusion/"><u>[New] 2024 Approved Lowering Sounds' Strength Progressively with Lumafusion</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-twist-your-content-strategy-inverting-videos-for-instagram/"><u>[Updated] Twist Your Content Strategy Inverting Videos for Instagram</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-social-star-search-leading-view-counts-on-youtube/"><u>2024 Approved Social Star Search Leading View Counts on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/advancing-digital-adaptation-in-modern-insurance-practices/"><u>Advancing Digital Adaptation in Modern Insurance Practices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/boost-your-web-presence-with-cookiebot-technology-integration/"><u>Boost Your Web Presence with Cookiebot Technology Integration</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comment-lassureur-sante-public-numero-un-en-allemagne-optimise-la-gestion-papier-avec-abbyy-recognition-server/"><u>Comment L'Assureur Santé Public Numéro Un en Allemagne Optimise La Gestion Papier Avec ABBYY Recognition Server</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comment-lexternalisation-avec-abbyy-flexicapture-reduit-les-couts-de-production-pour-une-entreprise-specialisee/"><u>Comment L'externalisation Avec ABBYY FlexiCapture Réduit Les Coûts De Production Pour Une Entreprise Spécialisée</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comment-nickel-utilise-abbyy-pour-stimuler-lexpansion-francaise-et-influencer-le-marche/"><u>Comment Nickel Utilise ABBYY Pour Stimuler L'Expansion Française Et Influencer Le Marché</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cookiebot-driven-analytics-elevate-your-websites-performance/"><u>Cookiebot-Driven Analytics: Elevate Your Website's Performance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cookiebot-driven-automation-streamline-your-data-collection/"><u>Cookiebot-Driven Automation: Streamline Your Data Collection</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-realme-v30t-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Realme V30T ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-7-voice-changer-recorder-apps/"><u>In 2024, Top 7 Voice Changer Recorder Apps</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/j5-tactical-v1-pro-flashlight-review/"><u>J5 Tactical V1-Pro Flashlight Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-game-files-with-steams-space-control/"><u>Streamlining Game Files with Steam's Space Control</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-itunes-find-my-iphone-what-does-offline-mean-and-solutions/"><u>Understanding iTunes Find My iPhone: What Does 'Offline' Mean & Solutions</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/understanding-spf-records-in-email-systems-a-deep-dive-with-massmail/"><u>Understanding SPF Records in Email Systems: A Deep Dive with MassMail</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Free Techniques: How to Screen Shot Google Maps Using Movavi in Eight Steps"
-date: 2024-10-18T20:31:28.362Z
-updated: 2024-10-25T22:22:43.363Z
+date: 2024-10-29T22:58:39.435Z
+updated: 2024-10-31T17:57:44.588Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/dc7051df6e843885a76d4b1888c76803cc85597e152a2f318edacfe536a43558.jpg
@@ -152,9 +152,23 @@ Désactivez les services d'arrière-plan pour accélérer votre ordinateur porta
 
 Afficher plus
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Choix spécial : [Gecata by Movavi](https://www.gecata.com/)
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
@@ -182,14 +196,14 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
 
-Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
 ### Régler les paramètres graphiques d'un jeu
 
@@ -220,6 +234,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
@@ -285,6 +306,13 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -293,13 +321,6 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 2. Tapez "Notifications" dans la barre de recherche et sélectionnez **Notifications et paramètres d'actions** dans les résultats.
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Régler le panneau de contrôle NVIDIA
 
@@ -311,13 +332,6 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 4. Mode faible latence : Activez-le.
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Régler le centre de contrôle AMD/ATI
 
@@ -345,26 +359,19 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
+<span id="1982459">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Optez pour un SSD
@@ -374,13 +381,6 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU/CPU
 
@@ -443,6 +443,13 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -456,16 +463,10 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
@@ -571,13 +572,6 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Avez-vous des questions ?
 
 [Visitez notre centre d'assistance](https://tools.techidaily.com/movavi/products/)
@@ -613,20 +607,22 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-complete-guide-to-using-zd-softs-recording-tools/"><u>[New] 2024 Approved Complete Guide to Using ZD Soft's Recording Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ideal-gaming-displays-top-5-ps5-edition/"><u>[New] Ideal Gaming Displays Top 5 (PS5 Edition)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-ai-assisted-naming-wizards-the-best-10-for-podcasters/"><u>[New] In 2024, AI-Assisted Naming Wizards The Best 10 for Podcasters</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-master-stitching-gopro-content-in-extended-panorama-videos-for-2024/"><u>[New] Master Stitching GoPro Content in Extended Panorama Videos for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-method-for-mastery-in-morphvox-usage-for-2024/"><u>[New] The Ultimate Method for Mastery in MorphVOX Usage for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-trending-decor-ideas-for-livestreaming/"><u>[New] Trending Decor Ideas for Livestreaming</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-a-thorough-guide-to-thriving-in-stardews-hidden-landmark-ginger-isle/"><u>[Updated] A Thorough Guide to Thriving in Stardew's Hidden Landmark Ginger Isle</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-essential-submarine-cinematography-tools-for-gopro/"><u>[Updated] In 2024, Essential Submarine Cinematography Tools for Gopro</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-swift-skim-windows-file-compilation-for-2024/"><u>[Updated] Swift Skim Windows File Compilation for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/effortless-setup-of-streamlabs-for-mac-users-via-obs/"><u>Effortless Setup of Streamlabs for Mac Users via OBS</u></a></li>
-<li><a href="https://win-popular.techidaily.com/enhance-your-books-flipping-experience-with-premium-alpha-templates-discover-at-flipbuildercom/"><u>Enhance Your Book's Flipping Experience with Premium Alpha Templates - Discover at FlipBuilder.com</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-v30-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo V30 to iPad | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-break-free-the-chuckles-the-most-hilarious-facebook-detainment-stories/"><u>In 2024, Break Free the Chuckles The Most Hilarious Facebook Detainment Stories</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-from-compressed-to-captioned-zip-to-srt-effortlessly/"><u>In 2024, From Compressed To Captioned Zip to .Srt Effortlessly</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unearthing-the-skies-hubsan-h501x4-quad-drone-analysis/"><u>Unearthing the Skies Hubsan H501X4 Quad Drone Analysis</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-art-of-image-hunting-on-pexelscom/"><u>[New] In 2024, The Art of Image Hunting on Pexels.com</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-quicken-video-playback-on-instagram-apps/"><u>[Updated] 2024 Approved Quicken Video Playback on Instagram Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-peek-into-vegaspros-future/"><u>[Updated] A Peek Into VegasPro's Future</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-comprehensive-examination-of-syma-x5c-perfect-for-uav-newbies-for-2024/"><u>[Updated] Comprehensive Examination of Syma X5C Perfect for UAV Newbies for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-monitor-magic-top-choices-to-transform-your-xbox-series-x-playtime-for-2024/"><u>[Updated] Monitor Magic Top Choices to Transform Your Xbox Series X Playtime for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-instant-tutorial-green-screen-techniques-unveiled/"><u>2024 Approved Instant Tutorial Green Screen Techniques Unveiled</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/extensive-movement-review-2023/"><u>Extensive Movement Review 2023</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimize-your-websites-pages-for-better-search-engine-ranking/"><u>Optimize Your Website's Pages for Better Search Engine Ranking</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/pan-europaische-erkenntnisse-haufigste-belastungen-von-arbeitnehmern-durch-unpopulare-routineaufgaben/"><u>Pan-Europäische Erkenntnisse: Häufigste Belastungen Von Arbeitnehmern Durch Unpopuläre Routineaufgaben</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/private-executives-online-workshop-unlocking-exclusive-strategies-in-the-insurance-sector/"><u>Private Executives' Online Workshop: Unlocking Exclusive Strategies in the Insurance Sector</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/revolutionize-user-experience-smart-targeting-via-the-advanced-cookiebot-system/"><u>Revolutionize User Experience: Smart Targeting via the Advanced Cookiebot System</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/revolutionizing-the-service-sector-the-impact-of-intelligent-capture-technology-by-abbyy/"><u>Revolutionizing the Service Sector: The Impact of Intelligent Capture Technology by ABBYY</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-challenge-of-business-processes-insights-from-the-abbyy-perspective/"><u>The Challenge of Business Processes: Insights From the ABBYY Perspective</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-essential-guide-to-integrated-pdf-solutions-for-legal-practices-boost-efficiency-with-abbyy/"><u>The Essential Guide to Integrated PDF Solutions for Legal Practices: Boost Efficiency with ABBYY</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transform-your-paperwork-into-digital-format-using-iphones-best-ocr-scanner-pluspdf-converter/"><u>Transform Your Paperwork Into Digital Format Using iPhone's Best OCR Scanner +PDF Converter!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-features-a-complete-review-of-the-onetastic-extension-for-ms-onenote/"><u>Unveiling the Features: A Complete Review of the Onetastic Extension for MS OneNote</u></a></li>
 </ul></div>
 
