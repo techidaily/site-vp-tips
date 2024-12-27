@@ -1,7 +1,7 @@
 ---
 title: "Free Techniques: How to Screen Shot Google Maps Using Movavi in Eight Steps"
-date: 2024-12-17T09:25:52.036Z
-updated: 2024-12-17T23:08:41.538Z
+date: 2024-12-24T16:33:41.865Z
+updated: 2024-12-26T23:45:03.777Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/dc7051df6e843885a76d4b1888c76803cc85597e152a2f318edacfe536a43558.jpg
@@ -28,10 +28,6 @@ Nous utilisons des cookies pour améliorer les services que nous vous proposons.
 [Télécharger](https://tools.techidaily.com/movavi/products/)
 
 ![](https://cdn.staticont.net/page_type/0023/57/3a45fddc2fda7d8feb51ac11d684aec7db796584.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 
 
@@ -156,10 +152,6 @@ Désactivez les services d'arrière-plan pour accélérer votre ordinateur porta
 
 Afficher plus
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Choix spécial : [Gecata by Movavi](https://www.gecata.com/)
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
@@ -184,11 +176,19 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
@@ -236,10 +236,6 @@ Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
 Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** \+ **I**, tapez "mode jeu" dans la boîte de recherche et cliquez sur **Contrôler le mode jeu pour optimiser votre PC pour les jeux**.
@@ -248,13 +244,13 @@ Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour active
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Gérez vos heures actives
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
 
@@ -282,6 +278,10 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
@@ -294,10 +294,6 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -308,7 +304,7 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Régler le panneau de contrôle NVIDIA
@@ -349,6 +345,10 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Optez pour un SSD
 
@@ -396,6 +396,10 @@ Pour overclocker :
 2. Utilisez un programme comme MSI Afterburner pour augmenter l'horloge centrale de la carte. Faites-le par intervalles de 10 MHz et réinitialisez les benchmarks au fur et à mesure.
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
 
@@ -448,6 +452,10 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 
 
 Désactiver les services d'arrière-plan Windows
@@ -480,11 +488,7 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -521,7 +525,7 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 5. Installez de la RAM supplémentaire
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Windows 10 est-il meilleur pour les jeux ?
@@ -545,10 +549,6 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -585,24 +585,15 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-essential-checklist-for-adding-videos-to-tweets/"><u>[Updated] In 2024, The Essential Checklist for Adding Videos to Tweets</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-stable-frames-photo-and-video-shake-control/"><u>[Updated] Stable Frames Photo & Video Shake Control</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-prime-propeller-picks-unveiling-top-5-motors-for-drones/"><u>2024 Approved Prime Propeller Picks Unveiling Top 5 Motors for Drones</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-time-warp-footage-with-phantom-lens-expertise/"><u>2024 Approved Time Warp Footage with Phantom Lens Expertise</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-the-mystery-phantoms-temporal-expansion-capabilities/"><u>2024 Approved Unlocking the Mystery Phantom’s Temporal Expansion Capabilities</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-nokia-g22-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Nokia G22 to Roku | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/behind-the-scenes-a-comprehensive-review-of-lgs-digital-cinema-31mu97-b-monitor/"><u>Behind the Scenes A Comprehensive Review of LG's Digital Cinema 31MU97-B Monitor</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/digiarty-winxdvd-understanding-our-satisfaction-guarantee-and-refund-procedure/"><u>Digiarty WinXDVD: Understanding Our Satisfaction Guarantee and Refund Procedure</u></a></li>
-<li><a href="https://win-news.techidaily.com/diy-tutorial-crafting-a-windows-1110-iso-image-using-your-existing-installation-files/"><u>DIY Tutorial: Crafting a Windows 11/10 ISO Image Using Your Existing Installation Files</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/fachkundige-unterstutzung-im-internet-fur-die-nutzung-von-winx-dvd-ripping-und-videobearbeitungssoftware/"><u>Fachkundige Unterstützung Im Internet Für Die Nutzung Von WinX DVD Ripping Und Videobearbeitungssoftware</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/how-to-import-and-export-av1-in-adobe-premiere-pro-a-comprehensive-guide/"><u>How to Import and Export AV1 in Adobe Premiere Pro: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-unveiling-2023s-enhanced-sony-s3700-overview/"><u>In 2024, Unveiling 2023'S Enhanced Sony S3700 Overview</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/lunch-tuna-salad-over-mixed-greens-with-cherry-tomatoes-cucumber-olives-hard-boiled-egg/"><u>Lunch: Tuna Salad over Mixed Greens with Cherry Tomatoes, Cucumber, Olives, Hard-Boiled Egg</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/master-your-data-with-winx-mediatrans-the-premier-iphone-ipad-file-transfer-solution-between-mac-or-windows-systems/"><u>Master Your Data with WinX MediaTrans™: The Premier iPhone iPad File Transfer Solution Between Mac or Windows Systems</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-to-digitizing-your-vhs-tapes-into-dvd-format-using-a-computer/"><u>Step-by-Step Guide to Digitizing Your VHS Tapes Into DVD Format Using a Computer</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-accessing-your-dvd-collection-in-windows-media-player/"><u>Step-by-Step Guide: Accessing Your DVD Collection in Windows Media Player</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-duplicating-your-dvd-content-onto-a-new-disc-using-windows-11-10-8-or-7/"><u>Step-by-Step Guide: Duplicating Your DVD Content Onto a New Disc Using Windows 11, 10, 8, or 7</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-rumored-m4-mac-mini-pricing-estimates-expected-debut-and-in-depth-component-breakdown/"><u>Unveiling the Rumored M4 Mac Mini: Pricing Estimates, Expected Debut & In-Depth Component Breakdown</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/winix-video-professionelles-screen-recording-mit-integrierter-mikrofon-und-kamerafunktion-fur-windows/"><u>Winix Video: Professionelles Screen Recording Mit Integrierter Mikrofon- Und Kamerafunktion Für Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-review-magix-video-edit-suite/"><u>[New] 2024 Approved Review MAGIX Video Edit Suite</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-screencapture-simplified-the-comprehensive-camstudio-review-for-2024/"><u>[New] ScreenCapture Simplified The Comprehensive CamStudio Review for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-cutting-to-a-consensus-in-news-endings/"><u>[Updated] 2024 Approved Cutting to a Consensus in News Endings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-how-to-save-photo-from-video-in-windows-11-photos-app/"><u>[Updated] 2024 Approved How to Save Photo From Video in Windows 11 Photos App</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-discover-optimal-free-webm-players-for-your-browser-for-2024/"><u>[Updated] Discover Optimal Free WebM Players for Your Browser for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-crafting-visibility-on-youtube-the-ultimate-guide-to-featured-channel-placement/"><u>2024 Approved Crafting Visibility on YouTube The Ultimate Guide to Featured Channel Placement</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pastel-cooling-showdown-extrememugurisu-4g-strawberry-edition-challenges-the-classic-thermal-grizzlys-kryonaut-in-aroma-and-efficiency/"><u>Pastel Cooling Showdown: ExtremeMUGURISU 4G Strawberry Edition Challenges the Classic Thermal Grizzly's Kryonaut in Aroma and Efficiency</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/samsung-galaxy-wearable-masterpiece-a-detailed-scrutiny-of-design-and-performance/"><u>Samsung Galaxy Wearable Masterpiece – A Detailed Scrutiny of Design & Performance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/virtual-cosmos-navigating-10-cinematic-worlds-in-science-fiction-for-2024/"><u>Virtual Cosmos Navigating 10 Cinematic Worlds in Science Fiction for 2024</u></a></li>
 </ul></div>
 
