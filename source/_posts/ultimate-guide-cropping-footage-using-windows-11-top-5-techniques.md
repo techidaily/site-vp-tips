@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Cropping Footage Using Windows 11 – Top 5 Techniques"
-date: 2024-12-17T05:44:22.253Z
-updated: 2024-12-17T22:43:21.451Z
+date: 2025-01-11T01:04:55.694Z
+updated: 2025-01-12T05:16:28.956Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b05fd8fefcba56a2f27460108.jpg
@@ -56,7 +56,7 @@ Movavi Photo Editor
 [![](https://cdn.staticont.net/pages/0023/55/a1d7ead2c461be068f9b2b2ab55c0f6d943eb66d.webp)](https://tools.techidaily.com/movavi/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Alex Weng](https://tools.techidaily.com/movavi/products/)
@@ -162,12 +162,16 @@ Movavi 的首要目標是就是為您提供經過驗證的資訊。為了確保�
 ![](https://cdn.staticont.net/default/0023/55/0a43aca722d72a76f5dadbc9d81350a623b7681e.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Windows Photo Viewer 圖片瀏覽器的最佳替代方案
 
 接著我們就來介紹一下 Windows 10 的 7 大桌面式相片檢視器。各個軟體都有不同程度的編輯功能，包括可以新增外掛程式，使軟體更適合專業任務，如批次編輯、製作電影或動畫等等。無論您是要快速處理大型圖像、簡單的使用者介面還是打開各類檔案格式的能力，都請您繼續閱讀，以便找到最適合自己的相片檢查器。
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 
 
@@ -183,10 +187,6 @@ Movavi 的首要目標是就是為您提供經過驗證的資訊。為了確保�
 
 ![](https://cdn.staticont.net/page_type/0023/47/9528cbd19dc376aa4f2986e4928cb80d2a982827.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Photo Editor 是Movavi最新一代圖片瀏覽器，不僅能秀圖，也支援相片管理，甚至還能為你做好照片編輯! 在瀏覽與管理方面，它可透過無痛管理的方式，輕鬆地過濾大量相片。最棒的是，它還支援臉部識別功能，能透過AI技術幫每位家人自動建立相簿，便於日後分類與觀賞。在編輯方面，本app保留了實用功能與簡易操作。但版面與工具重新調整排列，進一步提高使用效率。用戶直接拖放照片檔到中央編輯區，即可開始工作，照著直覺進行真的超簡單! 相片編輯亦導入大量AI功能，智慧型四功能包括:HDR照明、增強 、去除雜訊，以及「AI 還原」含照片著色 (皆老照片修復專用)。Photo Editor是一款強大的照片瀏覽器，運作既可靠又穩定。
 
 優點：
@@ -197,6 +197,10 @@ Photo Editor 是Movavi最新一代圖片瀏覽器，不僅能秀圖，也支援�
 
 * 圖片都必須上傳至軟體
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 
 
 [**Apowersoft Photo Viewer**](https://tools.techidaily.com/apowersoft/products/)
@@ -204,7 +208,7 @@ Photo Editor 是Movavi最新一代圖片瀏覽器，不僅能秀圖，也支援�
 ![](https://cdn.staticont.net/page_type/0013/45/45fecd0579324a4520e69e9420f2563d91051f49.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 使用者首次啟動 Apowersoft Photo Viewer 並開啟相片後，馬上就會注意到沒有任何控制項或工具。這是因為控制項或工具就巧妙隱藏在某個彈出式選單列之中，只要將滑鼠游標懸停特定位置 (底部和兩側)，選單列就會出現。這使得本相片檢視器成為最簡潔的應用程式之一，而圖像則會填滿整個視窗，成為焦點。本軟體能在圖像上充分新增形狀、線條和文字，但外觀和行為卻和早期的 Microsoft Paint 非常相似。不過，該軟體的優點是可以儲存到雲端，也可以直接將圖片分享到社群媒體上，讓使用者能輕易在網際網路上與朋友和家人分享照片。
@@ -227,6 +231,10 @@ Apowersoft Photo Viewer 也是十大照片管理工具的首選之一。要完�
 
 ![](https://cdn.staticont.net/page_type/0013/45/c659fda2308b16d082fd5654e28d9733cac48c1a.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的圖像編輯，以及快速檢視/比較圖片等方面，擁有卓越的成績。在處理大型圖像檔時，速度有時可能會減慢，但在一般的解析度下，該軟體能夠瞬間載入任何相片。左上角也有目錄式瀏覽，讓您不用匯入照片，就能輕鬆瀏覽電腦和硬碟內容。縮圖十分清晰，而且在捲動所述縮圖時，還會擴展為特寫視圖。值得注意的是，儘管 FastStone Image Viewer 對於個人和教育用途是免費的，但若要用於商業用途，則需要購買授權。授權需花費 34.95 美元，不過對多數人來說，這都不是問題。
 
 優點：
@@ -236,6 +244,10 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 缺點：
 
 * 對普通使用者而言工具太多了
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 
 
@@ -252,10 +264,6 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 缺點：
 
 * 使用者介面過時且不符合大眾口味
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 
 
@@ -319,10 +327,6 @@ Movavi Photo Editor
 
 ![Movavi Photo Editor](https://cdn.staticont.net/products/0023/55/9a17d17e3b725cbe831e0805991a555d41a72bca.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 常見問題集
 
 ### 最好的 Windows 相片檢視器是什麼？
@@ -340,16 +344,12 @@ Movavi Photo Editor
 
 我們認為 Movavi Photo Editor 可以贏得這個頭銜! 本app不僅可秀圖 & 瀏覽照片，亦可用來分類與組織照片。透過便利的方式，輕鬆解決管理大批照片的難題。而且，它的AI臉部識別技術，能為每位家人自動開設相簿，賞圖與管理都超簡單。本app還內建了實用的照片編輯功能，能順暢地為你處理修圖大小事。只要擁有一套Photo Editor，便足以滿足所有照片相關之日常需求!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 什麼是Windows照片瀏覽器的良好替代品?
 
 這一個項目，我們推薦 Nomacs，它的外觀與操作均十分簡單。除了擁有近似 Windows 10 相片檢視器的基本選項外，Nomacs 還多了一個備註方塊。此欄位可以填入自己的評論或說明，以供日後參考。此外，它的「Tiny Planet」功能，可用來把照片轉換為類似地球儀的正方形裁切照片，相當適合用來產生富有創意的 360 度全景風景照。
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 那一個工具可以稱為最棒的Windows 10免費照片應用程式?
@@ -395,6 +395,10 @@ Movavi Photo Editor
 
 ![有問題嗎?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 有問題嗎?
 
 若找不到問題的答案，請隨時與支援團隊聯繫。
@@ -410,10 +414,6 @@ Movavi Photo Editor
 加入我們就能取得操作指南，也不會錯過特別優惠和應用程式小技巧！
 
 ![](https://cdn.staticont.net/large/0023/57/cf8906a2f1d2d8afde4fca802515cea44f819eb7.jpg)![](https://cdn.staticont.net/large/0023/57/a26cd736bdba4b196180fd96537ae9b75b6253ba.jpg)![](https://cdn.staticont.net/large/0023/57/c2e7dff79a124e18600d55aec01616cde09d6c5b.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 超過 150萬位用戶已訂閱我們的電子報
 
@@ -438,19 +438,21 @@ Movavi Photo Editor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-elite-arsenal-choosing-the-top-7-fps/"><u>[New] Elite Arsenal Choosing the Top 7 FPS</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-brain-teasers-galore-choose-your-top-escapes-for-2024/"><u>[Updated] Brain Teasers Galore Choose Your Top Escapes for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1728478354072-windows-11/"><u>如何修复Windows 11无法访问共享文件的故障措施</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/comment-obtenir-des-films-youtube-pour-les-plateformes-ios-android-et-windows-sans-frais/"><u>Comment Obtenir Des Films YouTube Pour Les Plateformes iOS, Android Et Windows Sans Frais?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/descifra-como-transformar-tu-contenido-de-dvd-seguro-en-formatos-accesibles-como-avi-y-mp4-para-reproducirlos-en-iphone-ipad-y-otros-dispositivos-moviles/"><u>Descifra Cómo Transformar Tu Contenido De DVD Seguro en Formatos Accesibles Como AVI Y MP4 Para Reproducirlos en iPhone, iPad Y Otros Dispositivos Móviles</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725289984335-digiarty/"><u>Digiarty製品が注目される理由：専門家からの洞察と情報紹介</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/hdddvd/"><u>HDD対応！DVDコピー技術入門 - 無料で学ぶ方法</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/ignite-customer-interest-and-increase-revenue-top-15-tools-for-fb-data-analysis-for-2024/"><u>Ignite Customer Interest & Increase Revenue Top 15 Tools for FB Data Analysis for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-free-vecto-art-and-graphic-sites-compared-whos-the-best/"><u>In 2024, Free Vecto Art & Graphic Sites Compared – Who's the Best?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-mini-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 mini? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/panning-for-priceless-pieces-in-open-source-archives-for-2024/"><u>Panning for Priceless Pieces in Open-Source Archives for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/reviving-your-scratched-dvds-steps-to-repair-damage-and-restore-contents/"><u>Reviving Your Scratched DVDs: Steps to Repair Damage & Restore Contents</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-21-edition-exploration-mastering-vegas-pro-for-gambling-for-2024/"><u>[New] '21 Edition Exploration – Mastering Vegas Pro for Gambling for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-lightning-fast-fileshare-on-windows-os/"><u>[New] 2024 Approved Lightning-Fast Fileshare on Windows OS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-mobile-cinematography-gear-for-adventurers/"><u>[New] 2024 Approved Mobile Cinematography Gear for Adventurers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-free-tools-top-5-screen-recorder-apps-for-chrome-devices/"><u>[New] Free Tools Top 5 Screen Recorder Apps for Chrome Devices</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-insta-audio-handbook-choosing-music-wisely/"><u>[New] In 2024, The Insta-Audio Handbook Choosing Music Wisely</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-pixel-realms-unique-alarm-rhythms/"><u>[New] Ultimate Pixel Realms Unique Alarm Rhythms</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevate-your-youtube-channel-perfecting-video-scriptwriting-skills/"><u>[Updated] 2024 Approved Elevate Your YouTube Channel Perfecting Video Scriptwriting Skills</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-perfecting-the-synergy-of-visuals-and-voiceovers-in-videos-for-2024/"><u>[Updated] Perfecting the Synergy of Visuals and Voiceovers in Videos for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-update-instructions-amd-rx-5700-gpu/"><u>Download & Update Instructions: AMD RX 5700 GPU</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-a-guide-to-top-5-text-effects-downloading-sites/"><u>In 2024, A Guide to Top 5 Text Effects Downloading Sites</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-iphone-12-pro-max-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove iPhone 12 Pro Max Device from iCloud</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-honor-x50-gt-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Honor X50 GT? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/realitys-new-horizons-analyzing-metaverse-and-omniverse-worlds-for-2024/"><u>Reality's New Horizons Analyzing Metaverse and Omniverse Worlds for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-guide-to-windows-11-photo-customization-audio-plus-visuals-for-2024/"><u>The Ultimate Guide to Windows 11 Photo Customization Audio + Visuals for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/forming-viewers-into-revenue-youtube-money-secrets-unveiled/"><u>Transforming Viewers Into Revenue YouTube Money Secrets Unveiled</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977557008-update-to-newest-rtx-nvidia-gaming-performance-enhancing-drivers-windows-11-ready/"><u>Update to Newest RTX Nvidia Gaming Performance Enhancing Drivers - Windows 11 Ready</u></a></li>
 </ul></div>
 
