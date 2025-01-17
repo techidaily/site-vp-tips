@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Digital World with Strong, Extended Passwords: Why Length Matters"
-date: 2024-08-31T08:49:24.928Z
-updated: 2024-09-01T08:49:24.928Z
+date: 2025-01-12T20:53:58.954Z
+updated: 2025-01-17T20:16:19.096Z
 tags:
   - web
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/b9236612d2096893f2d14ce12421ffb6e267518dd
 ---
 
 ## Protect Your Digital World with Strong, Extended Passwords: Why Length Matters
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -20,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/b9236612d2096893f2d14ce12421ffb6e267518dd
  We all know the annoyance of creating a new account online: you enter the password you want, and then the service bugs you about minimum length and using special characters. There’s a reason you’re being pushed to do this, though, and in this article I’ll go over why you need a long password.
 
  The short answer is password entropy. That term sounds way more complicated than it really is unless you’re familiar with cryptography, so let’s take a look at what password entropy is.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What's Password Entropy?
 
@@ -33,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/b9236612d2096893f2d14ce12421ffb6e267518dd
 
  The best way to attack a password is through a [dictionary attack](https://extra-skills.techidaily.com/2024-approved-smartest-ways-to-track-wedding-dates-ios-and-android-style/), which is a program that will try to “guess” a password by going through common words and phrases. It’s almost literally throwing the book at your password, going through the entire dictionary and also common variations. Once the password is guessed, the attacker has access.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  Brute Force and Randomness
 
  Dictionary attacks are the definition of brute force, throwing digital muscle at a problem until it’s fixed. They’re effective though, with most attacks cracking a simple password in seconds (cybersecurity firm [Hive Systems](https://www.hivesystems.com/blog/are-your-passwords-in-the-green) maintains a few tables with details on this).
@@ -45,8 +50,9 @@ thumbnail: https://thmb.techidaily.com/b9236612d2096893f2d14ce12421ffb6e267518dd
  However, this doesn’t work as it’s not random. Attackers can easily account for a change like this, and it will take them maybe a nanosecond longer to gain access to an account. For something to be closer to truly random, you have to take humans out of the equation entirely and use a computer to create a random password. The [best password managers](https://facebook-video-content.techidaily.com/updated-how-to-create-facebook-video-ads-with-free-video-creation-kit-for-2024/), programs that create and store passwords for you, have this functionality built in.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Entropy Affects Password Length
 
  Greater entropy creates better passwords, but what exactly makes for better entropy? There are four factors to take into consideration:
@@ -59,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/b9236612d2096893f2d14ce12421ffb6e267518dd
  All of these are important, but length plays a special role, one we need some math to explain.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  How to Calculate Password Entropy
 
  As said earlier, entropy can be measured, which means it can also be calculated. The formula for this is:
@@ -79,8 +86,9 @@ E = log2(RL)
  If we add the digits 0-9 we come to a range of 62, and then once we add the 33 symbol keys, our range is increased to 95\. Using just 8 characters, that gives us an entropy score of 52.56 bits, still well below the cutoff of 64 bits. The only other way to further increase your entropy is to make the password longer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Should Be Your Minimum Password Length?
 
  The question then remains is how long the password should be. For that, we need to decide how many bits of entropy we want. While 64 is the common answer, with the speed of advancement of cracking technology, something mentioned in the Hive Systems article, we may want to err on the side of caution and aim for 100 bits of entropy.
@@ -93,8 +101,6 @@ E = log2(RL)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +108,17 @@ E = log2(RL)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-steady-path-adding-your-bio-to-tiktok-unhackable-way/"><u>[New] In 2024, Steady Path Adding Your Bio to TikTok Unhackable Way</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-securing-your-facebook-memories-top-5-downloading-methods-for-2024/"><u>[New] Securing Your Facebook Memories Top 5 Downloading Methods for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-shopping-for-tailored-gift-boxes-heres-who-to-hit/"><u>[Updated] 2024 Approved Shopping for Tailored Gift Boxes? Here's Who to Hit</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-journey-to-mastery-discovering-the-quintessential-5-online-title-makers-for-2024/"><u>[Updated] Journey to Mastery Discovering the Quintessential 5 Online Title Makers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-lg-360-camera-mastered-a-full-review-for-2024/"><u>[Updated] LG 360 Camera Mastered A Full Review for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-ultimate-tutorial-for-adding-discord-server-roles-for-2024/"><u>[Updated] The Ultimate Tutorial for Adding Discord Server Roles for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-utilizing-lut-filters-in-obs-studio-effectively/"><u>2024 Approved Utilizing LUT Filters in OBS Studio Effectively</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimal-video-player-best-availability-on-multiple-systems-for-2024/"><u>Optimal Video Player Best Availability on Multiple Systems for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-fix-get-the-right-asus-wifi-driver-download-steps/"><u>Quick Fix: Get the Right ASUS WiFi Driver Download Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-36-unbeatable-prime-day-savings-on-apple-products-limited-time-offers/"><u>Top 36 Unbeatable Prime Day Savings on Apple Products - Limited Time Offers!</u></a></li>
+</ul></div>
 

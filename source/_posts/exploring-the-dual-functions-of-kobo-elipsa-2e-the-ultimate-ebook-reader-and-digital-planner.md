@@ -1,7 +1,7 @@
 ---
 title: Exploring the Dual Functions of Kobo Elipsa 2E – The Ultimate eBook Reader and Digital Planner
-date: 2024-08-31T08:51:51.119Z
-updated: 2024-09-01T08:51:51.119Z
+date: 2025-01-13T19:45:29.979Z
+updated: 2025-01-17T16:45:51.745Z
 tags:
   - product-reviews
 categories:
@@ -113,15 +113,17 @@ Expand
 [Rakuten Kobo](https://us.kobobooks.com/products/kobo-elipsa-2e) [$400 at Amazon](https://www.amazon.com/Kobo-Glare-Free-Touchscreen-ComfortLight-Adjustable/dp/B0C15G7J3V?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000558&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fkobo-elipsa-2e-review%2F&asc%5Fcampaign=Affiliate) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Unboxing and Design: The Kobo Elipsa 2E Hands-On
 
 ![The Kobo Elipsa 2E's box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/kobo-elipsa-2e-with-box-2jpg_53125255423_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Joe Robinson / How-To Geek
 
  Boxed up in a high-quality box, my first impression of the Kobo Elipsa 2E was that it was the premium eReader it's advertised as. Inside the Elipsa box are a quick start guide, the Kobo Elipsa 2E, the Kobo Stylus 2, a USB-A to USB-C charging cable, and a safety guide. I also received the SleepCover, which is sold separately.
@@ -143,15 +145,13 @@ Joe Robinson / How-To Geek
  The Kobo Stylus 2 worked well, though it isn't pressure-sensitive. I was a bit stymied that I couldn't use the pen to turn the virtual page, but that's because the pen is limited to writing only and will put a dot on the page. Setting up the pen was simple—a quick tap on the screen after charging it up via its USB-C port, and I was ready to start writing all over my eBooks and notebooks. The Kobo Stylus 2 also has an "eraser" on the end, which serves as a digital "undo" button but is much more fun than tapping a back arrow.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The UI: Getting Around the Kobo Elipsa 2E
 
 ![The Kobo Elipsa 2E with its stylus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/kobo-elipsa-2e-with-stylus-3jpg_53125177800_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  The user interface for the Kobo Elipsa 2E is easy to navigate. I learned my way around quickly, and every tab has a clear label. From left to right of the bottom menu bar, the tabs are "Home," "My Books," "My Notebooks," "Discover," and "More." The Home page showed me my books in progress, a "My Books" section, as well as a "Recommended" tab. I also found the OverDrive option here and a "Related Reads" section that promised to show me books similar to the ones I was reading.
@@ -168,9 +168,6 @@ Joe Robinson / How-To Geek
 
 ![Kobo Elipsa 2E in a person's hands.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/kobo-elipsa-2e-in-hands-1jpg_53125263363_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  I was (mostly) impressed with the Kobo Elipsa 2E's performance. The ability to highlight sections with my finger, add notes, or write on the digital pages of each book was entertaining and helpful. Students, if you're reading this, this eReader might make sense for you.
@@ -181,9 +178,6 @@ Joe Robinson / How-To Geek
 
 ![The Kobo Elipsa 2E in a person's hands while taking notes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/kobo-elipsa-2e-in-hands-taking-notes-1jpg_53124181777_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  Although the reading and annotation experience was fantastic, I encountered some issues I couldn't overlook. The first was the OS's rather buggy performance when completing specific tasks. For instance, when highlighting a section of text and then selecting "Undo Highlight," the highlighted text stayed on the page like a ghost, even when I was several pages past that original highlight.
@@ -191,11 +185,16 @@ Joe Robinson / How-To Geek
  I also experienced some blips when using my Beats Studio Buds to listen to an audiobook. Frequent lags occurred in playback, as well as when I hit the 30-second rewind button, and it was too distracting to continue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Battery and Charging: Long-Lasting Charge With Light to Moderate Use
 
 ![The Kobo Elipsa 2E with its accessories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/kobo-elipsa-2e-with-accessories-2jpg_53125176950_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Joe Robinson / How-To Geek
 
@@ -219,6 +218,10 @@ Joe Robinson / How-To Geek
 
 ![The Kobo Elipsa 2E eReader with a marked-up page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/en_2-turned_1080x1080_4531118d-9912-40b4-a888-c52bd5d6fab0_816x816.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #####  Kobo Elipsa 2E
 
 7/ 10 
@@ -233,8 +236,6 @@ The Kobo Elipsa 2E eReader makes digital reading, note-taking, and annotating ea
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -242,4 +243,22 @@ The Kobo Elipsa 2E eReader makes digital reading, note-taking, and annotating ea
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-elevating-your-videography-through-audio-storytelling-for-2024/"><u>[New] Elevating Your Videography Through Audio Storytelling for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-the-power-of-persuasion-perfecting-your-shorts-visual-hook/"><u>[New] Unlock the Power of Persuasion Perfecting Your Shorts' Visual Hook</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unveiling-the-full-spectrum-of-adobe-cloud-storing-and-superior-options/"><u>[Updated] 2024 Approved Unveiling the Full Spectrum of Adobe Cloud Storing and Superior Options</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-free-meme-mastery-top-resources-for-creative-folks-for-2024/"><u>[Updated] Free Meme Mastery Top Resources for Creative Folks for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-exploring-alternatives-the-10-best-non-vimeo-video-tools/"><u>[Updated] In 2024, Exploring Alternatives The 10 Best Non-Vimeo Video Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-innovative-8th-generation-photographic-fusion-app/"><u>[Updated] Innovative 8Th Generation Photographic Fusion App</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-rgb-basics-and-their-evolution-into-srgb-format/"><u>[Updated] Rgb Basics and Their Evolution Into Srgb Format</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/a-peek-into-the-m1-max-clips-capabilities-for-2024/"><u>A Peek Into the M1 Max Clip's Capabilities for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-techniques-for-handling-the-xlivedll-missing-error-on-pcs/"><u>Effective Techniques for Handling the 'Xlive.dll Missing' Error on PCs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/hilarity-unleashed-kinemaster-meme-creation-for-2024/"><u>Hilarity Unleashed KineMaster Meme Creation for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Tecno Pova 5? | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/iphoneipad-wi-fi/"><u>IPhoneからiPadへの写真転送 - Wi-Fi無しで</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-excel-tutorial-on-adding-and-tweaking-signature-lines-for-professional-correspondence/"><u>Mastering Excel: Tutorial on Adding & Tweaking Signature Lines for Professional Correspondence</u></a></li>
+<li><a href="https://win-top.techidaily.com/oslos-premier-seo-agencies-for-optimal-online-presence-elite-search-engine-services-across-norway-powersuite-edition/"><u>Oslo's Premier SEO Agencies for Optimal Online Presence | Elite Search Engine Services Across Norway - PowerSuite Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premium-gpus-engineered-for-4k-gaming-for-2024/"><u>Premium GPUs Engineered for 4K Gaming for 2024</u></a></li>
+</ul></div>
 

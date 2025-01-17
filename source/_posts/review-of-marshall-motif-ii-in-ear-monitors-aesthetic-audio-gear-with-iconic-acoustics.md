@@ -1,7 +1,7 @@
 ---
 title: Review of Marshall Motif II In-Ear Monitors - Aesthetic Audio Gear with Iconic Acoustics
-date: 2024-08-31T08:52:39.352Z
-updated: 2024-09-01T08:52:39.352Z
+date: 2025-01-16T16:42:13.232Z
+updated: 2025-01-17T16:01:04.595Z
 tags:
   - product-reviews
 categories:
@@ -101,20 +101,26 @@ Expand
 
 [$200 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmarshall-motif-ii-anc-black%2F6556931.p%3FskuId%3D6556931) [$199.99 at Marshall](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2000652/https://www.marshallheadphones.com/us/en/motif-ii-anc.html) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Marshall Motif II ANC Price and Availability
 
  The Marshall Motif II ANC are a follow-up to the original [Marshall Motif earbuds](https://www.amazon.com/Marshall-Motif-Wireless-Canceling-Headphones/dp/B09CHH1Z4K/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000652&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fmarshall-motif-ii-anc-review%2F&asc%5Fcampaign=Affiliate), which are still available. Like the original model and many of the company’s best-known guitar amps, the Motif II ANC earbuds are only available in black. The earbuds retail for $200, but you’ll already see them on sale from time to time.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Design and Fit: Great Look, Better Feel
 
 ![Person putting Marshall Motif II ANC earbuds in the case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/person-putting-marshall-motif-ii-anc-earbuds-in-the-case.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  It doesn’t take long to see the first influence of Marshall’s guitar amps on the case. Unlike the plain plastic on many wireless earbud cases, this case is covered in a texture that is not unlike the Tolex that covers most Marshall amps. This not only helps keep you from dropping the case but also feels surprisingly close to the real thing.
@@ -129,9 +135,6 @@ Hannah Stryker / How-To Geek
 
 ![Marshall Motif II ANC case in front of a plant](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/marshall-motif-ii-anc-case-in-front-of-a-plant.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  The Motif ANC II earbuds feature 6mm drivers and a frequency range of 20Hz to 20kHz. At first, they only supported the standard Bluetooth SBC codec and Apple’s AAC codec. They now also support the LC3 codec, part of [Bluetooth LE Audio](https://screen-video-capture.techidaily.com/updated-the-experts-guide-to-live-classroom-capturing-via-macos-for-2024/).
@@ -144,9 +147,6 @@ Hannah Stryker / How-To Geek
 
 ![Person holding a Marshall Motif II ANC earbud](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/person-holding-a-marshall-motif-ii-anc-earbud.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  With Fleetwood Mac’s “[Walk a Thin Line](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2000652/https://www.youtube.com/watch?v=gsJaeewrQuc),” the Motif II ANC earbuds did a fantastic job with the transients from the drums and Lindsay Buckingham’s picking on the acoustic guitar. High notes and even the sibilance on vocals translated well, without being overbearing. This was also on the default EQ.
@@ -161,20 +161,18 @@ Hannah Stryker / How-To Geek
 
 Your browser does not support the video tag. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Marshall Motif II ANC Microphone Audio Sample: Outdoors
 
 Your browser does not support the video tag. 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ##  Software and Controls: Everything You Need
 
 ![The Marshall Motif II ANC earbuds and case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/the-marshall-motif-ii-anc-earbuds-and-case.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  While pairing the Marshall Motif II ANC earbuds with my iPhone, I was prompted to install the Marshall Bluetooth app, available for [iPhone](https://apps.apple.com/us/app/marshall-bluetooth/id1351654161) and [Android devices](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2000652/https://play.google.com/store/apps/details?id=com.zoundindustries.marshallbt&hl=en%5FUS&gl=US). You don’t need to install the app to use the earbuds, but it’s worth it, especially for the EQ options.
@@ -199,13 +197,14 @@ Hannah Stryker / How-To Geek
 
  While a USB-C cable is the fastest way to charge the case, it isn’t the only way, as the case also features wireless Qi charging.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Competition: How Do The Motif II ANC Stack Up?
 
 ![The box for The Marshall Motif II ANC 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/the-box-for-the-marshall-motif-ii-anc-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  Marshall is eyeing up some fairly big competition with the Motif II ANC. The closest competitor for iPhone users is likely the [second-generation AirPods Pro](https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-v27-pro-by-drfone-android/). Those feature better ANC and the current best out of all Transparency modes, but they have a much plainer design.
@@ -222,6 +221,10 @@ Hannah Stryker / How-To Geek
 
 ![Marshall Motif II ANC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/marshall-motif-ii-anc.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #####  Marshall Motif II ANC
 
 7/ 10 
@@ -236,8 +239,6 @@ The Marshall Motif II ANC earbuds keep the iconic style that the brand has used 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -245,4 +246,16 @@ The Marshall Motif II ANC earbuds keep the iconic style that the brand has used 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-bridging-platforms-posting-twitter-content-on-facebook/"><u>[New] 2024 Approved Bridging Platforms Posting Twitter Content on Facebook</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-double-delight-endless-looping-of-youtube-videos-for-tvs/"><u>[Updated] In 2024, Double Delight Endless Looping of YouTube Videos for TVs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-present-trends-in-drone-technology-for-the-future-for-2024/"><u>[Updated] Present Trends in Drone Technology for the Future for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-understanding-different-hand-tracker-techniques/"><u>[Updated] Understanding Different Hand Tracker Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-exclusive-free-intro-templates-for-videos/"><u>2024 Approved Exclusive Free Intro Templates for Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guarding-your-chats-how-to-avoid-chatgpt-saving-interactions/"><u>Guarding Your Chats: How to Avoid ChatGPT Saving Interactions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-tech-for-everyone-experts-analysis/"><u>In 2024, Tech for Everyone Experts' Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-virtual-horizons-10-cinematic-escapes-into-sci-fi-metaverses/"><u>In 2024, Virtual Horizons 10 Cinematic Escapes Into Sci-Fi Metaverses</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/precision-in-dissipating-soundtracks-a-guide-for-pros/"><u>Precision in Dissipating Soundtracks A Guide for Pros</u></a></li>
+</ul></div>
 

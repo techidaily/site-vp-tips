@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis of the Anker SoundCore Motion X500: Unveiling Its Mono Spatial Audio Experience"
-date: 2024-08-31T08:51:55.611Z
-updated: 2024-09-01T08:51:55.611Z
+date: 2025-01-10T18:02:41.983Z
+updated: 2025-01-17T20:02:56.888Z
 tags:
   - product-reviews
 categories:
@@ -58,9 +58,17 @@ The Soundcore Motion X500 features Hi-Res wireless audio and three-channel spati
 
 [$169.99 at Soundcore](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-x500-a3131011&ourl=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-x500-launch-bonus) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Spatial Audio By Design
 
 ![close up of the top of the Soundcore Motion X500 showing control buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/close-up-of-the-top-of-the-soundcore-motion-x500-showing-control-buttons.JPG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -72,16 +80,10 @@ Tyler Hayes / How-To Geek
 
  Overall, this speaker is pretty self-explanatory from a design perspective. It’s a lunch box-style portable music maker that can be used outside or in a bedroom. If there’s one thing I would change about its look, however, it would be the huge Soundcore logo across the front. I hate it. It’s subtle on the black model, so I minded it less, but compared to the plain front of the X600, this newer one simply feels boastful, when it shouldn’t be.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  The Motion X500 Sounds Like Any Other Bluetooth Speaker
 
 ![Soundcore Motion X500 outside facing forward](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/soundcore-motion-x500-outside-facing-forward.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  I was extremely impressed by the previous Soundcore spatial audio speaker, for its price, so I was curious if the company could duplicate that success in a smaller and cheaper package. It turns out the answer is no.
@@ -106,29 +108,32 @@ Close
 
  Normally, a section would be dedicated to a device's mobile app. In this case, functions and features for the Motion X500 in the Soundcore app are minimal. The app is available for [iPhone](https://apps.apple.com/us/app/soundcore/id1331876603) and [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2000903/https://play.google.com/store/apps/details?id=com.oceanwing.soundcore&hl=en%5FUS&gl=US) but only offers an EQ and a few customizable options for the light brightness of the buttons. (Everything is contained in two screens.) Beyond using it for firmware updates, the app might not even be worth downloading to use with this particular speaker.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ##  Battery Life Is a Tentative Thumbs-Up
 
 ![Charging port on Soundcore Motion X500](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/charging-port-on-soundcore-motion-x500.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  If the Motion X500 is more useful as a portable speaker than a spatial audio one, battery life is key. The advertised 12 hours of battery rang true in my constant usage. It’s hard not to wish for even more power, but given the roughly 7.5-inch width and 3.5 pounds of the unit, the play time seems proportional.
 
  The speaker charges via a rubber-seal-protected USB-C port and I had no problem with it, though its six-hour recharge time felt a little long. The problem I had with the device's battery was that there was no good way to tell how much listening time was left. The only power level was in the Soundcore app, but it didn't show a percentage, only a small icon that was not helpful.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Motion X500 Price and Availability
 
  The Soundcore Motion X500 retails for $169.99 (£169.99 in the U.K) but launched with a promotional price of $129.99\. If you want a step-up in audio performance, the [Motion X600](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-x600-a3130011) has been selling for $199.99.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Should You Buy the Anker Soundcore Motion X500?
 
  Simply, the [Anker Soundcore Motion X500](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-x500-a3131011&ourl=http%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-x500-launch-bonus) is a fine Bluetooth speaker that excels in portability. Its size and shape make it easy to bring on most outings. Those physical characteristics also define the device’s limits as well. The speaker can get loud but sounds the best at mid-to-lower volumes. Its spatial audio chops also disappoint because of its narrow footprint.
@@ -139,9 +144,6 @@ Tyler Hayes / How-To Geek
 
 ![motion x500](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/cleanshot_2023-11-01_at_12-51-34_2x-removebg-preview.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 #####  Soundcore Motion X500
 
 7/ 10 
@@ -156,8 +158,6 @@ The Soundcore Motion X500 features Hi-Res wireless audio and three-channel spati
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +165,18 @@ The Soundcore Motion X500 features Hi-Res wireless audio and three-channel spati
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-amazing-way-to-unlock-your-mac-with-apple-watch/"><u>[New] 2024 Approved Amazing Way to Unlock Your Mac with Apple Watch</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-how-to-use-movie-maker-on-windows-11/"><u>[New] 2024 Approved How to Use Movie Maker on Windows 11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-10-top-tools-for-dynamic-image-background-alterations/"><u>[Updated] In 2024, 10 Top Tools for Dynamic Image Background Alterations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/approach-suggest-a-combination-of-rollers-for-different-soil-types/"><u>Approach: Suggest a Combination of Rollers for Different Soil Types.</u></a></li>
+<li><a href="https://article-tips.techidaily.com/grand-revelations-in-cinema-trailers/"><u>Grand Revelations in Cinema Trailers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-nokia-105-classic-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Nokia 105 Classic</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/navigating-download-land-free-photo-frames-for-2024/"><u>Navigating Download Land Free Photo Frames for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-your-steam-deck-typing-efficiency/"><u>Streamlining Your Steam Deck Typing Efficiency</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-ultimate-check-comparing-bandicams-performance-to-competitors-for-2024/"><u>The Ultimate Check Comparing Bandicam's Performance to Competitors for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unbelievable-evaluation-and-alternative-choices-for-2024/"><u>Unbelievable Evaluation & Alternative Choices for 2024</u></a></li>
+</ul></div>
 

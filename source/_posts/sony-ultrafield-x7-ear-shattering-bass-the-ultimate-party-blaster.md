@@ -1,7 +1,7 @@
 ---
 title: Sony UltraField X7 Ear-Shattering Bass - The Ultimate Party Blaster!
-date: 2024-08-31T08:51:17.569Z
-updated: 2024-09-01T08:51:17.569Z
+date: 2025-01-14T16:13:05.099Z
+updated: 2025-01-17T18:23:52.082Z
 tags:
   - product-reviews
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  Sony is still obsessed with bass after decades. Its new [ULT Field 7](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsony-ult-field-7-wireless-speaker-black%2F6577677.p%3FskuId%3D6577677) Bluetooth speaker is the latest confirmation of that. With two levels of deep and punchy bass, the speaker can even be a little overwhelming in tight quarters.
 
 ![Sony ULT FIELD 7 Wireless Speaker Black SRSULT70](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/sony-ult-field-7-wireless-speaker-black-srsult70.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Sony ULT Field 7
 
@@ -82,6 +86,10 @@ Expand
 
 ![Sony ULT Field 7 being held by a person over their head](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/sony-ult-field-7-being-held-by-a-person-over-their-head.JPG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  Before dissecting how ultimate the bass on the speaker is, it’s worth clarifying that the ULT Field 7 is a full-on boombox. A verified “Say Anything,” two hands-type of speaker. Instead of any dedicated handle, however, the grips are built into each end of the unit.
@@ -107,15 +115,13 @@ Tyler Hayes / How-To Geek
  There’s a new setting that automatically adapts the Field 7’s sound to an optimized quality. I kept this enabled all the time and didn’t notice any weird glitches or miscues. The speaker pushed out lush ballads and pounded away at rock anthems.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Finer Details Are Interesting
 
 ![back flap of the Sony ULT Field 7 open showing ports](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/back-flap-of-the-sony-ult-field-7-open-showing-ports.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  The ULT Field 7 is a party speaker made for big moments, unlike its smaller counterpart, the [ULT Field 1](https://buynow-info.techidaily.com/next-level-performance-meets-artistic-flair-in-our-in-depth-look-at-the-m1-powered-imac/). As such, it has a quarter inch input on the back that can be used for a microphone or a guitar. There’s pitch control and echo buttons for use if karaoke is your thing.
@@ -127,15 +133,13 @@ Tyler Hayes / How-To Geek
  On the battery front, the Field 7 can get up to 30 hours of life, though that will depend on how loud you push it. If you do burn through power, 10 minutes of charging time will get you 3 hours of listening time. My unit came less than fully charged so I wore it down and can verify it does charge pretty quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Is the Sony ULT Field 7 Worth Spending Money On?
 
 ![Sony ULT Field 7 standing vertical outside](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/sony-ult-field-7-standing-vertical-outside.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  If you’re constantly hosting parties or gatherings, the $499 retail price of the [Sony ULT Field 7](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsony-ult-field-7-wireless-speaker-black%2F6577677.p%3FskuId%3D6577677) shouldn’t be too big of a hurdle. It can be set on a patio and easily cover a pool party or backyard event. (The speaker gets loud, but it will have its limits. It might not be able to cover professional events.)
@@ -145,17 +149,9 @@ Tyler Hayes / How-To Geek
 ![Sony ULT FIELD 7 Wireless Speaker Black SRSULT70](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/sony-ult-field-7-wireless-speaker-black-srsult70.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  Sony ULT Field 7
 
 7/ 10 
@@ -172,8 +168,6 @@ Bring the party anywhere with powerful bass, dynamic lighting, and a mic port fo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +175,22 @@ Bring the party anywhere with powerful bass, dynamic lighting, and a mic port fo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-5-best-hd-hunting-recorders-reviewed/"><u>[New] 5 Best HD Hunting Recorders Reviewed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-breaking-news-working-obs-cam-for-2024/"><u>[New] Breaking News Working OBS Cam for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-enhance-your-vtuber-experience-with-top-voice-modification-tools/"><u>[New] In 2024, Enhance Your VTuber Experience with Top Voice Modification Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-explore-leading-platforms-offering-premium-vectr-art-resources/"><u>[New] In 2024, Explore Leading Platforms Offering Premium Vectr Art Resources</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-expert-chosen-speeds-modifying-tools-pc-phone/"><u>[Updated] Expert-Chosen Speeds Modifying Tools (PC, Phone)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-gaming-gains-graphed-income-insights-on-finn-for-2024/"><u>[Updated] Gaming Gains Graphed Income Insights on Finn for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-through-vr-lenses-30plus-enlightened-metaverse-proverbs/"><u>[Updated] In 2024, Through VR Lenses 30+ Enlightened Metaverse Proverbs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-y100i-power-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo Y100i Power 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-emerges-at-the-forefront-of-process-optimization-per-new-isg-provider-lens-insights/"><u>ABBYY Emerges at the Forefront of Process Optimization, per New ISG Provider Lens™ Insights</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-iphone-11-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On iPhone 11 - 4 Easy Ways</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/correcting-incompatibility-fixing-hp-monitor-drivers-for-windows-1087-users/"><u>Correcting Incompatibility: Fixing HP Monitor Drivers for Windows 10/8/7 Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/explore-and-review-every-application-az-screenshotters-way/"><u>Explore & Review Every Application - AZ Screenshotter's Way</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-15-without-password-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone 15 without password?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-computer-systems-with-toms-hardware-expertise/"><u>Mastering Modern Computer Systems with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-fundamentals-of-color-grading-using-luts-in-ae/"><u>The Fundamentals of Color Grading Using LUTs in AE</u></a></li>
+</ul></div>
 

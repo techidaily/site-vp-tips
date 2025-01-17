@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Secret Nods: Discovering Google's Best-Kept Easter Eggs From Iconic Films & Series"
-date: 2024-08-31T08:49:47.808Z
-updated: 2024-09-01T08:49:47.808Z
+date: 2025-01-10T20:40:00.020Z
+updated: 2025-01-17T16:02:37.547Z
 tags:
   - web
 categories:
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/38756237f1a95b3c76d41533fd8000c05356e390c
 
  Google has several fun Easter eggs squirreled away in obscure corners of Search. But did you know that some of them reference your favorite TV shows and movies? From classics to new releases, Google’s got a bit of everything. Here are some of the best ones we’ve managed to unearth.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Hang Out With Your Favorite “Friends” Character
 
  Name a TV show with a bigger global pop culture impact than "Friends." Go on, I'll wait.
@@ -46,8 +50,9 @@ thumbnail: https://thmb.techidaily.com/38756237f1a95b3c76d41533fd8000c05356e390c
 ![The 'Friends glossary'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-friends-glossary.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Make Your Search Results Fabulous With “Legally Blonde”
 
  If you haven't watched “Legally Blonde” yet, (what have you been doing all this time?) what you need to know is that it's about Elle, a fashionista who gets into Harvard Law School and brings her love for pink and fashion with her.
@@ -57,8 +62,9 @@ thumbnail: https://thmb.techidaily.com/38756237f1a95b3c76d41533fd8000c05356e390c
 ![A small dog standing under a hair dryer with the Google search results for legally blonde in the background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-small-dog-standing-under-a-hair-dryer-with-the-google-search-results-for-legally-blonde-in-the-background.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When the animation ends, you’ll notice that your search results are more fabulous than before—that is to say, all the blue links are now very pink.
 
 ##  Recreate the Burn Book From “Mean Girls”
@@ -69,15 +75,8 @@ thumbnail: https://thmb.techidaily.com/38756237f1a95b3c76d41533fd8000c05356e390c
 
 ![A transparent pink background with kiss and scribble designs on it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-transparent-pink-background-with-kiss-and-scribble-designs-on-it.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  The doodles are completely random, and while some match the original movie, others are new additions. I had a lot of fun seeing all the different doodles I could tease out. I think I got them all, but feel free to let me know if you think you found one I missed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ##  Kick-Start the Cordyceps Infection From “The Last of Us”
 
  If you’re in the mood for something a little more chilling and slightly disgusting, Google has something in store for you too. “[The Last of Us” was already immensely popular as a game](https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/), and it only got bigger with the TV series release.
@@ -95,13 +94,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  This is a callback to when Team Avatar traveled to the Earth Kingdom to get help in the war against the Fire Nation–only to discover that the people there had been brainwashed into believing that there was no war. The phrase "there is no war in Ba Sing Se" was used when brainwashing characters, which leads me to wonder: is Google part of the Ba Sing Se conspiracy?
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Fill up Your Coin Purse With “Super Mario Bros”
 
  Another game-turned-movie whose Easter egg you should check out is Super Mario Bros. Searching for **Super Mario** or **Super Mario Bros** brings up a mystery block, and clicking it earns you coins, just like in the [iconic retro game](https://vp-tips.techidaily.com/updated-2024-approved-pixels-of-laughter-mobile-apps-transform-images/). It pays to keep clicking too, as every hundred clicks, you get rewarded with the sweet sound of an extra mushroom. 
 
 ![The Knowledge Panel for 'Super Mario' with a mystery block next to them](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-knowledge-panel-for-super-mario-with-a-mystery-block-next-to-them.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Solve Time Travel Puzzles With “Doctor Who”
 
@@ -113,6 +121,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  I've only made it to level 3, but I bet you can't beat that! Give it a try and see how far you can go.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Unleash the Force With Baby Yoda From “The Mandalorian”
 
  These days, there's a lot of debate about the quality of the new Star Wars series, but I think "The Mandalorian" gets a pass simply for introducing us to the adorableness that is Baby Yoda.
@@ -121,14 +133,8 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Baby Yoda pulling down elements from a search results page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/baby-yoda-pulling-down-elements-from-a-search-results-page.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  This Easter egg used to be accessible by searching for "Baby Yoda," but it has since been retired. Fortunately, you can still [experience it on elgooG](https://elgoog.im/mandalorian/).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Turn Half Your Search Results to Dust With Thanos’ Snap
 
  Have you ever wished that all your worries would just disappear at the snap of your fingers? This Easter egg is like that but with search results.
@@ -137,27 +143,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![A search results page with one of the links dissolving and a gauntlet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-search-results-page-with-one-of-the-links-dissolving-and-a-gauntlet.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
  Clicking the gauntlet a second time reverses the process and brings all the results back.
 
  This Easter egg has also been retired, but you can still [access it on elgooG](https://elgoog.im/thanos/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Summon The Dark Knight
 
  Google created this Easter egg to mark the return of everyone’s favorite caped crusader to the big screen in “The Batman.” You can activate the Batman Easter egg by clicking on the bat signal. Doing so will [turn the page dark](https://youtube-webster.techidaily.com/024-approved-fullview-media-collaboration-guidebook/), and the bat signal will be projected against it. Keep your eyes peeled, and you might catch a familiar bat-like silhouette streaking across your screen. 
 
 ![A search results page with a black background, a bat signal and a batman silhouette](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-search-results-page-with-a-black-background-a-bat-signal-and-a-batman-silhouette.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Easter egg is no longer active on Google, but you can still [check it out here](https://elgoog.im/batman/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Travel to the World of Oz
 
  Just like Dorothy Gale, you can also get swept into a different world with Google’s Wizard of Oz Easter egg.
@@ -180,8 +181,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +188,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ounteract-vibration-for-clear-captures-for-2024/"><u>[New] Counteract Vibration for Clear Captures for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-exploring-digital-realms-metaverse-versus-multiverse-compared-for-2024/"><u>[New] Exploring Digital Realms Metaverse Versus Multiverse Compared for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-new-wave-of-coding-excellence-av1-vs-vp9-face-off/"><u>[Updated] In 2024, The New Wave of Coding Excellence AV1 vs VP9 Face-Off</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-educational-technology-the-9-key-electronics-for-academic-success/"><u>Essential Educational Technology: The 9 Key Electronics for Academic Success</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/hddwindows-server-03/"><u>HDDクローン作成ツールを使用したWindows Server ˈ03データ移行法</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-enlightened-efforts-applewatch-unlocks-macgizmo/"><u>In 2024, Enlightened Efforts AppleWatch Unlocks MacGizmo</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/incorporate-primary-keywords-naturally-within-the-content-without-keyword-stuffing-ensure-each-section-of-your-article-addresses-different-aspects-of-how-qu85/"><u>Incorporate Primary Keywords Naturally Within the Content without Keyword Stuffing. Ensure Each Section of Your Article Addresses Different Aspects of How Quantum Computing Can Revolutionize AI.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/next-gen-odyssey-explore-the-best-of-windows-10s-apps-and-games/"><u>Next-Gen Odyssey Explore the Best of Windows 10'S Apps & Games</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/polaris-or-the-north-star/"><u>Polaris or The North Star</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-choosing-the-ideal-portable-projector-product-comparisons-and-tips/"><u>Ultimate Guide: Choosing the Ideal Portable Projector - Product Comparisons & Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-efficient-browsing-activating-energy-saving-settings-in-google-chrome/"><u>Unlocking Efficient Browsing: Activating Energy Saving Settings in Google Chrome</u></a></li>
+</ul></div>
 

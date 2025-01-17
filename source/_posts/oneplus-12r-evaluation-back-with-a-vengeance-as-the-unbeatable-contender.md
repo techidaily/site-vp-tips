@@ -1,7 +1,7 @@
 ---
 title: "OnePlus 12R Evaluation: Back with a Vengeance as the Unbeatable Contender"
-date: 2024-08-31T08:52:03.324Z
-updated: 2024-09-01T08:52:03.324Z
+date: 2025-01-12T16:54:01.036Z
+updated: 2025-01-17T19:39:46.972Z
 tags:
   - product-reviews
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/4ce3e09b6be16a4bedfe22789f63cbe3ee4e3f00e
 ---
 
 ## OnePlus 12R Evaluation: Back with a Vengeance as the Unbeatable Contender
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -120,15 +124,17 @@ Close
  Most importantly, the OnePlus 12R does not feel like the “budget” option in the OnePlus 12 family. It’s $300 cheaper than the standard OnePlus 12, but I would not have guessed that based on the feel of the phone. When I’m holding the 12R, it feels weighty, solid, and premium. That’s not always the case with budget devices.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  OnePlus 12R Display: Big, Bright, and Beautiful
 
 ![The lockscreen of the OnePlus 12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/person-holding-the-oneplus-12r-on-its-homescreenjpg_53485137588_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  OnePlus has generally equipped its flagship phones with great displays ([though I can’t say the same for the Nord series](https://video-screen-grab.techidaily.com/new-step-into-professionalism-aiseesofts-screen-recording-made-accessible-for-2024/)), and the 12R is no exception. The phone has a 6.78-inch LTPO4.0 AMOLED panel that boasts a resolution of 2, 780 x 1,264, a dynamic refresh rate of 1-120Hz, and a peak brightness of 4500 nits. It also has ProXDR display technology that enhances the contrast, color, and clarity of the screen.
@@ -137,22 +143,20 @@ Sergio Rodriguez / How-To Geek
 
 ![OnePlus app folder on the OnePlus 12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/oneplus-app-folder-on-the-oneplus-12rjpg_53485297754_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  As mentioned, the OnePlus 12R’s display has an adaptive refresh rate that can automatically adjust from 1Hz to 120Hz, depending on what you're doing. This saves battery life and ensures a smooth and responsive performance when needed. The screen also has an adaptive brightness that can adjust from 1 nit to 4500 nits depending on the ambient light. All in all, this is a great display, up there with the best of the best from Samsung.
 
  In terms of durability, the display is protected by Gorilla Glass Victus 2, which is the toughest glass ever made by Corning. The display is curved along the edges, and a lot of people complain about that, but it’s not something that has ever bothered me. The screen also has an in-display fingerprint sensor that I found to be fast and accurate and a centered punch-hole selfie camera that is barely noticeable.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  OnePlus 12R Software: Steady as She Goes
 
 ![The quick settings menu of the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-pull-down-settings-menu-on-the-oneplus-12rjpg_53485136928_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  The OnePlus 12R ships with OxygenOS 14, the latest version of the Android 14-based skin. This is the same software that was launched with the OnePlus Open. It brings some subtle but welcome changes to the interface, performance, and features.
@@ -166,8 +170,9 @@ Close
  Software support is another big thing to mention. OnePlus promises only three years of OS upgrades and four years of security patches. That's far behind what [Samsung and Google are offering these days](https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-iphone-se-2022windowsmac-by-drfone-ios/). OxygenOS is a perfectly fine UI, but it might not be the best if you plan to use the 12R for many years down the road.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  OnePlus 12R Performance & Battery: The Main Event
 
 ![Box with included accessories for the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/box-with-included-accessories-for-the-oneplus12rjpg_53484088717_o.jpg) 
@@ -180,18 +185,15 @@ Jerome Thomas / How-To Geek
 
 ![Close up of the OnePlus12R front camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/oneplus12r.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  On the battery front, OnePlus has put its biggest battery yet in the 12R. It packs a 5,500mAh battery along with 80W SUPERVOOC charging. Honestly, I’ve never had a bad experience with battery life on OnePlus devices, and the 12R is no exception. In the past, I've said phones could last multiple days if you adjust your usage, but you truly can make the 12R last multiple days just by using it normally (assuming you aren't gaming and watching videos all day).
 
  The insanely fast charging (1-100% in 31 minutes) is very cool, but I miss wireless charging. However, I understand the omission for a $500 device, and to its credit, OnePlus finally added wireless charging to the standard OnePlus 12\. If you do try to stretch the battery to last multiple days, that super speedy charging time comes in handy for topping off outside of the typical sleep charging routine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  OnePlus 12R Cameras: Pretty Standard, Again
 
@@ -234,8 +236,9 @@ Jerome Thomas / How-To Geek
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  OnePlus 12R
 
 8/ 10 
@@ -250,8 +253,6 @@ The OnePlus 12R is a budget-friendly smartphone that offers a lot of power and f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -259,4 +260,24 @@ The OnePlus 12R is a budget-friendly smartphone that offers a lot of power and f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-transformative-editing-experience-windows-photos-meets-story-remix/"><u>[New] 2024 Approved Transformative Editing Experience Windows Photos Meets Story Remix</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-virtual-broadcast-battleground-obs-versus-shadowgl/"><u>[New] 2024 Approved Virtual Broadcast Battleground OBS Versus ShadowGL</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-high-speed-photo-inspector-for-windows-11/"><u>[New] High-Speed Photo Inspector for Windows 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-essential-tech-for-instant-time-lapse-videos/"><u>[New] In 2024, Essential Tech for Instant Time-Lapse Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-the-art-of-crafting-a-one-of-a-kind-tiktok-marker/"><u>[New] In 2024, The Art of Crafting a One-of-a-Kind TikTok Marker</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unravel-the-secrets-of-top-tier-video-editing-with-vivacut-24/"><u>[New] Unravel the Secrets of Top-Tier Video Editing with VivaCut '24</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-ultimate-guide-to-improved-zoom-video-quality/"><u>[Updated] 2024 Approved The Ultimate Guide to Improved Zoom Video Quality</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-maximize-your-youtube-impact-mastering-the-art-of-influential-channels-branding/"><u>[Updated] Maximize Your YouTube Impact Mastering the Art of Influential Channels' Branding</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ultimate-8k-showcase-cameras-at-the-forefront-for-2024/"><u>[Updated] Ultimate 8K Showcase Cameras at the Forefront for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-ultimate-non-popular-films-viewing-list-for-2024/"><u>[Updated] Ultimate Non-Popular Films Viewing List for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-humor-picture-processor-for-2024/"><u>Best Humor Picture Processor for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decide-once-and-for-all-which-apple-laptop-reigns-supreme-in-the-battle-of-portability-versus-performance-our-insightful-comparison-between-the-macbook-air-112/"><u>Decide Once and for All Which Apple Laptop Reigns Supreme in the Battle of Portability versus Performance! Our Insightful Comparison Between the MacBook Air and MacBook Pro Reveals Which Model Aligns with Your Tech Requirements.</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-best-virtual-racing-for-cyclists/"><u>In 2024, Best Virtual Racing for Cyclists</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-cut-the-stream-of-automatically-played-podcasts-in-spotify/"><u>In 2024, Cut the Stream of Automatically Played Podcasts in Spotify</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pro-tips-for-time-lapping-your-samsung-camera/"><u>In 2024, Pro Tips for Time-Lapping Your Samsung Camera</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/prime-picks-best-windows-phone-video-players-list/"><u>Prime Picks Best Windows Phone Video Players List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sleuthing-scams-real-vs-phony-gpts/"><u>Sleuthing Scams: Real vs Phony GPTs</u></a></li>
+</ul></div>
 

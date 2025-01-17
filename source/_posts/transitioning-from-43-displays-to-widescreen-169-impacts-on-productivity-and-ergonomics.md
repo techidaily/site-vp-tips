@@ -1,7 +1,7 @@
 ---
 title: "Transitioning From 4:3 Displays to Widescreen 16:9: Impacts on Productivity & Ergonomics"
-date: 2024-08-31T08:50:28.742Z
-updated: 2024-09-01T08:50:28.742Z
+date: 2025-01-10T17:00:45.468Z
+updated: 2025-01-17T17:59:39.832Z
 tags:
   - web
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/5a5f384c827d740eb2982c66293aa6c9bc671df02
 ---
 
 ## Transitioning From 4:3 Displays to Widescreen 16:9: Impacts on Productivity & Ergonomics
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -28,8 +32,9 @@ thumbnail: https://thmb.techidaily.com/5a5f384c827d740eb2982c66293aa6c9bc671df02
 ![An old beige PC with a CRT monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/an-old-pc.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Santi S / Shutterstock.com
 
  One of the main reasons 4:3 monitors became popular during the '80s and '90s was because it was the [standard in television broadcasting](https://en.wikipedia.org/wiki/Standard-definition%5Ftelevision). That said, even on a practical level, this aspect ratio was great for most computing tasks at that time.
@@ -48,19 +53,12 @@ Santi S / Shutterstock.com
 
 ![The Razer Aether monitor light bar lighting up a desk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-razer-aether-monitor-light-bar-lighting-up-a-desk_53629693315_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  More powerful computers also meant you could run multiple apps together. A wider screen allowed for better multitasking, as you could now open and work with [multiple apps side by side](https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-magic-v2-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/).
 
  Granted, this shift didn't happen overnight—but by the 2010s, widescreens were the norm. You could (and still can) find a few manufacturers making 4:3 monitors for industrial and CCTV use. However, you'd be hard-pressed to find these in somebody's home or even in an office setup.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  From 4:3 to 16:9 Monitors: How Did It Change Computing?
 
  Your monitor is the primary output device for your computer. Changing how you see information has a huge influence on how you interact with your PC.
@@ -79,18 +77,12 @@ Jerome Thomas / How-To Geek
 
  So, as you can see, considering the same monitor size, a 4:3 monitor will give you more vertical screen real estate compared to a 16:9 alternative. This has had an effect on the placement of the taskbar, user interfaces in game design, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Impact on the Placement of the Taskbar
 
  The taskbar is crucial in desktop computing. It shows all your running apps and lets you pin favorites for quick access. By default, it’s always placed at the bottom—the taskbar on Windows and the Dock on MacOS. But why?
 
 ![The default Windows 11 taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52881834365_511de40661_o-3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek  
   
  Developers and designers created this convention back in the 4:3 monitor era. Since you had more vertical screen space, you could have OS elements on the top and bottom, and app windows could still show sufficient information. You also had modest horizontal space for some split-screen action.
@@ -100,20 +92,16 @@ Hannah Stryker / How-To Geek
 ![A Linux Terminal open on Ubuntu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/52849124270_37375d86a3_o-3.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek  
   
  Ubuntu has done this. Their desktop experience puts the Ubuntu dock on the left side of the screen. I’d argue that this is the more logical UI choice, but because of familiarity and habit, we still have the bottom placement of the taskbar in popular operating systems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Impact on Game Design
 
@@ -128,6 +116,10 @@ Hannah Stryker / How-To Geek
  The 4:3 screen format provided a balanced view of vertical and horizontal movement, which was specifically ideal for this title. On a 16:9 monitor, you have a reduced vertical field of view, making you more susceptible to enemy attacks from the top and bottom of the screen.
 
  This just goes to show some of the ways the UI of video games, and even the overall game design can be influenced by the output screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Ergonomic Considerations
 
@@ -159,8 +151,6 @@ HP
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +158,20 @@ HP
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-exclusive-changes-in-photo-backgrounds-visionshift-elite-for-2024/"><u>[New] Exclusive Changes in Photo Backgrounds VisionShift Elite for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-step-by-step-guide-clear-background-in-picsart/"><u>[New] Step-by-Step Guide Clear Background in Picsart</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-a-detailed-guidance-how-to-change-or-customize-your-ringtone-on-an-iphone/"><u>[Updated] 2024 Approved A Detailed Guidance How To Change Or Customize Your Ringtone On An iPhone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-best-10-drones-for-high-quality-cinematography/"><u>[Updated] Best 10 Drones for High-Quality Cinematography</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-crafting-compelling-online-presence-incorporating-wirecast-into-fb-streams/"><u>[Updated] In 2024, Crafting Compelling Online Presence Incorporating Wirecast Into FB Streams</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-drones-in-film-advanced-capturing-strategies/"><u>[Updated] In 2024, Drones in Film Advanced Capturing Strategies</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-high-performance-screen-recorders-for-windows-users/"><u>[Updated] In 2024, High-Performance Screen Recorders for Windows Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-navigating-file-transfer-how-to-save-igtv-videos-on-windowsmac-os/"><u>[Updated] In 2024, Navigating File Transfer How to Save IGTV Videos on Windows/Mac OS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-pushing-boundaries-upward-an-incisive-mavic-pro-review/"><u>[Updated] Pushing Boundaries Upward An Incisive Mavic Pro Review</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/fumbling-clips-to-viral-videos-youtube-edits-made-easy-with-sony-vegas-for-2024/"><u>From Fumbling Clips to Viral Videos YouTube Edits Made Easy with Sony Vegas for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-efficient-use-of-telegram-browser-interface/"><u>In 2024, Efficient Use of Telegram Browser Interface</u></a></li>
+<li><a href="https://techidaily.com/solved-mac-doesnt-recognize-my-iphone-15-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Mac Doesnt Recognize my iPhone 15 Pro Max | Stellar</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/time-management-the-art-of-planning-zoom-meetings/"><u>Time Management The Art of Planning Zoom Meetings</u></a></li>
+</ul></div>
 

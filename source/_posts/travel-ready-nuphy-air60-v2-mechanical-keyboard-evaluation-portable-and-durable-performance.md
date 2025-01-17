@@ -1,7 +1,7 @@
 ---
 title: Travel-Ready Nuphy Air60 V2 Mechanical Keyboard Evaluation – Portable and Durable Performance
-date: 2024-08-31T08:51:20.859Z
-updated: 2024-09-01T08:51:20.859Z
+date: 2025-01-10T19:50:19.247Z
+updated: 2025-01-17T17:31:00.186Z
 tags:
   - product-reviews
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![Nuphy Air60 V2 Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/nuphy-air60-v2-keyboard.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #####  NuPhy Air60 V2
 
 7/ 10 
@@ -38,6 +42,10 @@ The Nuphy Air60 V2 has a 60% layout (64 keys), supports QMK/VIA so you can defin
 * Probably not enough reasons for V1 owners to upgrade
 
 [$130 at Amazon](https://www.amazon.com/nuphy-Mechanical-Compatible-Bluetooth-Grey-Gateron/dp/B0CQRMBN9Q?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002448&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fnuphy-air60-v2-review%2F&asc%5Fcampaign=Authority) [$109.95 at Nuphy](https://nuphy.com/collections/keyboards/products/air60-v2) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Price and Availability
 
@@ -106,8 +114,9 @@ The Nuphy Air60 V2 has a 60% layout (64 keys), supports QMK/VIA so you can defin
 Expand 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Air60 V1 Versus Air60 V2 Differences
 
  The upgraded V2 model doesn’t change too much, but it changes enough. Importantly, it’s more compatible with platforms beyond Windows. Linux and macOS join the fray.
@@ -117,8 +126,9 @@ Expand
  The new model gets double-shot PBT keycaps enabling thinner parts with better durability. There are also more switch options available. Added up, the sum is a meaningful improvement, but if you’ve been happy with your V1 keyboard, it’s probably not worth upgrading. More likely, the V2 model should attract a lot of people who couldn’t consider it previously.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  There Are Compromises With This 60% Keyboard
 
  As the Air60 name implies, this is a 60% keyboard, meaning it’s about 60% the size of a traditional, full-sized board. (It has 64 keys if you're curious.) Not all 60% keyboards are exactly the same size, but the general rule is that they’re ultra-compact. There is no hint of a numberpad here.
@@ -133,9 +143,6 @@ Expand
 
  Air is an appropriate moniker for this keyboard. It’s lightweight and, with the default red switches, feels breezy to type on. The sound is thocky (take that word at face value), but not weighted or burdensome. In fact, the board probably works best for people with a light touch.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Customizable Keyboard Through Software
 
  It's a bit ironic that this keyboard gains better customization, but fewer keys to personalize. Obviously, for the nerdy type, there could still be plenty to do, but I had a hard time finding too much to tweak.
@@ -146,9 +153,6 @@ Expand
 
  It worked. I expanded the area, so I could tap my pinky finger to modify letters, instead of accidentally arrowing up. I don’t know if it exactly solved my problem with wanting or needing a larger shift key, but the software worked to change the functionality.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Battery Life Is Fine
 
  Nuphy says you can expect about 30 to 90 hours of wireless battery life with all the lights on, according to lab tests. That number goes to 150 hours with all the lights off.
@@ -157,9 +161,6 @@ Expand
 
  There are two mini light strips on the keyboard, one on the left and one on the right. In addition to ambiance, the colors they display do have meaning. They were too small to have any meaningful visual effect on me, but I did turn on the permanent battery indicator so the right one would light up green, yellow, or red depending on the battery level. I found this subtle design cue to help monitor the power level.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the Nuphy Air60 V2 Keyboard?
 
  The upgrades that the [Nuphy Air60 V2](https://nuphy.com/products/air60-v2) keyboard gets are all-around meaningful. The expansion of compatibility to new platforms is the most significant, but otherwise, there are just some nice quality-of-life improvements.
@@ -169,8 +170,9 @@ Expand
 ![Nuphy Air60 V2 Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/nuphy-air60-v2-keyboard.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  NuPhy Air60 V2
 
 7/ 10 
@@ -185,8 +187,6 @@ The Nuphy Air60 V2 has a 60% layout (64 keys), supports QMK/VIA so you can defin
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +194,22 @@ The Nuphy Air60 V2 has a 60% layout (64 keys), supports QMK/VIA so you can defin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-camera-and-accessories-guide-for-travel-vids/"><u>[New] Camera & Accessories Guide for Travel Vids</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-iconic-lecture-labels-maker-pro/"><u>[New] Iconic Lecture Labels Maker Pro</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-saving-your-social-media-face-from-spurious-support-for-2024/"><u>[New] Saving Your Social Media Face From Spurious Support for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-360-degree-panoramic-stands/"><u>[Updated] 2024 Approved 360-Degree Panoramic Stands</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-dissecting-the-features-of-toolwizs-photography-app/"><u>[Updated] 2024 Approved Dissecting the Features of Toolwiz's Photography App</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-from-still-life-to-stirring-storytelling/"><u>[Updated] 2024 Approved From Still Life to Stirring Storytelling</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-explore-the-world-of-kinemaster-and-ranking-10-online-competitors-for-2024/"><u>[Updated] Explore the World of KineMaster & Ranking 10 Online Competitors for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-most-innovative-solar-energy-products-to-gift-this-holiday-season-best-of-2022-zdnet/"><u>Discover the Most Innovative Solar Energy Products to Gift This Holiday Season (Best of 2022) | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-review-the-ultimate-guide-to-choosing-a-vpn-for-watching-the-tokyo-olympics-on-any-device-zdnet/"><u>Expert Review: The Ultimate Guide to Choosing a VPN for Watching the Tokyo Olympics on Any Device | ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/from-kitchen-to-screen-unveiling-the-top-7-cooking-film-tricks/"><u>From Kitchen to Screen Unveiling the Top 7 Cooking Film Tricks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-vivo-v27e-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Vivo V27e? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/tips-for-producing-ai-powered-live-game-streaming-content-for-2024/"><u>Tips for Producing AI-Powered Live Game Streaming Content for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-gaming-smartphones-a-comprehensive-review-by-zdnet/"><u>Top 5 Gaming Smartphones : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-premier-sound-storylines-for-2024/"><u>Top Premier Sound Storylines for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-complete-fix-guide-for-when-vcruntime14tdll-is-undetected/"><u>Troubleshooting: The Complete Fix Guide for When VCRUNTIME14tDLL Is Undetected</u></a></li>
+</ul></div>
 

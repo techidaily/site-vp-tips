@@ -1,7 +1,7 @@
 ---
 title: "Detailed Analysis of Cherry MX Brown Switches on Ultimate Gaming (UGP) Keyboards: A Blend of Tactility & Durability"
-date: 2024-08-31T08:51:42.082Z
-updated: 2024-09-01T08:51:42.082Z
+date: 2025-01-16T19:09:01.407Z
+updated: 2025-01-17T20:07:10.431Z
 tags:
   - product-reviews
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/1e8c2ab57b46eaf6ff5d41d8475329f5a8c0f038b
 ---
 
 ## Detailed Analysis of Cherry MX Brown Switches on Ultimate Gaming (UGP) Keyboards: A Blend of Tactility & Durability
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -112,13 +116,14 @@ Expand
 
  The keyboard is thin, but it’s also wide across a desk. At nearly 17.4 inches, it’s not the most portable, which is a shame considering it offers three quick-swap wireless connections that make it easy to use the board on virtually any Windows-based device. Sorry, Mac users. You'll need to find your own ultra-thin board.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Latency-Free Quadruple Connectivity
 
 ![Wireless and Bluetooth connectivity buttons on ultra-low profile mechanical keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/53479489137_ae0f636efd_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  One feature I didn’t expect to use as much as I did is the four-way connectivity. I often bounce between my desktop and laptop but never use a full keyboard on the road. As fate would have it, the board on my laptop broke while testing out the Cherry wireless keyboard, so I had to use the dual Bluetooth connections frequently.
@@ -133,13 +138,18 @@ Sergio Rodriguez / How-To Geek
 
  What I really liked about the keyboard is its battery life. I used the board for a full workweek and still didn’t have to charge it. You’ll easily get at least two weeks out of one charge, which is especially helpful if access to a plug isn't convenient.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  The Click You Get is the Click You Get
 
 ![Clust of keys on mechanical wireless keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/53480703269_7284a76947_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  If you like a keyboard you can [customize with different switches](https://techidaily.com/sign-a-pdf-v10-document-with-digital-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/), you may want to skip the Cherry KW X ULP. The low-profile keys sit atop a mechanical MX ULP switch, which is satisfyingly clicky for the type of board it is, but not hot-swappable. Having bounced between higher profile keys on [hot-swappable switches](https://screen-sharing-recording.techidaily.com/2024-approved-snagit-screen-recording-a-guide/) and thinner, less dynamic boards, I can see the merits of this design.
@@ -153,8 +163,9 @@ Sergio Rodriguez / How-To Geek
 ![Cherry Keys keyboard app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/cherry-keys.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Mark LoProto / How-to Geek
 
  Sometimes, there’s a lot to say about a companion app. However, the [Cherry Keys desktop app](https://www.cherry-world.com/service/software/keys) is a barebones program that doesn’t provide many options when paired with the KW X ULP. You can assign macros, but only to the FN keys. Those already have alternate functions that are helpful for quick navigation, adjusting volume and brightness, or swapping between connections.
@@ -162,8 +173,9 @@ Mark LoProto / How-to Geek
  It would be nice to have more options for customizing keys, but if you’re not big on creating macros, you won’t even notice Cherry Keys’ limitations.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Office-Ready Keyboard Built for Gamers
 
  Though the KW X ULP seems like a better fit for an office environment, Cherry didn’t want to limit its audience. Personally, I wouldn’t game on a low-profile board, but if you did want to, it [offers an n-key rollover](https://hardware-updates.techidaily.com/download-logitech-g-pro-driver-for-windows-111087/), so every key pressed is registered as an individual input when hit simultaneously with other keys.
@@ -176,9 +188,6 @@ Mark LoProto / How-to Geek
 
 ![White backlight with red indicator lighting on low-profile mechanical keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/53480801350_ae077610ee_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  Maybe even more helpful is that status keys like for the Caps lock, Num lock, and Scroll lock turn red when activated. The Windows buttons also turn red when the keyboard’s Gaming mode is activated, and the buttons are disabled to prevent accidental popups mid-game.
@@ -195,9 +204,6 @@ Sergio Rodriguez / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 #####  Cherry KW X ULP
 
 9/ 10 
@@ -212,8 +218,6 @@ Cherry's KW X ultra-low-profile keyboard features an aluminum frame, mechanical 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -221,4 +225,19 @@ Cherry's KW X ultra-low-profile keyboard features an aluminum frame, mechanical 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-is-my-friends-account-invisible-potential-block/"><u>[New] 2024 Approved Is My Friend's Account Invisible? Potential Block</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-5-drone-racing-headsets-ultimate-vr-experience/"><u>[New] 2024 Approved Top 5 Drone Racing Headsets Ultimate VR Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-transforming-novices-into-reddit-masterminds-for-maximum-engagement/"><u>[New] 2024 Approved Transforming Novices Into Reddit Masterminds for Maximum Engagement</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-mastering-comfortable-virtual-realities-for-2024/"><u>[New] Mastering Comfortable Virtual Realities for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-how-to-feature-music-on-instant-stories/"><u>[Updated] 2024 Approved How to Feature Music on Instant Stories</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-pioneering-maker-tools-for-your-next-ios-or-android-video/"><u>[Updated] 2024 Approved Pioneering Maker Tools For Your Next iOS or Android Video</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-revitalize-your-day-with-these-top-10-yoga-videos/"><u>[Updated] 2024 Approved Revitalize Your Day with These Top 10 Yoga Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-digital-illumination-reviving-old-school-vhs-graphics/"><u>[Updated] In 2024, Digital Illumination Reviving Old-School VHS Graphics</u></a></li>
+<li><a href="https://win-bits.techidaily.com/comprehensive-troubleshooting-steps-for-the-common-windows-error-codes-0x8007042c-and-0x90017/"><u>Comprehensive Troubleshooting Steps for the Common Windows Error Codes 0X8007042C and 0X90017</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-lava-blaze-2-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Lava Blaze 2 Pro Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/stopping-endless-popups-of-edge-symbols/"><u>Stopping Endless Popups of Edge Symbols</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-evolution-of-audio-liberation-pazeras-advanced-techniques-2e/"><u>The Evolution of Audio Liberation Pazera's Advanced Techniques (2E)</u></a></li>
+</ul></div>
 

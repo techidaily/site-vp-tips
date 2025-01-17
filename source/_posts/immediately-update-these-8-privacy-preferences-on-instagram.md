@@ -1,7 +1,7 @@
 ---
 title: Immediately Update These 8 Privacy Preferences on Instagram!
-date: 2024-08-31T08:49:14.306Z
-updated: 2024-09-01T08:49:14.306Z
+date: 2025-01-10T18:20:43.605Z
+updated: 2025-01-17T20:07:18.419Z
 tags:
   - web
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Online privacy is a massive concern, and for good reason, given the steady stream of headlines about data breaches, phishing scams, identity theft, and online stalking. Even major apps like Instagram aren't impervious to hackers or data infringements, which is why you must understand what's available to beef up your profile security and privacy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Why Instagram Privacy Matters
 
  Instagram users face privacy threats on multiple fronts. There's the general concern of managing a publicly accessible profile, but there are also forces at play behind the scenes, such as third-party ad servers, bots, and potential hackers.
@@ -32,6 +36,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The thought of maintaining privacy in the digital age can get overwhelming, but within the past few years, there has been mounting pressure from activists and governing bodies toward [companies like Meta to protect users](https://fox-links.techidaily.com/new-top-10-live-audio-broadcast-networks/). The pressure has spurred action, and there are many available settings to enhance privacy efforts.
 
  You have options, but the trick is to know where to look because it's not always obvious. Here are eight very useful settings you can access right now to boost your privacy from multiple angles. You can do these either through the Instagram website or through the app on your phone or tablet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Make Your Profile Private
 
@@ -41,16 +49,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Instagram Private Account Page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/instagram-private-account.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Instagram
 
  From there, toggle the option to make your account private, and you're all set.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ##  Block or Restrict Users, Posts, and Comments
 
  Perhaps you want your profile to be public, but a specific account is harassing you. Not to worry—Instagram lets you [block individual users](https://screen-video-capture.techidaily.com/in-2024-mastering-screens-with-active-8-a-comparative-review/). To do this, go to their profile and click the three dots in the upper right-hand corner. You'll see these options in red letters at the top of the list:
@@ -63,14 +65,15 @@ Instagram
 
  Lastly, the "Report" option allows you to draft a completely anonymous message to Meta to report intellectual property infringement, harassment, or dangerous behavior.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Update Your Story Settings
 
  If you're one to post stories, there might be times you want to share something but would rather not share it with _everyone_. When you go to create a story, you can click the cog icon in the upper-right-hand corner and then press "Story." Here, you can choose from a range of privacy settings.
 
 ![Instagram Story Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/unnamed.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Instagram 
 
@@ -88,9 +91,6 @@ Instagram Story Settings
 
 ![iOS Instagram Location Tracking Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/geo.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Hide Activity Status
 
  When you're on Instagram, others can tell by a little green dot next to your profile image. This is called the "Activity Status." To turn activity status off, go to Settings and Activity > Messages and Story Replies > Show Activity Status.
@@ -98,13 +98,9 @@ Instagram Story Settings
  The default is for activity status to be on, so toggle the switch off, and you are free to scroll to your heart's content without anyone else knowing.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Enable Two Factor Authentication
 
  Security experts unanimously urge users to enable [two-factor identification (2FA)](https://extra-approaches.techidaily.com/updated-premiere-visionary-film-glimpses/), as it's an excellent method to avoid being hacked.
@@ -114,8 +110,9 @@ Instagram Story Settings
  To set up 2FS, open your account settings. Then follow the path: Accounts Center > Password and Security > Two-Factor Authentication​. From there, set up 2FA according to your preferences, such as having Instagram send you an SMS code or going through a [third-party service, like Google Authenticator](https://youtube-tips.techidaily.com/024-approved-method-for-removing-downloaded-youtube-videos/).
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Adjust Ad Preferences
 
  Sometimes, giving data over to advertisers is preferred, but that's up to your discretion. Instagram now allows you to control how your data is gathered and used in the app.
@@ -136,8 +133,6 @@ Instagram Story Settings
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +140,26 @@ Instagram Story Settings
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-effortless-methods-to-swiftly-erase-signatures/"><u>[New] Effortless Methods to Swiftly Erase Signatures</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-skys-biggest-load-carriers-drones-ranked-for-2024/"><u>[New] Sky's Biggest Load Carriers Drones Ranked for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-getting-into-film-editing-made-easy/"><u>[Updated] 2024 Approved Getting Into Film Editing Made Easy</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-beginner-friendly-iphone-screen-recording-techniques/"><u>[Updated] In 2024, Beginner-Friendly Iphone Screen Recording Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ideal-termination-immersive-reality/"><u>[Updated] In 2024, Ideal Termination Immersive Reality</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-premier-10plus-free-video-intro-creators/"><u>[Updated] Premier 10+ Free Video Intro Creators</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-cutting-edge-accessories-reviewing-the-best-in-vr/"><u>2024 Approved Cutting-Edge Accessories Reviewing the Best in VR</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-listenleaders-pursuing-better-podcasts/"><u>2024 Approved ListenLeaders Pursuing Better Podcasts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ck-tutorial-on-how-to-convert-image-to-youtube-thumbnail-for-2024/"><u>A Quick Tutorial On How To Convert Image To YouTube Thumbnail for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/avid-editors-transform-your-avi-files-to-mp4-free-online-at-movavi/"><u>Avid Editors: Transform Your AVI Files to MP4 FREE Online at Movavi!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhance-your-video-understanding-windows-hdr/"><u>Enhance Your Video Understanding Windows HDR</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/from-fragmented-footage-to-fluid-editing-inshots-pathway-to-perfection-for-2024/"><u>From Fragmented Footage to Fluid Editing Inshot's Pathway to Perfection for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/google-is-launching-an-ai-called-bard-to-compete-with-chatgpt/"><u>Google Is Launching An AI Called Bard to Compete With ChatGPT</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-deciding-between-wirecast-and-obs-for-professional-streaming/"><u>In 2024, Deciding Between Wirecast & OBS For Professional Streaming</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-master-instagram-livestreams-with-ease-your-complete-guide-to-obs-usage/"><u>In 2024, Master Instagram Livestreams with Ease Your Complete Guide to OBS Usage</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/launch-your-zoom-meeting-in-a-flash-on-your-android-smartphonetablet-for-2024/"><u>Launch Your Zoom Meeting in a Flash on Your Android Smartphone/Tablet for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-stability-in-destiny-2-how-to-deal-with-sudden-server-disconnects/"><u>Mastering Stability in Destiny 2: How to Deal with Sudden Server Disconnects</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/resolved-windows-11-missing-file-history-component-issue-now-fixed/"><u>Resolved: Windows 11 Missing File History Component Issue Now Fixed</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-vivo-y100-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo Y100 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+</ul></div>
 

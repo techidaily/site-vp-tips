@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Portability with AMD: Introducing the ThinkPad Z13 Gen 2 by Lenovo"
-date: 2024-08-31T08:52:09.971Z
-updated: 2024-09-01T08:52:09.971Z
+date: 2025-01-16T17:07:05.152Z
+updated: 2025-01-17T20:50:43.315Z
 tags:
   - product-reviews
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/747b49f807ccf9f14c19b340ff456a78dd6771bea
 ---
 
 ## Revolutionizing Portability with AMD: Introducing the ThinkPad Z13 Gen 2 by Lenovo
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -22,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/747b49f807ccf9f14c19b340ff456a78dd6771bea
  I received the [Z13 Gen 2 model 21JV000GUS](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadz%2Fthinkpad-z13-gen-2-%2813-inch-amd%29%2F21jv000gus), which comes with 32GB of RAM, an AMD Ryzen 7 Pro processor, a 2.8K OLED display, and 1TB of storage. You can upgrade (or downgrade) your build according to your preferences. In my time spent with the Z13 Gen 2, I wasn't blown out of the water by its overall performance but instead found it a solid laptop that's a fantastic choice for people who want something extremely light and portable that can still handle a lot of processing-heavy work tasks, plus some enjoyable media consumption and casual gaming. And yeah, you might just want to buy it for the 2.8K OLED screen, which makes streaming feel immersive, despite the small 13-inch screen.
 
 ![The Lenovo Z13 Gen 2 open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3hkubxx903po29y50bbq45fk4feyo0833940.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Lenovo ThinkPad Z13 Gen 2
 
@@ -128,6 +136,10 @@ Expand
 
 ![Rear angled view of the open Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/rear-angled-view-of-the-open-lenovo-z13-gen-2-2jpg_53480774019_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  Made of sturdy recycled aluminum, the ThinkPad Z13 Gen 2 laptop's build looks and feels premium. Although the top lid is slim, it doesn't feel too flimsy. The bottom is weighty enough to feel great while typing or holding the laptop without being too heavy. Those familiar with the [Z13 Gen 1](https://buynow-tips.techidaily.com/nintendo-showdown-a-comparative-analysis-of-switch-lite-and-oled-models/) will notice that the Gen 2 bypassed the vegan leather look and instead offers, if you so choose, a "flax fiber with bronze aluminum" design. Mine was the standard "Arctic Grey" version.
@@ -151,11 +163,16 @@ Close
  I also had one tiny gripe worth mentioning—the power button below the USB4 port on the right side is tiny and relatively hard to push and hold down if you want to manually turn off the laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Inputs: The Keyboard, Touchpad, and Touchscreen
 
 ![The TrackPoint of the Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-trackpoint-of-the-lenovo-z13-gen-2-2jpg_53480774934_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -170,8 +187,9 @@ Sergio Rodriguez / How-To Geek
 ![The Lenovo ThinkPad Z13 Gen2 laptop playing a nature video of a puffin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/graphics-hero-image-youtube-screenshot.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Cianna Garrison / How-To Geek
 
 _BBC Earth_
@@ -186,9 +204,6 @@ Close
 
 Close 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ##  Performance: Solid and Trustworthy, but Not Lightning Speed
 
 ![AMD Ryzen Pro 7 processor sticker on the Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/amd-ryzen-pro-7-processor-sticker-on-the-lenovo-z13-gen-2jpg_53480774764_o.jpg) 
@@ -207,9 +222,6 @@ Sergio Rodriguez / How-To Geek
 
 ![The closed Lenovo Z13 Gen 2 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-closed-lenovo-z13-gen-2-laptop-4jpg_53480466146_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  I enjoyed listening to music as I worked via the two AI-powered 2W Dolby Atmos speakers, but I had to turn the volume up to about 80 to 100% for it to be a good volume. That said, I didn't notice much distortion, even when listening to crunchy guitar-laden music like the blues or hard rock. But I found the speakers sounded the best when recordings were more simplistic, focusing on one to three instruments and vocals more than a complex, noisy blend, such as some vocal-heavy jazz tracks from Chet Baker and Etta James. The speakers do have a sort of condensed quality to them, but this is nothing I wouldn't expect from most laptop speaker systems, which are still sorely behind in audio quality compared to external speakers and even [some smartphone speakers](https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-honor-magic5-ultimate-to-your-pcmac-drfone-by-drfone-android/). Of course, you can always [improve the sound of the laptop's speakers](https://extra-guidance.techidaily.com/revolutionize-note-taking-with-mematic-app-for-2024/) by investing in some [desktop speaker systems](https://some-approaches.techidaily.com/new-synergizing-visual-cues-with-the-right-musical-choices/) or using [good-quality wired headphones](https://mondly-stories.techidaily.com/perfezionamento-dei-numeri-italiani-per-la-comunicazione-da-1-1000/).
@@ -225,16 +237,18 @@ Close
 ### 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Battery and Charging: Long-Lasting Battery Life
 
 ![The Lenovo Z13 Gen 2 with its charger.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-lenovo-z13-gen-2-with-its-chargerjpg_53480870670_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -242,16 +256,10 @@ Sergio Rodriguez / How-To Geek
 
  My experience with the battery makes the up to 16.5-hour MobileMark score seem a bit high, but I kept it consistently at 300 to 400 nits, while the benchmark measured performance at 250 nits.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the Lenovo ThinkPad Z13 Gen 2 (AMD) Laptop?
 
 ![The closed Lenovo Z13 Gen 2 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-closed-lenovo-z13-gen-2-laptop-2jpg_53480775254_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  The [ThinkPad Z13 Gen 2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadz%2Fthinkpad-z13-gen-2-%2813-inch-amd%29%2Flen101t0073) is a premium offering that's a good choice for anyone who travels a lot or wants a portable laptop with decent processing power. However, it has some weaknesses in terms of its speaker system, an occasional lag when heavily multitasking, and a lack of port options that might make this a poor choice for you. If you're looking for something different, the [ThinkPad Z16 Gen 2](https://digital-screen-recording.techidaily.com/updated-in-2024-experts-guide-to-the-best-ipad-voice-recording-tools-3/) performed better in some of these categories, as did the [ThinkPad X1 Carbon Gen 10](https://extra-hints.techidaily.com/cinematographic-cuisine-expert-tips-on-filming-edibles/).
@@ -260,9 +268,6 @@ Sergio Rodriguez / How-To Geek
 
 ![The Lenovo Z13 Gen 2 open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3hkubxx903po29y50bbq45fk4feyo0833940.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Lenovo ThinkPad Z13 Gen 2
 
 7/ 10 
@@ -277,8 +282,6 @@ The Lenovo ThinkPad Z13 Gen 2 laptop is a premium portable option that suits stu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -286,4 +289,18 @@ The Lenovo ThinkPad Z13 Gen 2 laptop is a premium portable option that suits stu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-perfecting-online-presence-screen-sharing-techniques/"><u>[New] 2024 Approved Perfecting Online Presence Screen Sharing Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-no-cost-virtual-viewer-rendezvous-for-2024/"><u>[New] Top No-Cost Virtual Viewer Rendezvous for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-your-ultimate-iphone-podcast-downloading-manual/"><u>[New] Your Ultimate iPhone Podcast Downloading Manual</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-explore-the-best-dvd-players-for-your-portable-laptop-for-2024/"><u>[Updated] Explore the Best DVD Players for Your Portable Laptop for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-15-best-ways-to-watch-nba-live-stream/"><u>In 2024, 15 Best Ways To Watch NBA Live Stream</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-building-brands-on-video-a-guide-to-partnering-with-popular-youtubers/"><u>In 2024, Building Brands on Video A Guide to Partnering with Popular YouTubers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-from-novice-to-pro-transforming-zoom-into-a-youtube-live-staple/"><u>In 2024, From Novice to Pro Transforming Zoom Into a YouTube Live Staple</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/in-2024-how-to-make-a-slideshow-with-music/"><u>In 2024, How to Make a Slideshow with Music</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-ready-set-fly-dji-spark-reviewed-for-selfie-enthusiasts-and-photographers-alike/"><u>In 2024, Ready, Set, Fly DJI Spark Reviewed for Selfie Enthusiasts and Photographers Alike</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-overwatch-2-startup-errors-with-these-7-fixes/"><u>Overcoming Overwatch 2 Startup Errors with These 7 Fixes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-complete-roadmap-downloading-editing-and-customizing-whatsapp-tones/"><u>The Complete Roadmap Downloading, Editing & Customizing WhatsApp Tones</u></a></li>
+</ul></div>
 

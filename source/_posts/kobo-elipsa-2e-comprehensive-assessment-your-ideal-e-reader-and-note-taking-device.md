@@ -1,7 +1,7 @@
 ---
 title: Kobo Elipsa 2E Comprehensive Assessment - Your Ideal E-Reader & Note-Taking Device
-date: 2024-08-31T08:51:58.873Z
-updated: 2024-09-01T08:51:58.873Z
+date: 2025-01-12T18:45:07.813Z
+updated: 2025-01-17T18:42:44.542Z
 tags:
   - product-reviews
 categories:
@@ -116,6 +116,10 @@ Expand
 
 ![The Kobo Elipsa 2E's box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/kobo-elipsa-2e-with-box-2jpg_53125255423_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Joe Robinson / How-To Geek
 
  Boxed up in a high-quality box, my first impression of the Kobo Elipsa 2E was that it was the premium eReader it's advertised as. Inside the Elipsa box are a quick start guide, the Kobo Elipsa 2E, the Kobo Stylus 2, a USB-A to USB-C charging cable, and a safety guide. I also received the SleepCover, which is sold separately.
@@ -131,17 +135,15 @@ Close
 ![The Kobo Elipsa 2E in its case with the stylus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/kobo-elipsa-2e-in-case-with-stylusjpg_53125259793_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Joe Robinson / How-To Geek
 
  The SleepCover isn't included with the Kobo Elipsa 2E purchase and it'll run you an extra $60\. It isn't anything special for 60 big ones—but it did put my Elipsa 2E to sleep each time I shut the cover, protected its screen, and gave me a nice slot for the pen. Frequent travelers will find the cover worth it, but those who don't anticipate taking the Elipsa on too many journeys might be able to skip it.
 
  The Kobo Stylus 2 worked well, though it isn't pressure-sensitive. I was a bit stymied that I couldn't use the pen to turn the virtual page, but that's because the pen is limited to writing only and will put a dot on the page. Setting up the pen was simple—a quick tap on the screen after charging it up via its USB-C port, and I was ready to start writing all over my eBooks and notebooks. The Kobo Stylus 2 also has an "eraser" on the end, which serves as a digital "undo" button but is much more fun than tapping a back arrow.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ##  The UI: Getting Around the Kobo Elipsa 2E
 
 ![The Kobo Elipsa 2E with its stylus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/kobo-elipsa-2e-with-stylus-3jpg_53125177800_o.jpg) 
@@ -172,6 +174,10 @@ Joe Robinson / How-To Geek
 
 ![The Kobo Elipsa 2E in a person's hands while taking notes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/kobo-elipsa-2e-in-hands-taking-notes-1jpg_53124181777_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Joe Robinson / How-To Geek
 
  Although the reading and annotation experience was fantastic, I encountered some issues I couldn't overlook. The first was the OS's rather buggy performance when completing specific tasks. For instance, when highlighting a section of text and then selecting "Undo Highlight," the highlighted text stayed on the page like a ghost, even when I was several pages past that original highlight.
@@ -179,15 +185,17 @@ Joe Robinson / How-To Geek
  I also experienced some blips when using my Beats Studio Buds to listen to an audiobook. Frequent lags occurred in playback, as well as when I hit the 30-second rewind button, and it was too distracting to continue.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Battery and Charging: Long-Lasting Charge With Light to Moderate Use
 
 ![The Kobo Elipsa 2E with its accessories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/kobo-elipsa-2e-with-accessories-2jpg_53125176950_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Joe Robinson / How-To Geek
 
  Among the Kobo Elipsa 2E's best features is its outstanding battery life. I brought the device with me on a brief vacation, planning to do some late-night reading. I didn't read as much as I'd hoped, but I did find that the battery was still going after two weeks of being left in Sleep mode.
@@ -196,25 +204,14 @@ Joe Robinson / How-To Geek
 
  Charging the Elipsa 2E took a bit of time but nothing too lengthy considering the return on battery life. The average charge speed was about 0.94% charge gain in one minute or around 56% in one hour.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the Kobo Elipsa 2E eReader?
 
 ![The Kobo Elipsa 2E's logo.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/kobo-elipsa-2e-logojpg_53124181327_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Joe Robinson / How-To Geek
 
  The [Kobo Elipsa 2E](https://us.kobobooks.com/products/kobo-elipsa-2e) is a solid choice for people looking for more than just an eReader. If you like to mark up books for educational purposes and have a library of digital notebooks with convert-to-text on one device, the Kobo Elipsa might be for you.
@@ -225,9 +222,6 @@ Joe Robinson / How-To Geek
 
 ![The Kobo Elipsa 2E eReader with a marked-up page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/en_2-turned_1080x1080_4531118d-9912-40b4-a888-c52bd5d6fab0_816x816.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 #####  Kobo Elipsa 2E
 
 7/ 10 
@@ -242,8 +236,6 @@ The Kobo Elipsa 2E eReader makes digital reading, note-taking, and annotating ea
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -251,4 +243,23 @@ The Kobo Elipsa 2E eReader makes digital reading, note-taking, and annotating ea
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-crafting-your-path-to-optimal-hdr-camera-selection/"><u>[New] 2024 Approved Crafting Your Path to Optimal HDR Camera Selection</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-most-valuable-maps-top-treasures-in-terraria/"><u>[New] 2024 Approved Most Valuable Maps Top Treasures in Terraria</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-selective-software-optimal-blu-ray-players-free-to-pay/"><u>[New] 2024 Approved Selective Software Optimal Blu-Ray Players (Free to Pay)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/1719062254633-new-2024-approved-why-does-imovie-crop-my-videos/"><u>[New] 2024 Approved Why Does iMovie Crop My Videos?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-between-audio-and-video-which-platform-takes-the-lead-for-2024/"><u>[New] Between Audio and Video, Which Platform Takes the Lead for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-is-inshot-the-peak-of-video-editing-software/"><u>[New] In 2024, Is InShot the Peak of Video Editing Software?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-deciphering-the-legacy-of-free-visual-works/"><u>[Updated] 2024 Approved Deciphering the Legacy of Free Visual Works</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-from-unsteady-to-steady-tips-for-fixing-gopro-video-jitters/"><u>[Updated] 2024 Approved From Unsteady to Steady Tips for Fixing GoPro Video Jitters</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-immersive-storytelling-harnessing-top-10-text-innovations-in-videos/"><u>[Updated] 2024 Approved Immersive Storytelling Harnessing Top 10 Text Innovations in Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-visualpiece-macbookplusiphone-photo-blend/"><u>[Updated] In 2024, VisualPiece MacBook+iPhone Photo Blend</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-techniques-for-extracting-mp3-from-instagram-videos/"><u>[Updated] Techniques for Extracting MP3 From Instagram Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-power-of-words-in-transforming-realities-to-documentaries-for-2024/"><u>[Updated] The Power of Words in Transforming Realities to Documentaries for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-enhancing-visuals-tips-for-recording-ppt-effectively/"><u>2024 Approved Enhancing Visuals Tips for Recording PPT Effectively</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-oppo-a18-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Oppo A18 Phone Pattern Lock</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-realme-12-pro-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Realme 12 Pro 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ping-youtube-videos-with-smart-post-upload-techniques/"><u>Revamping YouTube Videos with Smart Post-Upload Techniques</u></a></li>
+</ul></div>
 

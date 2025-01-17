@@ -1,7 +1,7 @@
 ---
 title: "Nebula Capsule Mini Projector 3 Review: Perfect Nighttime Entertainment Companion"
-date: 2024-08-31T08:52:01.932Z
-updated: 2024-09-01T08:52:01.932Z
+date: 2025-01-12T16:46:26.713Z
+updated: 2025-01-17T17:35:16.566Z
 tags:
   - product-reviews
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/d4527039f6a1a287d2df17fa899a5ac8403841092
  Ideally, a portable projector has everything it needs to watch a movie, self-contained, while remaining small and easy to travel with. The [Anker Nebula Capsule 3](https://us.seenebula.com/products/capsule-3-projectors-d2425) gets really close to this ideal state because of its Google TV software, 2.5-hour battery life, and decently loud speaker, but its brightness level is a weak point and might be a little too dim to use anywhere.
 
 ![Nebula Capsule 3 Projector (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/nebula-capsule-3-projector-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Anker Nebula Capsule 3 Mini Projector
 
@@ -82,6 +86,10 @@ Expand
 
 [$500 at Amazon](https://www.amazon.com/Projector-Portable-Autofocus-120-Inch-Playtime/dp/B0CHW11C8H?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2001994&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fanker-nebula-capsule-3-review%2F&asc%5Fcampaign=Affiliate) [$549 at anker](https://us.seenebula.com/products/capsule-3-projectors-d2425) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Capsule 3 Is Ultra-Portable
 
 ![Nebula Capsule 3 being held by a persona and compared to a can of la crox](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/jerome-thomas-photo-1.jpg) 
@@ -93,16 +101,13 @@ Jerome Thomas / How-To Geek
  It’s a little too big to be pocketable but incredibly small for a projector. It got an “Oh, that’s cool” from people in my family when they saw its size in my hand. The Capsule 3 even has touch controls on top, so if the remote isn’t close by, you can still pause the movie or adjust the volume. On the surface, it’s a very neat device.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  A Projector That Can Travel
 
 ![Nebula Capsule 3 turned on, sitting on a tripod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-turned-on.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  I took the Nebula Capsule 3 on a weekend trip to see how it handled being on the road. Because the device is so portable and easy to move around or travel with, I do wish it came with a case or some kind of lens protection. Packaging it in a backpack with some of my other devices made me a little uneasy.
@@ -119,16 +124,10 @@ Jerome Thomas / How-To Geek
 
  On the trip, my original plan was to stream content from my iPad to the projector, but I had trouble casting to it wirelessly over hotel Wi-Fi. This is almost certainly because these networks are typically set up to keep devices from seeing one another. Even with my iPad and Capsule 3 on the same network, the Netflix app couldn’t see the device to cast to it. If this is your primary use case, I would simply recommend picking up an HDMI cable.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Google TV Is Good But Has Its Problems
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The idea of casting to it is a little silly anyway because each time I tried to at home, it still wanted me to sign in to the app on Capsule 3\. The Google TV software on the projector can handle nearly every streaming capability natively, so there’s little point in using two devices instead of just controlling it from Capsule 3\. When I did get casting to work, there was some buffering and pauses that were not present when using the native apps.
@@ -139,26 +138,28 @@ Jerome Thomas / How-To Geek
 
  Still, even though Google TV has its rough patches, it is worlds better than the custom software that some projectors include. Those projectors rarely get updated and usually only support one or two streaming services you pay for. They’re weird and buggy. Here, Google TV keeps the Capsule 3 as modern as possible, which should mean decent software support for the immediate future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Battery Life
 
  Each time I used the Capsule 3 on battery power, I was able to make it through a full movie. I started watching “You Hurt My Feelings” with a battery level of 86%, and when I finished the 93-minute movie, it was at 12%.
 
  When the Capsule 3 was fully charged, I made it through the 87-minute “Fantastic Mr. Fox” and then about 50 to 60 minutes into “Star Wars: The Force Awakens” before the projector died. Whenever I used the projector, I also opted for the standard brightness level versus the less bright eco mode.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Price and Availability
 
  The Nebula Capsule 3 retails for $549\. If you like everything it offers but think you’ll need more brightness, there’s also the [Nebula Mars 3 Air](https://us.seenebula.com/products/mars-3-air-projectors-d2325), which retails for $599\. Despite being a little bulkier and heavier, it offers 400 ANSI lumens of brightness but the same 1080p resolution and 2.5 hours of battery life.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Should You Buy the Anker Nebula Capsule 3?
 
 ![Nebula Capsule 3 next to its box, remote, and power adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The [Anker Nebula Capsule 3](https://us.seenebula.com/products/capsule-3-projectors-d2425) projector offers a lot of capabilities packed inside a palmable-sized canister. In my use, it performed about as well as I expected it to. It’s not quite the watch-anywhere device it might seem like from its promotional material, simply because its brightness can’t handle lighter areas.
@@ -181,8 +182,6 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +189,23 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-becoming-a-youtube-pro-the-ultimate-picture-post-guide/"><u>[New] 2024 Approved Becoming a YouTube Pro The Ultimate Picture Post Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-insiders-guide-to-professional-vsco-usage/"><u>[New] 2024 Approved The Insider's Guide to Professional VSCO Usage</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-audience-friendly-guide-to-dji-inspire-2/"><u>[New] In 2024, Audience-Friendly Guide to DJI Inspire 2</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-camera-enthusiasts-spotlight-5-leading-slow-motion-tech/"><u>[New] In 2024, Camera Enthusiasts' Spotlight 5 Leading Slow Motion Tech</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-leading-lights-in-the-land-of-vr-entertainment/"><u>[New] Leading Lights in the Land of VR Entertainment</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-metaverse-life-your-ultimate-device-list/"><u>[New] Mastering Metaverse Life Your Ultimate Device List</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-melodic-mastery-in-social-media-cinema/"><u>[New] Melodic Mastery in Social Media Cinema</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-10-best-free-photo-collage-apps-for-iphone-for-2024/"><u>[Updated] 10 Best FREE Photo Collage Apps for iPhone for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-sound-innovation-at-hand-dive-into-free-easy-voice-overhaul-tools/"><u>[Updated] 2024 Approved Sound Innovation at Hand Dive Into Free, Easy Voice Overhaul Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-best-gear-for-shooting-top-10-high-res-shoulder-rigs-for-2024/"><u>[Updated] Best Gear for Shooting Top 10 High-Res Shoulder Rigs for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-site-enhanced-user-experience-and-analytics/"><u>Cookiebot-Enabled Site: Enhanced User Experience and Analytics</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-end-screen-magic-free-templates-to-boost-video-appeal/"><u>In 2024, End-Screen Magic Free Templates to Boost Video Appeal</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/nocturnal-landscapes-on-your-iphone/"><u>Nocturnal Landscapes on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solution-guide-enabling-compatibility-for-non-supported-iphone-accessories/"><u>Solution Guide: Enabling Compatibility for Non-Supported iPhone Accessories</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unleash-hd-playback-with-av1-on-youtube/"><u>Unleash HD Playback with AV1 on YouTube</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeos-global-distribution-guide-for-2024/"><u>Vimeo's Global Distribution Guide for 2024</u></a></li>
+</ul></div>
 

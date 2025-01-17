@@ -1,7 +1,7 @@
 ---
 title: "Revive the Classics: Easy Tutorial for Operating MS-DOS in Modern Computers"
-date: 2024-08-31T08:49:29.817Z
-updated: 2024-09-01T08:49:29.817Z
+date: 2025-01-14T16:30:54.141Z
+updated: 2025-01-17T20:28:08.693Z
 tags:
   - web
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/60ef5a3cb6d3ebf4383dc1944d7c5c6920d92b79f
 
 ## Revive the Classics: Easy Tutorial for Operating MS-DOS in Modern Computers
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Run MS-DOS with DOSBox](https://youtube-videos.techidaily.com/demystifying-the-math-of-youtube-ratio-perfection-for-2024/)
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/60ef5a3cb6d3ebf4383dc1944d7c5c6920d92b79f
 * [Can I Run MS-DOS in VirtualBox or VMWare?](https://unlock-android.techidaily.com/how-can-we-unlock-our-tecno-spark-go-2024-phone-screen-by-drfone-android/)
 
  DOS was (and is) an iconic part of the personal computer revolution, but modern hardware doesn't support it. If you want to give MS-DOS a spin today, you need an emulator or some ancient hardware. Here are a few easy ways to run MS-DOS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Run MS-DOS with DOSBox
 
@@ -32,6 +40,10 @@ Close
  After the installation is complete, launch DOSBox. You're now using DOS—it's that easy. DOSBox has a crash course built in that will help you get started.
 
 ![DOSBox running on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-dosbox-running.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The first thing you should do once you reach this point is to mount a folder from your regular PC in DOSBox, so that you can easily move files between your real PC and your MS-DOS operating system. I am going to place my folder in "C:\\dos" just because it makes the path very easy to type and remember, but you can put it wherever you want.
 
@@ -53,6 +65,10 @@ mount [Drive Letter You Want] [Path To Folder On Your Real PC]
 
 ![The Games folder visible in DOSBox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/games-folder-visible.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Dir is the primary command you use to view the contents of folders](https://eaxpv-info.techidaily.com/streamline-your-soundtrack-selection-for-youtube-for-2024/), and an essential one if you plan on using Windows or DOS from the command line. Another vital command is cd, which stands for "Change Directory." It is used to [move between folders in Windows](https://extra-information.techidaily.com/quick-and-easy-iphone-burst-techniques/), DOS, Linux, and macOS.
 
  There are some differences in syntax between DIR and CD on Windows and DIR and CD on DOS, however the fundamentals are largely the same. If something you find in a Windows article doesn't work, it probably isn't you—it just probably just doesn't exist in DOS.
@@ -62,8 +78,9 @@ mount [Drive Letter You Want] [Path To Folder On Your Real PC]
 ![Oregon Trail running in DOSBox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/oregon-trail.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Run DOS in Your Browser
 
  If setting up DOSBox, another emulator, or running DOS "bare metal" (directly on old hardware) isn't for you, then you can always use an online service instead.
@@ -74,14 +91,8 @@ mount [Drive Letter You Want] [Path To Folder On Your Real PC]
 
 ![DOS in a browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/dos-in-a-browser.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It also includes some old games, like Microsoft Flight Simulator, if you want to take those out for a spin.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Can I Run MS-DOS in VirtualBox or VMWare?
 
  Yes, you can, but you probably shouldn't unless you have a good reason. This is especially true since [FreeDOS](https://freedos.org/download/)—an operating system designed to give you everything MS-DOS does—is safe, reliable, and freely available.
@@ -96,8 +107,6 @@ mount [Drive Letter You Want] [Path To Folder On Your Real PC]
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +114,24 @@ mount [Drive Letter You Want] [Path To Folder On Your Real PC]
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-livestream-luminaries-clash/"><u>[New] 2024 Approved Livestream Luminaries Clash</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ailymovement-vs-youtube-income-comparison/"><u>[New] DailyMovement vs Youtube Income Comparison</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-comprehensive-review-transform-your-images-with-facetune/"><u>[New] In 2024, Comprehensive Review Transform Your Images with Facetune</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-demystifying-youtubes-keyword-power-play/"><u>[New] In 2024, Demystifying YouTube's Keyword Power Play</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-digital-creativity-unleashed-changing-numbers-in-tiktok/"><u>[New] In 2024, Digital Creativity Unleashed Changing Numbers in TikTok</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-total-gb-for-24-hour-movie-size/"><u>[New] Total GB for 24-Hour Movie Size</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-saving-mov-videos-on-windows-11-a-guide-with-six-steps/"><u>[Updated] 2024 Approved Saving .MOV Videos on Windows 11 - A Guide with Six Steps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ring-sound-repeat-a-comprehensible-guide-to-personalization-on-android-devices/"><u>[Updated] In 2024, Ring, Sound, Repeat A Comprehensible Guide to Personalization on Android Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-inexpensive-mirrorless-and-dslr-options-for-2024/"><u>[Updated] Inexpensive Mirrorless & DSLR Options for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-jocular-joke-crafting-a-step-by-step-guide-to-memelore/"><u>[Updated] Jocular Joke-Crafting A Step-by-Step Guide to Memelore</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-guide-installing-epson-xp-410-printer-drivers-on-windows-free-download-steps/"><u>Complete Guide: Installing Epson XP-410 Printer Drivers on Windows - Free Download Steps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/from-dull-to-dynamic-a-pros-guide-to-shade-shifting/"><u>From Dull to Dynamic A Pro's Guide to Shade Shifting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-troubleshooting-video-playback-problems-on-ipads/"><u>Guide to Troubleshooting Video Playback Problems on iPads.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-revel-in-filmoras-top-9-edits-every-editor-loves/"><u>In 2024, Revel in Filmora's Top 9 Edits Every Editor Loves</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/smoothly-blending-bio-and-linktree-on-your-tiktok-platform-for-2024/"><u>Smoothly Blending Bio & Linktree on Your TikTok Platform for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>The Magnificent Art of Pokemon Go Streaming On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+</ul></div>
 

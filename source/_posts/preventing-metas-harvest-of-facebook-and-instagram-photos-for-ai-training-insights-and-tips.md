@@ -1,7 +1,7 @@
 ---
 title: Preventing Meta's Harvest of Facebook and Instagram Photos for AI Training – Insights and Tips
-date: 2024-08-31T08:49:23.303Z
-updated: 2024-09-01T08:49:23.303Z
+date: 2025-01-13T18:31:12.407Z
+updated: 2025-01-17T17:15:39.572Z
 tags:
   - web
 categories:
@@ -11,11 +11,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Preventing Meta's Harvest of Facebook and Instagram Photos for AI Training – Insights and Tips
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Meta Is Using Your Data to Train Its AI Model](https://facebook-videos.techidaily.com/new-2024-approved-fbs-hot-five-most-captivating-vids/)
 * [How to Stop Meta From Using Your Data](https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-using-vlc-for-mp4-and-format-shifting/)
 * [What's the Best Thing You Can Do If You Don't Live in the UK or EU](https://driver-download.techidaily.com/up-to-date-driver-support-for-your-hp-deskjet-3700-printer/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -33,9 +41,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Facebook notification about AI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/facebook-notification-about-ai.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  After the new policy takes effect, Meta will use your public Facebook posts, Instagram photos and captions, data from third-party services, and your chats with the [Facebook AI chatbot](https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-a79-5g-drfone-by-drfone-virtual-android/) to train its [large language models (LLMs)](https://extra-support.techidaily.com/2024-approved-picture-perfect-presentation-software-for-impeccable-photo-framing/). They won't use your private messages or anything you've posted privately.
 
  This move isn't entirely surprising, as AI models require data for training, and what better place for Meta to train its AI model than the data already present on its platform. However, as users, no one wants someone to use their information without their consent. That's why Meta has provided an option for you to opt your data out of Meta's AI training source. However, there are many restrictions in the opt-out process, and it's currently limited to UK and EU users only.
@@ -50,9 +55,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Facebook Help Center page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/facebook-help-center-page.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  After that, you'll receive a [one-time password (OTP)](https://www.howtogeek.com/771674/what-does-otp-mean-and-how-do-you-use-it/) in your email that you'll need to enter to confirm your decision.
 
 ![OTP Screen on Facebook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/otp-screen-on-facebook.jpg) 
@@ -62,20 +64,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Confirmation message from Facebook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/confirmation-message-from-facebook.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  While Meta honors most objections and sends a confirmation email, many users have had their [objections rejected](https://x.com/anninosj/status/1795328977466536041). There's no clear information on what factors Meta considers when making these decisions, but according to GDPR, they shouldn't be rejecting any objections at all. In fact, because of denying users' objections and violating GDPR law, [NYOB has filed complaints in 11 European countries](https://noyb.eu/en/noyb-urges-11-dpas-immediately-stop-metas-abuse-personal-data-ai) and has asked the authorities to initiate an investigation to stop this change immediately.
 
 ![Mail from Facebook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/mail-from-facebook.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
  Even if you opt out of this program, there's a slight chance Meta might still access posts related to you. For example, if your family or friends who haven't opted out have shared a post that mentions you, then Meta can use that information. To eliminate this possibility, you would need to ask your relatives who have shared posts containing your information to also opt out of this program.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What's the Best Thing You Can Do If You Don't Live in the UK or EU
 
  Unfortunately, unlike the European Union's General Data Protection Regulation (GDPR), there's no strict privacy law in the US or other regions that compels Meta to offer an opt-out option for this program. These regions may create such a policy in the future, but for now, there's one thing you can do yourself.
@@ -84,17 +85,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Help Center option in the Instagram Help window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/help-center-option-in-the-instagram-help-window.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Under "Featured Topics," choose "About AIs on Instagram."
 
 ![About AIs On Instagram option on Instagram Help page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/about-ais-on-instagram-option-on-instagram-help-page.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
  Select the link "How Meta uses information for generative AI models."
 
 ![How Meta Uses information For generative AI models link.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/how-meta-uses-information-for-generative-ai-models-link.jpg) 
@@ -119,8 +117,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +124,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-24-hour-film-size-gb-measurement-guide/"><u>[New] 2024 Approved 24-Hour Film Size GB Measurement Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-smooth-transitions-the-ultimate-guide-for-audio-editors/"><u>[New] In 2024, Smooth Transitions The Ultimate Guide for Audio Editors</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/asterminds-of-immersive-marvellous-marvel-spheres-for-2024/"><u>[New] Masterminds of Immersive Marvellous Marvel Spheres for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-professional-zoom-settings-guide-for-google-meet/"><u>[New] Professional Zoom Settings Guide for Google Meet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-cutting-edge-of-content-tips-for-the-trendy-tiktoker/"><u>[New] The Cutting Edge of Content Tips for the Trendy TikToker</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-how-to-zoom-in-and-zoom-out-video-on-iphone-easily/"><u>[Updated] 2024 Approved How to Zoom in and Zoom Out Video on iPhone Easily</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-isolating-photographs-within-windows-10-movie-files/"><u>[Updated] 2024 Approved Isolating Photographs Within Windows 10 Movie Files</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-swiftly-blur-your-iphone-shots-with-these-4-tricks/"><u>[Updated] In 2024, Swiftly Blur Your iPhone Shots with These 4 Tricks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-beginners-besties-essential-gopro-upgrades-list/"><u>[Updated] The Beginner's Besties - Essential GoPro Upgrades List</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagram-videography-guide-size-matters/"><u>2024 Approved Instagram Videography Guide - Size Matters</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/comment-resoudre-les-difficultes-de-lecture-du-codec-hevc-sur-votre-pc-avec-windows-1187/"><u>Comment Résoudre Les Difficultés De Lecture Du Codec HEVC Sur Votre PC Avec Windows 11/8/7</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-7-plus-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an Apple iPhone 7 Plus Without Apple ID Password?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-visual-mastery-crop-and-edit-videos-like-pros/"><u>Instagram Visual Mastery Crop and Edit Videos Like Pros</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nier-shadow-complexes-crash-issues-resolved/"><u>NieR: Shadow Complexes Crash Issues Resolved</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-filmmakers-first-steps-learning-15-fundamental-shots/"><u>The Filmmaker's First Steps Learning 15 Fundamental Shots</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-iphone-11-pro-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile iPhone 11 Pro Before the Plan Expires</u></a></li>
+</ul></div>
 

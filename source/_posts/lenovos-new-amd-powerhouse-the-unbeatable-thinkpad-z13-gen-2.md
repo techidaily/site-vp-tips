@@ -1,7 +1,7 @@
 ---
 title: "Lenovo's New AMD Powerhouse: The Unbeatable ThinkPad Z13 Gen 2"
-date: 2024-08-31T08:51:08.922Z
-updated: 2024-09-01T08:51:08.922Z
+date: 2025-01-16T20:37:22.099Z
+updated: 2025-01-17T18:31:03.600Z
 tags:
   - product-reviews
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/8b3d2d47a5002bc66759eafaa4c246c7aaef6efd4
 ---
 
 ## Lenovo's New AMD Powerhouse: The Unbeatable ThinkPad Z13 Gen 2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -124,9 +128,17 @@ Expand
 
 [Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadz%2Fthinkpad-z13-gen-2-%2813-inch-amd%29%2Flen101t0073%3ForgRef%3Dhttps%25253A%25252F%25252Fwww.bing.com%25252F%26clickid%3DUSr2MBRYBxyPWchRfv0ZO18OUkHwPjSRQ2wdxw0%26irgwc%3D1%26im_rewards%3D1%26PID%3D2003851%26acid%3Dww%253Aaffiliate%253Abv0as6%26cid%3Dus%253Aaffiliate%253Acxsaam%23tech_specs) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Design: A Tiny but Mighty ThinkPad
 
 ![Rear angled view of the open Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/rear-angled-view-of-the-open-lenovo-z13-gen-2-2jpg_53480774019_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -138,9 +150,6 @@ Close
 
  The laptop's base houses the large 10keyless chiclet keyboard, which also includes a customizable TrackPoint button. The keyboard takes up about 60% of the surface area, and right below it is a 2.79 by 4.72-inch glass-surface touchpad.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Ports: Two Good Ones... and Nothing Else
 
  By way of ports, this Z13 doesn't offer much to write home about. However, the two ports included are USB4 with a 40Gbps speed. (In case you're unaware of [what USB4 is](https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/), it's basically an upgraded version of a standard USB-C port, comparable to Thunderbolt 4, though in some arguments, USB-4 isn't _quite_ as good as this counterpart due to specific limitations).
@@ -157,9 +166,6 @@ Close
 
 ![The TrackPoint of the Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-trackpoint-of-the-lenovo-z13-gen-2-2jpg_53480774934_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  Like other ThinkPads I've reviewed, such as the [ThinkPad Z16 Gen 2](https://discord-videos.techidaily.com/prime-free-tools-to-sketch-unique-discord-icons/) or the [ThinkPad X1 Nano Gen 3](https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-gt-neo-5-location-settings-drfone-by-drfone-virtual/), the inputs of the Z13 all have the comfortable and premium feel that the ThinkPad line is known for. Despite the Z13's small build, the keyboard is full-size and has a pleasantly springy type feel. I also appreciated, as I usually do, the inclusion of the Trackpoint, which helped me make precise mouse movements without moving my right hand from the keyboard area.
@@ -167,6 +173,10 @@ Sergio Rodriguez / How-To Geek
  The precision touchpad delivered accuracy anytime I used it, whether I was scrolling, clicking, or tapping. Unlike other touchpads, which sometimes miss light taps, the Z13's never failed to recognize a tap.
 
  The touchscreen was also sensitive enough to provide accurate typing and tapping, whether using the touch keyboard or simply hitting the "save" button in my word processor.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Display and Graphics: A Bright OLED Beauty
 
@@ -186,37 +196,14 @@ Close
 
 Close 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ##  Performance: Solid and Trustworthy, but Not Lightning Speed
 
 ![AMD Ryzen Pro 7 processor sticker on the Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/amd-ryzen-pro-7-processor-sticker-on-the-lenovo-z13-gen-2jpg_53480774764_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  My model came with the AMD Ryzen 7 Pro 7840U processor, which handled many tasks with ease alongside the 32GB of RAM, but I found that the CPU commonly lacked the speeds I was hoping to find. Starting up the Z13 took longer than other similar ThinkPads and several product downloads took longer than I anticipated. This isn't to say the Z13 was slow by any means, but it wasn't as fast as other Lenovos I've worked with that also had 32GB of memory. For instance, the Z13 began to lag in speed when I had about 20 browser tabs open (with one playing a movie on Peacock), as well as a few office programs, the Xbox app, and the Microsoft store. I should note that you can upgrade the Z13's memory to 64GB, which would make the speed faster for multitasking purposes.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Gaming Performance: Only Good for a Small Amount of Casual Gaming
 
  Gaming with the Lenovo ThinkPad Z13 Gen 2 wasn't enjoyable unless I was playing a game with low to medium resource requirements. While playing "Atomic Heart," for example, I had to adjust the graphics settings down to "low" or "medium" to make it playable, and even after doing that, the latency during some of the gameplay made playing it anything but smooth. Other games, such as "Planet of Lana," performed well enough to make any casual gamer happy. But I consistently ran into issues with games such as "The Last Case of Benjamin Fox" or "Bramble: The Mountain King." As expected, the specs couldn't handle "A Plague Tale: Requiem," even when I adjusted the graphics quality way down.
@@ -226,6 +213,10 @@ Sergio Rodriguez / How-To Geek
 ##  Sights and Sounds: Pleasant as Any Premium
 
 ![The closed Lenovo Z13 Gen 2 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-closed-lenovo-z13-gen-2-laptop-4jpg_53480466146_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -237,19 +228,14 @@ Close
 
  The dual microphone system captures the human voice well, and it has noise-canceling features that work well to cut out background noise. In a noisy environment, I was still audible to the people on the other end of the call, and the recordings also came through crystal clear. It does cut out noises at higher volumes, which I discovered in singing tests.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+### 
+
 ### 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-### 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 
 
 ##  Battery and Charging: Long-Lasting Battery Life
@@ -266,6 +252,10 @@ Sergio Rodriguez / How-To Geek
 
 ![The closed Lenovo Z13 Gen 2 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-closed-lenovo-z13-gen-2-laptop-2jpg_53480775254_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  The [ThinkPad Z13 Gen 2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadz%2Fthinkpad-z13-gen-2-%2813-inch-amd%29%2Flen101t0073) is a premium offering that's a good choice for anyone who travels a lot or wants a portable laptop with decent processing power. However, it has some weaknesses in terms of its speaker system, an occasional lag when heavily multitasking, and a lack of port options that might make this a poor choice for you. If you're looking for something different, the [ThinkPad Z16 Gen 2](https://digital-screen-recording.techidaily.com/updated-in-2024-experts-guide-to-the-best-ipad-voice-recording-tools-3/) performed better in some of these categories, as did the [ThinkPad X1 Carbon Gen 10](https://extra-hints.techidaily.com/cinematographic-cuisine-expert-tips-on-filming-edibles/).
@@ -275,8 +265,9 @@ Sergio Rodriguez / How-To Geek
 ![The Lenovo Z13 Gen 2 open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3hkubxx903po29y50bbq45fk4feyo0833940.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  Lenovo ThinkPad Z13 Gen 2
 
 7/ 10 
@@ -291,8 +282,6 @@ The Lenovo ThinkPad Z13 Gen 2 laptop is a premium portable option that suits stu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -300,4 +289,24 @@ The Lenovo ThinkPad Z13 Gen 2 laptop is a premium portable option that suits stu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-master-reverse-playback-of-videos-on-android-devices/"><u>[New] 2024 Approved Master Reverse Playback of Videos on Android Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-foundations-in-digital-visual-narratives-for-2024/"><u>[New] Foundations in Digital Visual Narratives for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-best-action-cameras-on-wheels-top-5-picks-for-23-riders/"><u>[New] In 2024, Best Action Cameras on Wheels – Top 5 Picks for '23 Riders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-mastering-pc-gaming-capturing-your-adventures-on-win10-for-2024/"><u>[New] Mastering PC Gaming Capturing Your Adventures on Win10 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unveiling-the-new-wave-of-video-editing-with-powerdirector-24/"><u>[Updated] 2024 Approved Unveiling the New Wave of Video Editing with PowerDirector '24</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-advanced-3d-text-techniques-in-ai/"><u>[Updated] Advanced 3D Text Techniques in AI</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-capturing-photographs-from-movies-in-windows-photos-app-for-savvy-users/"><u>[Updated] Capturing Photographs From Movies in Windows Photos App for Savvy Users</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-a-flash-streamlined-techniques-for-cutting-images-online-for-2024/"><u>[Updated] In a Flash Streamlined Techniques for Cutting Images Online for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-list-of-dji-phantom-4-supplements/"><u>[Updated] The Ultimate List of DJI Phantom 4 Supplements</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-inside-facetunes-magic-an-in-depth-analysis-for-perfect-photos/"><u>2024 Approved Inside Facetune's Magic An In-Depth Analysis for Perfect Photos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-big-sur-tech-requirements-a-quick-reference-guide/"><u>In 2024, Big Sur Tech Requirements A Quick Reference Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-masterful-descriptions-for-impactful-podcast-intros/"><u>In 2024, Masterful Descriptions for Impactful Podcast Intros</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-art-of-greenscreen-in-kinemaster/"><u>In 2024, Mastering the Art of Greenscreen in KineMaster</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-hash-tags-skyrocketing-to-6-figure-views-on-youtube/"><u>In 2024, Top Hash Tags Skyrocketing to 6-Figure Views on YouTube</u></a></li>
+<li><a href="https://win-superb.techidaily.com/secure-your-data-with-no-cost-windows-10-backups-two-top-strategies-revealed/"><u>Secure Your Data with No-Cost Windows 10 Backups – Two Top Strategies Revealed</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-fixing-driver-verifier-detected-violation-bsod-crashes-on-windows-10-solution/"><u>Step-by-Step Guide: Fixing Driver Verifier Detected Violation BSOD Crashes on Windows 10 [SOLUTION]</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-blueprint-for-channel-empowerment-via-studio-mastery-for-2024/"><u>The Blueprint for Channel Empowerment via Studio Mastery for 2024</u></a></li>
+</ul></div>
 

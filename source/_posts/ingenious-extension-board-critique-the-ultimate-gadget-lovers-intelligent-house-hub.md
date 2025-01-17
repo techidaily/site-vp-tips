@@ -1,7 +1,7 @@
 ---
 title: "Ingenious Extension Board Critique: The Ultimate Gadget Lover's Intelligent House Hub"
-date: 2024-08-31T08:51:03.850Z
-updated: 2024-09-01T08:51:03.850Z
+date: 2025-01-15T20:36:34.475Z
+updated: 2025-01-17T16:57:34.923Z
 tags:
   - product-reviews
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 ---
 
 ## Ingenious Extension Board Critique: The Ultimate Gadget Lover's Intelligent House Hub
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -62,6 +66,10 @@ This Brilliant Plug-in Panel flush mounts to any wall and plugs into any outlet.
 
 [$185 at Amazon](https://www.amazon.com/Brilliant-Control-Lighting-Switch-Version/dp/B0CCJW9GF3?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2001503&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbrilliant-plug-in-panel-review%2F&asc%5Fcampaign=Affiliate) [$399 at Brilliant](https://www.brilliant.tech/products/plug-in-control?variant=43531145937090) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Responsive Touchscreen Works Surprisingly Well
 
 ![Brilliant Plug-In Panel laying on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/brilliant-plug-in-panel-laying-on-a-table.JPG) 
@@ -76,16 +84,10 @@ Tyler Hayes / How-To Geek
 
  Beyond the motion sensor, there's also a camera integrated into the unit above the touch strips. It's intended to be used from one control panel to another and is a compelling reason to get more than one. But I was able to test it from the Brilliant app. The video from the tiny camera was dark and grainy. It really needs a lot of light in the room. Talking from my phone to the Plug-In Panel was also delayed enough that it was annoying to use.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Plenty of Products Connect, But Not Everything Is Covered
 
 ![close view of the Brilliant Plug-In Panel installed on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/close-view-of-the-brilliant-plug-in-panel-installed-on-a-wall.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  It might not be immediately clear to everyone, but Brilliant is playing the intermediary here, working with dozens of companies, and harnessing their APIs to get as many smart home devices as possible integrated into their system. You’ll need to jump out to different company sites and sign in to authorize access, but otherwise, the process is seamless and fairly invisible.
@@ -100,9 +102,6 @@ Tyler Hayes / How-To Geek
 
  This often made me question why I was trying to juggle the mental load of remembering what was connected where instead of just pulling out my phone for everything and tapping on the folder with all my smart home apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Access to Sonos and Other Smart Home Products Is a Mixed Bag
 
 Close 
@@ -114,8 +113,9 @@ Close
  This makes the Plug-In Panel great for controlling music that’s already playing, but not particularly good for putting on music the first time—another instance of needing to go to a smartphone app.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Some Things to Consider
 
  Even though the Plug-In Panel is easy to power up, its wire length is a little awkward. It’s much too long to install right above a wall outlet that’s out in the open. The best bet is to try and mount the panel above a piece of furniture so that the wiring can be zip-tied and hidden behind it. I tried to hide my wire behind a plant.
@@ -134,9 +134,6 @@ Close
 
  The part I really struggle with is introducing another middleman into the fickle smart home. Brilliant has proven to me over several weeks that it’s mostly up to the task of wrangling a host of connected devices. (Though my Nest doorbell was constantly laggy.) And still, those connected devices have a mind of their own and operate irrationally, which means there is yet another thing to troubleshoot in the chain of whether something works or not.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Brilliant App Is Stuffed But Manageable
 
 Close 
@@ -147,6 +144,10 @@ Close
 
  Once all my devices were configured, I used the app sparingly. I mostly return to it to change what a sliding strip does or use the app to change the photos shown on the Plug-In Panel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Price and Availability
 
  The Brilliant Plug-In Panel retails for $449, the same price as the wired version. The wired control panel with three touch strips [retails for $499](https://www.amazon.com/Brilliant-Control-Lighting-Switch-Version/dp/B07C6PPCCH?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2001503&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbrilliant-plug-in-panel-review%2F&asc%5Fcampaign=Affiliate), and the four-strip version costs $549.
@@ -154,6 +155,10 @@ Close
 ##  Should You Buy the Brilliant Plug-in Panel?
 
 ![farther back view of the Brilliant Plug-In Panel installed on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/farther-back-view-of-the-brilliant-plug-in-panel-installed-on-a-wall.JPG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -163,9 +168,6 @@ Tyler Hayes / How-To Geek
 
 ![Brilliant Smart Home Control Panel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/brilliant-smart-home-control-panel.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 #####  Brilliant Plug-In Panel
 
 7/ 10 
@@ -198,8 +200,6 @@ This Brilliant Plug-in Panel flush mounts to any wall and plugs into any outlet.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +207,18 @@ This Brilliant Plug-in Panel flush mounts to any wall and plugs into any outlet.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-cultivating-a-thriving-online-community-subscriber-growth-tactics/"><u>[Updated] Cultivating a Thriving Online Community Subscriber Growth Tactics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-convert-subtitles-effortlessly-top-8-best-converters-from-sub-to-srt-format/"><u>[Updated] In 2024, Convert Subtitles Effortlessly - Top 8 Best Converters From SUB to SRT Format</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-playlist-pilgrimage-seamless-music-service-journeying/"><u>[Updated] Playlist Pilgrimage Seamless Music Service Journeying</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/bringing-imagery-elements-into-harmony-for-2024/"><u>Bringing Imagery Elements Into Harmony for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2021-what-to-do-when-youre-stuck-on-the-start-screen/"><u>Football Manager 2021: What To Do When You're Stuck on the Start Screen?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-system-file-checker-issues-and-sfc-errors-on-pc/"><u>How to Resolve 'Windows System File Checker' Issues and SFC Errors on PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-audiophiles-guide-to-immersive-tales/"><u>In 2024, Audiophile's Guide to Immersive Tales</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-realme-narzo-n55-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Realme Narzo N55 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/stabilize-your-story-a-guide-to-steadying-handheld-gopro-recordings-for-2024/"><u>Stabilize Your Story A Guide to Steadying Handheld GoPro Recordings for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/streamline-success-a-review-of-top-name-generators-for-2024/"><u>Streamline Success A Review of Top Name Generators for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-vivo-v29-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Vivo V29 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+</ul></div>
 

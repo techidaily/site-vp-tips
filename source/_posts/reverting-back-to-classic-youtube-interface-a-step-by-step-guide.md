@@ -1,7 +1,7 @@
 ---
 title: "Reverting Back to Classic YouTube Interface: A Step-by-Step Guide"
-date: 2024-08-31T08:49:28.225Z
-updated: 2024-09-01T08:49:28.225Z
+date: 2025-01-10T17:34:32.101Z
+updated: 2025-01-17T18:16:08.354Z
 tags:
   - web
 categories:
@@ -27,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
  Second, the scripts we’re using are pretty simple and small, so it’s easy to audit them for privacy reasons. [Extensions](https://extra-support.techidaily.com/2024-approved-selective-soundscape-picks-for-video-editors/) (unless they’re open source, and you’ve compiled them yourself) aren’t transparent like that.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Installing a Userscript Extension
 
  Userscripts run inside a script extension. TamperMonkey and ViolentMonkey are two solid options. I’m going to use TamperMonkey since it’s available on every popular browser.
@@ -38,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
 ![TamperMonkey download page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240627-174903.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You’re now ready to load the userscript that will revert YouTube's layout.
 
 ###  Revert YouTube to the Old Layout
@@ -63,11 +65,9 @@ Close
 ![Enabling the old YouTube layout script in TamperMonkey.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240627-181106.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ###  Hide YouTube Shorts
 
  You can also [get rid of YouTube Shorts](https://review-topics.techidaily.com/recover-your-messages-after-civi-3-disney-100th-anniversary-edition-has-been-deleted-by-fonelab-android-recover-messages/) from the feed and search with a simple script. There are more than a dozen scripts available that do the trick. I tested a few of them, and they all worked perfectly.
@@ -77,6 +77,10 @@ Close
 Close 
 
  Go to YouTube and scroll down to see if the Shorts panel is gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Disable the Rounded Design
 
@@ -90,9 +94,6 @@ Close
 
  You can also add filters to uBlock Origin to restore the old YouTube layout. I recommend this solution if you already have uBlock Origin installed. It's also a great option if you don't want to bother with userscripts. It works by disabling some experimental features that trigger the new YouTube layout (since it is still in beta).
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ###  Install uBlock Origin
 
  The uBlock Origin extension is a popular content blocker. It’s open source and safe. You can install it on Chrome, Edge, Opera, and Firefox. Open the [uBlock Origin website](https://ublockorigin.com/) and click the “Get uBlock Origin” button.
@@ -100,9 +101,9 @@ Close
 ![Installing uBlock Origin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240627-202937.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Set Up Filters
 
  Once it’s installed, click the red uBlock Origin icon in the Extensions tab. Then open the uBlock Origin dashboard by clicking the three gear icons on the bottom.
@@ -149,8 +150,6 @@ youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.kevlar_watch_max_player_width,
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +157,26 @@ youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.kevlar_watch_max_player_width,
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-elite-selections-8-incredible-tools-to-elevate-your-4k-video/"><u>[New] 2024 Approved Elite Selections 8 Incredible Tools to Elevate Your 4K Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flipping-the-script-online-video-reversals/"><u>[New] 2024 Approved Flipping the Script Online Video Reversals</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-edge-constructing-compelling-square-footage-in-imovie/"><u>[New] 2024 Approved Instagram Edge Constructing Compelling Square Footage in iMovie</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-free-money-tips-for-reddit-novices-13-best-ways-for-2024/"><u>[New] Free Money Tips for Reddit Novices (13 Best Ways!) For 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ultimate-gopro-comparison-max-360-vs-hero-11-performance-for-2024/"><u>[New] Ultimate GoPro Comparison Max 360 vs Hero 11 Performance for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-6-pioneering-nft-creators-spurring-artistic-genius/"><u>[Updated] 2024 Approved 6 Pioneering NFT Creators Spurring Artistic Genius</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-navigating-through-motion-perception-systems/"><u>[Updated] 2024 Approved Navigating Through Motion Perception Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-secrets-to-superior-streaming-of-soccer-matches/"><u>[Updated] 2024 Approved Secrets to Superior Streaming of Soccer Matches</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-your-gopro-matchmaker-a-detailed-model-analysis/"><u>[Updated] 2024 Approved Your Gopro Matchmaker A Detailed Model Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-memes-with-a-smile-builder/"><u>2024 Approved Top Memes with a Smile Builder</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-examination-of-the-samsung-galaxy-note20-ultras-5g-performance/"><u>Comprehensive Examination of the Samsung Galaxy Note20 Ultra's 5G Performance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-drivers-for-brother-hl-l23dw-printer-step-by-step-tutorial/"><u>Get the Latest Drivers for Brother HL-L23_DW Printer - Step by Step Tutorial</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-vivo-y28-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Vivo Y28 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-htc-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On HTC Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-comprehensive-telegram-web-usage-tips-and-tricks/"><u>In 2024, Comprehensive Telegram Web Usage Tips & Tricks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-editorsuite-showcase-video-editor-features-and-reviews/"><u>In 2024, EditorSuite Showcase – Video Editor Features & Reviews</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-chronos-shifts-using-phantoms-time-reversed-footage/"><u>In 2024, Mastering Chronos Shifts Using Phantom's Time-Reversed Footage</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-rapid-diy-techniques-that-every-indie-filmmaker-should-try/"><u>In 2024, Rapid DIY Techniques That Every Indie Filmmaker Should Try</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-expertise-pinpointing-specific-players/"><u>Steam Expertise: Pinpointing Specific Players</u></a></li>
+</ul></div>
 

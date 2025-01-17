@@ -1,7 +1,7 @@
 ---
 title: "WhatsApp Hack Revealed: Message Someone Anonymously Without Saving Their Number"
-date: 2024-08-31T08:49:50.650Z
-updated: 2024-09-01T08:49:50.650Z
+date: 2025-01-11T20:25:23.065Z
+updated: 2025-01-17T18:40:43.737Z
 tags:
   - web
 categories:
@@ -41,8 +41,9 @@ Close
  This trick will work just the same on the WhatsApp app and on [WhatsApp Web](https://fox-that.techidaily.com/dealing-with-iphone-x-troubles-heres-how-you-can-resolve-the-7-biggest-nuisances/).
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Start a WhatsApp Chat Using a Custom Link
 
  Custom links are another platform-agnostic way to start a chat quickly. Open any web browser (phone, tablet, or desktop) and enter this URL in the search bar: https://wa.me/<phone number goes here>.
@@ -57,6 +58,10 @@ Close
 
 ![Starting a WhatsApp chat using an API link.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240626-032315.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can even preload the URL with a text message. It saves an extra step and prefills the chat box with your message. That way, you can open the chat and send the text with a single tap. Use this URL template. https://wa.me/<phone number goes here>?text=<text goes here>.
 
  Replace “<phone number goes here>” with the number you’re trying to reach and the “<text goes here>” field with text that has percentage symbols instead of spaces. It should look like this:
@@ -68,33 +73,25 @@ https://wa.me/123456789?text=This%is%my%location
 ![Sending a WhatsApp text to a phone number using a URL.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240626-032419.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Start WhatsApp Chat Using an Android App
 
  If you start contactless chats often, you can save yourself the typing hassle with a dedicated app.
 
  I typically don’t recommend any mods or companion apps for sensitive apps like WhatsApp, but the two apps I’m listing here don’t need any permissions whatsoever.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ###  ChatLaunch For WhatsApp
 
  The first ChatLaunch for WhatsApp. It’s an ad-free, safe, and open-source app available on the [F-Droid store](https://desktop-recording.techidaily.com/new-2024-approved-lenovo-laptop-screen-logging-made-easy/). You’ll either need to sideload its APK file or [install it through the F-Droid app](https://f-droid.org/en/packages/dev.theolm.wwc/).
 
 ![Starting a new WhatsApp chat using the ChatLaunch app on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_2024-06-26-03-29-32-272_dev-theolm-wwc-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 Close 
 
  Once installed, you can launch the app by tapping the WhatsApp icon labeled “Chat.” You’ll find it either on your home screen or in the app drawer. The app has a pretty basic interface—just a popup where you can enter a phone number and quick-start a WhatsApp conversation. The gear icon lets you set a default country code.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ###  Click to Chat
 
  The second app is [Click to Chat](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003816/https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp&hl=en). It works just like ChatLaunch, but it has more features, and it’s easier to install. You can download it from the Play Store with a single tap.
@@ -116,9 +113,9 @@ Close
 ![Creating a new WhatsApp action in iOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/whatsapp-image-2024-06-26-at-3-36-54-am.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close 
 
  When you do that, you’ll get an action that reads, “Ask for Text with Prompt.” Tap “Text” and select “URL” from the dropdown menu. Next, tap “Prompt” and type “phone number.” Finally, tap “Done” on the keyboard bar. First action. Three more to go.
@@ -145,6 +142,10 @@ Close
 
 ![Testing the no-contact WhatsApp chat action.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/whatsapp-image-2024-06-26-at-3-36-56-am-13.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close 
 
 ---
@@ -157,8 +158,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +165,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-dive-deep-into-windows-11-the-ultimate-guide-to-video-cutting/"><u>[New] 2024 Approved Dive Deep Into Window's 11 The Ultimate Guide to Video Cutting</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-crafting-seamless-sounds-for-your-podcasts-using-garageband-for-2024/"><u>[New] Crafting Seamless Sounds for Your Podcasts Using GarageBand for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-high-speed-audio-alteration-software-summary/"><u>[New] High-Speed Audio Alteration Software Summary</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/aunching-a-youtube-channel-key-pieces-of-equipment/"><u>[New] Launching a YouTube Channel Key Pieces of Equipment</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-breaking-down-the-animation-process-a-movie-maker-approach-for-2024/"><u>[Updated] Breaking Down the Animation Process A Movie Maker Approach for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-enhance-your-screenshot-experience-apple-and-androids-best-sticker-add-ons/"><u>[Updated] Enhance Your Screenshot Experience Apple & Android's Best Sticker Add-Ons</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-guide-to-displaying-screens-in-google-meet/"><u>[Updated] The Ultimate Guide to Displaying Screens in Google Meet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unleashing-youtube-potential-the-best-shortcuts-to-higher-views/"><u>[Updated] Unleashing YouTube Potential The Best Shortcuts to Higher Views</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unlocking-the-full-potential-of-whatsapp/"><u>[Updated] Unlocking the Full Potential of WhatsApp</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/1728462564694-windows-11/"><u>如何在 Windows 11 上制作准确磁盘复制品: 深入学习其中两个方法</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/bebop-unfurled-in-flight-form-the-secondary-parrot-review/"><u>Bebop Unfurled in Flight Form – The Secondary Parrot Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-one-advanced-techniques-for-2024/"><u>Capture One Advanced Techniques for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fast-fix-free-downloads-for-windows-7-keyboard-device-drivers/"><u>Fast Fix: Free Downloads for Windows 7 Keyboard Device Drivers</u></a></li>
+<li><a href="https://fox-place.techidaily.com/get-your-favorite-karaoke-videos-in-hd-mp4-format-exclusive-offers-and-price-cuts-available-now/"><u>Get Your Favorite Karaoke Videos in HD MP4 Format: Exclusive Offers and Price Cuts Available Now!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/hubsan-x4-quadcopter-examination-an-in-depth-guide-for-2024/"><u>Hubsan X4 Quadcopter Examination An In-Depth Guide for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-high-def-streaming-cameras-for-social-media-giants/"><u>In 2024, High-Def Streaming Cameras for Social Media Giants</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-the-mix-of-sound-and-slides-in-powerpoint-presentations/"><u>Mastering the Mix of Sound and Slides in PowerPoint Presentations</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ct-pixels-selecting-best-cameras-for-yt/"><u>Perfect Pixels Selecting Best Cameras For YT</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211436107-9781958997987-walking-on-water/"><u>Walking on Water | Free Book</u></a></li>
+</ul></div>
 

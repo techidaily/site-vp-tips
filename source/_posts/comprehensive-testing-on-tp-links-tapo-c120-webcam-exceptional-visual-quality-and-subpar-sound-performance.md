@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Testing on TP-Link's Tapo C120 Webcam: Exceptional Visual Quality and Subpar Sound Performance"
-date: 2024-08-31T08:50:40.522Z
-updated: 2024-09-01T08:50:40.522Z
+date: 2025-01-12T19:00:23.577Z
+updated: 2025-01-17T17:46:03.839Z
 tags:
   - product-reviews
 categories:
@@ -125,6 +125,10 @@ Hannah Stryker / How-To Geek
 
 ![Card slot on the TP-Link Tapo C120](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/card-slot-on-the-tp-link-tapo-c120_53316817973_o-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  The C120 is rather lightweight, but I didn’t think it felt cheaply made. I also thought the flexible gooseneck operated smoothly, and made the camera easy to rotate and adjust. Conveniently, the gooseneck is already fastened to the magnetized base of the camera.
@@ -145,20 +149,18 @@ Hannah Stryker / How-To Geek
 
 ![The base of the TP-Link Tapo C120 cam](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/tapo-logo-on-the-tp-link-tapo-c120_53316927674_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  One other thing to keep in mind is the power adapter and USB connection. TP-Link is nice enough to provide a wire clip for managing the cable, but neither the power adapter nor the USB port are weatherproof. That being said, if you’re mounting the camera outside, invest in some kind of covering for the power adapter (if your outdoor outlet isn’t equipped with it already).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Video Quality: Supremely Good
 
 ![The TP-Link Capo C120 on a shelf](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/the-tp-link-tapo-c120-camera-set-up-on-a-shelf-2jpg_53315702437_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  I’m happy to go on the record to say that the C120 delivers some of the best video quality I’ve ever seen on a [budget-friendly security camera](https://youtube-videos.techidaily.com/increase-your-videos-impact-essential-keyword-analysis-resources/). I think it’s also important to note that I’ve seen a lot of smart cams advertising enhanced HD, with pixel counts typically falling somewhere between 1080p and 4K.
@@ -167,9 +169,17 @@ Hannah Stryker / How-To Geek
 
 ![The TP-Link Tapo C120 capturing daytime footage in an office with lamps and an overhead fixture](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/tp-link-c120-cam-test-2.PNG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Michael Bizzaco / How-To Geek
 
 ![The TP-Link Tapo C120 capturing footage in a room with lamps turned on](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/tp-link-c120-cam-test-1.PNG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Michael Bizzaco / How-To Geek
 
@@ -181,9 +191,6 @@ Michael Bizzaco / How-To Geek
 
 Close 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Audio Quality: Not Very Responsive
 
  I didn’t have the best luck when testing the C120’s two-way audio function. I had my girlfriend initiate a two-way communication with me, where she was in one room with my iPhone, and I was in the other with the C120.
@@ -193,6 +200,10 @@ Close
  We both also experienced a huge delay between when one of us would talk and the other would respond. During one test, I asked my girlfriend (through the camera) if she could hear me talking. I could hear her response through the wall, but it took almost seven seconds for what she was saying to come through the camera speaker.
 
  None of this bodes well, especially for situations where you need to communicate with an individual who may not have the best intentions. We also can’t lay the blame on our Wi-Fi network, because neither the camera nor my iPhone were ever further than 30 feet away from the router.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Using the TP-Link App: Little to No Learning Curve
 
@@ -214,18 +225,12 @@ Close
 
 ![The TP-Link Tapo C120 set up on a shelf](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/the-tp-link-tapo-c120-camera-set-up-on-a-shelf-3jpg_53316924009_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  The C120 is compatible with Alexa and Google Assistant, and I was able to add the cam to my Alexa ecosystem. At first, I tried adding the TP-Link Kasa skill to the Alexa app, at which point the app tried to locate the C120 on my Wi-Fi. This actually didn’t work though, so I ended up manually adding the C120 through the Alexa app’s “Devices” menu.
 
  The Alexa app allows you to view live footage and to converse with two-way audio. You can also initiate a conversation using an Alexa-compatible smart speaker or smart display. I own a number of Echo Dots and an Echo Show 5, and the audio quality was solid on both ends. I was also able to pull up a live view of the camera through the Echo Show, and the image quality looked just as good as it did on my iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the TP-Link C120 Indoor Camera?
 
  If you’re not overly concerned with using the two-way audio function, I think the [TP-Link Tapo C120](https://www.amazon.com/Tapo-Security-Detection-Invisible-C120/dp/B0CH45HPZT/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001327&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftp-link-tapo-c120-camera-review%2F&asc%5Fcampaign=Affiliate) is well worth the investment. For less than $50, it delivers exceptionally clear footage and the companion app is intuitive to use and loaded with features and customizations.
@@ -233,8 +238,9 @@ Hannah Stryker / How-To Geek
 ![tp-link tapo 2k](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/tp-link-tapo-2k.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  TP-Link Tapo C120 Indoor/Outdoor Smart Camera
 
 $35 $40 Save $5 
@@ -249,8 +255,6 @@ The TP-Link Tapo C120 features crisp and clear footage, a bevy of in-app feature
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -258,4 +262,21 @@ The TP-Link Tapo C120 features crisp and clear footage, a bevy of in-app feature
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-notch-passport-pictures-create-and-save-with-our-free-tool/"><u>[New] 2024 Approved Top-Notch Passport Pictures - Create and Save with Our Free Tool</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ffective-youtube-customization-for-powerful-endings/"><u>[New] Effective YouTube Customization for Powerful Endings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-cutting-edge-strategies-for-console-recording-on-personal-devices/"><u>[New] In 2024, Cutting-Edge Strategies for Console Recording on Personal Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-electronic-gamblers-journal/"><u>[New] In 2024, ELECTRONIC GAMBLER'S JOURNAL</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mirthful-mobile-memories-iphone/"><u>[Updated] Mirthful Mobile Memories (iPhone)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ultimate-360-view-camera-analysis/"><u>[Updated] Ultimate 360-View Camera Analysis</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-video-editing-software-comparison-obs-vs-fraps/"><u>[Updated] Video Editing Software Comparison OBS vs Fraps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/clearing-your-television-cache-for-enhanced-functionality-and-security-a-step-by-step-tutorial/"><u>Clearing Your Television Cache for Enhanced Functionality and Security – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/getting-windows-movie-maker-6-installed-quickly-and-easily-for-2024/"><u>Getting Windows Movie Maker 6 Installed Quickly & Easily for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-effortless-hue-adjustments-with-adobes-software/"><u>In 2024, Effortless Hue Adjustments with Adobe's Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-zte-axon-40-lite-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On ZTE Axon 40 Lite Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-whats-encrypted-exploring-the-role-of-facebooks-blue-icon/"><u>In 2024, What's Encrypted Exploring the Role of Facebook's Blue Icon?</u></a></li>
+<li><a href="https://win-superb.techidaily.com/integrer-onedrive-a-votre-explorateur-de-fichiers-4-facons-efficaces/"><u>Intégrer OneDrive À Votre Explorateur De Fichiers : 4 Façons Efficaces</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ps4-pro-assessment-unleashing-4k-gaming-with-sonys-latest-console/"><u>PS4 Pro Assessment: Unleashing 4K Gaming with Sony's Latest Console</u></a></li>
+</ul></div>
 

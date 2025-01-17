@@ -1,7 +1,7 @@
 ---
 title: "Expert Analysis: Elgato Stream Deck Neo - The Ultimate Keyboard of Shortcuts"
-date: 2024-08-31T08:50:47.860Z
-updated: 2024-09-01T08:50:47.860Z
+date: 2025-01-15T19:53:00.065Z
+updated: 2025-01-17T17:51:41.899Z
 tags:
   - product-reviews
 categories:
@@ -81,26 +81,17 @@ Stream Deck Neo has eight customizable keys and an info bar set between two touc
 Expand 
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Neo Is New, But the Idea Is Old
 
 ![Elgato Stream Deck Neo on Desk with its screen off](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/elgato-stream-deck-neo-on-desk.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The Stream Deck is far from a new idea. Elgato has been tinkering with this concept of a desktop control center for years and has put out a lot of variations of it to try and meet different types of people's needs—from advanced streamers to beginner tinkers. What the Neo does specifically is address the entry-level of this market.
@@ -112,15 +103,17 @@ Jerome Thomas / How-To Geek
  If there’s anything I’m not crazy about, it’s the two touch-sensitive areas to the left and right of the information bar. They look nice and allow people to swipe through pages without using any buttons for that task, but there have been moments when they were less than responsive. You need to touch them just right. I never had any problems activating the customizable LCD keys. Those are tactile and satisfying to use.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Elgato’s Stream Deck Software Could Use Some Work
 
 ![close up of Elgato Stream Deck Neo buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/elgato-stream-deck-neo-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The hardware side might be worth getting excited about, but the software side of Stream Decks leaves something to be desired. It’s not that the Elgato Mac app I used was bad, but it could use some streamlining, especially for new users.
@@ -133,12 +126,13 @@ Jerome Thomas / How-To Geek
 
  Of course, if you do want to spend time with Neo and put in the work to change all the icons and text, it can still do everything other Stream Decks can do. I didn't feel that need beyond testing the functionality. The point is that Neo might be geared toward first-time tinkers, but it's not really limited in how much depth someone could get out of it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Elgato Stream Deck Neo?
 
 ![Elgato Stream Deck Neo showing media controls](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/elgato-stream-deck-neo.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -148,9 +142,6 @@ Jerome Thomas / How-To Geek
 
 ![Elgato Stream Deck Neo](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/elgato-stream-deck-neo-1-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 #####  Elgato Stream Deck Neo
 
 7/ 10 
@@ -165,8 +156,6 @@ Stream Deck Neo has eight customizable keys and an info bar set between two touc
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +163,24 @@ Stream Deck Neo has eight customizable keys and an info bar set between two touc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-driving-engagement-the-art-of-building-a-buzz-for-2024/"><u>[New] Driving Engagement The Art of Building a Buzz for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-from-still-shots-to-movies-mastering-logitech-webcam-videos/"><u>[New] In 2024, From Still Shots to Movies Mastering Logitech Webcam Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-pioneer-the-future-of-youtube-content-with-tubebuddy/"><u>[New] Pioneer the Future of YouTube Content with TubeBuddy</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-best-mirrorless-cams-top-picks-for-your-next-vlog-project/"><u>[New] The Best Mirrorless Cams Top Picks for Your Next Vlog Project</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-top-editors-for-virtual-backgrounds-spectrumswitch-studio/"><u>[New] Top Editors for Virtual Backgrounds SpectrumSwitch Studio</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-gain-extensive-engagement-master-the-view-multiplier/"><u>[Updated] 2024 Approved Gain Extensive Engagement Master the View Multiplier</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-meme-ology-manual-easy-ways-to-whip-up-giggles/"><u>[Updated] 2024 Approved Meme-Ology Manual Easy Ways to Whip Up Giggles</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-enhanced-vision-with-8-excellent-5k-screens/"><u>[Updated] Enhanced Vision with #8 Excellent 5K Screens</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-essential-tips-for-applying-luts-in-adobe-photoshop-cc-for-2024/"><u>[Updated] Essential Tips for Applying LUTs in Adobe PhotoShop CC for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-immersive-exploration-mastering-close-up-views-in-minecraft-for-2024/"><u>[Updated] Immersive Exploration Mastering Close-Up Views in Minecraft for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-vr-frontier-who-holds-the-crown-for-2024/"><u>[Updated] The VR Frontier Who Holds the Crown for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-from-beginner-to-master-a-stepwise-guide-for-excellent-posts/"><u>2024 Approved From Beginner to Master A Stepwise Guide for Excellent Posts</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-for-driver-failure-error-in-system-preferences/"><u>Comprehensive Solutions for 'Driver Failure' Error in System Preferences</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-video-opening-line-template-packs-for-2024/"><u>Free Video Opening Line Template Packs for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-ultimate-mac-movie-making-handbook-2023-edition/"><u>New 2024 Approved The Ultimate Mac Movie Making Handbook (2023 Edition)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-dell-g7-driver-refresh-tutorials-for-better-performance/"><u>Quick and Simple Dell G7 Driver Refresh Tutorials for Better Performance</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/top-ranked-android-song-curator/"><u>Top-Ranked Android Song Curator</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Evaluation of the Netgear Nighthawk MK93S - Dual Band and Tri-Band Wi-Fi Excellence Unveiled
-date: 2024-08-31T08:50:37.217Z
-updated: 2024-09-01T08:50:37.217Z
+date: 2025-01-16T16:27:21.201Z
+updated: 2025-01-17T19:54:27.391Z
 tags:
   - product-reviews
 categories:
@@ -82,6 +82,10 @@ Expand
 
  Unlike some other [mesh Wi-Fi systems](https://tiktok-clips.techidaily.com/2024-approved-rapid-tiktok-downloads-flawless-mp4-format-conversions/), you can't buy a base unit on its own or even a base unit and a single satellite. This three-pack instead can be augmented with additional satellites for expanded coverage. That could easily be overkill, though, as the steep $550 pricetag ($450 at the time of writing) gets you 7,500 square feet of wireless coverage that takes advantage of the 6Ghz band thanks to the still relatively new [Wi-Fi 6E standard](https://youtube-sure.techidaily.com/024-approved-the-top-20-gags-and-laughter-on-youtube-for-downtime-delight/). While this powerful mesh system casts a wide net, you should make sure you actually need a net that big before buying.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Design: An Actual Black Box
 
 Close 
@@ -94,6 +98,10 @@ Close
 
 ![Ports on the back of a Netgear Nighthawk MK93S main router and satellite unit.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/netgear-nighthawk-mesh-router-8-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jordan Gloor / How-To Geek
 
 Ports on the main router (left) and one of the satellite nodes (right).
@@ -101,8 +109,9 @@ Ports on the main router (left) and one of the satellite nodes (right).
  As far as ports go, with all the units put together, you get an impressive six ethernet ports, not including the central unit's WAN port. Take a look and you might notice there's no [USB port on this router](https://ai-video-apps.techidaily.com/updated-2024-approved-skip-the-hunt-exclusive-filmora-coupon-codes-inside/) system. In comparison, the [Nighthawk RAXE300](https://facebook-video-files.techidaily.com/effective-methods-share-twitch-stream-on-facebook-for-2024/) comes with a USB port while getting you Wi-Fi 6E speeds, as does the [Linksys Hydra Pro mesh system](https://video-capture.techidaily.com/new-in-2024-the-insiders-guide-to-capturing-crisp-vr-games/). If you were hoping to flash these units with custom firmware or add network storage, that's going to have to happen over ethernet.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Setup Is Easily Squared Away
 
 Close 
@@ -121,16 +130,14 @@ Jordan Gloor / How-To Geek
 
  One absence in the controls became glaringly obvious, though, when I put one of the satellites in my bedroom, and that was a light toggle. The blue indicator light is very bright and noticeable in a dark room. I prefer sleeping in complete darkness, so I tried in vain to find a setting to turn off or at least reduce the brightness. Google's Nest Wifi Pro routers allowed me to do that, but I was stuck with the solid blue beacon in my room at night. Of course, if these weren't review units I needed to return in good condition, I would have slapped a sticker over the light. Instead, I moved it to another room.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ##  You Get the Performance You Pay For
 
 ![Person connecting an Ethernet cable to the Netgear Nighthawk MK93S main router.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/netgear-nighthawk-mesh-router-11-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jordan Gloor / How-To Geek
 
  Unsurprisingly based on the specs, this system was more than enough to meet my needs living on my own in a 1,400-square-foot house. In fact, the base router alone let me use the internet without issue throughout the home and outside on the back deck.
@@ -141,16 +148,10 @@ Jordan Gloor / How-To Geek
 
  To put the MK93S system to the test, I started up my current favorite PCVR game, "Blade & Sorcery," and went one level down to my basement where I have space cleared for VR gaming. I connected my Meta Quest 2 headset to my PC using [the Air Link feature](https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-device-by-drfone-android/) so I could stream the game wirelessly to the headset. The connection hiccuped a little at first, but soon it seemed to work itself out I was able to play without noticeable lag. The game involves fast-paced combat where you're making judgments and reactions second-to-second, so reducing [latency](https://instagram-videos.techidaily.com/updated-in-2024-crafting-cinematic-magic-essential-tips-for-creating-stunning-slow-motion-media-on-instagram/) is critical, and the MK93S was able to do that for me.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Price and Availability
 
  The Netgear Nighthawk MK93S is available from Amazon and Best Buy for $449.99, or you can buy direct from Netgear for $549.99\. If the standard coverage isn't quite enough for you, you can pick up [an additional satellite (MS90)](https://www.amazon.com/NETGEAR-Nighthawk-Tri-Band-Whole-System/dp/B0CH45PGFY/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001602&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fnetgear-nighthawk-mk93s-mesh-router-system-review%2F&asc%5Fcampaign=Affiliate) that'll run you $219.99 to add on 2,500 square feet of range.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Netgear Nighthawk MK93S System?
 
  If other routers let you down in terms of coverage, and especially if you like having fine control of how your network operates, the [Nighthawk Tri-band Wifi Mesh Wifi 6E System](https://www.amazon.com/NETGEAR-Nighthawk-Tri-Band-Whole-System/dp/B0CFBHF9Z2/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001602&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fnetgear-nighthawk-mk93s-mesh-router-system-review%2F&asc%5Fcampaign=Affiliate) is a solid choice. If you simply have an aging router, Wi-Fi 6E support is becoming standard in the latest tech (with [Wi-Fi 7 only just now arriving](https://smart-video-creator.techidaily.com/new-in-2024-trim-and-refine-a-step-by-step-guide-to-cropping-videos-in-avidemux/) on the bleeding edge), including popular gear like the [Steam Deck OLED](https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/) and the newest Apple products, so now is a great time to upgrade.
@@ -159,11 +160,11 @@ Jordan Gloor / How-To Geek
 
 ![NETGEAR Nighthawk Tri-Band Whole Home Mesh WiFi 6E System (MK93S)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/51qf3r7odll-_ac_sl1200_.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Netgear Nighthawk MK93S
 
@@ -181,8 +182,6 @@ Engineered to deliver improved Wi-Fi performance, the Nighthawk tri-band mesh Wi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +189,24 @@ Engineered to deliver improved Wi-Fi performance, the Nighthawk tri-band mesh Wi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-acquiring-drone-racing-skills-and-exploring-top-fpv-drones/"><u>[New] 2024 Approved Acquiring Drone Racing Skills & Exploring Top FPV Drones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-demystifying-the-apple-m1-prodigy/"><u>[New] 2024 Approved Demystifying the Apple M1 Prodigy</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-leading-speed-change-audio-utilities-list/"><u>[New] In 2024, Leading Speed-Change Audio Utilities List</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-transforming-xbox-experiences-through-effective-capture-techniques/"><u>[New] In 2024, Transforming Xbox Experiences Through Effective Capture Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-metaverse-or-omniverse-unpacking-the-digital-spheres-for-2024/"><u>[New] Metaverse or Omniverse? Unpacking the Digital Spheres for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-redefining-collaboration-the-power-of-immersive-vr/"><u>[New] Redefining Collaboration The Power of Immersive VR</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-navigating-the-network-of-youtube-multitasking-mastery/"><u>[Updated] In 2024, Navigating The Network Of YouTube Multitasking Mastery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-take-it-upward-expert-techniques-for-phones/"><u>[Updated] In 2024, Take It Upward Expert Techniques for Phones</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-premium-online-streams-convert-youtube-to-mp3-instantly/"><u>[Updated] Premium Online Streams Convert YouTube to MP3 Instantly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-fundamentals-of-creating-dynamic-podcast-feeds/"><u>2024 Approved The Fundamentals of Creating Dynamic Podcast Feeds</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-tips-and-tricks-for-clearing-cluttered-backdrops-in-figma/"><u>2024 Approved Tips and Tricks for Clearing Cluttered Backdrops in Figma</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypass-windows-11-lock-screen-swiftly/"><u>Bypass Windows 11 Lock Screen Swiftly</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-samsung-galaxy-m14-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Samsung Galaxy M14 5G Lock Screen Password</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-infinix-hot-40iwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Infinix Hot 40iwith/without a PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/leveraging-daylight-in-home-interiors-for-2024/"><u>Leveraging Daylight in Home Interiors for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-pace-display-gaming-at-165hz/"><u>Top Pace Display - Gaming at 165Hz</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-on-how-to-create-srt-file-plus-tips/"><u>Ultimate Guide on How to Create SRT File (Plus Tips)</u></a></li>
+</ul></div>
 

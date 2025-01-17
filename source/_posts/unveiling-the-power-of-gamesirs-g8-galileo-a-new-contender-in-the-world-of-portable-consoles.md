@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Power of GameSir's G8 Galileo: A New Contender in the World of Portable Consoles"
-date: 2024-08-31T08:52:19.708Z
-updated: 2024-09-01T08:52:19.708Z
+date: 2025-01-16T18:23:42.361Z
+updated: 2025-01-17T19:17:00.648Z
 tags:
   - product-reviews
 categories:
@@ -79,6 +79,10 @@ Expand
 
 ![GameSir G8 Galileo closeup of buttons with phone playing Brawlhalla](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/53377669744_b18b402354_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  I recall during my original playthrough, my hands cramped up trying to keep up with the chaotic flow of action. With how close the buttons on the Xbox controller were, I was always tripping over my fingers and failing to pull off anything cool. While I was still rubbish, having to stretch my fingers just that much more on the G8 was a lot more comfortable and allowed me to at least more easily utilize all of Doom Slayer’s nifty features.
@@ -88,17 +92,9 @@ Sergio Rodriguez / How-To Geek
  Due to its versatility, it also is the most customizable way to play, at least when compared to the console’s shrinking to a handheld, convenient size.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Button Mapping and Customization Enhance the Experience
 
  As with [GameSir’s X2 Pro controller](https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-g22-phone-pattern-lock-without-factory-reset-by-drfone-android/), a big part of the experience with the G8 is customizing it to your liking. In fact, it’s bigger. With this model, customization goes a step further than previous, with options for button mapping accompanied by a set of different textured thumbsticks and the ability to swap between PlayStation, G-Touch, and Android modes on the fly.
@@ -107,9 +103,6 @@ Sergio Rodriguez / How-To Geek
 
 ![GameSir Mobile Controller faceplate removed to show interchangeable thumbstick](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/gamesir-mobile-controller-faceplate.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Mark LoProto / How-To Geek
 
  While you can map the rear L4 and R4 buttons and activate hair triggers by pressing the right combination of buttons on the controller, everything is much easier in the GameSir app (available on [iPhone](https://apps.apple.com/us/app/gamesir/id1372674215) and [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2001946/https://play.google.com/store/apps/details?id=com.xiaoji.xtouch.google&hl=en%5FUS&gl=US)). There are designated sections that allow you to alter whether you’re using the Xbox or Switch face button layout, assign virtually any button to the rear buttons, calibrate and change the sensitivity of the sticks, or toggle the hair trigger on either trigger button.
@@ -119,8 +112,9 @@ Mark LoProto / How-To Geek
  Of course, even the best stumble, and a few things are holding the G8 back from near perfection. Unfortunately, much of it, GameSir has no control of.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Some Frequent Hiccups
 
  Before I get to the biggest issue with a device like GameSir’s G8, let’s cover the small but annoying stuff. On more than a few occasions, and for reasons I could never pinpoint, the controller didn’t always register with my Pixel 8\. Regardless of when I plugged them together, both before and after the cloud service loaded, I’d run into occasional dead controls and have to re-establish the connection.
@@ -132,22 +126,24 @@ Close
  It’s not a dealbreaker at all, and there are plenty of benefits that come with the app to warrant using it, but as I watch my phone’s 128GB fill up, I get a little itchy at being forced to use more software. Especially when it just kind of serves as a bridge to a different app, and that’s kind of where my biggest problem lies.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  It’s All a Matter of Apps
 
  Without apps like [Xbox Cloud](https://tech-revival.techidaily.com/chatbot-showdown-which-ai-runs-the-house/), [GeForce NOW](https://www.nvidia.com/en-us/geforce-now/download/), [Steam Link](https://store.steampowered.com/app/353380/Steam%5FLink/), or PS Remote Play, the controller is kind of unnecessary. Sure, there are more involved games on mobile that would warrant its use, like "Resident Evil 4" or "Call of Duty Mobile," but are they worth buying a whole mobile controller for if you can already experience them on a console?
 
 ![GameSir G8 Galileo with phone inserted playing Brawhalla](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/53376428392_9288d99bd4_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  So, we’re left with some flawed apps as the primary driving forces for the controller. It winds up being a matter of if you don’t mind dealing with Xbox’s limited library and potentially long wait times to even play, Steam Link’s stuttering and frequent lag on more taxing games, PS Remote Play’s unintuitive and clunky interface, or GeForce NOW’s limited session length. As it turns out, I wound up not minding.
 
  There is something to be said about taking some of my favorite games and new experiences on the road, and the G8 Galileo does it in a comfortable, user-friendly way that makes it easy to overlook any of its shortcomings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Should You Buy the GameSir G8 Galileo?
 
@@ -157,9 +153,6 @@ Sergio Rodriguez / How-To Geek
 
 ![Coros Apex 2 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/coros-apex-2-pro.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 #####  GameSir G8 Galileo Mobile Gaming Controller
@@ -176,8 +169,6 @@ GameSir's G8 Galileo takes the best parts of console gaming and condenses it int
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +176,24 @@ GameSir's G8 Galileo takes the best parts of console gaming and condenses it int
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-demystifying-the-apple-m1-prodigy/"><u>[New] In 2024, Demystifying the Apple M1 Prodigy</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-windows-studio-options-beyond-moviemaker/"><u>[New] Windows Studio Options Beyond MovieMaker</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-cutting-edge-innovation-best-8-cameras-for-live-broadcasting/"><u>[Updated] 2024 Approved Cutting-Edge Innovation Best 8 Cameras for Live Broadcasting</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-effortlessly-enhance-your-tiktok-aesthetic-guide-inside/"><u>[Updated] 2024 Approved Effortlessly Enhance Your TikTok Aesthetic Guide Inside</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-leap-from-youtube-to-dailymotion-with-ease/"><u>[Updated] 2024 Approved Leap From YouTube to Dailymotion with Ease</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unbeatable-free-livestream-solutions-reviewed-across-all-platforms/"><u>[Updated] In 2024, Unbeatable Free Livestream Solutions Reviewed Across All Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-utilizing-top-users-to-increase-visibility/"><u>[Updated] In 2024, Utilizing Top Users to Increase Visibility</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-pushing-boundaries-camera-capabilities-in-ios-11/"><u>[Updated] Pushing Boundaries Camera Capabilities in iOS 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/10-leading-mobile-vr-headsets-ranked-for-2024/"><u>10 Leading Mobile VR Headsets Ranked for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-androids-photo-editor-showdown-can-pickup-claim-victory/"><u>2024 Approved Android's Photo Editor Showdown Can PickUp Claim Victory?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-your-tech-essentials-iphone-ipad-apple-watch-airpods-and-mac-at-half-price-with-vision-pro-see-how/"><u>Get Your Tech Essentials: IPhone, iPad, Apple Watch, AirPods & Mac at Half Price with Vision Pro - See How !</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-usb-c-drivers-a-step-by-step-tutorial-for-windows-10-users/"><u>Installing USB-C Drivers: A Step-by-Step Tutorial for Windows 10 Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-gpt-written-language-and-web-integration/"><u>Mastering GPT' Written Language and Web Integration</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-samsung-galaxy-f15-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Samsung Galaxy F15 5G FRP</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-solution-for-handling-lameencdll-error-messages-with-audacity/"><u>The Ultimate Solution for Handling Lame_Enc.Dll Error Messages with Audacity</u></a></li>
+<li><a href="https://article-helps.techidaily.com/windowsmac-free-software-for-effortless-dvd-viewing-for-2024/"><u>Windows/Mac Free Software for Effortless DVD Viewing for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Review: Compelling Design Meets Imperfect Software"
-date: 2024-08-31T08:51:12.075Z
-updated: 2024-09-01T08:51:12.075Z
+date: 2025-01-10T18:31:34.349Z
+updated: 2025-01-17T18:27:02.177Z
 tags:
   - product-reviews
 categories:
@@ -76,9 +76,17 @@ Expand
 
  The [NASync DXP2800](https://nas.ugreen.com/products/ugreen-nasync-series-network-attached-storage) was sent to me before Ugreen opened its [Kickstarter campaign](https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/) or began filling orders. Many of the complaints that I make in my review will (hopefully) be resolved by the company. So, I'll try to keep this article up to date as Ugreen introduces new software improvements, though it may take several days or weeks for me to evaluate such improvements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Impressive Hardware for the Price
 
 ![The UGREEN NASYNC DXP2800 with a partially removed drive bay.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/ug3.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Andrew Heinzman / How-To Geek
 
@@ -90,6 +98,10 @@ Andrew Heinzman / How-To Geek
 
 ![The UGREEN NASYNC DXP2800 magnetic fan cover.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/ug5-magnetic-fan-cover.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Andrew Heinzman / How-To Geek
 
  Conveniently, Ugreen's drive bays use a latching mechanism for screwless installation of 3.5-inch HDDs. You only need to use screws when installing 2.5-inch drives. Though I should note that the drive bays, relative to the rest of this machine, feel cheap and plasticky. The only silver lining, aside from the fancy latching mechanism, is that you can lock each drive bay in place with a key.
@@ -99,8 +111,9 @@ Andrew Heinzman / How-To Geek
  The only concern I have in terms of hardware is power consumption. Ugreen says that the DXP2800 will fluctuate between 50 and 70 watts depending on its power state, which seems a bit excessive for a two-bay NAS device. I'd love to know if power consumption can be better optimized in software in the future. Also, while this has nothing to do with the amount of power the DXP2800 uses, I was surprised to see that this NAS runs on a third-party 9v power supply. I'm using a pre-release unit that was (presumably) used for testing or press events, so maybe it's just a pre-release quirk.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Easy To Upgrade
 
  Out of the box, the NASync DXP2800 has 8GB of built-in DDR4 memory, which may prove to be a limitation for some users. Thankfully, you can upgrade to 16GB of RAM, and the upgrade process is outrageously easy.
@@ -115,9 +128,6 @@ Close
 
  However, the NASync DXP2800 offers no form of PCIe upgradeability. If you were hoping to upgrade from 2.5 GbE to a 10 Gig connection, tough luck.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  An Operating System in Its Infancy
 
  The Debian-based Ugreen operating system, called UGOS, needs a lot of work. It currently lacks third-party app support, meaning that you can't run [Docker](https://instagram-clips.techidaily.com/2024-approved-the-quick-guide-to-disconnect-on-ig/), [Plex Media Server](https://screen-recording.techidaily.com/new-the-insiders-guide-to-flawless-game-recordings-on-playstation-4-for-2024/), or other home server applications. UGOS also lacks any [hybrid RAID](https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-oneplus-ace-2-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/) options, it doesn't support cloud storage backups (to Dropbox, Google Drive, etc), and it doesn't provide 2FA protection when remote access is enabled.
@@ -136,16 +146,10 @@ Close
 
  Flashing an alternate OS will have no impact on the NASync hardware warranty. This has been confirmed to me by Ugreen, though it's also mentioned in the NASync Kickstarter listing. However, the company suggests that people stick with UGOS. I have intentionally refrained from using Unraid or TrueNAS during my review process, but I will begin testing alternate operating systems after this review is published.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ##  Security Concerns
 
 ![UG8 locking hard drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/ug8-locking-hard-drive.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Andrew Heinzman / How-To Geek
 
  I first encountered Ugreen's NASync lineup at [CES 2024](https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-gt-3withwithout-a-pc-by-drfone-android/). And, like many other attendees, I was impressed to learn that a company known for phone and laptop accessories could make such a compelling shift into the NAS market.
@@ -159,8 +163,9 @@ Andrew Heinzman / How-To Geek
  If security experts vouch for UGOS, or if the UGOS operating system goes a few years without any security incidents, I'll adjust my opinion. For now, I'm erring on the side of caution and gut feeling.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Should You Buy the Ugreen NASync DXP2800?
 
 ![The UGREEN NASYNC DXP2800 with a drive bay removed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/ug14.jpg) 
@@ -173,9 +178,6 @@ Andrew Heinzman / How-To Geek
 
 ![UGREEN NASync DSP2800 thumbnail](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-02-at-5-04-52-pm.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Ugreen NASync DXP2800
 
 6/ 10 
@@ -190,8 +192,6 @@ This cutting-edge network-attached storage device transforms how you store and a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +199,24 @@ This cutting-edge network-attached storage device transforms how you store and a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-essential-tips-for-monitoring-facebook-live-streams/"><u>[New] 2024 Approved Essential Tips for Monitoring Facebook Live Streams</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-strategy-supreme-the-top-7-battlefield-commanders/"><u>[New] In 2024, Strategy Supreme The Top 7 Battlefield Commanders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-phasecope-pro-top-lightroom-replacements-unveiled/"><u>[New] PhaseCope Pro Top Lightroom Replacements Unveiled</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-tips-on-filming-with-drone-for-2024/"><u>[New] Tips on Filming with Drone for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-7-streaming-tools-for-mac-os-x-for-2024/"><u>[New] Top 7 Streaming Tools for Mac OS X for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-dimension-dilemma-in-videos-insight-into-imovie-trimming/"><u>[Updated] 2024 Approved Dimension Dilemma in Videos Insight Into iMovie Trimming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-step-by-step-editing-ios-ringtone-settings/"><u>[Updated] In 2024, Step-by-Step Editing iOS Ringtone Settings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-affordable-panoramic-cameras-under-100/"><u>[Updated] Top Affordable Panoramic Cameras Under $100</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-ultimate-enterprise-cloud-solutions/"><u>[Updated] Ultimate Enterprise Cloud Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-live-stream-heroes-face-off-xsplit-vs-obs-showcase/"><u>2024 Approved Live Stream Heroes Face Off – XSplit Vs. OBS Showcase</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effortless-audio-integration-for-inshot-devices-for-2024/"><u>Effortless Audio Integration for InShot Devices for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-motorola-moto-g-stylus-2023-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Motorola Moto G Stylus (2023) Phone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/iphone-15-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>iPhone 15 Pro iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leading-the-charge-in-macwin-srt-modifications/"><u>Leading the Charge in Mac/Win SRT Modifications</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1527979-9781476739052-soul-contracts/"><u>Soul Contracts | Free Book</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/transforming-movs-to-mp4mkv-on-pc-for-2024/"><u>Transforming MOVs to MP4/MKV on PC for 2024</u></a></li>
+</ul></div>
 

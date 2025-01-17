@@ -1,7 +1,7 @@
 ---
 title: "Lenovo Legion Slim 5 : AMD Edition - Comprehensive Review of the Ultimate Mid-Range Gamer's Laptop"
-date: 2024-08-31T08:51:07.264Z
-updated: 2024-09-01T08:51:07.264Z
+date: 2025-01-15T20:36:47.111Z
+updated: 2025-01-17T16:34:40.652Z
 tags:
   - product-reviews
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/7a3bff4e2eede5438bb2fccedcb9095f7ad51baa5
 ![The Lenovo Legion Slim 5 14 Gen 8 laptop sitting with its screen on.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/92a9o7g547o46ou2ewiq0punp38n3k293431.png) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Lenovo Legion Slim 5 14 (Gen 8)
 
@@ -173,15 +177,13 @@ Hannah Stryker / How-To Geek
  The touchpad, meanwhile, was wonderfully responsive for scrolling, zooming, tapping, and navigating my way through work and games, except for those that required a USB mouse.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Display: Vibrant 2.8K Graphics
 
 ![The Lenovo Legion Slim 5 14 Gen 8 laptop playing episode one of "Life on Our Planet" on Netflix.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/display-image-hero.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Cianna Garrison / How-To Geek
 
 "Life on Our Planet"
@@ -200,16 +202,10 @@ Close
 
  I was especially impressed with how NVIDIA's GeForce RTD 4060 GPU handled ray-tracing and contrast in games. I've played "Warhammer 40,000: Darktide" on several other laptops, like the [Razer Blade 18](https://win-howtos.techidaily.com/effective-methods-to-address-the-black-screen-glitch-on-windows-11/), and the smoothness of the graphics on the Legion Slim 5 made me feel like I was playing it for the first time again, marveling at all the smoke and fire and shadows.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Performance: Smooth Heavy-Load Processing
 
 ![How-To Geek open on the Lenovo Legion Slim 5 14 Gen 8.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/how-to-geek-open-on-the-lenovo-legion-slim-5-14-gen-8jpg_53203753520_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  I used the Legion Slim 5 14 (Gen 8) for my daily work tasks, including but not limited to Zoom and Google Meet calls, drafting articles, editing photos in Adobe Photoshop, researching with way too many tabs open, and listening to tunes in the background via Spotify or taking a time-out with YouTube.
@@ -235,15 +231,13 @@ Cianna Garrison / How-To Geek
  While gaming, the laptop's fan does get rather loud—something gamers are used to. I occasionally used some headphones to kill the noise and enjoyed a smooth ride through countless gaming worlds.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Camera and Audio: Clear Streams and Nahimic Audio
 
 ![The camera on the Lenovo Legion Slim 5 14 Gen 8 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/camera-on-the-lenovo-legion-slim-5-14-gen-8jpg_53203637278_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  The FHD integrated camera on the Lenovo Legion Slim 5 14 (Gen 8) offers clear pictures and streams with a nice balance of color and saturation. Many times, I find laptop cameras to be slightly off in this department, and not all 1080P cameras offer equal crispness. The webcam included in the Legion Slim 5 14 is about as good as it gets, capturing a clear stream in dim or bright lighting.
@@ -256,16 +250,29 @@ Close
 
  The microphone gave me some trouble with connectivity in Google Meet after using the Sound Recorder app. Unfortunately, there was no way to resolve this than to rejoin the meeting or restart the laptop—but I feel this was an issue with Google Meet and my browser. The actual sound from the microphone was so-so. In a quiet setting, the mic worked fine, but in noisy settings, the sound was often clipped.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Microphone Test on the Lenovo Legion Slim 5 14 (Gen 8) in a Quiet Environment
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Microphone Test on the Lenovo Legion Slim 5 14 (Gen 8) in a Noisy Environment
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Battery and Charging: Fast Charge, Fast Drain
 
 ![Charger for the Lenovo Legion Slim 5 14 Gen 8.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/charger-for-the-lenovo-legion-slim-5-14-gen-8jpg_53203716359_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -276,17 +283,9 @@ Hannah Stryker / How-To Geek
  Charging up was a pleasure, especially with the Rapid Charge capability. The average speed I saw the Legion Slim 5 charge up was 1.15% per minute, with an average of 69% charge per hour—and on occasion, I did see my battery reach 50 to 70% in 30 minutes of charging.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Should You Buy the Lenovo Slim 5 14 (Gen 8) Laptop?
 
  For gamers who want a less bulky mid-range gaming laptop, the [Lenovo Legion Slim 5 14 (Gen 8)](https://shop-links.co/link/?exclusive=1&publisher%5Fslug=howtogeek&u1=UUhtgUeUpU2000880&article%5Fname=Lenovo+Legion+Slim+5+14+Gen+8+%28AMD%29+Review%3A+The+Smoothest+Midrange+Gaming+Laptop&article%5Furl=https%3A%2F%2Fwww.howtogeek.com%2Flenovo-legion-slim-5-14-gen-8-amd-review%2F&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-5-series%2Flegion-slim-5-gen-8-%2814-inch-amd%29%2Flen101g0032) offers plenty of note-worthy features. From the AMD Ryzen CPU and the NVIDIA GeForce RTX 4060 GPU to its Nahimic Audio and the 2.8K OLED display, most casual to moderate gamers will find a lot to love about this device. You can buy the Lenovo Legion Slim 5 14 (Gen 8) today starting at $1,205.27.
@@ -295,9 +294,6 @@ Hannah Stryker / How-To Geek
 
 ![The Lenovo Legion Slim 5 14 Gen 8 laptop sitting with its screen on.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/92a9o7g547o46ou2ewiq0punp38n3k293431.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
 #####  Lenovo Legion Slim 5 14 (Gen 8)
@@ -316,8 +312,6 @@ With a 2.8K display, Nahimic audio, and an NVIDIA GeForce RTX GPU, the Lenovo Le
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -325,4 +319,22 @@ With a 2.8K display, Nahimic audio, and an NVIDIA GeForce RTX GPU, the Lenovo Le
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-how-to-legally-access-game-music-without-spending-money/"><u>[New] In 2024, How to Legally Access Game Music Without Spending Money</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-top-photo-protection-apps-reviewed/"><u>[New] In 2024, The Top Photo Protection Apps Reviewed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-tomtom-bandit-action-camera-review/"><u>[New] In 2024, TomTom Bandit Action Camera Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-master-strategies-for-crafting-impactful-testimonials/"><u>[New] Master Strategies for Crafting Impactful Testimonials</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-mastering-speech-recording-top-apps-for-your-ipad-for-2024/"><u>[New] Mastering Speech Recording Top Apps for Your iPad for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ultimate-resource-compilation-for-media-imagery/"><u>[Updated] 2024 Approved Ultimate Resource Compilation for Media Imagery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-beginners-guide-steady-sound-volume-rise-in-editing/"><u>[Updated] Beginner's Guide Steady Sound Volume Rise in Editing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-do-reviewers-get-dollars-for-commentary-for-2024/"><u>[Updated] Do Reviewers Get Dollars for Commentary for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-make-a-mark-with-minimal-fuss-simplified-video-editing-on-windows-10/"><u>[Updated] Make a Mark with Minimal Fuss Simplified Video Editing on Windows 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-navigating-color-grading-using-luts-to-refine-your-work-in-ae/"><u>2024 Approved Navigating Color Grading Using LUTs to Refine Your Work in AE</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/enhance-visual-stories-utilizing-storyremix-in-windows-11-video-editing-for-2024/"><u>Enhance Visual Stories Utilizing StoryRemix in Windows 11 Video Editing for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/handling-virus-alerts-how-windows-defender-responds-when-it-finds-malware-expert-advice-from-yl-computing/"><u>Handling Virus Alerts: How Windows Defender Responds When It Finds Malware - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-essential-tactics-for-dramatizing-success-stories-through-testimonials/"><u>In 2024, Essential Tactics for Dramatizing Success Stories Through Testimonials</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-you-dont-have-to-be-a-skilled-video-editor-to-convert-image-to-videos-because-there-are-a-lot-of-online-image-to-video-maker-tools-that-en/"><u>New 2024 Approved You Dont Have to Be a Skilled Video Editor to Convert Image to Videos, because There Are a Lot of Online Image to Video Maker Tools that Enable You to Create a New Video From Photos in Just a Few Eas</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/bers-playbook-advanced-techniques-for-engaging-editing/"><u>Youtuber's Playbook Advanced Techniques for Engaging Editing</u></a></li>
+</ul></div>
 

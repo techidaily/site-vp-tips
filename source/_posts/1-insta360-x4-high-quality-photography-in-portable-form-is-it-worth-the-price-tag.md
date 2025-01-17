@@ -1,7 +1,7 @@
 ---
 title: "1. Insta360 X4: High-Quality Photography in Portable Form, Is It Worth the Price Tag?"
-date: 2024-08-31T08:51:28.629Z
-updated: 2024-09-01T08:51:28.629Z
+date: 2025-01-10T17:55:22.085Z
+updated: 2025-01-17T17:59:29.399Z
 tags:
   - product-reviews
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/23dc4857279699198e48a622a7713386fd30f7f47
 ---
 
 ## 1. Insta360 X4: High-Quality Photography in Portable Form, Is It Worth the Price Tag?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -132,9 +136,6 @@ Expand
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Simple Hardware Design That Doesn’t Stray From Previous Models
 
 ![The power and quick settings button on the Insta360 X4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-power-and-quick-settings-button-on-the-insta360-x4_53647692914_o.jpg) 
@@ -149,16 +150,14 @@ Jerome Thomas / How-To Geek
 
  At the bottom right, there’s the mode button. This lets you flip between video, active HDR, timelapse, time shift, bullet time, and more. Plus, it lets you toggle photo or video mode. To the left of that is the shutter, which has a new feature this time around. Of course, clicking it starts and stops recording, but, if you accidentally click record when you didn’t mean to, simply hold the shutter button and it’ll stop recording _and_ delete the captured clip. This is something I didn’t really utilize in my time with the camera, but I can absolutely see the value in it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  8K Footage? 4K Is Still the Sweet Spot for Me
 
 ![The resolution selection screen on the Insta360 X4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-resolution-selection-screen-on-the-insta360-x4_53646477902_o.jpg) 
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  In the race to pack as many pixels into a small space as possible, I am staunchly in the camp that 4K (and sometimes 5.7K) is more than enough. The average person still watches content on their phone, and at that small of a screen, 4K is plenty, if not 1080p. This is just how I feel when it comes to this, and let me explain my reasoning.
@@ -168,6 +167,10 @@ Jerome Thomas / How-To Geek
  Now, while we’re talking about recording at 4K, the video footage that comes straight out of the camera with the X4 is very crispy. I loved seeing what it could produce, and it was a blast to use. The 8K videos looked great, and the still photos were solid too. You won’t be disappointed with the video or photo quality no matter what resolution you choose. I found it all superb. I'd recommend sticking to 4K though for smaller file sizes, less heat, and better low-light performance.
 
  Resolution aside, all the footage is recorded in 360 degrees, and that's what makes this camera special. You don't have to worry about whether you have the camera aimed just right or not, as it simply captures just about everything (outside of what's directly below itself.) This is what makes the camera unique, and thankfully, this feature works whether you're recording 4K100, 8K30, or taking a 72MP still photo.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Desktop and Mobile Software Is Easy To Use and Make Simple Edits In
 
@@ -184,16 +187,13 @@ Jerome Thomas / How-To Geek
 ![The Insta360 X4 attached to the Bullet Time tripod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-insta360-x4-attached-to-the-bullet-time-tripod_53647692939_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Outside of that, whenever you go to export, you can choose to send it as a cropped video that’s only within the view that you set in the editor, or a full 360-degree video. Doing the latter will let you bring the video file into software like Premiere Pro or Final Cut Pro and do all the editing there, which is how I plan to use the footage from the X4\. The files are formatted in a way that the software will let you handle all the pan and tilt functions as well as do all of your other edits. Plus, Insta360 [has a LUT that you can use](https://www.insta360.com/download) to get the right colors when editing.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ##  Rugged for Whatever Lies Ahead
 
 ![The battery removed from the Insta360 X4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-battery-removed-from-the-insta360-x4_53647349601_o.jpg) 
@@ -203,6 +203,10 @@ Jerome Thomas / How-To Geek
  While there’s a dive case for going deep underwater, most people will find that the built-in ruggedness of the Insta360 X4 is plenty. It was for me. I wasn’t worried about dropping it, getting it wet, or taking it anywhere when I was using it. The camera is waterproof to 10m out of the box and can also withstand temperatures as low as -20C, meaning it’ll handle anything you throw at it.
 
  Simply attach a selfie stick, tripod, or hold the camera in your hand, and you’re ready to go. The USB-C flap is waterproof when closed, and the battery also makes a water-tight seal once inserted. Whether you plan to take the camera snowboarding in the winter, surfing in the summer, or just strap it to your motorcycle to use as a dash camera, the Insta360 X4 is built to handle it all.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What’s the Difference Between the Insta360 X4 and Insta360 X3?
 
@@ -216,13 +220,13 @@ Jerome Thomas / How-To Geek
 * Bluetooth Headset Support (for motorcycles and the like)
 * Auto Dash Mode (also a motorcycle feature)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Insta360 X4?
 
 ![The Insta360 X4 next to box and included accessories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-insta360-x4-next-to-box-and-included-accessories_53647349546_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -237,9 +241,9 @@ Jerome Thomas / How-To Geek
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  Insta360 X4
 
 8/ 10 
@@ -254,8 +258,6 @@ The Insta360 X4 8K 360-degree action camera offers a fun and unique way to captu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -263,4 +265,21 @@ The Insta360 X4 8K 360-degree action camera offers a fun and unique way to captu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-revolutionize-your-online-presence-with-these-eight-strategies/"><u>[New] 2024 Approved Revolutionize Your Online Presence with These Eight Strategies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-seamlessly-navigating-ifunnys-meme-space/"><u>[New] 2024 Approved Seamlessly Navigating iFunny's Meme Space</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-chronology-on-camera-best-practices-for-date-insertion-for-2024/"><u>[New] Chronology on Camera Best Practices for Date Insertion for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-top-camcorders-to-consider-in-depth-analysis/"><u>[New] In 2024, The Top Camcorders to Consider – In-Depth Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-navigating-iphones-with-ease-download-podcasts-made-simple/"><u>[Updated] In 2024, Navigating iPhones with Ease - Download Podcasts Made Simple</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-navigating-through-video-editing-delight-filmoras-core-traits/"><u>[Updated] In 2024, Navigating Through Video Editing Delight Filmora's Core Traits</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-samsung-galaxy-z-flip-5-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Samsung Galaxy Z Flip 5 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/discover-which-prebuilt-desktop-for-gamers-matches-your-needs-best/"><u>Discover Which Prebuilt Desktop for Gamers Matches Your Needs Best</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-how-to-screen-record-on-dell-laptop/"><u>In 2024, How to Screen Record on Dell Laptop</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-iphone-x-lens-capabilities-a-guide/"><u>Mastering iPhone X Lens Capabilities A Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-virtual-adventures-8-key-strategies-against-vrchats-crashing-problem/"><u>Smooth Virtual Adventures: 8 Key Strategies Against VRChat's Crashing Problem</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/step-by-step-into-hangul-quick-learning-for-beginners/"><u>Step by Step Into Hangul: Quick Learning for Beginners</u></a></li>
+<li><a href="https://facebook.techidaily.com/switching-off-default-everyone-alerts/"><u>Switching Off Default Everyone Alerts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-mir4-software-glitches-on-windows-computers/"><u>Troubleshooting MIR4 Software Glitches on Windows Computers</u></a></li>
+</ul></div>
 
