@@ -1,7 +1,7 @@
 ---
 title: "My Experience with Fedora Linux: A Change I Did Not Embrace"
-date: 2024-08-31T08:54:40.265Z
-updated: 2024-09-01T08:54:40.265Z
+date: 2025-01-19T21:38:24.069Z
+updated: 2025-01-23T16:47:40.721Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 
 ## My Experience with Fedora Linux: A Change I Did Not Embrace
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Fedora Linux didn't quite fit my needs as a workstation due to slow package manager and app crashes, especially with KDE Plasma.
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 * Considering Fedora's drawbacks, I plan to switch back to Garuda Linux for a more stable experience without daily software crashes.
 
  I use Linux as my main desktop, and recently I decided to investigate Fedora Linux as a workstation. I'd heard the community talk it up but never given it a fair shake myself. After about a month, I don't think it quite fits the bill for my needs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why I'm Moving on to a Different Distribution
 
@@ -27,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 
 ![The KDE Plasma notification menu with a notification reading 'We're sorry, it looks like vesktop.bin crashed. Please contact the developer if you want to report the issue.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240817_095144.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Most of my frustration lies, though, with crashes. The operating system itself stays stable; I've never had a complete system freeze or shutdown. The apps I'm using, though, crash on the daily. While the screenshot I captured above is of a fairly niche app, Vesktop, crashing, it's happening with Chrome, Firefox, Spotify, and others too. It doesn't happen incessantly, so I can get by with Fedora as my daily driver, but it happens just enough that it's noticeable and annoying.
 
  It's the apps crashing and not Fedora itself, so assuming I'm not a moron, I suspect the issue truly lies with Plasma. I've been a Plasma fan for a long time, and I've not had such persistent issues on other distros using Plasma. A difference here is that Fedora is more "bleeding edge" than other popular distros, meaning the software available in its default repositories is newer than that of [Ubuntu](https://common-error.techidaily.com/overcoming-graphics-card-not-supported-hurdles-in-fortnite-for-windows-users/), for example. Software that hasn't been around as long also hasn't been debugged as long, so maybe I really am a moron for not expecting the bleeding-edge version of Plasma to have technical issues.
@@ -34,8 +46,9 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
  Plasma is my favorite desktop environment (DE), though. So given the choice between leaving Plasma for a different Fedora spin and leaving Fedora for a different distro running Plasma, well, I have to tip my hat at RedHat and move on.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Looking Forward
 
  I think next I'll try going back to Garuda Linux. [I wrote about switching to Garuda](https://extra-lessons.techidaily.com/the-ultimate-list-of-superior-real-time-streaming-networks/) a few years ago, and at least at the time it felt both bleeding-edge and stable. I don't recall daily software crashes. The only reason I gave it up was that using Windows became less than optional at work for a while.
@@ -48,8 +61,6 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -57,4 +68,19 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-rookie-recording-assessment-guide/"><u>[New] 2024 Approved Rookie Recording Assessment Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-mastering-thumbnail-creation-a-step-by-step-guide/"><u>[New] In 2024, Mastering Thumbnail Creation A Step-by-Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-perfect-your-pics-ideal-apps-list-for-iphonesandroids/"><u>[New] Perfect Your Pics Ideal Apps List for iPhones/Androids</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-imovie-why-does-it-alter-my-videos/"><u>[Updated] IMovie Why Does It Alter My Videos?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-the-art-of-picsart-complete-guide-2024/"><u>[Updated] Mastering the Art of PicsArt (Complete Guide 2024)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/action-camera-accessories-buying-guide/"><u>Action Camera Accessories Buying Guide</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/guide-ultime-utiliser-winx-video-pour-une-qualite-professionnelle-lors-du-recueil-decrans-webcam-et-audio/"><u>Guide Ultime: Utiliser WinX Video Pour Une Qualité Professionnelle Lors Du Recueil D'écrans Webcam Et Audio</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/how-to-activate-auto-hdr-setting-in-windows-11/"><u>How to Activate Auto HDR Setting in Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-an-honest-review-of-recordcast/"><u>In 2024, An Honest Review of RecordCast</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-ideal-set-of-8-backdrops-to-personalize-mbp-design/"><u>In 2024, Ideal Set of 8 Backdrops to Personalize MBP Design</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-secrets-to-capturing-your-iphone-7-screen/"><u>In 2024, Secrets to Capturing Your iPhone 7 Screen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Vivo T2 Pro 5G | Dr.fone</u></a></li>
+</ul></div>
 

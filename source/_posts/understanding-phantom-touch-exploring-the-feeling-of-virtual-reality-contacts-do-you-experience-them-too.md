@@ -1,7 +1,7 @@
 ---
 title: "Understanding Phantom Touch: Exploring the Feeling of Virtual Reality Contacts - Do You Experience Them Too?"
-date: 2024-08-26 15:46:18
-updated: 2024-08-29 11:33:36
+date: 2025-01-20T22:13:45.014Z
+updated: 2025-01-23T23:52:45.902Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a5
 
 ## Understanding Phantom Touch: Exploring the Feeling of Virtual Reality Contacts - Do You Experience Them Too?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Episode 1: The Phantom Sense](https://android-frp.techidaily.com/the-updated-method-to-bypass-realme-gt-neo-5-se-frp-by-drfone-android/)
@@ -19,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a5
 * [What Does This Mean for VR?](https://instagram-videos.techidaily.com/2024-approved-discovering-those-who-left-my-instagram-circle/)
 
  You're standing in a VR world, surrounded by virtual grass. The wind whips up and blows through the field, and as you watch the tall grass blowing in the wind, you can feel it buffet your body; how is this possible?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Episode 1: The Phantom Sense
 
@@ -32,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a5
 
 ![Illustration of a man's silhouette with his brain highlighted and an array casting out from his eyes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/man-silhouette-brain-perception.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _[BNP Design Studio/Shutterstock.com](https://www.shutterstock.com/image-vector/illustration-man-silhouette-brain-rays-coming-1173096928)_
 
  Humans and other living things "perceive" the world around us with sense organs. In school, you're taught that there are five senses, but the truth is that you have many different senses that give your brain information about the outside world and the state of your body.
@@ -40,6 +52,10 @@ _[BNP Design Studio/Shutterstock.com](https://www.shutterstock.com/image-vector/
 
  Top-down aspects of perception are things like your previous experience and what you've learned about the world. Your expectations and prior knowledge let your brain automatically fill in the blanks or predict what it thinks you should be seeing. Magic tricks and optical illusions often take advantage of your expectations and how they influence what we see and hear. It's most likely between these two types of perceptual processing that phantom sense happens.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Phantom Sense in the Lab
 
  The phantom sense that people report experiencing in VR is most likely a form of "body transference". Body transference happens when someone takes "ownership" of something as part of their own body when it isn't. The classic experiment involves a rubber arm attached to the subject so that it's in the position you expect your real arm to be.
@@ -47,6 +63,10 @@ _[BNP Design Studio/Shutterstock.com](https://www.shutterstock.com/image-vector/
  Stroking the arm has been shown to induce that sensation in the subject. Similarly, sticking a needle into the rubber arm can induce pain. Psychologists theorize that this illusion happens when bottom-up processes override top-down processes. In other words, even though you know it's not your real body part, on a fundamental your brain is fooled into accepting it and your conscious mind is along for the ride whether it wants to be or not.
 
  Adding on to this, VR has been deliberately used to induce body transference. Researchers have determined that a person's VR body induces the same [threat response](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0010564) as it would in real life. In other words, under the right conditions, the brain accepts ownership of the virtual body, and the radical body transference illusion occurs. This might explain why some VR users experience phantom senses.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Does This Mean for VR?
 
@@ -64,11 +84,26 @@ _[BNP Design Studio/Shutterstock.com](https://www.shutterstock.com/image-vector/
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-ultimate-guide-to-premiere-pro-planning-and-templates/"><u>[New] 2024 Approved The Ultimate Guide to Premiere Pro Planning & Templates</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-essential-themes-and-backdrops-for-a-stylish-laptop/"><u>[New] In 2024, Essential Themes & Backdrops for a Stylish Laptop</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-finding-the-ideal-soundtrack-for-unboxing-content/"><u>[New] In 2024, Finding the Ideal Soundtrack for Unboxing Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-pricepoint-nimbus-economical-mass-storage-haven-for-2024/"><u>[New] PricePoint Nimbus - Economical Mass Storage Haven for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamlining-video-sharing-zoom-and-tiktok-harmony/"><u>[New] Streamlining Video Sharing Zoom and TikTok Harmony</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-10-uplifting-films-for-momentum-and-motivation/"><u>[New] Top 10 Uplifting Films for Momentum & Motivation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-simplified-approach-to-removing-youtube-comments-with-ease-for-2024/"><u>[Updated] Simplified Approach to Removing YouTube Comments with Ease for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/experience-unparalleled-text-design-with-top-5-downloadable-platforms/"><u>Experience Unparalleled Text Design with Top 5 Downloadable Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/powerful-book-trailer-examples/"><u>Powerful Book Trailer Examples</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-xiaomi-redmi-note-12r-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Xiaomi Redmi Note 12R</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-gopro-quik-review-is-it-the-best-video-editor-for-your-needs-in-2024/"><u>Updated GoPro Quik Review Is It the Best Video Editor for Your Needs, In 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/warzone-20-and-pc-users-beware-overcoming-frequent-game-crashes/"><u>Warzone 2.0 and PC Users Beware: Overcoming Frequent Game Crashes</u></a></li>
+</ul></div>
+

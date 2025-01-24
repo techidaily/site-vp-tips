@@ -1,7 +1,7 @@
 ---
 title: "Mastering Microsoft's New Features: Top 4 Pro-Tech Tips for Enhanced File Explorer Tab Use on Windows 11"
-date: 2024-08-27 20:33:12
-updated: 2024-08-29 10:20:29
+date: 2025-01-16T18:31:48.722Z
+updated: 2025-01-23T22:02:20.688Z
 tags:
   - deals
 categories:
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 ![File Explorer with the new tab '+' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/new-tab.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you know which folder you want to open in a new tab, you can right-click on said folder and select "Open In New Tab." Alternatively, if you are using a mouse with a scrolling wheel, click the scrolling wheel on the relevant folder and this will open it in a new tab. In this example, the Desktop folder will open in the new tab.
 
 ![File Explorer with the 'Open In New Tab' option open having right-clicked a folder to open in the new tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/new-tab-2.png) 
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 ![The tab closing options viewable in File Explorer by right-clicking on an existing tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/tab-closing-options.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click "Close Other Tabs" to leave just that one tab open, or click "Close Tabs To The Right" to keep that tab and the tabs to the left open, while closing all the other tabs.
 
 ##  Change the Default New Tab Folder
@@ -52,9 +60,17 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 ![The File Explorer 'Options,' accessed via the three dots on the ribbon in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/file-explorer-options.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Open the "Home" tab in Folder Options window, and click the "Open File Explorer To" drop-down arrow. From there, you can change the default launch folder to "Home" (if this is not already selected), "This PC," or "\[Your Name\] - Personal" (your OneDrive folder). You'll see this in action next time you open a new File Explorer window or tab.
 
 ![File Explorer's Folder Options Window with the 'Open File Explorer To' drop-down options highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/file-explorer-folder-options-window.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Jump Between and Reorder Tabs
 
@@ -64,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 * Ctrl+\[number\] takes you to a specific tab. For example, if you want to jump to the fifth tab, hit Ctrl+5\. Make sure you use your keyboard's regular numbers along the top, and not the number pad on the right.
 
 ![Five File Explorer tabs numbered from one to five.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/numbered-tabs.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To reorder your tabs along the tab bar (for example, I like to organize my tabs in terms of work completion, with new tasks on the left, semi-finished tasks in their various degrees of completion in the middle, and completed tasks on the right), simply click and drag the tab you want to move and drop it in its new place.
 
@@ -89,11 +109,27 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-expert-techniques-for-flipping-and-tilting-iphone-images/"><u>[New] 2024 Approved Expert Techniques for Flipping & Tilting iPhone Images</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-navigating-discord-live-a-users-blueprint/"><u>[New] 2024 Approved Navigating Discord Live A User's Blueprint</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-transform-imagination-to-reality-top-10-graphic-designers-on-android/"><u>[New] In 2024, Transform Imagination to Reality Top 10 Graphic Designers on Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-innovative-8-upgrades-for-webcam-video-quality-for-2024/"><u>[New] Innovative 8 Upgrades for Webcam Video Quality for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-win10s-best-screen-capture-and-recording-options-for-2024/"><u>[New] Win10's Best Screen Capture and Recording Options for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ideal-screencasting-software-for-effective-teaching/"><u>[Updated] 2024 Approved Ideal Screencasting Software for Effective Teaching</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-realme-c53-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-all-inclusive-rundown-whats-behind-the-google-podcast-app/"><u>In 2024, All-Inclusive Rundown What's Behind the Google Podcast App?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-game-overcoming-hell-let-loose-runtime-errors-and-system-crashes/"><u>Master the Game: Overcoming 'Hell Let Loose' Runtime Errors and System Crashes</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-from-flat-to-fabulous-converting-videos-to-vr-with-ease-for-2024/"><u>New From Flat to Fabulous Converting Videos to VR with Ease for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quick-pexels-tips-for-visual-explorers-for-2024/"><u>Quick Pexels Tips for Visual Explorers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unleashing-humor-kinemaster-for-memes/"><u>Unleashing Humor KineMaster for Memes</u></a></li>
+</ul></div>
+

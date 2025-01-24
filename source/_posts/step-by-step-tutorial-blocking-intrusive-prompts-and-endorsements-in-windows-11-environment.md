@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Blocking Intrusive Prompts and Endorsements in Windows 11 Environment"
-date: 2024-08-27 12:12:16
-updated: 2024-08-29 11:41:57
+date: 2025-01-16T20:47:39.754Z
+updated: 2025-01-23T19:34:30.015Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 ---
 
 ## Step-by-Step Tutorial: Blocking Intrusive Prompts and Endorsements in Windows 11 Environment
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 
  Have you recently upgraded to Windows 11 and been bothered by unwanted ads and suggestions? Despite Microsoft's claim that these ads improve the user experience, they can become overwhelming. Fortunately, you can easily disable them. Let's take a look at how you can do that.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Why Do You See So Many Ads in Windows 11?
 
  Microsoft is known to show advertisements in specific areas of its operating systems, like the Start menu, lock screen, File Explorer, or within certain apps. With Windows 11, the frequency of these ads has increased, aligning with the [addition of more personalized features](https://win-able.techidaily.com/reviving-game-playthroughs-solve-xbox-headset-problems-with-these-proven-steps/) by Microsoft. But why does the company show these ads?
@@ -46,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 
 ![Uninstalling a pinned app from the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-uninstalling-a-pinned-app-from-the-start-menu.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Repeat these steps to remove all suggested apps in the Start menu that you don't plan to install or use.
 
  You may find some installed apps pinned here, so be sure not to uninstall them. The context menu of installed apps displays options such as app settings, uninstall, and more. This is how you can distinguish them from suggested ones.
@@ -57,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
  To disable those ads, [open File Explorer](https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-realme-c67-4g-drfone-by-drfone-virtual-android/) by clicking on the folder icon on the taskbar. Click on the three horizontal dots at the far right of the command bar and select "Options."
 
 ![Opening the Folder Options settings in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-file-explorer-folder-setting-options.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the Folder Options window, go to the "View" tab and uncheck the box beside "Show Sync Provider Notifications." After that, click "Apply" and then click "OK."
 
@@ -84,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 
 ![Opening the device usage personalization in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-opening-the-device-usage-personalization-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If any toggles next to various use cases are enabled, turn them off. This way, Microsoft will no longer show you ads based on how you use your device.
 
 ![Disabling all device usage permissions in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-disabling-all-device-usage-permissions-in-the-windows-settings-app.jpg) 
@@ -96,15 +116,27 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 
 ![Disabling Windows spotlight and lock screen recommendations in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-disabling-windows-spotlight-and-lock-screen-recommendations-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Remove Recommendations From Windows Search
 
  If you frequently use Windows Search to look for apps and files, you've likely encountered recommended games, recipes, popular videos, and more in the left sidebar of the Search menu. These content suggestions can be bothersome. To disable them, open the Settings app and navigate to Privacy and Security > Search Permissions.
 
 ![Opening the search permissions settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-opening-the-search-permissions-settings-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Scroll down and uncheck the box below "Show Search Highlights." Then, close the Settings app to allow the changes to take effect, and the search box will now be clutter-free.
 
 ![Disabling the search highlights in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-disabling-the-search-highlights-in-the-windows-settings-app.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Disable General Windows Permissions
 
@@ -126,11 +158,25 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-ultimate-blueprint-for-telegram-marketplace-success/"><u>[New] 2024 Approved The Ultimate Blueprint for Telegram Marketplace Success</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-simple-sound-transformation-iphone-friendly-software-for-youtube-to-mp3/"><u>[Updated] Simple Sound Transformation IPhone-Friendly Software for YouTube-to-MP3</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-make-your-own-meme/"><u>2024 Approved Make Your Own Meme</u></a></li>
+<li><a href="https://review-topics.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y200-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-15-cost-effective-online-photo-editing-platforms-for-2024/"><u>Discover 15 Cost-Effective Online Photo Editing Platforms for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/essential-steadicams-to-boost-the-performance-of-your-dslr-cameras-for-2024/"><u>Essential Steadicams to Boost the Performance of Your DSLR Cameras for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/expert-insights-switching-from-webp-to-jpg-format-for-2024/"><u>Expert Insights Switching From WebP to JPG Format for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-infinix-smart-7-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Infinix Smart 7 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/vibration-victory-clearer-cinematography-for-2024/"><u>Vibration Victory Clearer Cinematography for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-switching-to-opera-vpn-key-benefits-and-step-by-step-setup-for-enhanced-online-security-zdnet-insights/"><u>Why Switching to Opera VPN? Key Benefits and Step-by-Step Setup for Enhanced Online Security | ZDNET Insights</u></a></li>
+</ul></div>
+

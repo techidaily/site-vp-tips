@@ -1,7 +1,7 @@
 ---
 title: VBScript Support Discontinued with Upcoming Windows 11 Version 24H2 Release
-date: 2024-08-31T08:55:55.865Z
-updated: 2024-09-01T08:55:55.865Z
+date: 2025-01-21T20:05:54.404Z
+updated: 2025-01-23T19:57:41.798Z
 tags:
   - desktop
 categories:
@@ -31,8 +31,6 @@ Visual Basic Scripting Edition, or VBScript, has been a scripting language and a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -40,8 +38,22 @@ Visual Basic Scripting Edition, or VBScript, has been a scripting language and a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-easy-sound-alteration-for-everyday-vocalization-with-free-software/"><u>[New] 2024 Approved Easy Sound Alteration for Everyday Vocalization with Free Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-streaming-mastery-ioss-no1-freepluspaid-movie-apps-guide/"><u>[New] 2024 Approved Streaming Mastery IOS's No.1, FREE+Paid Movie Apps Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-apple-music-integration-for-high-fidelity-videos-for-2024/"><u>[New] Apple Music Integration for High-Fidelity Videos for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1716069434714-new-step-by-step-instructions-on-initiating-a-cross-platform-skype-conversation-with-ease-for-2024/"><u>[New] Step-by-Step Instructions on Initiating a Cross-Platform Skype Conversation with Ease. For 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unleashing-the-full-power-of-apple-podcasts-downloads-for-2024/"><u>[New] Unleashing the Full Power of Apple Podcasts Downloads for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/conquering-subreddit-mastering-the-art-of-public-discussion-for-2024/"><u>Conquering Subreddit Mastering the Art of Public Discussion for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/harmony-hub-tech-evolution/"><u>Harmony Hub Tech Evolution</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-to-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>How to Mirror PC to Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-max-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro Max to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-revolutionize-video-production-150plus-complimentary-pp-samples/"><u>In 2024, Revolutionize Video Production 150+ Complimentary PP Samples</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-troubleshooting-of-nspr-(a-hrefhttpswwwgooglecomsearchqnspr4pluserror)error-missing-or-not-found-dll(a)/"><u>Step-by-Step Troubleshooting of Nspr <a href=https://www.google.com/search?q=Nspr4+error>Error: Missing or Not Found DLL</A></u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

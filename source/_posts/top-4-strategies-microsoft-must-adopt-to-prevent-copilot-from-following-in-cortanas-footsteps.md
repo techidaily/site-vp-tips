@@ -1,7 +1,7 @@
 ---
 title: Top 4 Strategies Microsoft Must Adopt to Prevent Copilot From Following in Cortana's Footsteps
-date: 2024-08-28 18:48:30
-updated: 2024-08-29 12:35:35
+date: 2025-01-20T21:31:42.756Z
+updated: 2025-01-24T01:39:12.963Z
 tags:
   - deals
 categories:
@@ -29,6 +29,10 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
 ![Clippy, a paperclip with googly eyes and eyebrows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/clippy.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Clippy debuted in Microsoft Office 97 and gave tips to help new users familiarize themselves with the software. Things were all well and good, except for one key detail that Microsoft forgot to consider when building Clippy: humans learn.
 
  As the fledgling PC users slowly became familiar with their computers, they eventually advanced to the point where they no longer needed Clippy's advice. Unfortunately for them, Clippy just didn't care. The relentless little assistant was designed to help, and help it would, regardless of whether you wanted it or not.
@@ -43,11 +47,19 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
 ![Cortana on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/07/img_55bc11439921b.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It also didn't help that Cortana just wasn't a very good assistant. Simple requests like “Play some music” or “What’s the time” triggered a web search half the time, and you could probably do whatever Cortana could in less time with your keyboard and mouse.
 
  These challenges meant that Cortana struggled to amass a sizable user base. Even Microsoft didn't believe in Cortana’s future, gradually diminishing it until it was finally killed off in 2023.
 
  Microsoft has since moved on from Clippy and Cortana. Now Copilot is the new kid on the block, and he’s got all the coolest AI toys. But that won’t mean anything if Microsoft doesn't fix the mistakes it made with its earlier assistants.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Dear Microsoft, Kindly Refrain From Forcing Me to Use Copilot
 
@@ -61,6 +73,10 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
  Maybe start by freeing up the taskbar real estate Copilot has claimed for itself.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Don't Just Tell Me How—Do It for Me
 
  One thing that irked me about Cortana was that it couldn’t do much. Oh, it could search Bing and tell you all the different ways to do a thing, but actually taking action on your behalf was beyond its capabilities.
@@ -72,6 +88,10 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
  Now, to be fair, [Copilot can do some things for you](https://extra-resources.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/), like turning on dark mode and opening some apps, but other things just return instructions on how to do it yourself. For example, I asked Copilot how much space I had left on my PC, and it returned instructions on how to check the storage space.
 
 ![A conversation with Microsoft Copilot about storage space](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-conversation-with-microsoft-copilot-about-storage-space.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Copilot, Respect My Boundaries
 
@@ -97,11 +117,31 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-digital-chuckles-the-ultimate-10-meme-guidebook/"><u>[New] Digital Chuckles The Ultimate #10 Meme Guidebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-from-screen-shots-to-speech-navigating-the-best-37-applications-for-video-to-text-translation/"><u>[New] From Screen Shots to Speech Navigating the Best 37 Applications for Video-to-Text Translation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-how-to-zoom-in-microsoft-teams/"><u>[Updated] 2024 Approved How to Zoom in Microsoft Teams</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unleash-the-potential-of-ifunnys-meme-application/"><u>[Updated] 2024 Approved Unleash the Potential of iFunny’s Meme Application</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-dream-lenses-guide-leading-6-in-high-definition-dslrs-for-2024/"><u>[Updated] Dream Lenses Guide Leading 6 in High-Definition DSLRs for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-how-to-improve-gopro-battery-life/"><u>[Updated] In 2024, How to Improve GoPro Battery Life</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-master-listings-for-melodic-mobile-alerts/"><u>[Updated] Master Listings for Melodic Mobile Alerts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/culinary-cinema-mastery-the-7-pathways-to-delectable-vids-for-2024/"><u>Culinary Cinema Mastery - The 7 Pathways to Delectable Vids for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-install-and-activate-a-wireless-adapter-for-windows/"><u>How to Install and Activate a Wireless Adapter for Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-the-camera-unavailable-issue-in-snapchat-issue-solved/"><u>How to Overcome the 'Camera Unavailable' Issue in Snapchat (Issue Solved)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ideal-slide-show-tools-for-iphone-series-10-13-upgrades-for-2024/"><u>Ideal Slide Show Tools For iPhone Series 10-13 Upgrades for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-quickly-change-digital-pictures-darkness-level/"><u>In 2024, Quickly Change Digital Pictures' Darkness Level</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-seamless-closure-in-digital-landscapes/"><u>In 2024, Seamless Closure in Digital Landscapes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-future-of-ai-driven-prompt-crafting-and-career-prospects/"><u>Navigating the Future of AI-Driven Prompt Crafting & Career Prospects</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ating-the-seamless-shift-from-imovie-to-youtube-broadcasts-for-2024/"><u>Navigating the Seamless Shift From iMovie to YouTube Broadcasts for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-motorola-defy-2-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Motorola Defy 2? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
+

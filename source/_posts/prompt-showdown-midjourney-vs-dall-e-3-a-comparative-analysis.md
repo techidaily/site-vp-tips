@@ -1,7 +1,7 @@
 ---
 title: "Prompt Showdown: MidJourney Vs. DALL-E 3 – A Comparative Analysis"
-date: 2024-08-27 15:56:35
-updated: 2024-08-29 11:36:46
+date: 2025-01-22T02:06:25.017Z
+updated: 2025-01-23T17:07:34.088Z
 tags:
   - cutting-edge
 categories:
@@ -45,11 +45,19 @@ Oil painting reminiscent of 90s fantasy artwork, showcasing a group of elves, bo
 
 ![MidJourney Dragon Fantasy Art with elves](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/midjourney-prompt-1-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 MidJourney / Sydney Butler / How-To Geek
 
  Now we have something much more comparable. However, which one wins? In this case, my opinion is that the DALL-E 3 image is closer to what I asked for, while the MidJourney image has a more distinct style and more artistic flair. MidJourney's current V5 model excels at overall artistic flair in my opinion, but of course this is highly subjective.
 
  For the rest of the comparisons, I will only be using the GPT-generated prompts for both image generators to cancel out my skill (or lack thereof) when it comes to crafting prompts. So in other words, I'll ask ChatGPT for the image first, and then copy and paste the best image it generate's prompt into MidJourney.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Prompt 2: Text Elements
 
@@ -67,6 +75,10 @@ DALL-E / Sydney Butler / How-To Geek
 
 ![Midjourney image of Computer Geek](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/gendowasright_drawing_reminiscent_of_newspaper_comic_strips_fea_48a1796e-af7e-4df7-8d6e-aae11d9a39ee.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 MidJourney / Sydney Butler / How-To Geek
 
  While MidJourmey's output is very pleasing to the eye, it's not at all what we asked for, so DALL-E 3 pips it here. However, there's still plenty of nonsensical text in the image. In my testing, DALL-E works great when you specify all the text in the image, or there's no other text than what you asked for, but if the image has unspecified text it's nonsense just as with MidJourney,
@@ -81,11 +93,19 @@ Illustration of a cyberpunk cityscape reminiscent of Blade Runner aesthetics. A 
 
 ![Cyberpunk scene of robot woman buying a fruit from a robot man](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/cybepun-fruit.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 DALL-E / Sydney Butler / How-To Geek
 
  And here are all four attempts by MidJourney.
 
 ![A grid of imaged from MidJourney depicting cyberpunk artwork](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/mj-prompt-3-attempts.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 MidJourney / Sydney Butler / How-To Geek
 
@@ -113,11 +133,33 @@ MidJourney / Sydney Butler / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-best-subtitle-converters-reviewed-the-top-8-win-osx-sbt-to-srts-software-for-2024/"><u>[New] Best Subtitle Converters Reviewed The Top 8 Win-OSX SBT to SRTS Software for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-echoed-calls-recorder-iphone-model-2024/"><u>[New] Echoed Calls Recorder - iPhone Model 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-frame-by-frame-helpdesk/"><u>[New] In 2024, Frame by Frame Helpdesk</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-through-a-photographers-eye-our-best-10-lenses-list/"><u>[New] Through a Photographer's Eye Our Best 10 Lenses List</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-achieve-wider-exposure-by-transferring-twitch-broadcasts-to-youtube/"><u>[Updated] 2024 Approved Achieve Wider Exposure by Transferring Twitch Broadcasts to YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-go-beyond-boundaries-with-panasonic-hx-a1-wearable-camera/"><u>[Updated] Go Beyond Boundaries with Panasonic HX-A1 Wearable Camera</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-humor-haven-the-ultimate-list-of-event-specific-jokes/"><u>[Updated] Humor Haven The Ultimate List of Event-Specific Jokes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-revolutionize-tech-connectivity-top-free-speech-conversion-tools-for-macos/"><u>[Updated] In 2024, Revolutionize Tech Connectivity Top Free Speech Conversion Tools for MacOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-comprehensive-guide-to-legally-sharing-music-on-instagram/"><u>2024 Approved The Comprehensive Guide to Legally Sharing Music on Instagram</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-bargain-stopwatches-online-for-2024/"><u>Best Bargain Stopwatches Online for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/decoding-common-videography-pitfalls-and-remedies/"><u>Decoding Common Videography Pitfalls & Remedies</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-samsung-galaxy-f15-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Samsung Galaxy F15 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-mastering-cartoon-selfies-snapchats-fun-lens-guide/"><u>In 2024, Mastering Cartoon Selfies Snapchat's Fun Lens Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-revolutionaries-building-virtual-realms/"><u>In 2024, Revolutionaries Building Virtual Realms</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-the-new-era-of-connectivity-in-depth-review-and-comparison-of-the-samsung-galaxy-s2/"><u>Navigating the New Era of Connectivity: In-Depth Review and Comparison of the Samsung Galaxy S2</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/tripod-triumphs-unbeatable-stability-for-phones-for-2024/"><u>Tripod Triumphs Unbeatable Stability for Phones for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-with-faceid-on-iphone-discover-14-solutions-that-work/"><u>Trouble with FaceID on iPhone: Discover 14 Solutions That Work</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlock-image-potential-with-editors-essentials-for-2024/"><u>Unlock Image Potential with Editor's Essentials for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/brotokol-3-mn-afdl-laaml-nskh-ahtyatya-mkabl-windows-server-o-qnap-nas/"><u>بروتوكول 3 من أفضل لعمل نسخ احتياطية مقابل Windows Server و QNAP NAS</u></a></li>
+</ul></div>
+

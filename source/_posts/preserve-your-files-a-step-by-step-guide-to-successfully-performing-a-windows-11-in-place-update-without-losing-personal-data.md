@@ -1,7 +1,7 @@
 ---
 title: "Preserve Your Files: A Step-by-Step Guide to Successfully Performing a Windows 11 In-Place Update Without Losing Personal Data"
-date: 2024-08-28 11:39:13
-updated: 2024-08-29 12:10:42
+date: 2025-01-21T00:30:27.766Z
+updated: 2025-01-23T18:37:41.571Z
 tags:
   - deals
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/10d09cb93e07ee59e0a22acff845b375c79c46fae
 
  An in-place upgrade also helps if you want to upgrade from, for example, Windows 11 Home to Windows Pro, without performing a clean installation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Before You Perform Your Windows 11 In-Place Upgrade
 
  An in-place upgrade can change many things on your computer and occasionally the process can go wrong. To protect yourself, you must create a backup before you proceed. A good way to do this is to [create a system image backup](https://screen-video-capture.techidaily.com/updated-comprehensively-capturing-your-messenger-conversations/), which creates a snapshot of your hard drive, allowing you to restore your PC to a working state.
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/10d09cb93e07ee59e0a22acff845b375c79c46fae
 
 ![Mounting the Windows 11 ISO](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/selecting-the-mount-option-for-the-windows-iso.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Mounting the ISO will allow you to access the files and folders contained therein. The mounted ISO will appear as a DVD drive under "This PC" in the navigation pane. Now, select the mounted ISO and double-click "setup.exe."
 
 ![The contents of a mounted Windows ISO](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/the-contents-of-a-mounted-windows-iso.jpeg) 
@@ -51,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/10d09cb93e07ee59e0a22acff845b375c79c46fae
 
 ![The ULA screen of Windows 11 Setup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-setup-ula.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Setup checks for updates again, and once it finishes, it shows you the "Ready to install" screen. Here, make sure one of the checked items is "Keep personal files and apps." If it is, go ahead and click "Install."
 
 ![The 'Ready to install' screen of Windows 11 Setup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/the-ready-to-install-screen-in-the-windows-setup-wizard.jpeg) 
@@ -59,11 +71,19 @@ thumbnail: https://thmb.techidaily.com/10d09cb93e07ee59e0a22acff845b375c79c46fae
 
 ![The 'Choose what to keep' screen of Windows 11 Setup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/the-choose-what-to-keep-screen-in-the-windows-setup-wizard.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Back on the "Ready to install" screen, click "Install" to start upgrading your Windows version.
 
  Once the installation of the latest Windows 11 version completes, and you're able to log back into your computer, you can unmount the ISO. To do that, right-click on it in the navigation pane (remember that it will appear as the DVD drive) and select "Eject."
 
 ![Ejecting a mounted ISO on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/ejecting-a-mounted-iso-file-on-windows.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you look around, you'll notice that your files, apps, and settings are still intact, even after reinstalling Windows.
 
@@ -91,11 +111,28 @@ thumbnail: https://thmb.techidaily.com/10d09cb93e07ee59e0a22acff845b375c79c46fae
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-5-ultimate-platforms-for-high-quality-text-embellishments/"><u>[New] 5 Ultimate Platforms for High-Quality Text Embellishments</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-review-of-huawei-p10s-multimedia-features-and-functionality/"><u>[New] Review of Huawei P10’s Multimedia Features & Functionality</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-download-youtube-snippets-with-perfection/"><u>[Updated] 2024 Approved Download YouTube Snippets with Perfection</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-best-free-webm-players-how-to-play-webm-video-files/"><u>[Updated] Best Free WebM Players How to Play WebM Video Files?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-navigating-picture-in-picture-settings-for-iphone-and-ipad-for-2024/"><u>[Updated] Navigating Picture-in-Picture Settings for iPhone & iPad for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-2-methods-to-transform-zoom-sound-ensuring-clarity-for-2024/"><u>[Updated] Top 2 Methods to Transform Zoom Sound, Ensuring Clarity for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-mememorph-machine-20/"><u>2024 Approved MemeMorph Machine 2.0</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pondering-the-value-of-intensified-luminosity-in-hdr/"><u>2024 Approved Pondering the Value of Intensified Luminosity in HDR</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-malfunctioning-on-pc-effortless-fixes-inside/"><u>Audio Malfunctioning on PC? Effortless Fixes Inside</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-samsung-galaxy-f15-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Samsung Galaxy F15 5G</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/estimating-a-20mb-videoclip-duration-for-2024/"><u>Estimating a 20MB Videoclip Duration for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/expert-analysis-of-plugables-versatile-11-in-1-dual-hdmi-dock-expander-a-must-have-upgrade-for-efficient-windows-operations/"><u>Expert Analysis of Plugable's Versatile 11-in-1 Dual HDMI Dock Expander: A Must-Have Upgrade for Efficient Windows Operations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-essential-wedding-countdown-clock-apps-top-10-picks-androidios/"><u>In 2024, Essential Wedding Countdown Clock Apps Top 10 Picks (Android/iOS)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-your-imagination-writing-beautiful-poems-with-help-from-chatgpt/"><u>Unleash Your Imagination: Writing Beautiful Poems with Help From ChatGPT</u></a></li>
+</ul></div>
+

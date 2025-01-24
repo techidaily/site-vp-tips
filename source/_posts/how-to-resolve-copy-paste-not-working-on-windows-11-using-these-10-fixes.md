@@ -1,7 +1,7 @@
 ---
 title: How to Resolve 'Copy-Paste Not Working' On Windows 11 Using These 10 Fixes
-date: 2024-08-31T08:54:30.977Z
-updated: 2024-09-01T08:54:30.977Z
+date: 2025-01-22T19:28:28.151Z
+updated: 2025-01-23T20:01:29.291Z
 tags:
   - desktop
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Check for Pending System Updates](https://youtube-sure.techidaily.com/ing-attention-a-look-at-the-best-15-video-intro-plans/)
 * [Perform a System Restore](https://iphone-unlock.techidaily.com/resolve-your-iphone-se-2022-keeps-asking-for-outlook-password-drfone-by-drfone-ios/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Make sure the copy-paste problem is not limited to a specific app by trying to copy-paste in another application.
@@ -41,8 +45,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  In contrast, if copy-paste fails to work throughout your operating system, the problem is more widespread and requires further investigation. In that case, begin applying the remaining fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  2\. Try an Alternative Method
 
  There are two main ways to copy and paste text on Windows: using the Ctrl+C and Ctrl+V keyboard shortcuts and through the context menu, which you access by pressing the right-click on a mouse.
@@ -51,14 +56,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  If you are unable to copy-paste using keyboard shortcuts, there could be a problem with your keyboard or its settings. So, use the context menu to copy-paste text. If copy-pasting works with this alternative method, follow the instructions in the next heading to troubleshoot keyboard problems.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  3\. Troubleshoot Your Keyboard Keys and Shortcuts
 
  In case you are unable to copy-paste text using the keyboard shortcuts, ensure the keys are not broken. To check that, go to the [Keyboard Tester website](https://www.keyboardtester.com/) and press the Ctrl, C, and V keys individually. If any of these keys don't work, try [cleaning your keyboard](https://some-approaches.techidaily.com/accelerate-operations-master-document-handling-through-automation-technology-in-the-finance-sector/), or get it inspected by a professional.
 
 ![Testing keyboard keys on a keyboard tester website](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/testing-keyboard-keys-on-a-keyboard-tester-website.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If these keys work during the test, ensure the problem isn't with the keyboard shortcuts. To check this, press any other shortcut key combination, such as Ctrl+Shift+Esc. This shortcut should open the [Task Manager](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/) window if shortcuts are working fine.
 
@@ -73,24 +79,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![restarting windows explorer process in task manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/restarting-windows-explorer-process-in-task-manager.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Your device may take a few seconds to restart File Explorer, and then you can try copy-pasting using the context menu again. However, if you fail to copy-paste text using both shortcuts and the context menu, keep applying the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ##  5\. Clear the Clipboard History
 
  Any text or visual you copy is saved in the Clipboard history and remains there even after you paste it. If you don't clear the clipboard history for a long time, it could disrupt your copy-paste operation. Therefore, you should clean it up. Press Windows+V to bring up the clipboard tab, then click "Clear All" to clean it.
 
 ![Click the 'Clear All' button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/clear-all.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Clearing history removes previously saved items, so you won't be able to access them again.
 
@@ -101,8 +103,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Likewise, if you have another open app that uses the same shortcut for a different in-app operation, it can also cause problems. To eliminate this possibility, close all other open apps.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  7\. Repair Corrupted System Files
 
  Corrupt system files can also cause the issue in question. To rule out this possibility, run the System File Checker utility, which automatically checks and often repairs corrupt system files, potentially fixing major operating system problems.
@@ -113,9 +116,6 @@ SFC /scannow
 
 !['sfc /scannow' highlighted in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/5-windows-sfc-command.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Windows will scan your device for corrupt system files. If it finds corrupted files, it will either fix them automatically or tell you to fix them manually. So, read the scan results carefully after the process has finished and follow any recommended steps.
 
 ##  8\. Scan for Malware Infection
@@ -124,9 +124,6 @@ SFC /scannow
 
 ![Opening the scan options settings in windows security app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/opening-the-scan-options-settings-in-windows-security-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you don't want the virus scan to take much longer, check the circle beside "Quick Scan" and hit "Scan Now."
 
 ![Running a quick scan in the windows security app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/running-a-quick-scan-in-the-windows-security-app-1.jpg) 
@@ -135,6 +132,10 @@ Screenshot by Shan Abdul - NAR
 
  To perform a comprehensive scan, we recommend running the Full Scan. Though it can take up to an hour, the scan checks all your files and installed programs for possible infections.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Check for Pending System Updates
 
  Not installing Windows updates can also prevent copy-pasting from working as intended. To check for pending updates, open the Settings app, select the "Windows Update" tab on the left, and click the "Check For Updates" button at the top-right. Windows will [look for available updates and install them](https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-v30-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/) on its own.
@@ -142,15 +143,13 @@ Screenshot by Shan Abdul - NAR
 ![The Windows update menu in the Settings app with an arrow pointing to the Check for Updates button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/check-for-updates.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then, click on "Advanced Options" and see if any "Optional Updates" are available. You should also install them if they are available.
 
 ![Optional Updates option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/optional-updates-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  10\. Perform a System Restore
 
  If none of the above fixes resolve the issue, you should [perform a system restore](https://article-posts.techidaily.com/in-2024-proven-methods-to-infuse-engaging-dialogue-in-videos/) to restore your computer to an earlier time when copy-paste was functioning normally. It's possible only if you have enabled System Restore and this utility has created a restore point before the current problem started.
@@ -159,9 +158,6 @@ Screenshot by Shan Abdul - NAR
 
 ![Click on the 'System Protection' tab, then select 'System Restore.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/system-res-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the "System Restore" window, click "Next," and you should see at least one restore point. If you don't see any, then you cannot restore your system. If you see a recently created restore point here, select it and click "Next."
 
 ![Select your restore point, then click 'Next.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/execute-system-restore-1.png) 
@@ -178,8 +174,6 @@ Screenshot by Shan Abdul - NAR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +181,24 @@ Screenshot by Shan Abdul - NAR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-boundless-adventures-exploring-vr-in-games/"><u>[New] 2024 Approved Boundless Adventures Exploring VR in Games</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-decadal-meme-construction-breakthroughs/"><u>[New] 2024 Approved Decadal Meme Construction Breakthroughs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-expert-tips-for-adding-stunning-motion-blur-effects-to-photos-for-2024/"><u>[New] Expert Tips for Adding Stunning Motion Blur Effects to Photos for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-discord-picking-up-game-audio/"><u>[SOLVED] Discord Picking Up Game Audio</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-grandest-meme-makeover-utility/"><u>[Updated] 2024 Approved Grandest Meme Makeover Utility</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-exploring-benq-bl2711u-ultra-hd-monitor-deep-dive-for-2024/"><u>[Updated] Exploring BenQ BL2711U Ultra-HD Monitor Deep Dive for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-download-your-favorite-podcasts-from-apple/"><u>[Updated] In 2024, Download Your Favorite Podcasts From Apple</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-top-playlist-hits-social-medias-1-10-video-winners/"><u>[Updated] In 2024, Top Playlist Hits Social Media's #1-#10 Video Winners</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-an-in-depth-guide-to-periscope-recording-procedures/"><u>2024 Approved An In-Depth Guide to Periscope Recording Procedures</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-artistic-anomaly-top-10-unique-affordable-mac-drawers-free/"><u>2024 Approved Artistic Anomaly Top 10 Unique, Affordable Mac Drawers (Free)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/detailed-guide-to-googles-voice-to-text-service-features-and-usage/"><u>Detailed Guide to Google's Voice-to-Text Service Features and Usage</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-itel-a70-to-mac-drfone-by-drfone-android/"><u>How to Mirror Itel A70 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-action-plan-seamless-transcoding-from-xmlssattml-to-srt/"><u>In 2024, Action Plan Seamless Transcoding From XML/SSA/TTML to SRT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-down-4-ways-to-find-out-chatgpts-current-status/"><u>Is ChatGPT Down? 4 Ways to Find Out ChatGPT's Current Status</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/masterclass-unboxing-and-testing-lgs-usb-c-hdr-display/"><u>Masterclass Unboxing and Testing LG's USB-C HDR Display</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/streamlined-repair-techniques-for-persistent-outriders-crash-issues/"><u>Streamlined Repair Techniques for Persistent Outriders Crash Issues</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-tp-link-ac1200-wi-fi-expander-re305-features-and-functionality-insights/"><u>Top TP-Link AC1200 Wi-Fi Expander (RE305) Features and Functionality Insights</u></a></li>
+</ul></div>
 

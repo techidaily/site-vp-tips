@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Tutorial: Navigating the Touch Functionality in Linux Systems"
-date: 2024-08-31T08:54:19.042Z
-updated: 2024-09-01T08:54:19.042Z
+date: 2025-01-19T16:40:34.428Z
+updated: 2025-01-23T21:04:53.120Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/e8e4a6d6a9bc5b040ff402928b53a2666775b46cc
 ---
 
 ## Comprehensive Tutorial: Navigating the Touch Functionality in Linux Systems
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -41,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/e8e4a6d6a9bc5b040ff402928b53a2666775b46cc
 
  Still, I’d guess its most common use probably leverages its happy side-effect of creating empty files.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ##  Creating Empty Files
 
  Creating files with touch is child’s play.
@@ -54,6 +55,10 @@ ls *.txt
 ls ~/Documents/outlines/*.txt`
     
 ![Using the touch command to create a new file from the Linux command line.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The files are created in their requested locations. They’re little more than a filename in the file system at this point,
 
@@ -70,9 +75,6 @@ ls *.txt `
     
 ![Using touch on the Linux command line to create multiple files at once.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  If the files you’re going to create will have sequentially numbered names, you can create them all in one go like this.
 
         `touch even-more-files-{1..6}.txt   
@@ -81,9 +83,6 @@ ls even*
     
 ![Using the topuch command to create sequentially numbered files on the Linux command line.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ##  Set the Access Time to the Current Time
 
  We’re going to be using a sample file to demonstrate the use of touch. We can use the [stat command](https://extra-information.techidaily.com/explore-free-virtual-music-pulse-analyzers/) to see what its timestamps are.
@@ -91,6 +90,10 @@ ls even*
         `stat sample-file.txt`
     
 ![Using the stat command to display the access and moficiation timestamps of a file, on the Linux command line.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Its access timestamp is 14:32:47 on Aug. 5, 2024, and its modification timestamp is midnight on July 20, 2024.
 
@@ -101,13 +104,18 @@ stat sample-file.txt`
     
 ![Using the touch command to set a file's access time to the current PC time, on the Linux command line.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The access timestamp has been changed to 10:42:00 on Aug. 6, 2024.
 
  Note that the change timestamp has been updated too. This is the time that the file was last changed, by any means. Setting new file permissions, for example, would be enough to update the change timestamp. Updating the access timestamp is a change, so the change timestamp gets refreshed.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Set the Modification Time to the Current Time
 
  Setting the modification time is just as straightforward, but we use the -m (modify) option.
@@ -118,6 +126,10 @@ stat sample-file.txt`
 ![Using the touch command to set a file's modification time to the current PC time, on the Linux command line.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/7.png) 
 
  Our modiffication timestamp is now showing 10:42:50 on Aug. 6, 2024.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Setting Access and Modification Times to Specific Times
 
@@ -150,11 +162,9 @@ stat sample-file.txt`
 ![Using the touch -t option to set the access and modifcation times to a user specified time.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/9.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
+
 ##  Set Only One Time to a Specific Value
 
  The -t and -d options work on both timestamps at once. The -a and -m set a single timestamp, but to the current time, not a user-specified time.
@@ -174,14 +184,8 @@ stat sample-file.txt`
     
 ![Using the touch -mt options to set the modifcation time to a user specified time.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  We could do the same thing with the access timestamp, by using -at in the command.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Set the Access and Modification Times to Those of Another File
 
  We can tell touch to take the timestamps from an existing file and replicate them on a target file.
@@ -201,10 +205,11 @@ stat sample-file.txt sample-2.txt`
     
 ![Using the touch command to copy the timestamps from a reference file to an existing file, and a newly created file, from the Linux command line.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/12.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  We can see that touch applies the access and modification timestamps from the reference file to our existing and new files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Don’t Create a File, Only Modify Existing Files
 
@@ -217,9 +222,6 @@ ls missing-in-action.txt`
     
 ![Using the -c option to supress the touch command's default action of creating missing files, from the Linux command line.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/13.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  We verify that the missing-in-action.txt file doesn’t exist, then ask touch to update the modification timestamps of sample-file.txt and missing-in-action.txt, but only if they exist.
 
  We can see that the modification timestamp of sample-file.txt has been changed, but the missing-in-action.txt hasn’t been created.
@@ -236,8 +238,6 @@ ls missing-in-action.txt`
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -245,4 +245,26 @@ ls missing-in-action.txt`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-excellent-envoys-top-laptops-to-edit-videos-in-4k-for-2024/"><u>[New] Excellent Envoys Top Laptops to Edit Videos in 4K for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-visual-narrative-crafting-your-podcasts-brand-image/"><u>[New] In 2024, The Visual Narrative Crafting Your Podcast's Brand Image</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-story-whats-not-in-public-knowledge-in-2024/"><u>[New] Instagram Story What's Not in Public Knowledge, In 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-master-easy-magnification-on-ios-devices/"><u>[New] Master Easy Magnification on iOS Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unlocking-the-potential-of-av1-technology/"><u>[New] Unlocking the Potential of AV1 Technology</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unveiling-the-process-of-batched-tiktok-content-extraction-for-2024/"><u>[New] Unveiling the Process of Batched TikTok Content Extraction for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-the-nuances-of-softening-sounds-via-lumafusion/"><u>[Updated] 2024 Approved Mastering the Nuances of Softening Sounds via Lumafusion</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-setting-up-your-google-meet-profile/"><u>[Updated] 2024 Approved Setting Up Your Google Meet Profile</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-peak-visionary-suite-feedback/"><u>[Updated] Peak Visionary Suite Feedback</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-premier-networks-global-gems-with-local-spectacles-2024/"><u>[Updated] Premier Networks Global Gems with Local Spectacles, 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-be-amongst-the-few-essential-metaverse-technology/"><u>2024 Approved Be Amongst the Few Essential Metaverse Technology</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/asus-proart-pa-329q-a-deep-dive-into-high-resolution-monitoring-for-2024/"><u>Asus ProArt PA 329Q A Deep Dive Into High-Resolution Monitoring for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/discover-the-7-leading-dvd-compression-tools-as-an-alternative-to-dvd-shrink-in-windows-1011/"><u>Discover the 7 Leading DVD Compression Tools as an Alternative to DVD Shrink in Windows 10/11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-detailed-review-obs-as-a-top-choice-for-screen-recorders/"><u>In 2024, Detailed Review OBS as a Top Choice for Screen Recorders</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-glitches-effective-solutions-for-stabilizing-age-of-wonders-planetfall-on-your-computer/"><u>No More Glitches: Effective Solutions for Stabilizing 'Age of Wonders: Planetfall' On Your Computer</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/transfer-learning-materials-from-artistworks-as-high-quality-mp4-files/"><u>Transfer Learning Materials From ArtistWorks as High-Quality MP4 Files</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win-1110-driver-fix-ms-bd-update/"><u>Win 11/10 DRIVER Fix: MS BD Update</u></a></li>
+</ul></div>
 

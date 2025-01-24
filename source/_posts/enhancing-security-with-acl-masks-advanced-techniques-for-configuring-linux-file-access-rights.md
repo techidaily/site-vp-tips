@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Security with ACL Masks: Advanced Techniques for Configuring Linux File Access Rights"
-date: 2024-08-31T08:56:13.890Z
-updated: 2024-09-01T08:56:13.890Z
+date: 2025-01-16T17:47:21.497Z
+updated: 2025-01-23T16:32:03.051Z
 tags:
   - desktop
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 * [Effective Permissions](https://location-social.techidaily.com/how-to-change-realme-12-pro-5g-location-on-skout-drfone-by-drfone-virtual-android/)
 * [Default Masks](https://desktop-recording.techidaily.com/new-2024-approved-the-ultimate-list-best-mac-compatible-recorders/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Access Control List (ACL) masks ensure compatibility with programs that aren't ACL-aware, translating ACL entries into POSIX permissions.
@@ -24,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 * When adding new ACL entries, the mask automatically adjusts to reflect the maximum permissions allowed for all named users or groups.
 
  Are you using [Access Control Lists (ACLs)](https://www.howtogeek.com/how-to-use-filesystem-acl-on-linux/) but are confused about the concept of masks? You're not alone. Let's dive into this important concept by taking a look at what they are and how they interact with Linux file system permissions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Are ACL Masks?
 
@@ -68,9 +76,6 @@ getfacl mysupersecretfile.txt`
     
 ![A terminal window showing the setfacl command to add the contractor user with read and write permissions, and getfacl command and its output, particularly the modified mask permissions..](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-16.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
  Now, in addition to the manager (r) ACL entry, we also see the contractor (rw) entry. But why did the mask entry change to read and write?
 
  When we added the contractor user with read and write permissions, it affected the ACL mask because, as I mentioned above, the mask relates to the _maximum_ allowed permissions of ACL users and group entries. Since we added write permissions to the contractor user's ACL entry, the mask also gets the write permission.
@@ -80,9 +85,9 @@ getfacl mysupersecretfile.txt`
  Keep in mind that if you add another user with fewer permissions, for example read-only, they do not inherit the mask permissions—just like the manager user didn't get the write permission when we added the contractor user's ACL entry.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Effective Permissions
 
  We can set the mask entry permissions manually by using the setfacl command. This will allow us to filter any named user and/or group permissions set on the file at the same time, or for existing users' ACL entries of the file, to the lowest common denominator. This is called effective permissions.
@@ -95,14 +100,15 @@ getfacl mysupersecretfile.txt
     
 ![A terminal window showing the setfacl command, modifying the mask, and the getfacl command showing effective permissions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-13.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The comment showing the contractor user's effective permissions lets us know that, even though they were granted read and write permissions, in reality, they only have read permission. Modifying the mask caused this. If we look at the file again with **ls -l**, we'll see the group class permissions (which again is re-purposed to reflect the mask) have changed:
 
         `ls -l mysupersecretfile.txt`
     
 ![A terminal window showing the ls command and its output with new group class permissions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-14.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to add a named user or group ACL entry, but don't want to recalculate the mask, you can use **\-n** alongside setfacl. This will restrict the ACL you're adding to the maximum permissions allowed by the mask (shown by the effective permissions of the entry). This isn't the default, though; keep in mind that the mask isn't a form of [mandatory access control](https://en.wikipedia.org/wiki/Mandatory%5Faccess%5Fcontrol). Let's try that below:
 
@@ -112,12 +118,6 @@ getfacl mysupersecretfile.txt
     
 ![A terminal window showing the setfacl command, adding rwx permissions for the milton user, and getfacl command showing effective permissions of r, due to the use of the -n parameter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-12.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ##  Default Masks
 
  When you're working with ACLs, the concept of default masks is very similar to default ACL entries. For example, when you add a default mask to a directory, all newly created files and subdirectories inside of it will inherit that same mask (as well as the default mask entry). Just use the **\-d** parameter with the setfacl command to apply a default mask:
@@ -131,8 +131,9 @@ getfacl mysupersecretdirectory/mysupersecretsubdirectory/`
 ![A terminal window showing the mkdir, setfacl and getfacl commands to reflect a default mask assignment](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Default masks, and default ACL entries for that matter, are only applicable to directories since they're the only objects that can contain files and/or other directories inside of them to apply these inheritable entries to.
 
 ---
@@ -147,8 +148,6 @@ getfacl mysupersecretdirectory/mysupersecretsubdirectory/`
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +155,26 @@ getfacl mysupersecretdirectory/mysupersecretsubdirectory/`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-art-of-flawless-audio-capture-mic-free/"><u>[New] 2024 Approved The Art of Flawless Audio Capture, Mic-Free</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-calculating-viewing-time-for-a-20mb-video/"><u>[New] Calculating Viewing Time for a 20Mb Video</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-ethics-and-integrity-essential-considerations-for-market-researchers-for-2024/"><u>[New] Ethics and Integrity Essential Considerations for Market Researchers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-how-to-use-zoom-in-your-daily-gmail-routine/"><u>[New] How to Use Zoom in Your Daily Gmail Routine</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-kinemaster-edge-the-ultimate-transition-strategies/"><u>[Updated] 2024 Approved Kinemaster Edge The Ultimate Transition Strategies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unlocking-potential-with-efficient-audio-submission/"><u>[Updated] 2024 Approved Unlocking Potential with Efficient Audio Submission</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-stream-reversal-hacks-an-overview-of-eight-simple-steps-for-2024/"><u>[Updated] Stream Reversal Hacks An Overview of Eight Simple Steps for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unleashing-3d-text-a-photoshop-technique-for-2024/"><u>[Updated] Unleashing 3D Text A Photoshop Technique for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-expert-tips-for-efficient-internet-use-the-7-finest-android-apps/"><u>2024 Approved Expert Tips for Efficient Internet Use The 7 Finest Android Apps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/5-breakthrough-ways-to-preserve-precise-moments-in-vr-games/"><u>5 Breakthrough Ways to Preserve Precise Moments in VR Games</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gimbal-guide-to-enhancing-mirrorless-and-dslr-footage/"><u>Gimbal Guide to Enhancing Mirrorless and DSLR Footage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-legally-access-game-music-without-spending-money-for-2024/"><u>How to Legally Access Game Music Without Spending Money for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ideal-painting-and-design-tools-on-windows-no-cost-or-charge-for-2024/"><u>Ideal Painting & Design Tools on Windows No Cost or Charge for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/perfecting-the-picture-perfect-cover-photo-on-instagrams-highlights/"><u>Perfecting the Picture-Perfect Cover Photo on Instagram's Highlights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/skys-boundaries-broken-by-endurance-drones-top-10-for-2024/"><u>Sky's Boundaries Broken by Endurance Drones (Top 10) for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-realme-c53-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Realme C53 Phone Hassle-Free</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-milestones-of-vegaspros-2019-upgrade-for-2024/"><u>The Milestones of VegasPro's 2019 Upgrade for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-path-to-professional-presence-youtube-tips-and-tricks/"><u>The Path to Professional Presence YouTube Tips & Tricks</u></a></li>
+</ul></div>
 

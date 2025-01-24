@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Basics of Bitcoin's Lightning Network: A Comprehensive Guide"
-date: 2024-08-27 20:38:51
-updated: 2024-08-29 12:32:44
+date: 2025-01-17T16:01:04.703Z
+updated: 2025-01-23T23:10:44.489Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 ---
 
 ## Understanding the Basics of Bitcoin's Lightning Network: A Comprehensive Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -20,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 
 [Bitcoin](https://extra-support.techidaily.com/navigating-through-excellent-hdr-cam-choices-for-2024/) is great for large transactions, but if you are using it to buy a cup of coffee---not so much. Until recently, inefficiencies limited Bitcoin's potential as a financial solution for everyday purchases.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Problem With Bitcoin
 
  In order to maintain the security and transparency on the Bitcoin [blockchain](https://facebook-videos.techidaily.com/updated-2024-approved-top-playlist-hits-social-medias-1-10-video-winners/), the blocks of data that make up the blockchain are quite small. Bitcoin's blocks are only able to hold one megabyte of data. Some of the newer blockchains, like [Solana](https://solana.com/), use block sizes of 10 megabytes. This lack of size slows transaction speeds and as a result, there can be "traffic jams" on the blockchain.
@@ -28,11 +36,19 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
 
  These traffic jams increase the fees that are necessary to add transactions to a block of data. When traffic is high, it is possible to have fees greater than the value of the transaction itself. It is estimated that the Bitcoin blockchain can handle roughly seven transactions per second (TPS.) In comparison, Visa's network can process up to 65,000 TPS for fractions of a penny.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bitcoin's Hope
 
  Fortunately, developers in the crypto community have been aware of this limitation for quite some time. The most compelling solution would be creating a way for transactions to be processed outside of the blockchain on some sort of second layer or "sidechain." Once complete; those transactions would then be added to the main Bitcoin blockchain in one lump sum at a minimal cost for users.
 
  In 2018, a company named [Lightning Labs](https://lightning.engineering/) confronted this challenge by launching the Lightning Network. They were the first to successfully integrate Bitcoin with what is known as a Layer 2 protocol. This innovation allows payments to be tracked on a second layer and then added to the Bitcoin blockchain at a later date. The most critical feature of this second layer is that it has no capacity limits. With less congestion on the network, payments can be sent for less than half of a cent and are near-instantaneous.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Lightning Network
 
@@ -41,6 +57,10 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  Since the channels exist outside the main Bitcoin blockchain, users can send and receive payments without having to pay a large fee or wait for verification on the Bitcoin blockchain. These channels remain open between users until one decides to withdraw Bitcoin. When the transaction is complete, then the payments are recorded as one transaction on the Bitcoin blockchain.
 
  The Lightning Network is an interconnected system that resembles something more like an electric grid with thousands of channels connecting thousands of users. Due to this interconnectedness, the network is able to find the path of least resistance to transfer payments between users, regardless of whether they have an existing channel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  A Real-World Example of Lightning in Action
 
@@ -58,11 +78,25 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-blitz-photo-screening-for-windows-users/"><u>[New] 2024 Approved Blitz Photo Screening for Windows Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-capture-with-clarity-advanced-tips-for-gopro-hero5-black-for-2024/"><u>[New] Capture with Clarity Advanced Tips for GoPro Hero5 Black for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/harting-the-course-to-trending-youtubers/"><u>[New] Charting the Course to Trending YouTubers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/istinctive-digital-monikers-for-video-creators/"><u>[New] Distinctive Digital Monikers for Video Creators</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-photographic-albums-with-soundscape-features/"><u>[Updated] 2024 Approved Photographic Albums with Soundscape Features</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-unlocking-google-chromes-pip-potential-on-all-platforms/"><u>[Updated] In 2024, Unlocking Google Chrome's PIP Potential on All Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elite-editing-experience-ranked-top-6-tools-for-macos-big-surs-videos/"><u>Elite Editing Experience Ranked Top 6 Tools for macOS Big Sur's Videos</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-tips-and-insights-for-successful-spotify-marketing/"><u>In 2024, Tips and Insights for Successful Spotify Marketing</u></a></li>
+</ul></div>
+

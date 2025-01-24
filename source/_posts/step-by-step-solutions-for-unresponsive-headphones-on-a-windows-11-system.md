@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Unresponsive Headphones on a Windows 11 System
-date: 2024-08-26 16:41:48
-updated: 2024-08-29 12:56:25
+date: 2025-01-21T16:43:00.951Z
+updated: 2025-01-23T18:16:13.835Z
 tags:
   - deals
 categories:
@@ -45,11 +45,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Unmuting the volume in Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-unmuting-the-volume-in-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Check for Hardware Issues
 
  If the volume isn't muted, ensure your headphones aren't faulty. To check that, simply unplug your headphones from your device and plug them into another computer or your smartphone. If your headphones also don't work on other devices, they're probably faulty. So, either have them inspected by a technician or replace them.
 
  However, if your headphones work fine elsewhere, the issue is device-specific. So, keep applying the remaining fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. Rule Out Bluetooth Interference (for Bluetooth Headphones)
 
@@ -65,6 +73,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  If your headphones don't work in any application or throughout the operating system, then the issue is more widespread.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Set Your Headphones as the Default Output Device
 
  Ensure your headphones are [set as the default audio output device](https://youtube-stream.techidaily.com/learn-the-process-of-capturing-your-watched-youtube-content-without-spending-for-2024/) in your sound settings, especially if multiple audio output devices are connected to your system.
@@ -76,6 +88,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  In the Sound window, go to the "Playback" tab. If a different device is selected as default here, right-click on your headphones and select "Set as Default Device."
 
 ![Selecting the headphones as default in sound settings on windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-selecting-the-headphones-as-default-in-sound-settings-on-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. Disable Exclusive Mode and Audio Enhancements
 
@@ -95,9 +111,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Opening other troubleshooters settings on windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-opening-other-troubleshooters-settings-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, click "Run" next to "Audio," and the Get Help app opens, seeking your permission to diagnose the issue. Click "Yes," and the troubleshooter begins. Allow the scan to complete, and follow the on-screen instructions provided during the diagnosis.
 
 ![Running the audio diagnostic from the get help app on windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-running-the-audio-diagnostic-from-the-get-help-app-on-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Update Your Audio Drivers
 
@@ -106,6 +130,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  For drivers requiring manual installation, use Device Manager. Right-click on the Start button and open "Device Manager." In Device Manager, expand the "Sound, video, and game controllers" category, right-click on your audio device, and select "Update driver."
 
 ![Updating the sound driver in Windows Device Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-updating-the-sound-driver-in-windows-device-manager.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Select "Browse my computer for drivers," locate the downloaded files, and follow the on-screen instructions. Repeat these steps to update Bluetooth drivers.
 
@@ -119,11 +147,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-craft-humorous-images-on-no-cost/"><u>[New] 2024 Approved Craft Humorous Images on No-Cost</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-elevate-your-photos-with-effective-blurs/"><u>[New] Elevate Your Photos with Effective Blurs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-accelerate-vimeo-videos-the-guide/"><u>[New] In 2024, Accelerate Vimeo Videos The Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-jumpstart-to-understanding-av1-codecs/"><u>[New] In 2024, Jumpstart to Understanding AV1 Codecs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-share-tiktok-videos-to-facebook-in-quick-easy-steps-for-2024/"><u>[New] Share TikTok Videos to Facebook in Quick Easy Steps for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-ranking-of-photo-editors-on-iphones-and-androids-for-2024/"><u>[New] The Ultimate Ranking of Photo Editors on iPhones & Androids for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-high-quality-power-units-for-gopro-hero5-genuine-sources-and-copycats/"><u>[Updated] 2024 Approved High-Quality Power Units for GoPro Hero5 Genuine Sources & Copycats</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-enhancing-remote-communication-with-effective-skype-screen-sharing/"><u>[Updated] Enhancing Remote Communication with Effective Skype Screen Sharing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-pixelpie-cutter/"><u>2024 Approved PixelPie Cutter</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/contrasting-the-giants-in-depth-analysis-of-iphone-15-pro-max-versus-samsung-galaxy-s24-ultra/"><u>Contrasting the Giants: In-Depth Analysis of iPhone 15 Pro Max Versus Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dall-e-3-unveils-updated-editing-tools-are-they-fully-functional-yet/"><u>DALL-E 3 Unveils Updated Editing Tools – Are They Fully Functional Yet?</u></a></li>
+<li><a href="https://win-bits.techidaily.com/effortless-access-to-windows-11-with-a-microsoft-365-business-profile-a-comprehensive-guide-for-enhanced-security-and-syncing-why-you-need-it-zdnet/"><u>Effortless Access to Windows 11 with a Microsoft 365 Business Profile - A Comprehensive Guide for Enhanced Security and Syncing (Why You Need It) | ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Honor X50i | Dr.fone</u></a></li>
+</ul></div>
+

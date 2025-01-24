@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Instructions: How to Project Your Laptop's Screen Onto Your TV"
-date: 2024-08-31T08:55:33.609Z
-updated: 2024-09-01T08:55:33.609Z
+date: 2025-01-22T20:27:44.154Z
+updated: 2025-01-23T23:01:21.925Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
 ---
 
 ## Step-by-Step Instructions: How to Project Your Laptop's Screen Onto Your TV
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,18 +31,12 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
 
  Don't settle for the small screen, connect your laptop to a TV and enjoy movies, games, and more on the big screen. You could even use a space TV as a secondary monitor for watching YouTube while you work. Here are some tips to get you started.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Connecting a Laptop to a TV With a Cable
 
  The most common connection type to connect a modern laptop to a TV is HDMI, a digital standard that carries both video and audio. The older HDMI 2.0b standard has enough bandwidth for 4K resolutions at 60Hz (with HDR signals), while newer HDMI 2.1 or better devices can do [4K at 120Hz or 8K at 60Hz](https://screen-mirror.techidaily.com/apple-iphone-12-pro-screen-mirroring-you-must-know-drfone-by-drfone-ios/) (and more).
 
 ![Monoprice 8K HDMI 2.1 Cable](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/52680878155_d49b4e2633_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  Most new TVs are restricted to HDMI as an input method since dropping support for analog connections used in older devices like VCRs and early home consoles. Fortunately, this type of output is common, with many laptops having a [full-sized HDMI output or a smaller Micro HDMI port instead](https://buynow-info.techidaily.com/a-guide-to-shopping-for-ideal-laptops-at-these-6-best-stores/).
@@ -46,6 +44,10 @@ Hannah Stryker / How-To Geek
  You can use a [Micro HDMI to HDMI adapter](https://www.amazon.com/Adapter-JSAUX-Compatible-Raspberry-Camera-Grey/dp/B09LYPXPH6/?tag=hotoge-20&ascsubtag=UUhtgUeUpU204290&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F835554%2Fhow-to-connect-a-laptop-to-a-tv%2F&asc%5Fcampaign=Evergreen) or a cable that features both [HDMI and Micro HDMI](https://www.amazon.com/AmazonBasics-Flexible-Micro-Cable-6-Foot/dp/B07KSDB25X/?tag=hotoge-20&ascsubtag=UUhtgUeUpU204290&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F835554%2Fhow-to-connect-a-laptop-to-a-tv%2F&asc%5Fcampaign=Evergreen) connection types to bridge the gap between these devices.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/41gegy33q2l-_sl500_.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Amazon Basics Micro HDMI to HDMI Cable
 
@@ -55,9 +57,6 @@ This cable will let you connect devices with Micro HDMI ports to displays with a
 
 ![Uni USB-C to HDMI Cable](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/uni-usb-c-to-hdmi-cable.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 #####  Uni USB-C to HDMI Cable
 
 $13 $20 Save $7 
@@ -79,8 +78,9 @@ Corbin Davenport / How-To Geek
 ![41bnaolyIfL._SL500_](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/41bnaolyifl-_sl500_.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Multiport USB-C Hub
 
 #####  USB-C Multiport Adapter with VGA
@@ -101,20 +101,18 @@ Add VGA and a ton of other ports to your MacBook with this USB-C multiport adapt
 
 ![Use the "Detect" button to detect external displays in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-04-at-14-26-52.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
  On a Mac, you can do the same under System Settings > Displays. Click on your TV as it appears in the menu, then choose a resolution, refresh rate, rotation, and toggle HDR mode if available. You can choose between mirroring your internal Mac display (if you have one) or as an "Extended display" to add another output.
 
 ![Configure an external display using macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-04-at-14-20-23.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can reposition your displays by clicking "Arrange" and dragging them into place.
 
 ![Arrange your displays using the "Arrange" option in macOS Displays settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-04-at-14-22-30.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Connecting a Laptop to a TV Wirelessly
 
  Wireless connections are more convenient because they don't require cables, but they can provide an unstable experience at times. Bandwidth is limited over wireless connections, so image and playback quality may suffer. Interference from nearby devices can also affect these connections.
@@ -132,8 +130,9 @@ Add VGA and a ton of other ports to your MacBook with this USB-C multiport adapt
 ![Cast from Chrome to a Google device.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-04-at-14-33-28.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Another option is to use [Intel's WiDi or the open standard Miracast](https://visual-screen-recording.techidaily.com/updated-in-2024-ultimate-guide-to-the-leading-9-video-call-and-collaboration-tools-android-ios/). Support depends on which TV you have. Some models connect by adding the TV as a Bluetooth device (as per [Samsung](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Fanswer%2FANS00062585%2F) or [Sony](https://www.sony.com/electronics/support/articles/00135865)).
 
  Microsoft has its own [instructions](https://support.microsoft.com/en-au/windows/connect-your-windows-pc-to-an-external-display-that-supports-miracast-765f5cfc-6ef3-fba7-98da-c8267b001a5a#ID0EDD=Windows%5F11) for connecting to Miracast devices with Windows 10 and 11\. The instructions involve using the "Cast" option that appears under the Network icon in the taskbar.
@@ -148,11 +147,16 @@ Add VGA and a ton of other ports to your MacBook with this USB-C multiport adapt
 
 ![Elmedia Player casting to an LG CX.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-04-at-14-40-11.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Set up and configure your "server" to share specific folders, then access them on your TV over the network (often appearing in the "Input" list). Most TVs with Wi-Fi from the last 15 years or so will support this streaming method.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Drawbacks to Using a TV With Your Laptop
 
  TVs have the benefit of size when compared with most monitors. They're great for watching movies and playing games, and they're ideal if you're going to be sitting a fair distance away. If you've got a spare TV you want to put to use, plugging in your laptop and watching YouTube or [running a few emulators](https://screen-recording.techidaily.com/new-how-to-blur-the-video-background-in-a-microsoft-teams-meeting-in-2024/) is a great idea.
@@ -163,10 +167,6 @@ Add VGA and a ton of other ports to your MacBook with this USB-C multiport adapt
 
 ![Closeup of LED screen texture](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/closeup-pixels-screen.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 [BrightRainbow/Shutterstock.com](https://www.shutterstock.com/image-vector/led-screen-texture-lcd-monitor-pixel-1891905940)
 
  There's also the issue of size, with many TVs requiring bigger stands that take up loads of desk space. Unless you can wall mount, a large monitor ([like an ultrawide](https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-nokia-130-music-drfone-by-drfone-virtual-android/)) might be a better choice.
@@ -185,8 +185,6 @@ Add VGA and a ton of other ports to your MacBook with this USB-C multiport adapt
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +192,22 @@ Add VGA and a ton of other ports to your MacBook with this USB-C multiport adapt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-achieve-flawless-imagery-how-to-remove-backgrounds-on-canva/"><u>[New] In 2024, Achieve Flawless Imagery How to Remove Backgrounds on Canva</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-everything-you-need-to-know-about-the-firefox-picture-in-picture-mode/"><u>[Updated] 2024 Approved Everything You Need to Know About the Firefox Picture-in-Picture Mode</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-harmonizing-highlights-how-to-add-soundtracks-to-powerpoint/"><u>[Updated] 2024 Approved Harmonizing Highlights How to Add Soundtracks to PowerPoint</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-seamlessly-blend-music-with-visuals-in-premiere-pro-for-2024/"><u>[Updated] Seamlessly Blend Music with Visuals in Premiere Pro for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-social-media-strategists-guide-top-10-ig-video-editing-apps-for-2024/"><u>[Updated] Social Media Strategists' Guide Top 10 IG Video Editing Apps for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-chromes-full-potential-with-pip-across-devices/"><u>[Updated] Unlock Chrome's Full Potential with PIP Across Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-smart-picklist-top-value-free-livestream-software-and-apps-reviewed-this-year/"><u>2024 Approved Smart Picklist Top Value Free Livestream Software & Apps Reviewed This Year</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-unveiling-the-full-potential-of-video-storage-in-modern-hardware-64128gb/"><u>2024 Approved Unveiling the Full Potential of Video Storage in Modern Hardware (64/128GB)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-the-best-in-gadgets-dell-screen-noise-canceling-headset-and-high-definition-camera/"><u>Experience the Best in Gadgets: Dell Screen, Noise-Canceling Headset, and High-Definition Camera</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-beneath-the-surface-assessing-huawei-p10-writability-features/"><u>In 2024, Beneath the Surface Assessing Huawei P10' Writability Features</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/leading-audio-processors-for-cutting-the-clutter-of-unwanted-echoes/"><u>Leading Audio Processors for Cutting the Clutter of Unwanted Echoes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-easy-driver-update-process-for-your-thrustmaster-t150-gamepad/"><u>Quick & Easy Driver Update Process for Your ThrustMaster T150 Gamepad</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/superior-commercial-cloud-vaulting/"><u>Superior Commercial Cloud Vaulting</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/video-editing-mystery-imovies-automatic-cropping-puzzle-for-2024/"><u>Video Editing Mystery IMovie's Automatic Cropping Puzzle for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/yl-software-premium-korean-style-purple-background-graphics-and-hd-wallpapers-for-inspiration/"><u>YL Software: Premium Korean-Style Purple Background Graphics and HD Wallpapers for Inspiration</u></a></li>
+</ul></div>
 

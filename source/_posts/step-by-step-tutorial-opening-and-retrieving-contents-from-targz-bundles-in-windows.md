@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Opening and Retrieving Contents From tar.gz Bundles in Windows"
-date: 2024-08-27 18:34:33
-updated: 2024-08-29 12:24:24
+date: 2025-01-16T19:52:18.660Z
+updated: 2025-01-24T01:41:22.050Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/b60c1fc9251ee88631c28dd2623940b69aaa41245
 ---
 
 ## Step-by-Step Tutorial: Opening and Retrieving Contents From tar.gz Bundles in Windows
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -22,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/b60c1fc9251ee88631c28dd2623940b69aaa41245
  To open or extract a tar.gz file on Windows, you can install the free 7-Zip File Manager utility, or you can use the tar -xvf command from the Bash prompt included in the Windows Subsystem for Linux.
 
  Windows, by default, has no idea what a TAR.GZ file could possibly be, despite the format being quite common. Thankfully it isn't hard to get Windows to open a tar.gz file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What is a Tar.gz File?
 
@@ -41,9 +49,17 @@ thumbnail: https://thmb.techidaily.com/b60c1fc9251ee88631c28dd2623940b69aaa41245
 
 ![7-zip file manager select](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/Snag_410fc9d.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you've selected the right file, you'll see "7-Zip File Manager" show up in the select app dialog. If you want 7-Zip to always handle tar.gz files in the future, you're going to want to select the "Always" button at the bottom of the dialog.
 
 ![open tar.gz with 7-zip](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/Snag_411f46a.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you've done this successfully, you'll notice that the icon for tar.gz files will change to a 7-Zip icon.
 
@@ -60,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/b60c1fc9251ee88631c28dd2623940b69aaa41245
 | |  File Types |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Extension     | [DAT](https://ios-unlock.techidaily.com/passfab-apple-iphone-6s-backup-unlocker-top-4-alternatives-by-drfone-ios/) **·** [7Z](https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-11-pro-by-drfone-ios/) **·** [BZ2](https://youtube-help.techidaily.com/2024-approved-how-to-overcome-no-image-problem-in-youtube-shorts/) **·** [XML](https://some-guidance.techidaily.com/updated-the-foremost-audiovideo-makers-online-guidebook/) **·** [RTF](https://some-approaches.techidaily.com/updated-transforming-creativity-into-a-sustainable-livelihood/) **·** [XLSX](https://ai-vdieo-software.techidaily.com/updated-beyond-quik-exploring-the-best-pc-video-editing-software-for-gopro-users/) **·** [WEBP](https://tech-revival.techidaily.com/protect-your-information-unveiling-the-9-deceptive-chatgpt-apps-pretending-to-be-viruses-and-malware/) **·** [EPUB](https://instagram-video-recordings.techidaily.com/new-instagram-video-to-mp3-everything-you-need-to-know/) **·** [MP4](https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-techniques-for-youtube-video-production-with-sony-vegas/) **·** [M4A](https://eaxpv-info.techidaily.com/new-gastronomy-gurus-essential-chefs-to-subscribe-to-for-2024/) **·** [AVI](https://buynow-marvelous.techidaily.com/unveiling-the-iphone-13-detailed-reviews-and-comparisons-with-rivals/) **·** [MOBI](https://youtube-blog.techidaily.com/24-chuckle-chest-selecting-15-hilarious-video-treasures-for-your-viewing-pleasure/) **·** [SVG](https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-nokia-g22-drfone-by-drfone-virtual-android/) **·** [MP3](https://instagram-video-recordings.techidaily.com/updated-in-2024-turning-insta-vids-into-music-your-complete-guide/) **·** [REG](https://tech-revival.techidaily.com/diagnosing-and-resolving-interface-issues-chatgpts-trouble-with-plugin-connectivity/) **·** [PHP](https://screen-mirror.techidaily.com/how-to-display-apple-iphone-6-screen-on-pc-easily-drfone-by-drfone-ios/) **·** [LOG](https://facebook-record-videos.techidaily.com/updated-10-must-try-microphones-for-exceptional-asmr-sounds-for-2024/) **·** [PPTX](https://some-techniques.techidaily.com/in-2024-free-high-quality-the-best-srt-translation-tools-ranked/) **·** [PDF](https://extra-support.techidaily.com/new-obs-vs-wirecast-which-should-you-trust-for-live/) **·** [MPEG](https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-7-gps-not-working-issue-drfone-by-drfone-virtual-ios/) **·** [WMA](https://fox-links.techidaily.com/in-2024-revolutionize-how-you-interact-with-tech-best-mac-tts-programs-reviewed/) **·** [M4V](https://vp-tips.techidaily.com/new-the-ultimate-video-camera-compendium-year-for-2024/) **·** [AZW](https://youtube-zero.techidaily.com/ed-elevate-your-videos-visibility-with-perfect-thumbnail-sizing-for-2024/) **·** [LIT](https://instagram-video-recordings.techidaily.com/updated-2024-approved-tall-screen-editing-made-easy-using-fcpx-on-instagram/) **·** [TAR](https://some-techniques.techidaily.com/2024-approved-from-grayscale-to-glamour-professional-color-adjustment/) **·** [TAR.GZ](https://win-howtos.techidaily.com/step-by-step-solution-for-the-download-timed-out-problem/) **·** [RAR](https://on-screen-recording.techidaily.com/leveraging-snap-functions-boosting-virtual-interaction-during-meets-for-2024/) |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Extract or Unzip tar.gz Files Using Bash on Windows 10 or 11
 
@@ -85,11 +105,28 @@ tar -xzf tarfile
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-the-ultimate-guide-to-vimeo-gif-conversion-magic/"><u>[New] 2024 Approved The Ultimate Guide to Vimeo-Gif Conversion Magic</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-chime-into-chats-whatsapp-status-soundtracks/"><u>[New] In 2024, Chime Into Chats WhatsApp Status Soundtracks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-cutting-edge-third-place-ipad-audio-capture-apps/"><u>[New] In 2024, Cutting-Edge Third-Place iPad Audio Capture Apps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-mastering-picart-a-guide-to-clear-backgrounds/"><u>[New] In 2024, Mastering PicArt A Guide to Clear Backgrounds</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-quick-transition-from-original-pictures-to-standout-youtube-thumbnails/"><u>[Updated] 2024 Approved Quick Transition From Original Pictures To Standout YouTube Thumbnails</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-is-your-channels-income-regular-via-youtube/"><u>[Updated] Is Your Channel's Income Regular via YouTube?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-lgs-monitor-marvel-an-exhaustive-look-at-ultra-clear-technology/"><u>[Updated] LG's Monitor Marvel An Exhaustive Look at Ultra-Clear Technology</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-optimal-assistance-premier-tone-designers-for-iphones/"><u>[Updated] Optimal Assistance Premier Tone Designers for iPhones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unveiling-the-secrets-to-blurring-iphone-photos-a-comprehensive-guide/"><u>[Updated] Unveiling the Secrets to Blurring iPhone Photos A Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-techniques-to-write-persuasive-videographic-dialogues/"><u>2024 Approved Techniques to Write Persuasive Videographic Dialogues</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/childs-play-in-the-sky-top-kid-friendly-drones-list-for-2024/"><u>Child's Play in the Sky Top Kid-Friendly Drones List for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimal-focus-techniques-for-videoleap-users/"><u>Optimal Focus Techniques for Videoleap Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/tutorial-smoothly-embedding-urls-on-instagram-feed/"><u>Tutorial Smoothly Embedding URLs on Instagram Feed</u></a></li>
+<li><a href="https://discover-able.techidaily.com/unveiling-the-latest-update-pioneer-deckadance-sb2-evolves-to-dex-3-and-red-mobile-3-compatibility/"><u>Unveiling the Latest Update: Pioneer Deckadance SB2 Evolves to DEX 3 & Red Mobile 3 Compatibility!</u></a></li>
+</ul></div>
+

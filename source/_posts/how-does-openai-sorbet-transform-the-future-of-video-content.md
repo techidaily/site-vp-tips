@@ -1,7 +1,7 @@
 ---
 title: How Does OpenAI Sorbet Transform the Future of Video Content?
-date: 2024-08-28 15:55:25
-updated: 2024-08-29 12:16:33
+date: 2025-01-21T19:40:34.804Z
+updated: 2025-01-23T16:58:23.900Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## How Does OpenAI Sorbet Transform the Future of Video Content?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * OpenAI Sora creates highly realistic video clips from text prompts, showcasing a major advancement in AI technology.
@@ -19,15 +23,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The speed of AI development is heading towards a point beyond human comprehension, and OpenAI's Sora text-to-video system is just the latest AI tech to shock the world into realizing things are happening sooner than anyone expected.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is OpenAI Sora?
 
  Like other generative AI tools such as [DALL-E](https://some-skills.techidaily.com/tailored-titling-for-stellar-online-video-content-for-2024/)[and MidJourney](https://screen-activity-recording.techidaily.com/new-the-complete-user-manual-how-to-use-screen-recording-on-mac-for-2024/), Sora takes text prompts from you and converts them into a visual medium. However, unlike those aforementioned AI image generators, Sora creates a video clip complete with motion, different camera angles, direction, and everything else you'd expect from a traditionally-produced video.
 
 ![AI-generated iamge of a young man at his 20s is sitting on a piece of cloud in the sky, reading a book.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot-2024-02-22-at-13-00-27.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Looking at the examples on the [Sora website](https://openai.com/sora), the results are more often than not indistinguishable from real, professionally-produced video. Everything from high-end drone footage to multi-million dollar movie productions. Complete with AI-generated actors, special effects,the works.
 
 ![AI-generated imagte of a drone view of waves crashing against the rugged cliffs along Big Sur’s garay point beach.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot-2024-02-22-at-12-59-55.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sora is of course not the first technology to do this. Until now, the most visible leader in this area was [RunwayML](https://runwayml.com/), who do offer their services to the public for a fee. However, even under the best circumstances, Runway's videos are more akin to the [early generations of MidJourney still images](https://instagram-clips.techidaily.com/2024-approved-visual-storytelling-on-social-media-crafting-an-effective-plan/). There's no stability in the image, the physics doesn't make sense, and as I write this, the longest clip length is 16 seconds.
 
@@ -36,6 +52,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  It can't be overstated what an enormous leap Sora represents from nightmarish AI video footage from just a year prior to the Sora demo. Such as the quite-disturbing [AI Will Smith eating spaghetti](https://www.youtube.com/watch?v=XQr4Xklqzw8). I think this is an even bigger shock to the system than when AI image generators went from a running joke to [giving visual artists existential dread](https://extra-hints.techidaily.com/best-practices-for-converting-webp-to-jpg-format-for-2024/).
 
  Sora is likely to impact the entire video industry from one-person stock footage makers all the way up to the level of Disney and Marvel mega-budget projects. Nothing will be untouched by this. I think this is especially true since Sora doesn't have to create things whole-cloth, but can work on existing material, such as animating a still you've provided. This might be the true start of the [synthetic movie industry](https://facebook-clips.techidaily.com/new-how-to-prevent-and-mend-live-stream-glitches-fb/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Does Sora Work?
 
@@ -71,11 +91,33 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/53499823-new-2024-approved-youtube-subscriber-awards-the-play-button-awards-for-creators/"><u>[New] 2024 Approved YouTube Subscriber Awards! The Play Button Awards for Creators</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-dji-drone-comparison-basic-flight-premium-experience-4k-cinematic-for-2024/"><u>[New] DJI Drone Comparison Basic Flight, Premium Experience, 4K Cinematic for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-future-sighted-the-foremost-cameras-excellence/"><u>[New] Future Sighted The Foremost Cameras Excellence</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-13-key-tactics-for-enhanced-visibility-in-facebook-videography/"><u>[New] In 2024, 13 Key Tactics for Enhanced Visibility in Facebook Videography</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-iphone-x-photography-leveraging-latest-features/"><u>[New] In 2024, IPhone X Photography Leveraging Latest Features</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-premium-top-15-high-res-recording-devices/"><u>[New] Premium Top 15 High-Res Recording Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transformative-techniques-applying-luts-for-dynamic-effects-in-after-effects/"><u>[New] Transformative Techniques Applying LUTs for Dynamic Effects in After Effects</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-understanding-srt-in-depth-with-this-guidebook/"><u>[New] Understanding SRT in Depth with This Guidebook</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-transform-your-webcam-footage-edit-and-export-tips/"><u>[Updated] 2024 Approved Transform Your WebCam Footage Edit & Export Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-cutting-edge-image-vault-websites/"><u>[Updated] Cutting-Edge Image Vault Websites</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-from-novice-to-pro-a-guide-for-building-cool-metaverse-content/"><u>[Updated] From Novice to Pro A Guide for Building Cool Metaverse Content</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-glimpses-identifying-who-sees-your-pics/"><u>[Updated] Instagram Glimpses Identifying Who Sees Your Pics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-revolutionizing-fun-vr-applications-unveiled-for-2024/"><u>[Updated] Revolutionizing Fun VR Applications Unveiled for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-step-into-success-beginners-guide-to-hosting-tech-product-discussions-online-for-2024/"><u>[Updated] Step-Into Success Beginner’s Guide to Hosting Tech Product Discussions Online for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-craft-cinematic-edits-with-ease-and-precision-in-camtasia-9/"><u>2024 Approved Craft Cinematic Edits with Ease and Precision in Camtasia 9</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-repair-image-id-0x80780119-on-windows-os/"><u>How To Repair Image ID: 0X80780119 on Windows OS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/monitor-who-has-checked-out-your-google-documents-easily/"><u>Monitor Who Has Checked Out Your Google Documents Easily</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-strategy-guide-to-digital-video-enhancement/"><u>The Ultimate Strategy Guide to Digital Video Enhancement</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-productivity-with-lenovos-newly-released-ai-thinkpad-series-the-perfect-choice-for-business-users-zdnet/"><u>Unleash Productivity with Lenovo's Newly Released AI ThinkPad Series – The Perfect Choice for Business Users | ZDNet</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Transforming Your Boring Windows Terminal Into an Eye-Catching Command Center
-date: 2024-08-28 20:42:24
-updated: 2024-08-29 11:12:46
+date: 2025-01-21T16:05:46.298Z
+updated: 2025-01-23T23:32:44.493Z
 tags:
   - desktop
 categories:
@@ -33,6 +33,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Opening Windows Terminal settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-terminal-settings.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From here on, we'll tweak different settings to change the look and feel of the Windows Terminal.
 
 ###  Title bar
@@ -51,6 +55,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Windows Terminal Application Theme](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-terminal-application-theme.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The "Color Schemes" menu contains many more themes, or you can even create your own color scheme.
 
 ![Windows Terminal color schemes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-terminal-color-schemes.png) 
@@ -62,6 +70,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Adding a new color scheme to the Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/adding-a-new-color-scheme-to-the-windows-terminal.png) 
 
 ![New color scheme added to the Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/add-new-color-scheme-to-the-windows-terminal.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![New color scheme in the Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-color-scheme-in-the-windows-terminal.png) 
 
@@ -86,6 +98,10 @@ Close
  Save the file and exit the JSON file. Go back to the "Color Schemes" menu, and you should see the newly added theme in the list. Set it as default to use it. Press the "Save" button to save your changes. To see the new theme in action, restart the Windows Terminal.
 
 ![Dark Solarized Patched color scheme on the Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/dark-solarized-patched-color-scheme-on-the-windows-terminal.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Fonts
 
@@ -113,6 +129,10 @@ Close
 
 ![Windows Terminal with an image background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-terminal-with-an-image-background.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Using Oh My Posh to Beautify the Windows Terminal
 
  Oh My Posh is a custom prompt theme engine for shells, including CMD and PowerShell. It allows you to set colorful and meaningful themes on the Terminal prompt.
@@ -124,6 +144,10 @@ Close
 winget install JanDeDobbeleer.OhMyPosh -s winget
 
 ![Installing Oh My Posh on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/installing-oh-my-posh-on-windows.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After the installation, restart the Terminal to reload [the PATH](https://android-frp.techidaily.com/in-2024-the-complete-guide-to-meizu-frp-bypass-everything-you-need-to-know-by-drfone-android/). To confirm the installation, run:
 
@@ -150,6 +174,10 @@ oh-my-posh font install meslo
  After that, set it as default in the settings.json file by adding the font name in the font face section under profiles. Save the file.
 
 ![Settings a default font in the Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/settings-a-defaul-font-in-the-windows-terminal.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now let's try an Oh My Posh theme. Open PowerShell and run:
 
@@ -193,6 +221,10 @@ oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/atomic.omp.json" | Invoke-E
 
 ![Changing the theme in Oh My Posh](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/changing-the-theme-in-oh-my-posh.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to switch to another theme, just replace "atomic" with your theme name in the above script.
 
  If you see an error about Get-PSReadLineKeyHandler, run **Install-Module PsReadLine -Force** as administrator first.
@@ -200,6 +232,10 @@ oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/atomic.omp.json" | Invoke-E
  Once again, to make the change stay permanently, open the PowerShell profile file, remove the line you wrote previously and add the above line.
 
 ![Configuring Oh My Posh theme for PowerShell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/configuring-oh-my-posh-theme-for-powershell.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then reload your profile with this command:
 
@@ -227,6 +263,10 @@ Import-Module -Name Terminal-Icons
 
 ![A customized Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/customized-windows-terminal-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A Beautiful Windows Terminal at Your Service
 
  By now, you should have a cool looking Terminal on your Windows computer. With some creativity, you can make it more flashy. If you'd like to read more on what you can do with Oh My Posh, check the [official documentation](https://ohmyposh.dev/docs).
@@ -237,11 +277,29 @@ Import-Module -Name Terminal-Icons
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-capturing-your-device-a-comprehensive-screen-recording-guide/"><u>[New] 2024 Approved Capturing Your Device A Comprehensive Screen Recording Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-prime-applications-transforming-vtuber-voices-on-the-fly/"><u>[New] 2024 Approved Prime Applications Transforming VTuber Voices on the Fly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-affordable-gopro-purchase-guide-tips-and-tricks/"><u>[Updated] 2024 Approved Affordable GoPro Purchase Guide Tips & Tricks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-prime-listening-windows-episode-releases-for-2024/"><u>[Updated] Prime Listening Windows Episode Releases for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-video-amounts-stored-64-vs-128gb-comparison/"><u>[Updated] Video Amounts Stored 64 vs 128GB Comparison</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-ultimate-screen-showdown-top-6-hdmi-21-monitors-reviewed/"><u>2024 Approved The Ultimate Screen Showdown Top 6 HDMI 2.1 Monitors Reviewed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-installation-unsuccessful/"><u>Driver Installation Unsuccessful</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/expert-iphone-videography-strategies-to-elevate-your-work-top-8-for-2024/"><u>Expert iPhone Videography Strategies to Elevate Your Work (Top 8) for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/forging-a-future-in-artistic-expression-and-commerce/"><u>Forging a Future in Artistic Expression and Commerce</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y78-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y78 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-a-step-by-step-framework-for-engaging-fb-giving-campaigns/"><u>In 2024, A Step-by-Step Framework for Engaging FB Giving Campaigns</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-tecno-camon-20-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Tecno Camon 20 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-motorola-g54-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Motorola G54 5G</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-handbook-to-metaverse-promotion/"><u>The Ultimate Handbook to Metaverse Promotion</u></a></li>
+</ul></div>
+

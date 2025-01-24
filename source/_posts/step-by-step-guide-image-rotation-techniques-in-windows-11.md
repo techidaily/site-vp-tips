@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Image Rotation Techniques in Windows 11"
-date: 2024-08-28 15:58:18
-updated: 2024-08-29 10:48:46
+date: 2025-01-18T23:45:16.544Z
+updated: 2025-01-24T00:54:09.979Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/7e92efb572f341d595fdf51653eb900bed0a3b4c4
 ---
 
 ## Step-by-Step Guide: Image Rotation Techniques in Windows 11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -45,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/7e92efb572f341d595fdf51653eb900bed0a3b4c4
 
 ![Open With > Photos highlighted in a photo's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-open-photo-with-photos.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In Photos, from the top toolbar, select Edit Image (the first icon). Alternatively, press Ctrl+E.
 
 ![Edit Image highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-photos-edit-image.jpg) 
@@ -67,15 +75,27 @@ thumbnail: https://thmb.techidaily.com/7e92efb572f341d595fdf51653eb900bed0a3b4c4
 
  And that’s all.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Using the Paint App
 
  Paint allows you to rotate images 90 degrees as well as 180 degrees. To use it, launch File Explorer and find your image. Right-click the image and select Open With > Paint.
 
 ![Open With > Paint highlighted in a picture's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-open-photo-with-paint.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In Paint, from the Image section at the top, select Rotate (a right-arrow icon).
 
 ![Rotate highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-paint-rotate-option.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  From the displayed options, choose how you want to rotate the image. Your options are: "Rotate Right 90°," "Rotate Left 90°," and "Rotate 180°."
 
@@ -101,11 +121,23 @@ thumbnail: https://thmb.techidaily.com/7e92efb572f341d595fdf51653eb900bed0a3b4c4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-audioscapes-excellent-microphone-list/"><u>[Updated] Audioscape’s Excellent Microphone List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-conquering-interviews-a-compreayers-journey-to-success-for-2024/"><u>[Updated] Conquering Interviews A Compreayer's Journey to Success for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-memetic-delight-offering-comic-artistry-for-free/"><u>[Updated] Memetic Delight Offering Comic Artistry for Free</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-modern-vr-equipment-overview/"><u>2024 Approved Modern VR Equipment Overview</u></a></li>
+<li><a href="https://article-helps.techidaily.com/comprehensive-directors-manual-powerdirector-24/"><u>Comprehensive Directors' Manual - PowerDirector '24</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tial-techniques-for-youtube-end-screen-designs-for-2024/"><u>Essential Techniques for YouTube End Screen Designs for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/majestic-visual-chronicles-composer-suite-for-2024/"><u>Majestic Visual Chronicles Composer Suite for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/xbox-one-no-signal-problem-heres-how-you-can-resolve-it-easily/"><u>Xbox One No Signal Problem? Here’s How You Can Resolve It Easily</u></a></li>
+</ul></div>
+

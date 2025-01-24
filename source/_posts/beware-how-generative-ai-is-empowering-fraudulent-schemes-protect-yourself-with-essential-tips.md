@@ -1,7 +1,7 @@
 ---
 title: "Beware: How Generative AI Is Empowering Fraudulent Schemes - Protect Yourself with Essential Tips"
-date: 2024-08-27 23:54:49
-updated: 2024-08-29 10:10:13
+date: 2025-01-18T22:56:17.081Z
+updated: 2025-01-23T16:24:43.432Z
 tags:
   - cutting-edge
 categories:
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/878d220757d7d14313871f9b10cde72f7c661f389
 * As AI technology improves, it will be harder to distinguish real content from fakes; always research before purchasing online.
 
  The term “scam” applies to everything from a sophisticated targeted attack to a dodgy pre-roll ad on your favorite video streaming site. The bad news is that engineering these scams is getting easier.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Democratization of Fake Images
 
@@ -56,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/878d220757d7d14313871f9b10cde72f7c661f389
 
  For now, it’s not too hard to identify AI-generated voiceover. Inflections and pronunciation can sound a bit robotic, and the natural rhythm of human speech isn’t quite there. Buckle up, because these tools are only going to improve and eventually you won’t be able to tell the difference.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Dating App Scammers Cast Wider Nets
 
  It’s one thing being baited with fake products and a robotic voiceover, but what about a scam that personally targets you? That’s exactly what’s happening within the online dating space on a massive scale, thanks to the power of large language models that can converse like real people (well, close enough).
@@ -66,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/878d220757d7d14313871f9b10cde72f7c661f389
 
 ![Microsoft Copilot generating an image specifically for use on a dating profile.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-09-at-13-22-23.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Things take a decidedly more sinister turn when these tools are used to find targets for financial scams. Online scammers have long exploited the basic human desire for companionship in a bid to extract money from their marks. Now they can put chatbots to work for them, taking over when they feel it’s necessary.
 
  Couple this with an AI image generator that gives you access to as many original pretty faces as you want, and scammers don’t even need to steal someone else’s dating profile pictures anymore.
@@ -75,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/878d220757d7d14313871f9b10cde72f7c661f389
  Convincing text-to-video isn’t broadly available at the time of writing, but with [tools like OpenAI SORA on the horizon](https://some-guidance.techidaily.com/unveiling-the-art-of-cinematography-basic-shots-explained-for-2024/) it’s set to become a force to be reckoned with. With only a prompt, OpenAI’s tool can generate realistic-looking moving pictures (though if you [look carefully you can spot the flaws](https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-apple-iphone-8-in-3-ways-drfone-by-drfone-virtual-ios/)).
 
 ![OpenAI SORA Tokyo night scene example video.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/open_ai_sora_featured.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 OpenAI
 
@@ -98,6 +114,10 @@ OpenAI
 
 ![An image created by DALL-E of a man with way too many fingers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/designer-4.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 DALL-E
 
  Always do your research before you buy something, whether it’s a piece of technology or a packet of seeds you saw on Facebook. Ironically, you could also ask [your favorite chatbot that sources its claims](https://vp-tips.techidaily.com/updated-unveiling-the-1-to-5-of-windows-free-screen-capture-apps-for-2024/).
@@ -108,11 +128,25 @@ DALL-E
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-perfect-your-video-a-comprehensive-guide-to-ideal-thumbnail-heights/"><u>[New] 2024 Approved Perfect Your Video A Comprehensive Guide to Ideal Thumbnail Heights</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-in-the-fast-lane-capturing-games-on-galaxy-devices/"><u>[New] In 2024, In the Fast Lane Capturing Games on Galaxy Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-top-15-free-web-based-image-enhancers-2023/"><u>[Updated] In 2024, Top 15 Free Web-Based Image Enhancers 2023</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unveiling-the-most-effective-internet-tools-for-caption-perfection-for-2024/"><u>[Updated] Unveiling the Most Effective Internet Tools for Caption Perfection for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-transformative-zooms-for-snapchat-photos-and-videos/"><u>2024 Approved Transformative Zooms for Snapchat Photos & Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/harness-the-potential-of-gratuitous-timer-tools-for-2024/"><u>Harness the Potential of Gratuitous Timer Tools for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-fraudgpt-work-and-what-are-the-risks-securing-against-cyber-threats/"><u>How Does FraudGPT Work and What Are the Risks? Securing Against Cyber Threats</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-asus-rog-phone-8-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Asus ROG Phone 8 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-a38frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo A38FRP Lock</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-media-importer-strategies-in-windows-10-for-2024/"><u>Mastering Media Importer Strategies in Windows 10 for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721465627296-unlock-access-to-icloud-settings-on-your-device-top-4-fixes/"><u>Unlock Access to iCloud Settings on Your Device: Top 4 Fixes</u></a></li>
+</ul></div>
+

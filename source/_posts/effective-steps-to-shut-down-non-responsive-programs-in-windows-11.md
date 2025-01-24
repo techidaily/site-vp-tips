@@ -1,7 +1,7 @@
 ---
 title: Effective Steps to Shut Down Non-Responsive Programs in Windows 11
-date: 2024-08-31T08:56:11.217Z
-updated: 2024-09-01T08:56:11.217Z
+date: 2025-01-22T22:54:21.591Z
+updated: 2025-01-23T22:38:02.705Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Effective Steps to Shut Down Non-Responsive Programs in Windows 11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -41,6 +45,10 @@ Hannah Stryker / How-To Geek
 
  If the app remains open, wait a few seconds and press the same hotkey again. Make sure not to keep pressing this key combo, or you’ll end up closing other apps as well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Close a Program From the Windows Taskbar
 
 [Windows 11 offers the option to force-close apps right from the taskbar](https://screen-recording.techidaily.com/2024-approved-expert-tips-for-efficiently-logging-google-online-gatherings/). This option comes disabled by default, but you’re only a few clicks away from turning it on and using it.
@@ -49,16 +57,16 @@ Hannah Stryker / How-To Geek
 
 !['System' and 'For Developers' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/2-for-developers-settings-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the For Developers screen, turn on the "End Task" toggle. You can then close the Settings app.
 
  To remove the End Task option in the future, turn off the "End Task" toggle.
 
 ![The 'End Task' toggle highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/3-enable-end-task-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  On the Windows taskbar, find the unresponsive app, then right-click the app’s icon and choose "End Task."
 
 !['End Task' highlighted for an app on Windows taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/4-close-app-with-end-task-windows-11.jpg) 
@@ -66,8 +74,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Windows will force-close the selected app.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  End a Task with the Task Manager
 
 [Task Manager has long offered options to manage app processes on Windows PCs](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/). You can use this utility to kill an unresponsive app’s process, quitting the app.
@@ -76,25 +85,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 !['Task Manager' highlighted in the Windows taskbar context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5-open-task-manager.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the Task Manager window, from the left sidebar, select the "Processes" tab.
 
 !['Processes' highlighted in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-task-manager-processes-tab.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  On the right pane, find the unresponsive app. Right-click the app and choose "End Task."
 
 !['End Task' highlighted for an app in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/7-end-process-task-manager.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Task Manager will immediately close the selected app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Using Settings
 
  Windows 11’s Settings app also offers the option to terminate unresponsive apps. This requires a few more clicks than the other methods.
@@ -103,9 +111,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 !['Apps' and 'Installed Apps' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/8-installed-apps-windows-11-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Find the unresponsive app on the list. Next to the app, click the three dots and choose "Advanced Options."
 
  If you don’t find Advanced Options for your app, you can’t use this method.
@@ -113,8 +118,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 !['Advanced Options' highlighted for an app in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/9-advanced-app-options-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On the following page, scroll down to the Terminate section. Here, click the "Terminate" button.
 
 !['Terminate' highlighted for an app in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/10-terminate-app-windows-11.jpg) 
@@ -129,9 +135,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/11-open-cmd-as-admin.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
  In the User Account Control prompt, select "Yes."
 
  In Command Prompt, type the following command and press Enter. You’ll see the list of apps running on your PC.
@@ -145,6 +148,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
         `taskkill /im AppName /t /f`
     
 ![The 'taskkill' command typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/13-close-app-cmd.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here’s what each parameter does in the command:
 
@@ -164,9 +171,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 !['Run as Administrator' highlighted for PowerShell in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/14-open-powershell-as-admin.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  In the User Account Control prompt, select "Yes."
 
  On the PowerShell window, type the following cmdlet and press Enter. This cmdlet retrieves a list of the running apps.
@@ -181,9 +185,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
     
 ![The 'Stop-Process' command typed in PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/16-stop-process-command-powershell.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  Here’s what each parameter does in this cmdlet:
 
 * **Stop-Process**: This cmdlet terminates the specified process.
@@ -192,9 +193,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  PowerShell will close the specified app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ##  If Nothing Works, Restart Your PC
 
  If the frozen app remains frozen even after using the above methods, give your Windows 11 PC a restart to close all the running apps on your system.
@@ -203,12 +201,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 !['Startup Apps,' an app, and 'Disable' highlighted in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/17-disable-startup-app-task-manager.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
  Once all of that is done, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/) by opening the Start Menu, selecting the Power icon, and choosing "Restart."
 
 !['Restart' highlighted in the Power menu of the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/18-restart-windows-11-pc.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You won't have the unresponsive app running when your computer turns on.
 
@@ -224,8 +223,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -233,4 +230,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-free-game-music-websites-a-comprehensive-guide/"><u>[New] 2024 Approved Free Game Music Websites – A Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-enabling-creativity-with-free-online-and-offline-animation-methods/"><u>[New] Enabling Creativity with Free Online & Offline Animation Methods</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-chuckling-chronicles-your-essential-meme-tools-list/"><u>[New] In 2024, Chuckling Chronicles Your Essential Meme Tools List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-dissecting-the-moto-z2-a-smart-device-review-for-2024/"><u>[Updated] Dissecting the Moto Z2 A Smart Device Review for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-enhance-your-viewing-with-ease-utilizing-the-pip-mode-on-netflix-for-2024/"><u>[Updated] Enhance Your Viewing with Ease Utilizing the PIP Mode on Netflix for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-newcomers-elite-entryway-list-for-zooids/"><u>[Updated] In 2024, Newcomers’ Elite Entryway List for Zooids</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-tune-your-status-on-whatsapp/"><u>[Updated] In 2024, Tune Your Status on WhatsApp</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-7-video-to-text-converters-for-seamless-content-translation/"><u>[Updated] Top 7 Video-to-Text Converters for Seamless Content Translation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unlocking-studio-secrets-extensive-xvideoreview-for-2024/"><u>[Updated] Unlocking Studio Secrets Extensive XVideoReview for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-introduce-dynamic-blurring-to-pics-in-ps/"><u>2024 Approved Introduce Dynamic Blurring to Pics in PS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/comparative-analysis-the-leading-edge-with-active-for-2024/"><u>Comparative Analysis The Leading Edge with Active for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-motorola-moto-g23-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Motorola Moto G23 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-13-pro-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 13 Pro Lock Screen</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-free-os-compatible-videography-applications-for-2024/"><u>Top 10 Free, OS-Compatible Videography Applications for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-ranked-avcam-video-editor-from-dvd-to-avi-ideal-choice-for-windows-11-users/"><u>Top-Ranked AVCam Video Editor From DVD to AVI: Ideal Choice for Windows 11 Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-fitness-journey-setting-and-reaching-goals-with-chatgpt-guidance/"><u>Transform Your Fitness Journey: Setting and Reaching Goals with ChatGPT Guidance</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/windows-10dvd-mp4-converter-winx-by/"><u>Windows 10に最適！無料でシンプル高速DVD MP4 Converter WinX by 簡単な操作</u></a></li>
+</ul></div>
 

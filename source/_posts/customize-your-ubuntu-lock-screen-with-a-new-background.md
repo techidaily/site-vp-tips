@@ -1,7 +1,7 @@
 ---
 title: Customize Your Ubuntu Lock Screen with a New Background
-date: 2024-08-26 17:22:26
-updated: 2024-08-29 11:49:54
+date: 2025-01-22T20:43:19.219Z
+updated: 2025-01-24T01:20:18.424Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Customize Your Ubuntu Lock Screen with a New Background
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -31,6 +35,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![A context menu displaying different settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, head over to the "Background" section, which shows you a gallery of images. Then, click on any image you would like to apply as the lock screen background.
 
 ![A Gallery of preinstalled available images on Ubuntu desktop settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-1.png) 
@@ -39,7 +47,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Ubuntu Lock screen with blur effect](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After setting the new lock screen image, you will notice that the lock screen image has a default blur effect. We'll show you how to remove this blur later in this tutorial.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Setting a Custom Lock Screen Wallpaper on Ubuntu
 
@@ -51,9 +67,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![A window for selecting a custom image to set it as a background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After uploading your image, you will see it on top of the default available images. Select the new image to set it as the lock screen background.
 
 ![A custom image added to the desktop background gallery](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Your lock screen is now updated with a custom background, albeit still behind a layer of blur.
 
@@ -97,11 +121,31 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-four-k-faceoff-sj6-legend-versus-xiaomis-yi-prototype/"><u>[New] Four-K Faceoff SJ6 Legend Versus Xiaomi's Yi Prototype</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-ultimate-guide-to-adaptive-igtv-video-dimensions/"><u>[New] In 2024, The Ultimate Guide to Adaptive IGTV Video Dimensions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-exploring-magix-pixel-mastery-review/"><u>[Updated] 2024 Approved Exploring MAGIX Pixel Mastery Review</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-essential-free-cloud-services-with-massive-1tb-space-included-for-2024/"><u>[Updated] Essential Free Cloud Services with Massive 1TB Space Included for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-digital-image-manipulation-inserting-text-in-photos-on-windowsmacs/"><u>[Updated] In 2024, Digital Image Manipulation Inserting Text in Photos on Windows/Macs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-screensnap-it-all-high-quality-netflix-on-mac/"><u>2024 Approved ScreenSnap It All High-Quality Netflix on Mac</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-transforming-raw-footage-expert-pc-editing-tips-for-youtube-creators/"><u>2024 Approved Transforming Raw Footage Expert PC Editing Tips for YouTube Creators</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-google-pixel-8-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oneplus-nord-n30-se-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of OnePlus Nord N30 SE?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conquering-the-creative-sector-with-savvy-strategies-for-2024/"><u>Conquering the Creative Sector with Savvy Strategies for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gopro-hero5-pro-vs-gopro-hero4-platinum/"><u>GoPro Hero5 Pro Vs GoPro Hero4 Platinum</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-echoes-and-essence-pairing-sounds-with-images/"><u>In 2024, Echoes & Essence Pairing Sounds with Images</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-imessaging-on-your-windows-computer-a-step-by-step-walkthrough-by-zdnet-experts/"><u>Mastering iMessaging on Your Window's Computer: A Step-by-Step Walkthrough by ZDNet Experts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/prime-6-engagement-realms-critical-for-corporate-networks/"><u>Prime 6 Engagement Realms Critical for Corporate Networks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-cyberpunk-2077-audio-glitches-a-comprehensive-guide/"><u>Solving Cyberpunk 2077 Audio Glitches: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1727792261031-top-rated-tablet-computers-comprehensive-reviews-by-tech-experts/"><u>Top Rated Tablet Computers - Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/your-digital-footprint-the-impact-of-off-facebook-history/"><u>Your Digital Footprint The Impact of Off-Facebook History</u></a></li>
+</ul></div>
+

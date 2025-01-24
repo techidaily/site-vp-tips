@@ -1,7 +1,7 @@
 ---
 title: Discover How to Find and Verify the Java Installed Version in Windows 10
-date: 2024-08-31T08:56:08.222Z
-updated: 2024-09-01T08:56:08.222Z
+date: 2025-01-22T18:07:52.364Z
+updated: 2025-01-23T18:37:25.874Z
 tags:
   - desktop
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Check Your Java Version Graphically](https://article-tips.techidaily.com/2024-approved-taking-photos-and-posting-youtubes-complete-guidebook/)
 * [Check Your Java Version Using the Command Prompt](https://mondly-stories.techidaily.com/unearthing-millennia-old-linguistic-foundations/)
 * [Check Your Java Version Using PowerShell](https://fox-access.techidaily.com/new-in-2024-the-art-of-chromatic-enhancement/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -32,23 +36,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Searching "About Java" in the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-search-about-java.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
  Here, you'll see your current Java version listed in the first line.
 
 ![The Java version window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-java-version.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you don't see About Java in the Start menu, search for "Configure Java" instead and click it. Then click "About" to see your Java version.
 
  If you don't see either the About Java or Configure Java tools, you likely don't have Java installed. You can [download it](https://www.java.com/en/download/) from Oracle's official website.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Check Your Java Version Using the Command Prompt
 
  You can check your Java version from the Command Prompt, too.
@@ -56,6 +59,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To begin, open the Start menu, search for "Command Prompt," then click the "Command Prompt" shortcut in the search results.
 
 ![Search for 'Command Prompt' in the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-search-command-prompt.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When the Command Prompt opens, type the following command at the prompt and press "Enter."
 
@@ -65,15 +72,12 @@ java -version
 
 ![The output of 'java -version' in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-java-version-in-command-prompt.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
  If the Command Prompt says that Java is not recognized as an internal or external command, that's probably because the system variables are not properly set---or perhaps because you don't have Java installed. Reinstall Java on your PC and this should fix the issue for you.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Check Your Java Version Using PowerShell
 
  Checking your Java version in PowerShell is basically the same as Command Prompt. First, open the Start menu and search "powershell," then click the top result to launch PowerShell. 
@@ -84,9 +88,6 @@ java -version
 
 ![5 java version in powershell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-java-version-in-powershell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 Information about Java displayed in PowerShell. 
 
  It is important to note that this only shows you the version of Java you have on your [system PATH](https://android-frp.techidaily.com/in-2024-the-complete-guide-to-meizu-frp-bypass-everything-you-need-to-know-by-drfone-android/). It is possible to have multiple versions of Java installed concurrently, but this command will only display one. 
@@ -101,8 +102,6 @@ Information about Java displayed in PowerShell.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +109,19 @@ Information about Java displayed in PowerShell.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-perfect-pixels-with-pro-android-tips/"><u>[New] Perfect Pixels with Pro Android Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-essential-guide-to-lut-applications-in-photoshop-cs6-for-2024/"><u>[New] The Essential Guide to LUT Applications in Photoshop CS6 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-crafting-a-personalized-auditory-experience-on-ios/"><u>[Updated] In 2024, Crafting a Personalized Auditory Experience on iOS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-premium-mobile-and-desktop-avc-viewer-with-ease/"><u>[Updated] In 2024, Premium Mobile and Desktop AVC Viewer with Ease</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/achieving-visual-precision-with-the-right-4k-display-selection/"><u>Achieving Visual Precision with the Right 4K Display Selection</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/effective-troubleshooting-techniques-for-resolving-incorrect-printouts-expert-tips-from-yl-software-solutions/"><u>Effective Troubleshooting Techniques for Resolving Incorrect Printouts - Expert Tips From YL Software Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevating-workplace-communication-standards-with-ai-assistance/"><u>Elevating Workplace Communication Standards with AI Assistance</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/mastering-the-hunt-review-and-strategies-for-capturing-perilous-creatures-in-monster-hunter-world/"><u>Mastering the Hunt: Review and Strategies for Capturing Perilous Creatures in Monster Hunter: World</u></a></li>
+<li><a href="https://blog-min.techidaily.com/region-free-conversion-guide-transforming-your-r2-dvds-for-windows-and-macos/"><u>Region-Free Conversion Guide: Transforming Your R2 DVDs for Windows & macOS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-setting-up-a-consultation-with-apples-experts/"><u>Step-by-Step Guide: Setting Up a Consultation with Apple's Experts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/where-to-find-high-quality-pixel-ringers-for-2024/"><u>Where to Find High-Quality Pixel Ringers for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding Key Linux Concepts: Dissecting Distro, DE, Repositories, and Additional Vital Elements"
-date: 2024-08-31T08:54:46.536Z
-updated: 2024-09-01T08:54:46.536Z
+date: 2025-01-20T21:20:44.634Z
+updated: 2025-01-23T18:23:22.005Z
 tags:
   - desktop
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846
 ## Understanding Key Linux Concepts: Dissecting Distro, DE, Repositories, and Additional Vital Elements
 
 Are you new to Linux and feeling overwhelmed by all the jargon in the software stores, forums, and tutorials? Fear not, as in this article, I’ll explain essential Linux terminologies so you can confidently take part in Linux discussions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Linux Kernel
 
@@ -24,6 +28,10 @@ Are you new to Linux and feeling overwhelmed by all the jargon in the software s
 ![Checking Linux Kernel version in Ubuntu 22.04 through terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/checking-linux-kernel-version-in-ubuntu-22-04-through-terminal.png) 
 
  While some Linux distributions automatically update the kernel, others may require a manual OS update to access the latest version. As a rule of thumb, if you aren’t running bleeding-edge hardware, you should be fine with the default kernel version and routine updates you receive from your Linux distros.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Linux Distributions (Distros)
 
@@ -47,10 +55,6 @@ Close
 
 ![Ubuntu 23.10 overview feature and virtual desktop switcher-2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ubuntu-23-10-overview-feature-and-virtual-desktop-switcher-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![Garuda Linux Mac-inspired workflow with Appmenu in panel, left-side windows button, and a dock for launching apps.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/garuda-linux-mac-inspired-workflow-with-appmenu-in-panel-left-side-windows-button-and-a-dock-for-launching-apps.png) 
 
 Close 
@@ -60,24 +64,15 @@ Close
 ![Running GTK calculator app on a Qt system - Garuda Linux running KDE Plasma](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/running-gtk-calculator-app-on-a-qt-system-garuda-linux-running-kde-plasma.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
+
 ##  4\. Terminal and Console
 
  In modern Linux computing, a **terminal** or “terminal emulator” refers to the GUI window that creates a [command-line interface (CLI)](https://en.wikipedia.org/wiki/Command-line%5Finterface)for you to enter commands and view the system-generated outputs. For instance, here’s the GNOME terminal that’s accessible on distros running on GNOME:
 
 ![Image of Gnome Terminal running on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/image-of-gnome-terminal-running-on-ubuntu.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In contrast, a **console** or “virtual console” is a special type of terminal you get in minimal GUI-less Linux installations or server environments. This gives you direct access to the shell (a command-line interpreter), offering a straightforward, full-screen CLI experience. Many Linux distros allow you to access the “console” view through dedicated key combinations–either Alt+F1…F5 or Ctrl+Alt+F1…F5.
 
 ![Ubuntu 23.10 Teletypewriter view](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ubuntu-23-10-teletypewriter-view.png) 
@@ -95,8 +90,9 @@ No advertising on the website.
 ![Linux terminal displaying the addition of LibreOffice PPA to Ubuntu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-11.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Only use PPAs from trusted sources (check reviews and ratings) to avoid installing malware on your system.
 
 ##  6\. Package Managers
@@ -115,9 +111,6 @@ Close
 
  Prioritize installing apps in the official repo because they are optimized for your system and take up less space. Use Snaps and Flatpaks when official repo packages are not available.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  7\. Rolling Release and Point Release Model
 
  When looking into different Linux distros, you must have come across the terms “rolling release” and “point release”. This basically refers to how updates are delivered to a distro.
@@ -127,13 +120,15 @@ Close
 ![Manjaro Linux Desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/manjaro-linux-desktop.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Garuda Linux Desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/garuda-linux-desktop.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close 
 
 **Point release distros** release new versions at specific intervals. You don't need to update your system as frequently, which can be convenient for professionals or servers that require stability. These releases, called "upgrades," update many core system files or replace them with newer packages. Examples include Ubuntu, Pop!\_OS, and Linux Mint.
@@ -141,11 +136,16 @@ Close
 ![Ubuntu 23.10 Default desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ubuntu-23-10-default-desktop.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Pop!_OS Linux Desktop view.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pop-_os-linux-desktop-view.png) 
 
 ![Linux Mint Desktop Overview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/linux-mint-desktop-overview.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close 
 
@@ -161,8 +161,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +168,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-secure-and-ethical-methods-for-capturing-chat-calls/"><u>[New] 2024 Approved Secure and Ethical Methods for Capturing Chat Calls</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-from-compression-to-clarity-the-zip-srt-conversion-for-2024/"><u>[New] From Compression to Clarity The ZIP-SRT Conversion for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-mastering-easy-hdr-a-step-by-step-guide-for-2024/"><u>[New] Mastering Easy HDR A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-easy-path-to-engaging-animation-in-your-videos/"><u>[New] The Easy Path to Engaging Animation in Your Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-landscape-of-augmented-reality-stickers-spotlight-on-google/"><u>[New] The Landscape of Augmented Reality Stickers Spotlight on Google</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-advanced-3d-viewing-on-your-android-device-for-2024/"><u>[Updated] Advanced 3D Viewing on Your Android Device for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-enhance-cinematic-vision-using-ae-luts-effectively-for-2024/"><u>[Updated] Enhance Cinematic Vision Using AE LUTs Effectively for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-examining-storage-space-for-bulk-movie-files-64128gb/"><u>[Updated] Examining Storage Space for Bulk Movie Files, 64/128Gb</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flawless-free-download-of-youtube-video-covers-no-hurdles-for-2024/"><u>[Updated] Flawless Free Download of YouTube Video Covers - No Hurdles for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-the-metaverse-humor-scene-with-our-top-meme-ideas/"><u>[Updated] Master the Metaverse Humor Scene with Our Top Meme Ideas</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-10-cutting-edge-fitness-apps-of-2024-that-will-revolutionize-how-you-train/"><u>Discover 10 Cutting-Edge Fitness Apps of 2024 That Will Revolutionize How You Train</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elevate-your-podcasts-with-top-10-ai-name-generators/"><u>Elevate Your Podcasts with Top 10 AI Name Generators</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-top-10-memetic-artistry-codes/"><u>In 2024, Top 10 Memetic Artistry Codes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solutions-for-when-your-apple-watch-touchscreen-fails-to-respond/"><u>Solutions for When Your Apple Watch Touchscreen Fails to Respond</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ecret-to-skyrocketing-revenue-crafting-engaging-video-trailers-for-2024/"><u>The Secret to Skyrocketing Revenue Crafting Engaging Video Trailers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-notch-drones-for-professionals-our-curated-list/"><u>Top-Notch Drones for Professionals – Our Curated List</u></a></li>
+</ul></div>
 

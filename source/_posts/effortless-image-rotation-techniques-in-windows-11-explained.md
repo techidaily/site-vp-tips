@@ -1,7 +1,7 @@
 ---
 title: Effortless Image Rotation Techniques in Windows 11 Explained
-date: 2024-08-31T08:55:05.190Z
-updated: 2024-09-01T08:55:05.190Z
+date: 2025-01-21T18:31:36.170Z
+updated: 2025-01-24T00:05:13.106Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Effortless Image Rotation Techniques in Windows 11 Explained
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,9 +29,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Whether you want to fix your image’s orientation or you think a photo will look better if it’s rotated a specific way, it’s quick and easy to rotate pictures on Windows 11\. We'll show you how to do that with your PC’s built-in apps.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  From File Explorer
 
  The quickest way to rotate an image to the left or the right is by using File Explorer. You can use this utility to rotate multiple pictures at once as well.
@@ -40,9 +41,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  If you make a mistake rotating the image, right-click the image again and choose the opposite rotation option. This will bring the image back to its default orientation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ##  Rotate a Photo With the Photos App
 
  Like File Explorer, Windows 11’s Photos app lets you rotate images 90 degrees clockwise or counterclockwise.
@@ -55,11 +53,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Edit Image highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-photos-edit-image.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You’re now ready to edit the image.
 
  To rotate the image 90 degrees clockwise, in the bottom-left corner, click the icon that has an arrow going right. To rotate the image 90 degrees counterclockwise, click the arrow going left.
 
 ![Image rotation options highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-photos-rotate-picture.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Feel free to click the rotation option multiple times until the desired result is achieved.
 
@@ -72,29 +78,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Image save options highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-photos-save-image.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  And that’s all.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Using the Paint App
 
  Paint allows you to rotate images 90 degrees as well as 180 degrees. To use it, launch File Explorer and find your image. Right-click the image and select Open With > Paint.
 
 ![Open With > Paint highlighted in a picture's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-open-photo-with-paint.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In Paint, from the Image section at the top, select Rotate (a right-arrow icon).
 
 ![Rotate highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-paint-rotate-option.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  From the displayed options, choose how you want to rotate the image. Your options are: "Rotate Right 90°," "Rotate Left 90°," and "Rotate 180°."
 
 ![Photo rotation options highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-rotate-photo-paint.jpg) 
@@ -119,8 +121,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +128,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-vlc-challenge-against-mx-player/"><u>[New] 2024 Approved VLC Challenge Against MX Player</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-dji-phantom-4-complete-review/"><u>[New] In 2024, DJI Phantom 4 Complete Review</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-invisible-scrutiny-unlocking-ig-selfie-verification-secrets/"><u>[New] In 2024, The Invisible Scrutiny Unlocking IG Selfie Verification Secrets</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-maximizing-memory-retention-through-mac-based-audio-recordings-for-2024/"><u>[New] Maximizing Memory Retention Through Mac-Based Audio Recordings for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-primary-footage-document-critique-with-asides/"><u>[New] Primary Footage Document Critique with Asides</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-pinnacle-of-voice-recording-a-comprehensive-tome/"><u>[New] The Pinnacle of Voice Recording A Comprehensive Tome</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-top-10-cinematic-luts-for-video-editing/"><u>[New] Top 10 Cinematic Luts for Video Editing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-essential-online-locations-for-promoting-youtube-content/"><u>[Updated] Essential Online Locations for Promoting YouTube Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-efficiently-cut-out-distractions-in-your-iphone-photography/"><u>[Updated] In 2024, Efficiently Cut Out Distractions in Your iPhone Photography</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unlocking-the-full-potential-of-iphones-hdr-capabilities/"><u>[Updated] In 2024, Unlocking the Full Potential of iPhone's HDR Capabilities</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhancing-engagement-with-dynamic-text-on-instagram-for-2024/"><u>Enhancing Engagement with Dynamic Text on Instagram for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-concept-to-application-understanding-ai-transfers/"><u>From Concept to Application: Understanding AI Transfers</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-google-pixel-fold-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Google Pixel Fold? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-beak-beat-boatwrights/"><u>In 2024, Beak Beat Boatwrights</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ng-heads-visual-techniques-to-engage-audiences-for-2024/"><u>Talking Heads Visual Techniques to Engage Audiences for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-veritable-value-of-voice-podcasters-earnings-analysis-for-2024/"><u>The Veritable Value of Voice Podcasters’ Earnings Analysis for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-rated-windows-screen-capture-applications-ideal-for-any-os-windows-10-8-7/"><u>Top Rated Window's Screen Capture Applications: Ideal for Any OS (Windows 10, 8, 7)</u></a></li>
+</ul></div>
 

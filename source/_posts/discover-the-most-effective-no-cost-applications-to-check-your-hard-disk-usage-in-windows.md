@@ -1,7 +1,7 @@
 ---
 title: Discover the Most Effective No-Cost Applications to Check Your Hard Disk Usage in Windows
-date: 2024-08-28 23:11:44
-updated: 2024-08-29 12:55:10
+date: 2025-01-18T17:32:11.862Z
+updated: 2025-01-24T01:01:57.807Z
 tags:
   - deals
 categories:
@@ -36,9 +36,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  It is available as both an installer and a portable application, which is handy if you want to load it onto a USB drive to carry with you for those troubleshooting house calls.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  WinDirStat is a Great Classic Option
 
 ![WinDirStat represents files and folders as colorful rectangles.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/img_593eec9ed2237.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [WinDirStat](https://windirstat.net/) is a strong contender for the best storage space analysis software. Its interface allows you to see exactly what's using space on your hard drive at a glance. When you launch WinDirStat, you can tell it to scan all local drives, a single drive like your C: drive, or a specific folder on your computer.
 
@@ -54,6 +62,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![SpaceSniffer is similar to WinDirStat, but has a less colorful interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/img_593eef597d3a6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Try [SpaceSniffer](https://www.fosshub.com/SpaceSniffer.html) if you're looking for something different. SpaceSniffer doesn't have the directory list included in WinDirStat. It's just a graphical view that displays folders and the files in them by relative size, like the bottom treemap view in WinDirStat's interface.
 
  However, unlike WinDirStat's treemap, you can double-click folders in this interface to drill down graphically. So, if you have a bunch of files taking up space in your "C:\\Users\\Name\\Videos" directory, you could double-click each directory in turn to drill down and eventually right-click a file or folder to access options like Delete and Open.
@@ -63,6 +75,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  WinDirStat seems more practical, but SpaceSniffer does have the best graphical view. If you don't care about the directory list, SpaceSniffer is the tool for you. It runs as a portable application, too.
 
  SpaceSniffer might have issues scanning certain folders unless you [run it as administrator](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  TreeSize Free Has a Slick Interface
 
@@ -75,6 +91,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  While there are paid TreeSize Personal and TreeSize Professional applications, these just add bonus features like the ability to search for duplicate files, [which other tools do just fine](https://tech-revival.techidaily.com/mastering-chatgpt-integration-seamless-functionality-with-google-sheets-docs-and-more/). You can scan and visualize your disk space using the free version of TreeSize with no problem.
 
  This application is also available as a portable application, so you don't have to install it before running it, if you prefer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Windows' Built-In Storage Usage Tool
 
@@ -98,11 +118,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-zenith-zephyrs-elite-notebooks-for-uhd-content-creation/"><u>[New] In 2024, Zenith Zephyrs Elite Notebooks for UHD Content Creation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mastering-screen-capture-a-compreenas-android-guide/"><u>[Updated] 2024 Approved Mastering Screen Capture A Compreenas Android Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-perfect-your-iphone-videographyphoto-expertise-with-add-ons/"><u>[Updated] 2024 Approved Perfect Your iPhone Videography/Photo Expertise With Add-Ons</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-visual-dynamics-of-aspect-ratios-in-online-video-content/"><u>[Updated] The Visual Dynamics of ASPECT RATIOS in Online Video Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/flickvista-app-performance-index/"><u>FlickVista App Performance Index</u></a></li>
+<li><a href="https://win11.techidaily.com/hacking-detection-guide-for-windows-users/"><u>Hacking Detection Guide for Windows Users</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-superior-streaming-made-simple-enabling-av1-in-youtube/"><u>In 2024, Superior Streaming Made Simple Enabling AV1 in YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/er-hidden-youtube-discussions-for-2024/"><u>Uncover Hidden YouTube Discussions for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unleash-potential-transforming-vhs-photos-through-technology-for-2024/"><u>Unleash Potential Transforming VHS Photos Through Technology for 2024</u></a></li>
+</ul></div>
+

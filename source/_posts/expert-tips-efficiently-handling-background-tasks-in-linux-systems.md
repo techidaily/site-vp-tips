@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Efficiently Handling Background Tasks in Linux Systems"
-date: 2024-08-31T08:54:26.195Z
-updated: 2024-09-01T08:54:26.195Z
+date: 2025-01-19T01:50:56.488Z
+updated: 2025-01-24T02:26:44.499Z
 tags:
   - desktop
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 
  Use the Bash shell in Linux to manage foreground and background processes. You can use Bash's job control functions and signals to give you more flexibility in how you run commands. We show you how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  All About Processes
 
  Whenever a program is executed in a Linux or Unix-like operating system, a process is started. "Process" is the name for the internal representation of the executing program in the computer's memory. There is a process for every active program. In fact, there is a process for nearly everything that is running on your computer. That includes the components of your [graphical desktop environment](https://en.wikipedia.org/wiki/Desktop%5Fenvironment) (GDE) such as [GNOME](https://www.gnome.org/) or [KDE](https://kde.org/), and system [daemons](https://en.wikipedia.org/wiki/Daemon%5F%28computing%29) that are launched at start-up.
@@ -39,9 +43,6 @@ ping www.howtogeek.com
 
 ![ping www.howtogeek.com in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/1-10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  We get the expected results, scrolling down the terminal window. We can't do anything else in the terminal window while ping is running. To terminate the command hit Ctrl+C.
 
 Ctrl+C
@@ -49,8 +50,9 @@ Ctrl+C
 ![ping trace output in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/2-9.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The visible effect of the Ctrl+C is highlighted in the screenshot. ping gives a short summary and then stops.
 
  Let's repeat that. But this time we'll hit Ctrl+Z instead of Ctrl+C. The task won't be terminated. It will become a background task. We get control of the terminal window returned to us.
@@ -73,10 +75,6 @@ ps T
 
 ![jobs command in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/4-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  The jobs command tells us:
 
 * \[1\]: The number in square brackets is the job number. We can use this to refer to the job when we need to control it with job control commands.
@@ -116,6 +114,10 @@ The ultimate burning program for all your needs!</a>
 
  The ps T command has a state of R, which stands for running. The + indicates that this process is a member of the foreground group. So the ps T command is running in the foreground.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The bg Command
 
  The bg command is used to resume a background process. It can be used with or without a job number. If you use it without a job number the default job is brought to the foreground. The process still runs in the background. You cannot send any input to it.
@@ -130,12 +132,13 @@ bg
 
 ![resumed ping background process with output in a terminal widow](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/6-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  But we have a problem. The task is running in the background and won't accept input. So how do we stop it? Ctrl+C doesn't do anything. We can see it when we type it but the background task doesn't receive those keystrokes so it keeps pinging merrily away.
 
 ![Background task ignoring Ctrl+C in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/7-5.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In fact, we're now in a strange blended mode. We can type in the terminal window but what we type is quickly swept away by the scrolling output from the ping command. Anything we type takes effect in the foregound.
 
@@ -158,11 +161,13 @@ Ctrl+C
 ![Ctrl+C stopping the ping command in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/9-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  We Need to Send the Right Signals
 
  That wasn't exactly pretty. Evidently running a process in the background works best when the process doesn't produce output and doesn't require input.
@@ -187,9 +192,6 @@ Ctrl+C
 
  We must use the kill command to issue signals that do not have key combinations assigned to them.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Further Job Control
 
  A process moved into the background by using Ctrl+Z is placed in the stopped state. We have to use the bg command to start it running again. To launch a program as a running background process is simple. Append an ampersand & to the end of the command line.
@@ -200,9 +202,6 @@ Ctrl+C
 
 ![while true; do echo "How-To Geek Loop Process"; sleep 3; done & in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/10-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  We are told the job number and process ID id of the process. Our job number is 1, and the process id is 1979\. We can use these identifiers to control the process.
 
  The output from our endless loop starts to appear in the terminal window. As before, we can use the command line but any commands we issue are interspersed with the output from the loop process.
@@ -221,12 +220,13 @@ kill %1
 
 ![jobs and kill %1 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/12-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  kill sends the SIGTERM signal, signal number 15, to the process and it is terminated. When the Enter key is next pressed, a status of the job is shown. It lists the process as "terminated." If the process does not respond to the kill command you can take it up a notch. Use kill with SIGKILL , signal number 9\. Just put the number 9 between the kill command the job number.
 
 kill 9 %1
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Things We've Covered
 
@@ -252,8 +252,6 @@ kill 9 %1
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -261,4 +259,23 @@ kill 9 %1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-elevate-your-watchlist-experience-with-youtubes-av1-settings/"><u>[New] Elevate Your Watchlist Experience with YouTube's AV1 Settings</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-deciphering-hdr-mastery-through-luminance-testing/"><u>[New] In 2024, Deciphering HDR Mastery Through Luminance Testing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-samsung-galaxy-s8-4k-smartphone-review/"><u>[New] Samsung Galaxy S8 4K Smartphone Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-behind-the-scenes-to-the-best-free-meme-designs/"><u>[Updated] 2024 Approved Behind-The-Scenes to the Best FREE Meme Designs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-exploring-dynamic-range-in-photos-auto-hdr-and-smart-hdr-modules/"><u>[Updated] 2024 Approved Exploring Dynamic Range in Photos Auto HDR and Smart HDR Modules</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-bare-bones-budget-friendly-best-5-windows-10-recording-apps/"><u>[Updated] Bare-Bones, Budget-Friendly Best 5 Windows 10 Recording Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-elevating-your-craft-top-camera-optics-for-professional-videos/"><u>[Updated] In 2024, Elevating Your Craft Top Camera Optics for Professional Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-navigating-social-networking-videos-your-ultimate-guide-for-appletv-users/"><u>2024 Approved Navigating Social Networking Videos Your Ultimate Guide for AppleTV Users</u></a></li>
+<li><a href="https://win11.techidaily.com/1719366357478-6-ultimate-methods-to-end-stuck-windows-updates-now/"><u>6 Ultimate Methods to End Stuck Windows Updates Now</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elevate-your-sedan-with-these-essential-accessories-for-sj4000-for-2024/"><u>Elevate Your Sedan with These Essential Accessories for SJ4000 for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-mastering-background-removal-in-images-using-canva/"><u>In 2024, Mastering Background Removal in Images Using Canva</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-definitive-ranking-of-11-top-audio-capture-gadgets/"><u>In 2024, The Definitive Ranking of 11 Top Audio Capture Gadgets</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-motorola-edgeplus-does-it-measure-up-to-premier-phones/"><u>In-Depth Look at Motorola Edge+ - Does It Measure Up to Premier Phones?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/podcast-versus-visual-media-which-suits-your-content-best/"><u>Podcast versus Visual Media Which Suits Your Content Best?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-s-top-rated-free-music-recording-programs-a-comprehensive-guide/"><u>Updated In 2024, S Top-Rated Free Music Recording Programs A Comprehensive Guide</u></a></li>
+</ul></div>
 

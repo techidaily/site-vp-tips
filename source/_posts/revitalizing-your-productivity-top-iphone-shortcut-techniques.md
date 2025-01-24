@@ -1,7 +1,7 @@
 ---
 title: "Revitalizing Your Productivity: Top iPhone Shortcut Techniques"
-date: 2024-08-31T08:53:39.394Z
-updated: 2024-09-01T08:53:39.394Z
+date: 2025-01-16T20:14:26.967Z
+updated: 2025-01-23T16:53:00.678Z
 tags:
   - mobile
 categories:
@@ -35,13 +35,14 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
 ![The "Add to Home Screen" option in Shortcuts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/page_13.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now that you know [how to use Shortcuts](https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12-5g-devices-drfone-by-drfone-virtual/), here's how you can use the app to save your unproductive days.
 
  You can add the shortcuts mentioned below if you're reading this article on an iPhone, iPad, or Mac using the included links. We've also included instructions for finding them in the Shortcuts gallery.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Going Into Work Mode
 
  Setting goals and sticking to them can seem like the end of the world when you wake up feeling lazy. And if you have had one of these days while having to work on something important (especially from home), you desperately need a dose of motivation.
@@ -52,23 +53,14 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
 ![Plan 3 Main Tasks in Shortcuts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/page_1-15.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  But productivity is also not a sprint. "[Break Timer](https://www.icloud.com/shortcuts/18f1d71871ca4530a389ab5c7540634d)" shortcut is my go-to when I need to plan and space out my breaks and prevent burnout. If you tend to get in too deep when you work, a break timer is how you can reset. You can find this icon under "Morning Routine" from the Shortcuts gallery.
 
  When you trigger this shortcut, you will be prompted to choose why you're taking a break. Choose if you want Do Not Disturb on for the break. If you choose "No", then your timer will sound after the break is complete.
 
 ![Break Timer in Shortcuts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/page_5-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
  Honorable mentions for work-related shortcuts include "[Start My Next Meeting](https://www.icloud.com/shortcuts/4bb3717f0c8645708dbd2424e68924ad)" plus "[How Many Days Until](https://www.icloud.com/shortcuts/fceeb63e141a487c90fd947bab22ea5d)" and "[Create Meeting Note](https://www.icloud.com/shortcuts/17f708d05efe463faf6bf1e1de5dd248)."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Keeping Track of What I Drink
 
  Logging my water intake is critical, and Shortcuts lets me do that in a few simple taps.
@@ -77,11 +69,23 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
 ![Log Water in Shortcuts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/page_17.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Configure this shortcut in the app to change how you want your water intake to be measured.
 
 ![Log Water in Shortcuts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_9946.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another hydration-related shortcut is "[Log Caffeine](https://www.icloud.com/shortcuts/6d04d2498fb54440bac9e122a2d03fbd)," which lets you log what type of coffee you have, and which size. "[Tea Timer](https://www.icloud.com/shortcuts/503898ba627c401f989b292f96244173)" is also a fun one, letting you choose from a menu of teas including black, green, and oolong, then chimes your phone when your tea break is over.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Getting My Workout In
 
@@ -96,8 +100,9 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 ![The drop-down menu button in Shortcuts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/page_8-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you want a productive end to a productive day, you can use Shortcuts as your iPhone mood journal. Music-related Shortcuts, like "[Play Playlist](https://www.icloud.com/shortcuts/dce8f98a3c2545bd933d53098199b707)" come in handy here, but I like to use "[Mood Journal](https://www.icloud.com/shortcuts/9f659ca7026f421384e1564500ca5e4e)" to record my thoughts by typing them out or recording mini-voice notes (which this action does through Speech Recognition).
 
  If you're in the mood for a mental break that requires minimal effort, "[Reflect on the Day](https://www.icloud.com/shortcuts/8c2033ae48714eaca23899d995a754df)" prompts you to select how you have been feeling (with emojis) and gives you space to answer quick questions about your mood. Your notes are saved as a review in the Notes app.
@@ -112,9 +117,6 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
 ![Add Action in a shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/page_35.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, you can click on variables and change them. By clicking on the drop-down menu, you can rename the action, choose a different icon, or duplicate it. Learning how to properly use Shortcuts will help you get the most out of it.
 
 ---
@@ -129,8 +131,6 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +138,24 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-optimal-series-prime-webcam-support-accessories/"><u>[New] 2024 Approved Optimal Series Prime Webcam Support Accessories</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-secrets-of-successful-twitch-stream-capturing/"><u>[New] 2024 Approved Secrets of Successful Twitch Stream Capturing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-30plus-futuristic-metaverse-musings-arvr-for-2024/"><u>[New] 30+ Futuristic Metaverse Musings [AR/VR] for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-best-15-video-cameras-to-elevate-your-vlogging-game/"><u>[New] Best 15 Video Cameras to Elevate Your Vlogging Game</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-quick-tips-screen-capture-on-ipad-pro/"><u>[New] Quick Tips Screen Capture on iPad Pro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-enhance-your-iphone-images-with-kinetic-motion-blur/"><u>[Updated] In 2024, Enhance Your iPhone Images With Kinetic Motion Blur</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-essentials-for-embracing-quantum-hdr/"><u>[Updated] In 2024, Essentials for Embracing Quantum HDR</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-sound-on-call-sensor-iphone-24-tech/"><u>[Updated] Sound-on-Call Sensor IPhone '24 Tech</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-capturing-sound-in-windows-11-explained/"><u>2024 Approved Capturing Sound in Windows 11 Explained</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-experience-unchained-reviewing-the-panasonic-hx-a1/"><u>2024 Approved Experience Unchained Reviewing the Panasonic HX-A1</u></a></li>
+<li><a href="https://win-able.techidaily.com/cant-find-doom-eternal-release-date-discover-how-to-access-it-now/"><u>Can't Find DOOM Eternal Release Date? Discover How To Access It Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/computer-boot-but-black-screen-issue-explained-and-fixed/"><u>Computer Boot but Black Screen Issue Explained & Fixed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/early-bird-special-on-amazon-prime-bargain-bonanza-or-just-hot-air/"><u>Early Bird Special on Amazon Prime: Bargain Bonanza or Just Hot Air?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/from-newbie-to-zoom-whiz-in-no-time-for-2024/"><u>From Newbie to Zoom Whiz in No Time for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-time-for-a-new-apple-watch-battery-discover-surprising-facts-about-its-life-span/"><u>Is It Time for a New Apple Watch Battery? Discover Surprising Facts About Its Life Span</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/join-forces-for-movie-night-easy-steps-to-collaborate-and-stream-netflix-simultaneously/"><u>Join Forces for Movie Night: Easy Steps to Collaborate and Stream Netflix Simultaneously</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-guide-on-distributing-your-samsung-image-collection-to-others/"><u>Simple Guide on Distributing Your Samsung Image Collection to Others</u></a></li>
+</ul></div>
 

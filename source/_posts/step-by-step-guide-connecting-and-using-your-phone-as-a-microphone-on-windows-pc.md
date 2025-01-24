@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Connecting and Using Your Phone as a Microphone on Windows PC"
-date: 2024-08-31T08:55:29.405Z
-updated: 2024-09-01T08:55:29.405Z
+date: 2025-01-23T02:13:17.998Z
+updated: 2025-01-23T21:43:18.839Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/1a198795a8e787f87495ff53728e7afa23ff18e9e
 ---
 
 ## Step-by-Step Guide: Connecting and Using Your Phone as a Microphone on Windows PC
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,8 +32,9 @@ thumbnail: https://thmb.techidaily.com/1a198795a8e787f87495ff53728e7afa23ff18e9e
  Don't have a high-quality microphone? Want to use your Android phone as an audio input device for your computer? While Windows doesn't offer a native feature for this, you can use a third-party app, WO Mic. Here's how to transform your Android phone into a mic for your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Download WO Mic on Your Phone and Computer
 
  To begin, download the WO Mic app on your phone and computer. Go to the [official WO Mic website](https://wolicheng.com/womic/download.html) on your PC, download the setup file for Windows, and complete the installation. The app automatically handles the download of necessary drivers, eliminating the need for manual installation.
@@ -37,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/1a198795a8e787f87495ff53728e7afa23ff18e9e
  If you haven't installed the VC runtime redistributable before, you may need to download and install it now. So, go to the [Microsoft website](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170), and download the compatible version.
 
 ![Downloading the VC Runtime Redist. package from Microsoft Website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/downloading-the-vc-runtime-redist-package-from-microsoft-website.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Make sure to complete this step before proceeding. Otherwise, you will encounter DLL errors.
 
@@ -56,16 +65,10 @@ thumbnail: https://thmb.techidaily.com/1a198795a8e787f87495ff53728e7afa23ff18e9e
 
 ![Selecting the Wi-Fi from transport options in the WO Mic Android app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-1-selecting-the-wi-fi-from-transport-options-in-the-wo-mic-android-app-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Return to the app's homepage, tap on the play button in the top-right corner, and you should now see an IP address displayed on the app's homepage.
 
 ![Tapping on the play button to start the Wi-Fi connection in the WO Mic Android app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-2-tapping-on-the-play-button-to-start-the-wi-fi-connection-in-the-wo-mic-android-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  WO Mic automatically detects that you are connecting via Wi-Fi on your iPhone. Tap on "Start" at the bottom, and you should see an IP address displayed at the top.
 
 ![IP Address of iPhone in the WO Mic iOS app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-1-ip-address-of-iphone-in-the-wo-mic-ios-app.jpg) 
@@ -91,8 +94,13 @@ thumbnail: https://thmb.techidaily.com/1a198795a8e787f87495ff53728e7afa23ff18e9e
 ![Disconnecting a microphone connection from the WO Mic desktop app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-disconnecting-a-microphone-connection-from-the-wo-mic-desktop-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use Your Phone as a Microphone Via Bluetooth (Android)
 
  If Wi-Fi is unavailable, you can use Bluetooth to turn your Android phone into a microphone for your computer. Start by [turning on the Bluetooth on your Windows 11 device](https://video-screen-grab.techidaily.com/updated-creative-filmmaking-on-a-budget-using-smartphones-as-webcams-for-2024/) (or [Windows 10](https://instagram-video-files.techidaily.com/updated-in-2024-maximizing-marketing-the-best-highlight-techniques-for-brands/)) and [Android phone](https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-oppo-find-x6-by-drfone-android/) to make them visible to other devices. Then, establish a Bluetooth connection between your Android device and your Windows laptop.
@@ -102,16 +110,13 @@ thumbnail: https://thmb.techidaily.com/1a198795a8e787f87495ff53728e7afa23ff18e9e
 ![Selecting a device to pair via Bluetooth in Android settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-3-selecting-a-device-to-pair-via-bluetooth-in-android-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then, a notification will appear on both your Android phone and the Windows laptop. Tap on it, select "Pair" on your Android phone, and "Yes" on your Windows computer. This will establish a Bluetooth connection between your phone and computer.
 
 ![Notification asking permission to pair your Windows device with an Android phone via Bluetooth.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-notification-asking-permission-to-pair-your-windows-device-with-an-android-phone-via-bluetooth.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  After connecting your Android device to your Windows laptop, open the WO Mic app on your phone. Tap on the three vertical dots in the top-right corner and select "Settings." Within the Settings menu, tap "Transport" and select "Bluetooth" from the available choices.
 
  Then, open the WO Mic app on your computer. Click on the "Connection" tab and select "Connect" From the available Transport Type options, select "Bluetooth." Then, pick your Android device from the menu under Target Bluetooth Device and click "Connect."
@@ -119,13 +124,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Selecting the bluetooth device in the WO Mic desktop app to connect Android to a PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-selecting-the-bluetooth-device-in-the-wo-mic-desktop-app-to-connect-android-to-a-pc.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  That's it! Record any audio on your PC using your Android phone's microphone!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ##  Use Your Phone as a Microphone Via Wi-Fi Direct (Android)
 
  To use your Android phone as a microphone via Wi-Fi Direct, you first need to [configure and activate the Wi-Fi hotspot](https://article-posts.techidaily.com/a-filmmakers-approach-to-classroom-instructional-videos-for-2024/) and connect your laptop to it.
@@ -138,13 +141,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Selecting the Wi-Fi Direct option from the transport options in the WO Mic Android app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-5-selecting-the-wi-fi-direct-option-from-the-transport-options-in-the-wo-mic-android-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, on your desktop, open the WO Mic app, navigate to Connection > Connect, select "Wi-Fi Direct" from the left side, and click "Connect."
 
 ![Connecting the phnoe to PC via Wi-Fi Direct in the WO Mic app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-connecting-the-phnoe-to-pc-via-wi-fi-direct-in-the-wo-mic-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
  This process will establish the connection, allowing you to use your Android smartphone for audio input!
 
 ##  Windows Not Detecting Your Phone's Microphone?
@@ -155,9 +159,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Selecting the device's built-in microphone as default in the sound settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-selecting-the-device-s-built-in-microphone-as-default-in-the-sound-settings-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ---
 
  This is how you can use your phone's microphone for audio input to your computer. While WO Mic is easy to use, you can also explore alternative applications that offer more customization options.
@@ -168,8 +169,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +176,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-channel-up-your-wealth-profit-from-effective-use-of-youtube-shorts/"><u>[New] 2024 Approved Channel Up Your Wealth Profit From Effective Use of YouTube Shorts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-navigating-the-insta-to-tik-connection-for-2024/"><u>[New] Navigating the Insta-to-Tik Connection for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-revealing-graphic-excellence-our-top-10-design-tool-list/"><u>[New] Revealing Graphic Excellence Our Top 10 Design Tool List</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-dominating-the-sky-with-heavylift-drones/"><u>[Updated] 2024 Approved Dominating the Sky with Heavylift Drones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-high-resolution-revelations-comparing-ultrawide-and-uhd-4k-screens/"><u>[Updated] 2024 Approved High-Resolution Revelations Comparing UltraWide and UHD 4K Screens</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-gopro-hero-session-vs-polaroid-cubeplus-which-one-is-better-for-you/"><u>[Updated] GoPro Hero Session Vs Polaroid Cube+ Which One Is Better for You?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-secrets-to-stunning-nightscape-shots-for-2024/"><u>[Updated] Secrets to Stunning Nightscape Shots for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-ride-the-waves-with-top-tier-surf-cameras/"><u>2024 Approved Ride the Waves with Top-Tier Surf Cameras</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-superior-photo-inspector-fast-and-reliable/"><u>2024 Approved Superior Photo Inspector, Fast & Reliable</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-technology-behind-xboxs-remote-gameplay/"><u>Decoding the Technology Behind Xbox’s Remote Gameplay</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/final-user-license-agreement-ula-for-winxdvd-by-digiarty-comprehensive-terms/"><u>Final User License Agreement (ULA) for WinXDVD by Digiarty: Comprehensive Terms</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-transform-your-android-phone-into-a-portable-bluetooth-speaker-for-windows-computers/"><u>Guide: Transform Your Android Phone Into a Portable Bluetooth Speaker for Windows Computers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-poco-c55-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Poco C55?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-xiaomi-redmi-note-12-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Xiaomi Redmi Note 12 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-comprehensive-guide-to-iphone-podcast-downloads/"><u>In 2024, Comprehensive Guide to iPhone Podcast Downloads</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/start-and-participate-in-group-video-chats-zoom-on-androids-way/"><u>Start and Participate in Group Video Chats Zoom on Android's Way</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Efficiently Safeguarding Your Linux Data with Rsync Tools and Techniques
-date: 2024-08-31T08:55:08.619Z
-updated: 2024-09-01T08:55:08.619Z
+date: 2025-01-22T02:26:35.226Z
+updated: 2025-01-23T19:02:48.979Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Expert Tips for Efficiently Safeguarding Your Linux Data with Rsync Tools and Techniques
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,6 +36,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Don't risk data loss. Back up your valuable data from the Linux command line. We'll be using the `rsync` command for this, and we've even found some nice optional graphical interfaces for it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  rsync is the Best for Backups
 
  There are many ways to accomplish making a backup copy of your files. We wanted to show you a robust, flexible, and reliable way to protect your data. We choose `rsync` because of its [well-respected algorithms](https://en.wikipedia.org/wiki/Rsync#Algorithm) that calculate the differences between files in the source directory and the target directory. Only the differences between two versions of a file are transferred, not the whole file if that can be avoided.
@@ -42,9 +50,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The simpler and faster it is to make a backup, the more likely you are to do so.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Using rsync With an External Hard Drive
 
  To make a backup copy of your data to an external hard drive, the hard drive must be mounted and accessible to you. If you can write to it, then so can `rsync`. In this example, an external USB hard drive called SILVERXHD (for "Silver eXternal Hard Drive") is plugged into the Linux computer. It has been auto-mounted by the operating system.
@@ -55,18 +60,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![tooltip for an external drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/rsync_26.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In this example, the tooltip informs us that the mount point for the filesystem on the external drive is "/media/dave/SILVERXHD."
 
  If your file browser does not do this, browse to the external drive and open a terminal window in that location. Use the pwd command to print the path to the terminal window.
@@ -87,9 +80,6 @@ ls
 
 ![ls in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/rsync_2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Copying the Source Directory and Its Contents
 
  If you had wanted to have the Documents directory and its contents copied to the external drive, remove the "/" from the end of "/home/dave/Documents" in the command line, like this:
@@ -98,15 +88,16 @@ rsync -r /home/dave/Documents /media/dave/SILVERXHD/
 
 ![rsync -r /home/dave/Documents /media/dave/SILVERXHD/ in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/rsync_3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To avoid confusion, I removed the two previously copied directories from the external drive before this second command was executed.
 
  If we let the second copy complete and take another look at the external drive, we see the Documents directory has been copied over. Its contents are within that directory. They are not in the root of the external drive.
 
 ![ls in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/rsync_4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Copying to a Specific Target Directory
 
  To copy to a specific directory on the target hard drive, add the name of the directory to the target path. Let's suppose we want to copy the contents of the "/home/dave/Documents" directory to a directory called "backups" on the external drive.
@@ -118,8 +109,9 @@ rsync -r /home/dave/Documents/ /media/dave/SILVERXHD/backups/
 ![rsync -r /home/dave/Documents/ /media/dave/SILVERXHD/backups/ na terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/rsync_5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Checking on the external drive we can see the backups directory has been created, and within that directory are the contents of the "/home/dave/Documents" directory.
 
 ls
@@ -129,8 +121,9 @@ ls backups
 ![Output from ls in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/rsync_6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Preserving File Ownership and Permissions
 
  Use the `-a` (archive) option to preserve file attributes such as modification dates, file ownership, access permissions, and more, for copied files, symlinks, and special block files.
@@ -139,12 +132,6 @@ rsync -ra /home/dave/Documents/ /media/dave/SILVERXHD/backups/
 
 ![rsync -ra /home/dave/Documents/ /media/dave/SILVERXHD/backups/ in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/rsync_7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Using Verbose Mode
 
  The `-v` (verbose) option forces `rsync` to list the files as they are being copied.
@@ -163,6 +150,10 @@ rsync -rav /home/dave/Documents/ /media/dave/SILVERXHD/backups/
 * Total size: Represents the size of the data that would have been sent if you were not using `rsync`. On subsequent runs of `rsync` it will only transfer the file differences. This figure will represent the data that did not have to be transferred.
 * Speedup: This is the ratio between the amount of data that had to be sent and the total amount of data that there is. If `rsync` needs to copy all of the files in their entirety (the first time it is run, for example) the speedup will be 1.0\. When `rsync` is next used, it will optimize the transfers. It will only send the differences between the files, not the entire files. FIles with no changes will be ignored. The speedup figure will represent the ratio between the small amount of data that was required to be transferred versus the total size of the files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Using The Progress Option
 
  The `-P` (progress) option causes `rsync` to generate a small progress report after each file is copied.
@@ -171,21 +162,10 @@ rsync -raP /home/dave/Documents/ /media/dave/SILVERXHD/backups/
 
 ![Rsync with a progress report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/rsync-rap.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
  The information provided can be seen between each copied file.
 
 ![Each line indicates what has been performed by rsync.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/progress-statements.png) 
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The information provided is:
 
 * Byte size: Data transferred for this file.
@@ -209,21 +189,12 @@ rsync -ravz --partial /home/dave/Documents/ /media/dave/SILVERXHD/backups/
 
 ![Running rsync with an argument to make it faster.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/rsync-fast.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In our example, the benefits are marginal.
 
 ![Rsync running slightly faster.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/rsync-fast-output.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The speedup ratio has improved but by two-hundredths of a percent! In a real-world scenario, your speed improvements will be more impressive.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ##  Using rsync Over A Network
 
  So far we've been targetting an external USB drive. To use a network location as the target for the backup, use the path to that location on the command line. There is a [network attached storage device](https://en.wikipedia.org/wiki/Network-attached%5Fstorage) (NAS) on the network that this article was researched on.
@@ -262,11 +233,11 @@ rsync -ravz --partial /home/dave/Documents/ dave@sulaco.local:/home/dave/Backups
 
 ![Rsync's output over SSH looks the same as any other output.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/rsync-over-ssh-output.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  The backup will complete as usual. The throughput isn't as fast as a regular network connection, because of the encryption and decryption that takes place in the secure shell connection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Automating Your Backups
 
@@ -276,17 +247,15 @@ crontab -e
 
 ![Run 'crontab -e' to schedule rsync.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/crontab-e.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  We'll set up an automated backup to run each day at 04:30 (if the computer is on at that time, of course). The syntax for the `rsync` command doesn't change at all.
 
 ![Some crontab settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/crontab-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  Ctrl+O will write your changes to the file, and Ctrl+X will close the `nano` editor.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Putting a Friendly Face on Rsync
 
@@ -296,12 +265,13 @@ crontab -e
 
 ![The grsync UI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/grsync-ui.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  The `luckyBackup` program is much more than a simple wrapper for `rsync`. It is a backup program that uses `rsync` behind the scenes. For example, `luckyBackup` can make multiple "snapshots" of your backup. You can then "roll back" to the versions of the files in any of the snapshots.
 
 ![The LuckyBackup UI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/luckybackuo.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  To install Grsync
 
@@ -323,27 +293,12 @@ sudo pacman -Syu grsync
 
 ## ![Installing grsync on Manaro.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/grsync-manaro.png)To Install luckyBackup
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To install `luckyBackup` in Ubuntu, use the following command:
 
 sudo apt install luckybackup
 
 ![The command to install luckybackup on Ubuntu or most Debian distros.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/sudo-apt-install-lucky.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To install `luckyBackup` in Fedora use the following command:
 
 sudo dnf install luckybackup
@@ -351,8 +306,9 @@ sudo dnf install luckybackup
 ![sudo dnf install luckyback in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/31.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In Manjaro you must install `luckyBackup` from the [Arch User Repository](https://wiki.manjaro.org/index.php/Arch%5FUser%5FRepository) (AUR). You can do this with the `pamac` package manager.
 
 ## ![Searhc for 'lucky' in the Arch User Repository.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/aur-repo.png)Don't Risk It, Back Up Your Data Often
@@ -371,8 +327,6 @@ sudo dnf install luckybackup
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -380,4 +334,18 @@ sudo dnf install luckybackup
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-revolutionary-gaming-documentation-beyond-fbx-norms/"><u>[New] 2024 Approved Revolutionary Gaming Documentation Beyond FBX Norms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-find-your-digital-companion-the-top-6-youtube-personality-puzzles-for-2024/"><u>[New] Find Your Digital Companion The Top 6 YouTube Personality Puzzles for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unique-perspectives-mastering-drone-footage/"><u>[New] Unique Perspectives Mastering Drone Footage</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-dusks-descent-pre-pro-screen-transitions/"><u>[Updated] 2024 Approved Dusk's Descent Pre-Pro Screen Transitions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-navigating-the-nuances-of-snapchat-high-visibility/"><u>[Updated] 2024 Approved Navigating the Nuances of Snapchat High-Visibility</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-premium-audio-capabilities-1-10-free-desktop-tools/"><u>[Updated] 2024 Approved Premium Audio Capabilities #1-#10 Free Desktop Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-what-are-the-alternatives-to-googles-ar-appearance/"><u>[Updated] 2024 Approved What Are The Alternatives To Google's AR Appearance?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-deciphering-youtubes-cc-policy-for-video-makers/"><u>[Updated] In 2024, Deciphering YouTube's CC Policy for Video Makers</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/1725288495153-ai/"><u>最新版八大無償 AI 光影修復程式 - 老照片重生之旅</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expertise-in-covert-sound-suppression-with-audacity/"><u>Expertise in Covert Sound Suppression with Audacity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-crafting-movement-on-face-images-with-picsart/"><u>In 2024, Crafting Movement on Face Images with Picsart</u></a></li>
+</ul></div>
 

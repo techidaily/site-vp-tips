@@ -1,7 +1,7 @@
 ---
 title: "A Week with Google Gemini: Crafting Emails & Texts Efficiently – My Review"
-date: 2024-08-28 12:14:30
-updated: 2024-08-29 12:17:33
+date: 2025-01-16T22:05:41.057Z
+updated: 2025-01-23T17:43:28.379Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a55
 
 ## A Week with Google Gemini: Crafting Emails & Texts Efficiently – My Review
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Gemini is a new AI model integrated into Google Messages, offering free and premium versions.
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a55
 * Gemini's effectiveness varies. It excels in short-form communication like drafting texts.
 
  I did not expect Gemini to text me out of the blue on Google Messages! I was eager to test it out, but do we really need another AI chatbot in our lives? I decided to find out!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Gemini Chimed In
 
@@ -28,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a55
  Gemini sent me an RCS text over the Google Messages app I use for texting with the following message, "Hi, I'm Gemini in Google Messages. Chat with me to draft messages, brainstorm ideas, plan events or simply have a fun conversation." My response was to first verify it wasn't a scam text. Then, I responded, "Are you free?" Because even if the text wasn't from scammers, I worried that Google was just as capable!
 
 ![Screenshot of Gemini's initial text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240614_012255_messages.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Yes! It's Free! If You Have the Free Version
 
@@ -47,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a55
 
  Why not start with the hardest possible text to write? A tricky text to a boomer mom or mother-in-law. Last week I had to tell my mom that her offer to take us to Disney was an unmanageable trip for us. As Gemini had not yet texted, my sister swooped in, saved the day, and it all worked out. However, as boomers go, my mother is quite reasonable. I think a carefully worded text would probably have been fine. Could Gemini have saved the day? My prompt was, "Write a text thanking my mom for inviting us to Disney, but politely let her know it's too big of a trip for a single mom with little kids. Maybe suggest an alternative."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  World's Greatest Response?
 
  Gemini responded, "Mom, thanks so much for the amazing invitation to Disney! While it sounds incredible, a Disney trip feels a bit overwhelming for the little ones and me right now. Maybe a closer \[local zoo/children's museum/park\] visit in the near future? We'd love to spend some quality time with you! Love you!"
@@ -54,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a55
  What a great response! I probably would have changed the last sentence to suggest an alternate vacation. My mom did, [and I used AI to help with that as well](https://vp-tips.techidaily.com/updated-in-2024-visual-impact-seamlessly-add-photos-to-your-instagram-account/). However, I think this would have been a useful solution. In fact, I can see Gemini being just as useful in the workplace. It could help you handle toxic co-workers, difficult supervisors, or that one person who needs to think everything is their idea.
 
 ![Screenshot of prompt requesting Gemini write a text, and the response](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240614_012307_messages.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Everyday Texts Didn't Go as Well.
 
@@ -81,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a55
 
  This kind of data is crucial to improving the technology, but you can easily opt-out. To do this, turn off "Gemini Apps Activity" in your Google Account settings. If you've already interacted with Gemini you can visit [myactivity.google.com/product/gemini](https://myactivity.google.com/product/gemini) to delete all your Gemini data or specific conversations.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Will Gemini Continue on My Phone?
 
  I will not be keeping the Gemini app, but I will continue to text it through Google Messages. It's so convenient to copy and paste its short responses right into another conversation or app. I don't want to lose that option, and foresee myself using it a few times a week. As for Gemini's future, I think Google is on the right track with this, and I expect more to come. For now, Gemini feels unfinished compared to other AI models, but I'm glad it texted me.
@@ -91,11 +115,24 @@ thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a55
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-building-impressive-pixelated-photo-combinations/"><u>[New] Building Impressive Pixelated Photo Combinations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-ranked-pixel-perfection-appweb-software-for-2024/"><u>[New] Top-Ranked Pixel Perfection App/Web Software for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unleash-creativity-exploring-the-top-8-drawing-apps-on-ios-devices/"><u>[Updated] 2024 Approved Unleash Creativity Exploring the Top 8 Drawing Apps on iOS Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-simplify-tech-transitions-smartphone-vr-integration-guide/"><u>2024 Approved Simplify Tech Transitions Smartphone-VR Integration Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-streamlined-zoom-utilization-a-chromebook-perspective/"><u>2024 Approved Streamlined Zoom Utilization A Chromebook Perspective</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/automated-data-collection-with-cookiebot-enhance-user-tracking-efficiency/"><u>Automated Data Collection with Cookiebot: Enhance User Tracking Efficiency</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-a79-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo A79 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-smart-users-guide-to-enhancing-technology/"><u>In 2024, The Smart User's Guide to Enhancing Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp3-conversion-techniques-from-desktop-to-mobile-and-web-based-solutions/"><u>MP3 Conversion Techniques: From Desktop to Mobile and Web-Based Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/preventive-measures-for-microsoft-teams-freeze-in-wins-11-and-10/"><u>Preventive Measures for Microsoft Teams Freeze in Wins 11 & 10</u></a></li>
+</ul></div>
+

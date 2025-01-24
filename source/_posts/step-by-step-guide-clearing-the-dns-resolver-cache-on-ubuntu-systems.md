@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Clearing the DNS Resolver Cache on Ubuntu Systems"
-date: 2024-08-27 19:58:45
-updated: 2024-08-29 12:48:43
+date: 2025-01-19T21:27:24.430Z
+updated: 2025-01-24T00:55:15.458Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
 ## Step-by-Step Guide: Clearing the DNS Resolver Cache on Ubuntu Systems
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is DNS Caching?](https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-x-without-itunes-drfone-by-drfone-ios/)
@@ -19,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 * [Don’t Forget Your Browser's Cache](https://youtube-tips.techidaily.com/ed-2024-approved-brightening-up-your-youtube-pixels/)
 * [Remember to Flush Your DNS Cache](https://some-knowledge.techidaily.com/new-full-exploration-of-picsarts-new-features/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Flushing the DNS cache on Ubuntu with "resolvectl flush-caches" can help troubleshoot connectivity issues and improve network performance.
@@ -26,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 * Remember to also clear the DNS cache in your internet browsers to ensure all cached data is cleared for troubleshooting.
 
  The domain name resolving service is enabled by default in Ubuntu. That’s fine, it performs a useful service. But it’s worth periodically flushing its buffers, especially if you get flaky connectivity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Is DNS Caching?
 
@@ -67,6 +79,10 @@ resolvectl statistics
 
 ![Checking the size of the DNS cache on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-15.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Because this is a fresh installation of Ubuntu, there are relatively few entries in the cache. Regardless, when we flush the DNS buffers we expect to see that number drop to zero.
 
 resolvectl flush-caches
@@ -85,6 +101,10 @@ resolvectl statistics
 
  Your internet browsers have their own caches. If you’re flushing your DNS buffers to try to remove a problem, make a point of doing the same for your browsers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Flushing the DNS Cache in Firefox
 
  Open a new tab in Firefox, enter this text in the URL address bar, and hit Enter:
@@ -100,6 +120,10 @@ about:networking
  Firefox shows you the most recent entries added to the DNS cache. To clear the cache, click the “Clear DNS Cache” button. I had to refresh the page to see the change, but the cache was definitely purged.
 
 ![The Firefox DNS page with no entries, showing the cache has been purged](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-11.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Flushing the DNS Cache in Google Chrome
 
@@ -123,11 +147,30 @@ chrome://net-internals/#dns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-dive-deep-comprehensive-tutorial-for-launching-a-product-vlog-channel/"><u>[New] 2024 Approved Dive Deep Comprehensive Tutorial for Launching a Product Vlog Channel</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-art-of-pushing-photographic-limits/"><u>[New] 2024 Approved The Art of Pushing Photographic Limits</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-step-by-step-approach-to-crafting-3d-text-in-photoshop/"><u>[New] Step-by-Step Approach to Crafting 3D Text in Photoshop</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-gamers-sound-selection-top-5-noise-canceling-earbuds/"><u>[Updated] 2024 Approved Gamers’ Sound Selection Top 5 Noise-Canceling Earbuds</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-photography-toolkit-a-comprehensive-app-analysis/"><u>[Updated] 2024 Approved Photography Toolkit A Comprehensive App Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-nostalgia-edition-revisiting-goofy-film/"><u>[Updated] 2024 Approved The Nostalgia Edition Revisiting Goofy Film</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-delighted-user-registration-walkthrough-for-2024/"><u>[Updated] Delighted User Registration Walkthrough for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-streamline-memory-management-via-mematic/"><u>[Updated] In 2024, Streamline Memory Management via Mematic</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ranking-the-leading-free-srt-translators-online-for-2024/"><u>[Updated] Ranking the Leading Free SRT Translators Online for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-your-pictures-focus-with-gaussian-blur/"><u>2024 Approved Perfect Your Picture's Focus with Gaussian Blur</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/apples-latest-innovation-are-macbook-air-or-pro-best-in-2024/"><u>Apple's Latest Innovation Are MacBook Air or Pro Best, In 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/creative-edge-in-tiktok-two-effect-adding-methods-for-2024/"><u>Creative Edge in TikTok Two Effect-Adding Methods for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-save-the-day-linkinscapes-6-best-apps-for-video-downloading/"><u>In 2024, Save the Day Linkinscape's 6 Best Apps for Video Downloading</u></a></li>
+<li><a href="https://win-webster.techidaily.com/optimize-backup-with-vmwares-eoa-solution-a-smarter-way-to-protect-your-data/"><u>Optimize Backup with VMware's EOA Solution – A Smarter Way to Protect Your Data</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unlocking-the-secret-of-fully-formatted-paper-trails/"><u>Unlocking the Secret of Fully Formatted Paper Trails</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-secrets-of-pc-building-with-toms-hardware-insights/"><u>Unveiling the Secrets of PC Building with Tom's Hardware Insights</u></a></li>
+</ul></div>
+

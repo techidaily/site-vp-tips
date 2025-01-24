@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the Chaos: How Apple Can Transform the iOS 18 Photos App Experience"
-date: 2024-08-31T08:53:32.919Z
-updated: 2024-09-01T08:53:32.919Z
+date: 2025-01-20T00:02:52.584Z
+updated: 2025-01-23T20:26:55.673Z
 tags:
   - mobile
 categories:
@@ -11,12 +11,20 @@ thumbnail: https://thmb.techidaily.com/7a68a371ecefb61abf22397216f859079f91db410
 
 ## Overcoming the Chaos: How Apple Can Transform the iOS 18 Photos App Experience
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [The Redesigned Photos App Feels More Like Social Media](https://facebook-video-footage.techidaily.com/new-leveraging-colored-backdrops-for-seamless-edits/)
 * ["Recent Days" and "Recently Saved" Cause Confusion](https://youtube-videos.techidaily.com/7-best-zero-cost-web-based-film-makers/)
 * [The Photos App Has Never Been This Crowded Before](https://mondly-stories.techidaily.com/embrace-multilingualism-with-these-7-afrikaans-advantages-from-mondly/)
 * [What Can Apple Do to Fix the Photos App?](https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-nubia-z50-ultra-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -26,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/7a68a371ecefb61abf22397216f859079f91db410
 
  iOS 18 brings a lot of new features and changes. While most of these changes have been well-received by early testers, the redesigned Photos app is getting mixed reviews. I think it's a total nightmare, and Apple needs to make some big changes before the app releases in the fall.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ##  The Redesigned Photos App Feels More Like Social Media
 
  When I upgraded [iOS 18](https://snapchat-videos.techidaily.com/new-convenient-tutorial-snapchat-installation-macos-style/) early to test the software in beta and opened the [Photos app](https://apps.apple.com/us/app/photos/id1584215428), my first thought was, "Wait, did I open a social media app?" Everything immediately felt crowded, and I was completely lost about where to find the photo I was looking for.
@@ -46,8 +51,9 @@ Close
  Before I sharpen my pitchfork further, I want to clarify that [iOS 18 is still in beta](https://phone-solutions.techidaily.com/device-unlock-samsung-galaxy-a15-4g-by-drfone-android-unlock-android-unlock/). Apple can (and likely will still make changes) If you have iOS 18 installed on your iPhone in this pre-release state and are experiencing performance issues, that's common with operating systems in their beta phase. There's no need to worry about it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  "Recent Days" and "Recently Saved" Cause Confusion
 
  When you access your photos library via the carousel, you will notice that you have the option to sort the photos by months and years. For sorting the images by date, Apple has introduced a completely new collection in the Photos app called Recent Days.
@@ -61,8 +67,9 @@ Close
  Another thing I found frustrating is that the Photos app shows the same photo in multiple places. For example, if you [take a portrait photo](https://eaxpv-info.techidaily.com/new-top-15-must-use-gaming-tags-for-skyrocketing-views-on-youtube/) with your iPhone, you'll notice that it appears in the main photo library, the Recent Days collection, and the Portraits collection. Why can't Apple take a simpler approach like most Android phones, where a photo appears only once in the Photos app?
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Photos App Has Never Been This Crowded Before
 
  By now, you've probably guessed that my main concern with the redesigned Photos app is that it has more collections than ever before. On iOS 17, the Photos app is divided into four tabs — Library, For You, Albums, and Search. Simple, right?
@@ -72,8 +79,9 @@ Close
  The availability of so many collections makes the Photos app feel more cluttered than before. Also, if you're like me and don't care much about Featured Photos and Memories in the Photos app, you now have no choice but to see them (and they get in the way, all of the time).
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Can Apple Do to Fix the Photos App?
 
  First things first, there was no need for all these adjustments in the Photos app. Apple messed up one of its best apps by trying to introduce features that seemingly nobody asked for.
@@ -96,8 +104,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +111,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-first-steps-in-filmmaking-mastering-key-camera-techniques/"><u>[New] 2024 Approved First Steps in Filmmaking Mastering Key Camera Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-10-list-elite-quality-4k-displays/"><u>[New] 2024 Approved TOP 10 List Elite Quality 4K Displays</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-enhance-video-with-pre-made-tracks-in-premiere-pro-for-2024/"><u>[New] Enhance Video With Pre-Made Tracks in Premiere Pro for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-deciphering-screens-a-comprehensive-review-of-recording-apps/"><u>[New] In 2024, Deciphering Screens A Comprehensive Review of Recording Apps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-initial-steps-towards-perfect-transitional-sound-levels/"><u>[New] Initial Steps Towards Perfect Transitional Sound Levels</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-recover-disappearing-watch-icon-for-fb-users-for-2024/"><u>[New] Recover Disappearing Watch Icon for FB Users for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unleash-potential-precision-zooming-for-professional-videoleap-footage-for-2024/"><u>[New] Unleash Potential Precision Zooming for Professional VideoLeap Footage for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-essential-techniques-for-green-screen-shooting-excellence/"><u>[Updated] Essential Techniques for Green Screen Shooting Excellence</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-best-sound-transforming-apps-for-youtube-vloggers/"><u>[Updated] In 2024, Best Sound Transforming Apps for YouTube Vloggers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-financial-insights-how-much-does-pewdopeep-make/"><u>[Updated] In 2024, Financial Insights How Much Does PewDoPeep Make?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-inside-virtual-worlds-todays-insights-and-tomorrows-trials/"><u>[Updated] In 2024, Inside Virtual Worlds Today's Insights & Tomorrow's Trials</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-winning-strategies-overlay-text-onto-photos-on-windows-mac/"><u>[Updated] In 2024, Winning Strategies Overlay Text Onto Photos on Windows, Mac</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-journey-through-the-maze-old-vs-innovative-rpgs-for-2024/"><u>[Updated] Journey Through the Maze Old Vs. Innovative RPGs for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-essentials-of-blurring-photo-borders/"><u>2024 Approved The Essentials of Blurring Photo Borders</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-12-mini-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 12 mini Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/premium-live-video-conferencing-systems-for-2024/"><u>Premium Live Video Conferencing Systems for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/topo-de-aplicativos-mais-inovadores-para-remixacao-musical-em-2024/"><u>Topo De Aplicativos Mais Inovadores Para Remixação Musical Em 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Web Navigation on Linux: A Guide to Using Lynx in Your Terminal"
-date: 2024-08-27 12:28:58
-updated: 2024-08-29 10:40:44
+date: 2025-01-22T21:03:53.103Z
+updated: 2025-01-23T18:17:25.715Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 
 ## Mastering Web Navigation on Linux: A Guide to Using Lynx in Your Terminal
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Lynx is a text-only browser that runs inside a terminal emulator and offers a unique browsing experience.
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 * Navigation is controlled via key commands and the arrow keys.
 
  There is no shortage of feature-rich browsers available today, but most offer largely the same experience. Lynx is a web browser that only displays text, offering a unique and ad-free way to browse the Internet in the Linux terminal.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What is Lynx?
 
@@ -41,6 +49,10 @@ YouTube is mostly blank in Lynx.
 
  Personally, I like using Lynx to read news and other text-heavy websites (like forums, guides, recipes, and more) due to its speed and simplicity. I appreciate the distraction-free environment Lynx provides as it helps me focus on what I'm reading and keeps me on task. While other web browsers offer the temptation of scrolling YouTube, Facebook, or other distracting websites, Lynx can't access this media, making it a great ["reader only" mode](https://extra-guidance.techidaily.com/sharper-images-richer-minescapes-zoom-techniques-revealed-for-2024/) for browsing the Internet. I don't use Lynx as my daily driver, but it is a useful tool for focused research, perusing the news, and staying focused on reading through information.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Install Lynx in Linux
 
  Lynx is in the main repositories of most Linux distributions, which makes installing it as simple as opening a terminal and invoking your distribution's package manager. Open a terminal and type the following commands for your respective distribution.
@@ -63,6 +75,10 @@ sudo xbps-install lynx
 
  Enter your password, follow the prompts, and install Lynx like you would any other package.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Use Lynx in Linux
 
  To use Lynx, open the terminal and type **lynx** to launch the Lynx browser.
@@ -76,6 +92,10 @@ sudo xbps-install lynx
  Along the bottom of the Terminal window is a list of hotkeys. These include the aforementioned key to go to a URL (G) along with a help page (H), options for Lynx (O), printing a web page to a file or a connected printer (P), navigating to the Lynx home page (M), quitting Lynx (Q), searching the current web page for specific text (/), and accessing browser history (marked "delete," accessed by pressing Backspace).
 
 ![Hotkey commands line the bottom of the window in Lynx.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/lynx-hotkey-options.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Customizing Your Lynx Experience
 
@@ -91,11 +111,27 @@ sudo xbps-install lynx
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-cutting-edge-templates-for-memetic-art-for-2024/"><u>[New] Cutting-Edge Templates for Memetic Art for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ffortless-media-incorporation-youtube-to-slides-for-2024/"><u>[New] Effortless Media Incorporation YouTube to Slides for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-mastering-youtube-shorts-a-step-by-step-creation-guide/"><u>[New] In 2024, Mastering YouTube Shorts A Step-by-Step Creation Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-angle-arsenal-samsung-vs-lg-comparison-for-2024/"><u>[New] The Ultimate Angle Arsenal Samsung Vs LG Comparison for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-best-free-editing-sites-your-gateway-to-flawless-visual-content-creation/"><u>[Updated] 2024 Approved Best Free Editing Sites - Your Gateway to Flawless Visual Content Creation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-avoid-common-mistakes-in-youtube-livestreaming-with-best-webcams/"><u>[Updated] In 2024, Avoid Common Mistakes in YouTube Livestreaming with Best Webcams</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-master-your-mac-the-top-gif-recorder-choices/"><u>[Updated] In 2024, Master Your Mac The Top GIF Recorder Choices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/breaking-down-artificial-intelligence-for-beginners/"><u>Breaking Down Artificial Intelligence for Beginners</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-boost-your-broadcast-three-steps-to-successful-youtube-streaming/"><u>In 2024, Boost Your Broadcast Three Steps to Successful YouTube Streaming</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo X90S? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-oneplus-12-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost OnePlus 12 for Free? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-omni-directional-vision-and-its-distinctive-features/"><u>In 2024, Omni-Directional Vision and Its Distinctive Features</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ultimate-dragon-ball-hd-desktop-scenes-and-backdrop-graphics-full-static-set-from-yl-computing-created-with-yl-software/"><u>Ultimate Dragon Ball HD Desktop Scenes and Backdrop Graphics – Full Static Set From YL Computing, Created with YL Software</u></a></li>
+</ul></div>
+

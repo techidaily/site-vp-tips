@@ -1,7 +1,7 @@
 ---
 title: 1. GIMP Enhances Gradients Features in Anticipation of Version 3.0 Launch
-date: 2024-08-26 18:37:42
-updated: 2024-08-29 10:48:12
+date: 2025-01-17T00:26:07.362Z
+updated: 2025-01-23T16:51:36.305Z
 tags:
   - deals
 categories:
@@ -29,11 +29,35 @@ The latest GIMP release (version 2.10.36) introduces a fun new gradient tool and
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-best-hd-action-recorder-brands-under-100/"><u>[New] In 2024, Best HD Action Recorder Brands Under $100</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-key-sites-the-6-most-vital-platforms-for-b2b-relationships/"><u>[New] In 2024, Key Sites The 6 Most Vital Platforms for B2B Relationships</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-professional-path-to-broadcasting-full-dome-content-on-fb/"><u>[New] The Professional Path to Broadcasting Full-Dome Content on FB</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-omnipresent-overture-the-virtual-cinema/"><u>[Updated] 2024 Approved Omnipresent Overture The Virtual Cinema</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-getting-to-know-picsart-better-with-a-complete-2024-reveal-and-tutorial/"><u>[Updated] Getting to Know PicsArt Better with a Complete 2024 Reveal & Tutorial</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-elevating-audience-excitement-with-top-ideas/"><u>[Updated] In 2024, Elevating Audience Excitement with Top Ideas</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-artisans-path-mastery-of-background-removal-tools-in-photoshop/"><u>[Updated] In 2024, The Artisan's Path Mastery of Background Removal Tools in Photoshop</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prodigy-machines-top-quality-computers-available/"><u>[Updated] Prodigy Machines Top-Quality Computers Available</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-supreme-selection-an-honour-roll-of-top-10-reddit-discussions-for-2024/"><u>[Updated] The Supreme Selection An Honour Roll of Top 10 Reddit Discussions for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-enhance-trust-secure-your-tiktok-age-details/"><u>2024 Approved Enhance Trust Secure Your TikTok Age Details</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/directdraw-error-solved/"><u>DirectDraw Error [SOLVED]</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-steps-to-fresh-software-upgrade-your-canon-d530s-performance-today/"><u>Easy Steps to Fresh Software: Upgrade Your Canon D530's Performance Today</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-error-rebuild-failed-java-virtual-machine/"><u>Eliminate Error: Rebuild Failed Java Virtual Machine</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/excellence-on-demand-1-blu-ray-players-for-home/"><u>Excellence on Demand #1 Blu-Ray Players for Home</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimize-visual-output-with-free-luts-in-your-obs-studio-setup-for-2024/"><u>Optimize Visual Output with Free LUTs in Your OBS Studio Setup for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-at-home-workflows-with-these-six-powerful-uses-of-chatgpt-for-productivity/"><u>Revolutionize Your At-Home Workflows with These Six Powerful Uses of ChatGPT for Productivity</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

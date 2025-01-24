@@ -1,7 +1,7 @@
 ---
 title: "Professional Insight: Lenovo ThinkPad Z16 Gen 2 with AMD Power - An In-Depth Evaluation"
-date: 2024-08-26 14:15:57
-updated: 2024-08-29 10:46:25
+date: 2025-01-19T00:41:42.750Z
+updated: 2025-01-23T20:00:24.169Z
 tags:
   - desktop
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
  Not to be confused with the similarly named [ThinkPad T16](https://mondly-stories.techidaily.com/6-effective-online-methods-to-speak-like-a-native-koreanist/), this Z16 Gen 2 (AMD) laptop hits processing out of the park and Lenovo didn't skimp on storage, RAM, or the display. My model was the fully upgraded one (which runs for $2,448.85 right now, normally around $3,800), but you can customize yours to suit your needs, with the lowest model starting at $1,474.85\. Whatever your configuration, the [Z16 is a top-tier laptop](https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-itel-a05s-drfone-by-drfone-virtual-android/) that'll be more than enough for most professionals. It's also a great multimedia companion, but it falls a bit short if you like gaming beyond a few casual romps, and its battery life could be better.
 
 ![The Lenovo ThinkPad Z16 Gen 2 AMD Laptop sitting with its screen on.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/lenovo-thinkpad-z16-gen-2-amd-laptop.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
@@ -133,9 +137,17 @@ Expand
 
 [Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadz%2Flenovo-thinkpad-z16-gen-2-%2816-inch-amd%29%2Flen101t0082) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Design: Lightweight and Portable
 
 ![The closed Lenovo ThinkPad Z16 Gen 2 AMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-closed-lenovo-thinkpad-z16-gen-2-amd-3jpg_53384645283_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -181,6 +193,10 @@ Close
 
  The graphics of games were similarly impressive, with stunning clarity in dark games like "Bramble: The Mountain King" and bright, realistic games like "A Plague Tale: Requiem."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Performance: Powerful AMD Processing
 
 ![The background screen of the Lenovo ThinkPad Z16 Gen 2 AMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-background-screen-of-the-lenovo-thinkpad-z16-gen-2-amd-4jpg_53384774989_o.jpg) 
@@ -225,7 +241,15 @@ Close
 
 ### 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Battery and Charging: Average Energy Expenditure
 
@@ -234,6 +258,10 @@ Close
 Sergio Rodriguez / How-To Geek
 
  While the Rapid Charge capability on the ThinkPad Z16 ensured that I was getting an average charge speed of 1.55% per minute (about 90% per hour), the laptop drained at a fairly average pace. For a professional who doesn't want to have to charge their laptop more than once per day, this could be an issue. I averaged a battery drain of 22.8% per hour, which meant every three hours I needed to plug in again. Still, with the power needed to multitask like the Z16 can, charging more often isn't an unfair trade-off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Should You Buy the Lenovo ThinkPad Z16 Gen 2 (AMD) Laptop?
 
@@ -244,6 +272,10 @@ Sergio Rodriguez / How-To Geek
  Those who want the Z16's powerful computing can buy the [Lenovo ThinkPad Z16 Gen 2 (AMD) laptop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadz%2Flenovo-thinkpad-z16-gen-2-%2816-inch-amd%29%2Flen101t0082) today, starting at $1,474.85.
 
 ![The Lenovo ThinkPad Z16 Gen 2 AMD Laptop sitting with its screen on.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/lenovo-thinkpad-z16-gen-2-amd-laptop.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
@@ -263,11 +295,29 @@ The ThinkPad Z16 combines features like powerful AMD processing with a crystal-c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-htc-vive-headset-review/"><u>[New] HTC Vive Headset Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-healing-power-of-asmr-explained-here/"><u>[New] In 2024, The Healing Power of ASMR Explained Here</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-power-of-video-endorsements-in-advertising/"><u>[New] In 2024, The Power of Video Endorsements in Advertising</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-titlegenius-revolutionizing-video-title-generation/"><u>[New] In 2024, TitleGenius Revolutionizing Video Title Generation</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-unlocking-kinemasters-full-potential-in-zoomed-sections/"><u>[New] In 2024, Unlocking Kinemaster's Full Potential in Zoomed Sections</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-masterminds-of-making-magic-top-6-in-nft-innovation/"><u>[New] Masterminds of Making Magic Top 6 in NFT Innovation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-10-compact-drones-current-market-leaders-for-2024/"><u>[New] Top 10 Compact Drones Current Market Leaders for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-crafting-a-cash-cascade-on-youtube-strategies-beyond-the-ad-model/"><u>[Updated] 2024 Approved Crafting a Cash Cascade on YouTube Strategies Beyond the Ad Model</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-advanced-techniques-for-precise-online-image-cropping/"><u>[Updated] Advanced Techniques for Precise Online Image Cropping</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-hdr-standards-meeting-or-surpassing-with-aurora/"><u>2024 Approved HDR Standards Meeting or Surpassing with Aurora?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/cutting-edge-methods-for-capturing-your-playtime/"><u>Cutting-Edge Methods for Capturing Your Playtime</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oppo-k11x-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Oppo K11x to PC? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/pioneering-the-use-of-film-in-educational-methodologies/"><u>Pioneering the Use of Film in Educational Methodologies</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solutions-to-correctly-install-hcmon-device-drivers-after-failure/"><u>Solutions to Correctly Install HCMON Device Drivers After Failure</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-artistic-edge-premium-text-tools-for-adobe-after-effects-for-2024/"><u>The Artistic Edge Premium Text Tools for Adobe After Effects for 2024</u></a></li>
+</ul></div>
+

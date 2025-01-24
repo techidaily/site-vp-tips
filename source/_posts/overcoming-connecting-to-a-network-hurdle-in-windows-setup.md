@@ -1,7 +1,7 @@
 ---
 title: Overcoming 'Connecting to a Network' Hurdle in Windows Setup
-date: 2024-08-26 17:34:51
-updated: 2024-08-29 11:52:46
+date: 2025-01-21T23:11:46.283Z
+updated: 2025-01-24T00:06:47.408Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 ---
 
 ## Overcoming 'Connecting to a Network' Hurdle in Windows Setup
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,6 +28,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 * Alternatively, you can bypass the internet requirement through Task Manager. While on the "Let's connect to a network" screen, open Command Prompt, then type **taskmgr** and press Enter. In Task Manager, right-click the process called "Network Connection Flow" and choose "End task" from the context menu.
 
  Windows 11 requires an active internet connection to download crucial updates and create an account during the installation process. However, the installation will stall at the "Let's connect you to a network" screen if you lack an internet connection. Fortunately, you can employ a few workarounds to bypass this network setup screen and proceed with your Windows 11 installation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Check Your Connection
 
@@ -41,6 +49,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
  To install Windows 11 without an internet connection and bypass the "Let's connect you to a network" screen, follow the next methods in this guide.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. Use the Command Prompt to Bypass the Internet Requirement
 
  When you encounter the "Let's connect you to a network" screen, you can execute the "OOBE\\BYPASSNRO" command in Command Prompt to bypass the connectivity requirement during the Windows 11 installation process. To achieve this, press Shift+F10 to launch Command Prompt while on the "Let's connect you to a network" screen.
@@ -53,7 +65,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 ![I don't have internet option during Windows installation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/i-don-t-have-internet-option.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  One important thing to note here is that you'll end up [creating a local user account](https://tech-recovery.techidaily.com/protect-your-system-with-these-15-free-instant-boot-antivirus-tools/) instead of a Microsoft account when you try to install Windows 11 without an internet connection. However, you can always switch to a Microsoft account later.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. End the Network Connection Flow Process
 
@@ -85,11 +105,31 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-amusingscreen-join-the-video-making-party/"><u>[New] In 2024, AmusingScreen Join the Video Making Party</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-pajama-plots-revisited-critique-and-analysis-for-kids-slumber-for-2024/"><u>[New] Pajama Plots Revisited Critique and Analysis for Kids' Slumber for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-tips-for-creating-highly-sharable-insta-unpacked-content/"><u>[New] Top Tips for Creating Highly Sharable Insta Unpacked Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-eyepoint-expertise-essay/"><u>[Updated] In 2024, Eyepoint Expertise Essay</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-revolutionary-process-to-blend-gopro-videos-into-360-degree-panoramas/"><u>[Updated] In 2024, Revolutionary Process to Blend GoPro Videos Into 360-Degree Panoramas</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-launching-joining-and-scheduling-zoom-calls-made-simple-for-android-users/"><u>[Updated] Launching, Joining, and Scheduling Zoom Calls Made Simple for Android Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-six-visionaries-revolutionizing-the-nft-art-scene/"><u>[Updated] Six Visionaries Revolutionizing the NFT Art Scene</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-from-silence-to-soundscape-step-by-step-in-audition/"><u>2024 Approved From Silence to Soundscape Step-by-Step in Audition</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-skyrocket-your-content-tips-for-trending-videos/"><u>2024 Approved Skyrocket Your Content Tips for Trending Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-strategies-to-enhance-the-quality-of-your-chatgpt-conversations/"><u>7 Strategies to Enhance the Quality of Your ChatGPT Conversations</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/hering-the-best-youtube-video-trackers-for-success/"><u>Deciphering the Best YouTube Video Trackers for Success</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-11-pro-max-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 11 Pro Max Lock Screen</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/renowned-makers-exquisite-insta-hlv-designers-online-for-2024/"><u>Renowned Makers Exquisite Insta HLV Designers Online for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/top-audio-transformation-software-magic-and-more/"><u>Top Audio Transformation Software Magic and More</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-cross-device-connectivity-easy-steps-to-view-icloud-photos-and-files-everywhere/"><u>Unlocking Cross-Device Connectivity: Easy Steps to View iCloud Photos and Files Everywhere</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-future-of-filmmaking-bridging-audio-and-visuals-in-the-digital-age/"><u>Updated In 2024, The Future of Filmmaking Bridging Audio and Visuals in the Digital Age</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-hardware-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify missing hardware drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
+</ul></div>
+

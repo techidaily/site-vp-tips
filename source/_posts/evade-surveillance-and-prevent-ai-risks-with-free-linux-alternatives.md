@@ -1,7 +1,7 @@
 ---
 title: Evade Surveillance and Prevent AI Risks with Free Linux Alternatives
-date: 2024-08-31T08:54:21.973Z
-updated: 2024-09-01T08:54:21.973Z
+date: 2025-01-18T22:41:13.786Z
+updated: 2025-01-23T20:13:26.504Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Evade Surveillance and Prevent AI Risks with Free Linux Alternatives
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Products everywhere are incorporating AI, leading to privacy breaches and creating junk AI output.
@@ -18,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Make AI opt-in by switching to Linux. It's free!
 
  Every other app and service now seems to be tacking on AI functionality to try to entice weary users or satisfy shareholders. Sometimes, AI features work well. Often, it just results in junk output (at least for now) and a privacy nightmare. Here's how Linux can help you escape the AI apocalypse.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Everyone Is Adding AI to Their Products and Services
 
@@ -30,8 +38,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This effort to add AI to everything isn't stopping, despite users' trepidation. Windows, MacOS, and iOS are all plowing ahead with new AI features, and at no cost to you. This raises the question of how they plan on profiting from it (hint, the answer is probably by monetizing the data you feed to them).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  For AI to Work, It Needs to Scrape Your Data
 
  Generative AI isn't pushing the limits of creativity, it's just an algorithm that mashes together pieces of data it's been trained on. That means generative AI needs a constant stream of new information to work with to stay up-to-date.
@@ -43,15 +52,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This doesn't just make AI output unoriginal, It's a massive privacy issue: how can you be sure some details of your private life that have been submitted to an AI platform won't be used to generate someone else's short story, business email, to create images, or just [revealed to the public outright](https://www.businessinsider.com/google-researchers-openai-chatgpt-to-reveal-its-training-data-study-2023-12 "https://www.businessinsider.com/google-researchers-openai-chatgpt-to-reveal-its-training-data-study-2023-12")?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Take Control Back By Switching to Linux
 
 ![The Kubuntu Focus Ir16 Gen 2 laptop open on a desk in front of speakers and a headset.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53784641964_d7cc9b8262_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Alright, I've kvetched about AI privacy enough, so what can you actually do about it? The answer is pretty short.
@@ -68,8 +79,6 @@ Jerome Thomas / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -77,4 +86,26 @@ Jerome Thomas / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-digital-humor-designer-tool/"><u>[New] 2024 Approved Digital Humor Designer Tool</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-a-deep-dive-into-whatsapps-vocal-communication-tools-for-2024/"><u>[New] A Deep Dive Into WhatsApp's Vocal Communication Tools for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-boost-speech-intelligence-on-chrome-select-the-best-web-based-tools-for-change/"><u>[New] Boost Speech Intelligence on Chrome Select the Best Web-Based Tools for Change</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-buying-smart-key-accessories-for-dynamic-cinematography-for-2024/"><u>[New] Buying Smart Key Accessories for Dynamic Cinematography for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-negative-narratives-of-virtual-reality-tech/"><u>[New] The Negative Narratives of Virtual Reality Tech</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-ultimate-list-of-8-youtube-mistakes-to-evade-for-2024/"><u>[New] The Ultimate List of 8 Youtube Mistakes to Evade for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-expertly-edited-beginnings-anywhere/"><u>2024 Approved Expertly Edited Beginnings, Anywhere</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-strategies-for-penning-persuasive-vlogger-content/"><u>2024 Approved Strategies for Penning Persuasive Vlogger Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-swift-shuffling-strategies-efficiently-send-data-home/"><u>2024 Approved Swift Shuffling Strategies Efficiently Send Data Home</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-online-destinations-for-3d-shimmering-letters/"><u>2024 Approved Ultimate Online Destinations for 3D Shimmering Letters</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-oppo-find-n3-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Oppo Find N3? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/core-strategies-for-tailoring-compelling-social-media-promotions-for-2024/"><u>Core Strategies for Tailoring Compelling Social Media Promotions for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-12-pro-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 12 Pro Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-dvd-production-modern-techniques-for-mac-users/"><u>In 2024, Innovative DVD Production Modern Techniques for Mac Users</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/innovative-approaches-to-social-media-video-making/"><u>Innovative Approaches to Social Media Video Making</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-youtube-thumbnails-essential-dimensions-explored-for-2024/"><u>Mastering YouTube Thumbnails Essential Dimensions Explored for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/remedying-no-audio-in-obs-sessions/"><u>Remedying No Audio in OBS Sessions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-verse-potential-with-intelligent-ai-assistance/"><u>Unlocking Verse Potential with Intelligent AI Assistance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/vlc-vs-mx-players-efficiency-debate/"><u>VLC Vs. MX Player's Efficiency Debate</u></a></li>
+</ul></div>
 

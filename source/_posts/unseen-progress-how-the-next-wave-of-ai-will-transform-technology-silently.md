@@ -1,7 +1,7 @@
 ---
 title: "Unseen Progress: How the Next Wave of AI Will Transform Technology Silently"
-date: 2024-08-27 11:42:50
-updated: 2024-08-29 12:23:51
+date: 2025-01-22T01:11:06.507Z
+updated: 2025-01-23T21:43:13.411Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/7b81e5a1677e5963f8851410568bf197590afb572
 ---
 
 ## Unseen Progress: How the Next Wave of AI Will Transform Technology Silently
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -23,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/7b81e5a1677e5963f8851410568bf197590afb572
 
  Qualcomm is developing a _lot_ of AI hardware and software, built up from the company’s experience with mobile image processing and other earlier implementations of on-device machine learning. The new [Snapdragon X chipsets for PC laptops](https://extra-skills.techidaily.com/updated-mobile-mastery-upgrade-photos-elevated-at-no-price/) have a dedicated neural processing unit (NPU) for on-device AI tasks. The company’s newer mobile chips, like the Snapdragon 8s Gen 3, can handle some large language models (LLMs) without help from an external server over an internet connection. Qualcomm isn’t alone here, to be clear—the latest laptop CPUs from AMD and Intel also have NPUs, and consumer Nvidia GPUs can also handle many on-device AI workloads.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Outside The Hype
 
  I know what you’re thinking. You’re tired of hearing every tech company ramble about AI like it’s the magical solution to all the world’s problems. You’re sick of the AI features popping up in your favorite apps. Maybe you’re an artist, writer, or some other creator that heard [OpenAI’s CTO say](https://fortune.com/2024/06/24/ai-creative-industry-jobs-losses-openai-cto-mira-murati-skill-displacement/) that AI could kill some creative jobs that “shouldn’t have been there in the first place,” and you’re ready to burn it all down to the ground. I get that, and I agree most implementations of “AI” right now are solutions in search of a problem or actively harmful.
@@ -33,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/7b81e5a1677e5963f8851410568bf197590afb572
 
 ![Live demo of DJ software running on a Snapdragon X Elite laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qualcomm.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Corbin Davenport / How-To Geek
 
  The ability to run large language models on a more typical smartphone, tablet, or PC opens up other interesting use cases. For example, the upcoming [“Apple Intelligence” on iPhones, iPads, and Macs](https://some-techniques.techidaily.com/new-from-streaming-to-savings-preserving-your-internet-tunes/) will use on-device AI to sort notifications and better understand spoken language in Siri. There are some features that are harder to build and scale when they require a powerful datacenter somewhere, and that’s what hardware makers are trying to change right now.
@@ -40,6 +52,10 @@ Corbin Davenport / How-To Geek
  There aren’t many applications and services that use on-device AI right now, because they can behave differently across different devices and operating systems, and not everyone has a phone or PC with the required processing power. Newer developer tools, like [NVIDIA’s TensorRT-LLM](https://blogs.nvidia.com/blog/ignite-rtx-ai-tensorrt-llm-chat-api/) and [Qualcomm’s AI Engine Direct SDK](https://www.qualcomm.com/developer/software/qualcomm-ai-engine-direct-sdk), are slowly making that part more accessible for software developers. Eventually, adding a feature that requires a powerful LLM won’t be much more complex than adding a feature that needs any other system function, and I expect that’s when we’ll see more apps adding useful features.
 
  These advancements are pointing towards a future where more on-device AI features will be possible, and they will be implemented just like any other functionality in your favorite applications. The trend of obnoxious AI chatbots or AI-suggested replies on social media posts will eventually fade away (hopefully), but we’ll be left with the features that are _actually useful_. That’s the real AI revolution: not a giant Copilot button in Microsoft Edge, but your apps and devices becoming smarter and accomplishing specific tasks much quicker and more efficiently.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What’s Old Is New
 
@@ -57,11 +73,25 @@ _Disclosure: My trip to San Diego, California to visit the AI Analyst & Media Wo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-platform-showdown-podcast-vs-youtube/"><u>[New] The Ultimate Platform Showdown Podcast vs YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-free-time-tracker-a-step-by-step-guide/"><u>[Updated] 2024 Approved Mastering FREE Time Tracker A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-efficient-guide-image-conversion-to-professional-youtube-thumbnails-for-2024/"><u>[Updated] Efficient Guide Image Conversion to Professional YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-newcomer-to-notable-nominee-nudging-numbers-naturally/"><u>[Updated] From Newcomer to Notable Nominee Nudging Numbers Naturally</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-free-logos-sculpt-your-brand-with-stock-imagery/"><u>[Updated] In 2024, Free Logos Sculpt Your Brand with Stock Imagery</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-art-of-effective-online-engagement-on-fb-for-2024/"><u>[Updated] The Art of Effective Online Engagement on FB for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-tecno-pop-8-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Tecno Pop 8 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-craft-your-facebook-profile-video/"><u>In 2024, Craft Your Facebook Profile Video</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-foremost-12-gps-enabled-cctv-cameras-for-motion-recording/"><u>In 2024, Foremost 12 GPS-Enabled CCTV Cameras for Motion Recording</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/master-the-mix-incorporating-and-refining-music-into-canva-projects/"><u>Master the Mix Incorporating & Refining Music Into Canva Projects</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/write-with-your-smile-best-ios-and-android-photo-text-apps-for-2024/"><u>Write with Your Smile – Best iOS & Android Photo Text Apps for 2024</u></a></li>
+</ul></div>
+

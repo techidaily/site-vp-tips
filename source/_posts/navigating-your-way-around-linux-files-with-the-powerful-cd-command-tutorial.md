@@ -1,7 +1,7 @@
 ---
 title: Navigating Your Way Around Linux Files with the Powerful CD Command Tutorial
-date: 2024-08-31T08:56:28.746Z
-updated: 2024-09-01T08:56:28.746Z
+date: 2025-01-22T01:02:42.120Z
+updated: 2025-01-23T18:22:58.779Z
 tags:
   - desktop
 categories:
@@ -31,9 +31,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Well, more than you'd think. Here are a few hints and tips that might improve your efficiency.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Standard cd Operations
 
  For the sake of being complete, let's quickly run through the standard uses of `cd`.
@@ -46,9 +43,6 @@ cd /home/dave
 
 ![cd /usr/lib/firefox/browser/ in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/04/1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  You don't have to type the whole directory path; you can use auto-complete. For each part of a path, after you type enough letters to distinguish the name of the directory from the others, press Tab to auto-complete the directory name.
 
  For example, type the following on the command line:
@@ -65,9 +59,6 @@ cd /usr/lib/fire
 
 ![cd ~ in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/04/2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  These are examples of absolute paths, in which you provide the entire path from the root of the filesystem to the target directory, to `cd`.
 
  Relative paths are referenced from the current working directory. In the home directory, there's a directory called `work`. You can use the `tree` command to [see the directory tree](https://linux.die.net/man/1/tree) inside the `work` directory—just type the following:
@@ -76,9 +67,6 @@ tree
 
 ![tree command in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/04/3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The `work` directory contains a directory called `dev` . There's also a directory called `dev` in the root directory of the filesystem. You can [use ls](https://extra-tips.techidaily.com/in-2024-capturecraft-hd-top-10-freepaid-filters-list/) with `-d` (directory) to look at each of these. The `-hl` (human-readable, long listing) option tells `ls` to use easy to read units for the directory sizes, and the long format listing.
 
  If you type **`dev`**, the shell assumes you mean the "dev" in the current directory. To force it to look at the "dev" in the root directory, just add a leading forward slash to represent the root of the filesystem, as shown below:
@@ -89,11 +77,19 @@ ls -d /dev -hl
 
 ![ls -d dev -hl in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/04/4.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The `cd` command behaves like `ls` in this respect. If you reference the directory as `dev`, as shown below, it assumes you mean the directory in the `work ` directory:
 
 cd dev
 
 ![cd dev in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/04/5.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Without a leading forward slash, longer paths are assumed to start from the current working directory, too, as shown below:
 
@@ -101,9 +97,6 @@ cd dev/mobile/android
 
 ![cd dev/mobile/android in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/04/6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Changing the Directory with Double Dot
 
  The double dot identifier represents the parent directory of the current working one. If you're in a deeply nested subdirectory, you can use `..` with `cd` to move to the parent directory of the one you're in.
@@ -118,10 +111,6 @@ cd ../..
 
 ![cd .. in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/04/7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
  You can also create a set of aliases to perform these maneuvers for you, by typing the following:
 
 alias .2="cd ../.."
@@ -134,7 +123,15 @@ alias .3="cd ../../.."
 
 ![alias .2="cd ../.." being used to change directory in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/04/9.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To make the aliases consistent across reboots of your computer, you must [add them to your .bashrc or .bash\_aliases file](https://hardware-help.techidaily.com/download-the-latest-logitech-camera-drivers-at-no-cost-for-windows-users/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Easily Hop Between Two Directories
 
@@ -150,15 +147,11 @@ cd -`
     
 ![Running 'cd ../forth' followed by two 'cd -' commands.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/10-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  The name of the directory you're moving to appears before you move into it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Another Kind of Relative
 
@@ -169,6 +162,10 @@ cd -`
 export CDPATH=/home/dave/work/dev/projects
 
 ![Running 'export CDPATH=/home/dave/work/dev/projects' in the Terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/11-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, each time you use the `dc` command, the location in the `CDPATH` environment [variable](https://youtube-sure.techidaily.com/ed-ideal-history-streams-the-10-premier-channels-for-students-study-for-2024/) is checked first for matching directory names. If any of them match the target you provided in the `cd` command, you're transferred to that directory.
 
@@ -189,8 +186,9 @@ cd forth
 ![Running a few different CD commands.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The `CDPATH` environment variable is truly a path, just like [the PATH environment variable](https://screen-sharing-recording.techidaily.com/2024-approved-best-tools-for-live-gameplay-screen-grabs/). When you type a command, the shell searches the locations in the `PATH` for a match. When you use `CDPATH`, the shell searches the locations in the `CDPATH` environment variable for a match. Also, the same as `PATH`, `CDPATH` can contain multiple locations.
 
  To have the shell search the current directory before other locations in the `CDPATH` environment variable, you just add a period (`.`) at the beginning of the path like so:
@@ -204,6 +202,10 @@ cd forth
         `if test "${PS1+set}"; then CDPATH=.:/home/dave/work/dev/projects; fi`
     
  This performs a test to see whether the command-line prompt variable, `$PS1` , was set. The `CDPATH` environment variable will only be set if the test succeeds.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Using shopt with cd
 
@@ -219,9 +221,6 @@ cd Desktpo
 
 ![Run 'shopt -s cdspell' to enable Shell spellchecker.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/13-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
  The shell caught the error, corrected it, and changed to the "Desktop" directory.
 
  Another `shopt` option you can use with `cd` is `autocd`. It eliminates the need for you to type `cd` at all. Anything you type that isn't a command, script, or other executable (such as an alias), is used as a target directory. If you can transfer to that directory, it's printed in the terminal window, and you're changed to that directory.
@@ -242,9 +241,6 @@ shopt -s autocd
 
  The settings you change with `shopt` only affect interactive shells, not scripts.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The cd Collection
 
  You probably won't adopt all of these. However, it's likely you found something of interest or benefit here. After all, anything that speeds up or simplifies your command-line navigation is all good!
@@ -261,8 +257,6 @@ shopt -s autocd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -270,4 +264,19 @@ shopt -s autocd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-full-disclosure-on-the-t5-cameras-action-features-for-2024/"><u>[New] Full Disclosure on the T5 Camera's Action Features for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ideal-selections-the-best-9-mobile-video-meeting-solutions-reviewed/"><u>[New] Ideal Selections The Best 9 Mobile Video Meeting Solutions Reviewed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-avoiding-misdated-memories-with-exact-times/"><u>[New] In 2024, Avoiding Misdated Memories with Exact Times</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-ditching-xsplit-ideal-splitting-software/"><u>[New] In 2024, Ditching XSplit Ideal Splitting Software</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-picture-perfect-zero-cost-photo-enhancement-app/"><u>[New] In 2024, Picture Perfect Zero Cost Photo Enhancement App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-cam-showdown-spectacle-ultimate-legendary-sj6-meets-yis-visionary-4k/"><u>[Updated] Cam Showdown Spectacle Ultimate Legendary SJ6 Meets Yi's Visionary 4K</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-filmmakers-handbook-for-uav-operations-for-2024/"><u>[Updated] The Filmmaker's Handbook for UAV Operations for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/descargando-peliculas-con-ripper-dvd-tutorial-completo-por-movavi/"><u>Descargando Películas Con Ripper DVD - Tutorial Completo Por Movavi</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-how-to-find-facebook-recently-watched-videos/"><u>In 2024, How to Find Facebook Recently Watched Videos?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-is-mega-mewtwo-the-strongest-pokemon-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Is Mega Mewtwo The Strongest Pokémon On Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-crashing-effective-solutions-to-stop-outriders-from-failing/"><u>No More Crashing: Effective Solutions to Stop Outriders From Failing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-list-the-premier-pc-vr-headsets-of-2023-for-2024/"><u>Updated List The Premier PC VR Headsets of 2023 for 2024</u></a></li>
+</ul></div>
 

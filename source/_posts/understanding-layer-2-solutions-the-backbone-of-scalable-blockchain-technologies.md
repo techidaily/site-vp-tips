@@ -1,7 +1,7 @@
 ---
 title: "Understanding Layer 2 Solutions: The Backbone of Scalable Blockchain Technologies"
-date: 2024-08-28 13:43:34
-updated: 2024-08-29 10:26:31
+date: 2025-01-18T19:30:16.170Z
+updated: 2025-01-24T01:27:09.990Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13
 ---
 
 ## Understanding Layer 2 Solutions: The Backbone of Scalable Blockchain Technologies
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -20,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13
 * [Layer 2's for the Long Haul](https://tech-savvy.techidaily.com/enterprise-advancement-through-expanded-api-scope-gpt-whisper/)
 
  Remember when having 16 gigabytes of storage on your smartphone was an incredible amount? Just as the technology of your smartphone has adapted for current demands, so have many of the world's leading cryptocurrencies.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why Layer 2 Is Necessary
 
@@ -32,6 +40,10 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  The processing of transactions quickly and cheaply is known as scaling. [Bitcoin](https://extra-support.techidaily.com/navigating-through-excellent-hdr-cam-choices-for-2024/) and [Ethereum](https://extra-information.techidaily.com/in-2024-automated-opener-your-srt-files-windows-and-mac/) have become some of the most notorious Layer 1 blockchains that do not scale well. Bitcoin can only process about 5 to 7 transactions per second, and Ethereum processes about double that amount.
 
 ![A bottleneck.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/shutterstock_1425498725.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [higyou/Shutterstock.com](https://www.shutterstock.com/image-illustration/crowd-small-symbolic-figures-labyrinth-bottleneck-1425498725)
 
@@ -55,6 +67,10 @@ Related: [What Is Bitcoin's Lightning Network, and How Do You Use It?](https://l
 
  Channels track multiple payments between two users, kind of like rollups. Contrary to rollups, however, channels only record two transactions on the Layer 1 blockchain. If the same one dollar was sent back and forth between two people 20 times, rollups would have 20 transactions. With channels, only the final amount each user possesses is added to the Layer 1\. [The Lightning Network](https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-htc-u23-drfone-by-drfone-virtual-android/) is considered a Layer 2 solution and is the most popular scaling option for Bitcoin.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Blockchain Trilemma
 
  So why don't all Layer 1 blockchains need a Layer 2 solution? The answer lies in understanding certain limitations of building a blockchain.
@@ -71,6 +87,10 @@ Related: [What Is Bitcoin's Lightning Network, and How Do You Use It?](https://l
 
 [Trikona/Shutterstock.com](https://www.shutterstock.com/image-vector/vector-decentralization-scalability-security-blockchain-trilemma-1517334278)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Layer 2's for the Long Haul
 
  As of [March 2022](https://coinmarketcap.com/charts/), Bitcoin and Ethereum made up more than half of the entire cryptocurrency market cap. These blockchains support a vast number of users and [DeFi](https://facebook-record-videos.techidaily.com/new-the-monetary-journey-of-ajey-nagar-on-youtube/) ecosystems. Other Layer 1's (Cardano, Avalanche, Solana, etc.) have begun to grab more of the market share but they lack some of the intrinsic decentralization and security that make Bitcoin and Ethereum so unique.
@@ -83,11 +103,29 @@ Related: [What Is Bitcoin's Lightning Network, and How Do You Use It?](https://l
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unlocking-visuals-detailed-guide-to-hero5-black-proficiency/"><u>[New] 2024 Approved Unlocking Visuals Detailed Guide to Hero5 Black Proficiency</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-mastering-youtube-metrics-a-compreousible-roadmap-to-tracking-traffic-and-turnover/"><u>[New] In 2024, Mastering YouTube Metrics A Compreousible Roadmap to Tracking Traffic and Turnover</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-breakthrough-strategies-to-maximize-impact-on-snapchat/"><u>[Updated] 2024 Approved Breakthrough Strategies to Maximize Impact on Snapchat</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-viral-stocks-uncovered-behind-the-photo-stories/"><u>[Updated] 2024 Approved Viral Stocks Uncovered Behind the Photo Stories</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-elysiumeditpro-unveiling-photo-wonders-for-2024/"><u>[Updated] ElysiumEditPro Unveiling Photo Wonders for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-hot-hands-on-10-must-have-vr-peripherals/"><u>[Updated] Hot Hands-On 10 Must-Have VR Peripherals</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-livechat-recorder-pro-hd/"><u>[Updated] LiveChat Recorder Pro HD</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-tapping-into-asmrs-potential-for-self-improvement-for-2024/"><u>[Updated] Tapping Into ASMR's Potential for Self-Improvement for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-twitter-to-mp3-how-to-convert-videos-on-social-media-for-2024/"><u>[Updated] Twitter to MP3 How to Convert Videos on Social Media for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-master-privacy-unveil-faces-less-clearly/"><u>2024 Approved Master Privacy Unveil Faces Less Clearly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/a-deep-dive-into-sns-hdr-does-it-justify-its-cost-in-2024/"><u>A Deep Dive Into SNS HDR Does It Justify Its Cost, In 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-sony-xperia-5-v-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Sony Xperia 5 V Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/checking-your-amazon-order-history-for-recalled-items-made-easy-by-new-feature-zdnet/"><u>Checking Your Amazon Order History for Recalled Items Made Easy by New Feature | ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/five-effective-techniques-to-repair-windows-10-touchscreen-issues/"><u>Five Effective Techniques to Repair Windows 10 Touchscreen Issues</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-intel-b560-coffee-lake-motherboard-and-chipset-for-free/"><u>Get Your Intel B560 Coffee Lake Motherboard & Chipset for FREE</u></a></li>
+</ul></div>
+

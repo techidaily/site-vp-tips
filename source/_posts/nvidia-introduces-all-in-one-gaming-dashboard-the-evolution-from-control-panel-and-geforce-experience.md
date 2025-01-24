@@ -1,7 +1,7 @@
 ---
 title: "NVIDIA Introduces All-in-One Gaming Dashboard: The Evolution From Control Panel & GeForce Experience"
-date: 2024-08-31T08:55:27.974Z
-updated: 2024-09-01T08:55:27.974Z
+date: 2025-01-18T16:24:05.555Z
+updated: 2025-01-23T22:23:42.690Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/7d1b7d497493e5756a9eae2f81fc5bb531d48fafe
 ---
 
 ## NVIDIA Introduces All-in-One Gaming Dashboard: The Evolution From Control Panel & GeForce Experience
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -31,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/7d1b7d497493e5756a9eae2f81fc5bb531d48fafe
 
  Aside from the three buttons at the top, the main window shows the currently selected section, with five different sections in total: Home, Drivers, Graphics, Redeem, and Settings.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Five Tabs to Rule Them All
 
  The Home tab lists the latest NVIDIA-related news at the top, a couple of titles from your game library in the middle, and a list of apps you can download from the NVIDIA app at the bottom. These include FrameView, which offers in-depth performance metrics; ICAT, which allows you to take screenshots and compare them side-by-side; [GeForce Now](https://extra-lessons.techidaily.com/smileshop-memelore-hub/) for cloud gaming, and more.
@@ -43,22 +44,21 @@ thumbnail: https://thmb.techidaily.com/7d1b7d497493e5756a9eae2f81fc5bb531d48fafe
 ![NVIDA App Home Tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/nvida-app-02.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Drivers tab lists the latest Game Ready or Studio driver available, and you can switch between the two at the top of the window. There are also options to download or reinstall the driver. Below, you can see what's new in the new driver, as well as the most important bug fixes. This info is super handy, allowing users to quickly glance over the two lists and decide whether to install the latest driver or not.
 
 ![Driver section of the NVIDIA app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/nvida-app-03-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
  The Graphics tab contains global and game-specific driver settings and in-game visual settings. You can click on a game and tweak its graphic options right from the NVIDIA app, as well as customize game-specific and global driver-level settings such as limiting the frame rate, setting the size of the shader cache, toggling [G-Sync](https://screen-recording.techidaily.com/new-leveraging-the-strengths-of-ez-grabber-software-for-2024/), and so on.
 
 ![NVIDA App Graphics tab showing the global settings options menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/nvida-app-05.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In a nutshell, the Graphics section combines the [Game Optimization feature of GeForce Experience](https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/) with most, but not all, driver-level 3D settings found in the NVIDIA Control Panel. This is great because once the app exits beta, we should have a unified visual options menu instead of having to cycle between GeForce Experience and NVIDIA Control Panel.
 
  NVIDIA hasn’t transferred all the options from the Control Panel yet, meaning the two apps will coexist while the NVIDIA app is in beta.
@@ -71,13 +71,18 @@ thumbnail: https://thmb.techidaily.com/7d1b7d497493e5756a9eae2f81fc5bb531d48fafe
 
 ![Redeem section of the NVIDIA app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/nvida-app-06.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Finally, we’ve got the Settings tab. This is where you can find details about your computer, enable or disable the NVIDIA in-game overlay, allow the app to automatically download new GPU drivers, turn on desktop notifications that let you know about fresh driver updates, and more. The Settings menu is well-designed and easy to navigate around.
 
 ![Settings Section of the NVIDIA app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/nvida-app-07.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  NVIDIA App vs. GeForce Experience
 
  I find the NVIDIA app to be a major step forward compared to the outgoing GeForce Experience software. It’s easier to navigate and locate the settings you’re looking for, notably faster, doesn’t force you to sign in with your NVIDIA account to use it, and it’s got a clean design without too many options and features cluttering up the Settings tab, which is the case with GeForce Experience.
@@ -95,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/7d1b7d497493e5756a9eae2f81fc5bb531d48fafe
  Probably the most prominent feature that didn’t migrate to the new app is [NVIDIA GameStream](https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c51-pin-codepattern-lockpassword-by-drfone-android/). This isn’t that surprising, considering that [NVIDIA dropped GameStream support](https://nvidia.custhelp.com/app/answers/detail/a%5Fid/5436) for its SHIELD devices in early 2023\. But since many users, myself included, had used the feature in combination with the [Moonlight](https://moonlight-stream.org) client [to locally stream their games](https://win-solutions.techidaily.com/expert-tips-to-fix-cannot-connect-mishaps-in-your-favorite-game-lost-ark/) from their PC to all kinds of devices (including smart TVs, phones, tablets, and handheld PCs such as [Steam Deck](https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-x100-drfone-by-drfone-virtual-android/) and [ASUS ROG Ally](https://some-guidance.techidaily.com/2024-approved-streamline-and-shine-the-top-5-video-quality-tools/)), the news has been hard to swallow.
 
  For what it’s worth, I’ve been using [Sunshine](https://app.lizardbyte.dev/Sunshine/) instead of NVIDIA GameStream for the past month or so, and I can say that Sunshine works as well as GameStream while also supporting AMD and Intel graphics cards. If you’re one of the people using GameStream, I recommend checking out Sunshine sooner rather than later because once the NVIDIA app exits beta and replaces GeForce Experience, you’ll have no other option than switching to Sunshine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The NVIDIA In-Game Overlay Has Received a Major Overhaul
 
@@ -114,12 +123,6 @@ thumbnail: https://thmb.techidaily.com/7d1b7d497493e5756a9eae2f81fc5bb531d48fafe
 
 ![Heads up display options menu in the NVIDIA overlay.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/nvida-app-09.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  NVIDIA App and NVIDIA Control Panel Will Coexist for the Time Being
 
  The NVIDIA Control Panel is here to stay at the time being, coexisting with the NVIDIA app. The main reason is that the NVIDIA app is still in beta and while it includes all the features found in GeForce Experience, it still lacks several options available in the Control Panel.
@@ -142,8 +145,6 @@ thumbnail: https://thmb.techidaily.com/7d1b7d497493e5756a9eae2f81fc5bb531d48fafe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +152,20 @@ thumbnail: https://thmb.techidaily.com/7d1b7d497493e5756a9eae2f81fc5bb531d48fafe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-inconspicuous-footprint-of-social-media-engagements/"><u>[New] 2024 Approved The Inconspicuous Footprint of Social Media Engagements</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-choosing-a-streaming-powerhouse-obs-or-wirecast/"><u>[New] Choosing a Streaming Powerhouse OBS or Wirecast?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-transform-your-imagery-with-these-mobile-montage-leaders-for-2024/"><u>[New] Transform Your Imagery with These Mobile Montage Leaders for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-innovative-methods-to-hear-podcasts-on-iphone-for-2024/"><u>[Updated] Innovative Methods to Hear Podcasts on iPhone for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-kickstart-a-successful-charity-contest-via-social-media-for-2024/"><u>[Updated] Kickstart a Successful Charity Contest via Social Media for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-incorporating-itunes-vibes-into-videos/"><u>2024 Approved Incorporating iTunes Vibes Into Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-top-4-proven-tactics-for-exceptional-loop-videos-on-ig/"><u>2024 Approved Top 4 Proven Tactics for Exceptional Loop Videos on IG</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/different-versions-of-windowed-movie-crafting-for-2024/"><u>Different Versions of Windowed Movie Crafting for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-these-fascinating-facts-about-your-favorite-emojis/"><u>Discover These Fascinating Facts About Your Favorite Emojis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ideal-frames-per-second-in-slow-motion-vids/"><u>Ideal Frames Per Second in Slow Motion Vids</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-reviews-by-tom-a-trusted-source-for-gadget-enthusiasts/"><u>Pioneering Reviews by Tom: A Trusted Source for Gadget Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-significance-of-kubernetes-in-modern-computing-a-comprehensive-guide/"><u>Understanding the Significance of Kubernetes in Modern Computing: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uninstalling-and-reinstalling-troubled-apps-in-windows/"><u>Uninstalling and Reinstalling Troubled Apps in Windows</u></a></li>
+</ul></div>
 

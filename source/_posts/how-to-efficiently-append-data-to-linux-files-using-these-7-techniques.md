@@ -1,7 +1,7 @@
 ---
 title: How to Efficiently Append Data to Linux Files Using These 7 Techniques
-date: 2024-08-31T08:55:15.464Z
-updated: 2024-09-01T08:55:15.464Z
+date: 2025-01-18T20:35:33.423Z
+updated: 2025-01-24T02:26:23.560Z
 tags:
   - desktop
 categories:
@@ -39,11 +39,19 @@ touch append.txt
 
 ![Linux terminal display the touch command to create an empty text file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-8.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To see the content of the file, run:
 
 cat append.txt
 
  You won't get any output as currently, there is no content in the file. Now that we have an empty file, we can add some lines to it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Using echo to Append Text to a File
 
@@ -64,17 +72,15 @@ echo "This is a file" > append.txt
 ![Linux terminal shows how the echo command is used to add text to a file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  However, with a single redirection operator (>), you won't be able to append lines to the file. If you try to add another line to the above file using the same command, it will override the existing content of the file. Let's see that in action. Run the below command:
 
 echo "Trying to append a line to the file" > append.txt
 
 ![Linux terminal showcasing how the echo command can override the content of a text file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  So how to overcome this? Simple. To append some text to a file without overriding its content, use another redirection operator (>>), like this:
 
 echo "Trying to append a line to the file" >> append.txt
@@ -82,6 +88,10 @@ echo "Trying to append a line to the file" >> append.txt
 ![The Linux terminal shows the use of the echo command to append a line to a text file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-2.png) 
 
  This time, the line will get appended to the file, as expected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  2\. Using cat to Append Text to a File
 
@@ -99,6 +109,10 @@ cat anotherfile.txt >> append.txt
 
 ![Linux terminal showing the use of the cat command to combine the contents of different files](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-4.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another good way to use the cat command is to concatenate the contents of multiple files into a single file. For that, specify the file names as arguments, like this:
 
 cat file1 file2 file3 >> file4
@@ -108,6 +122,10 @@ cat file1 file2 file3 >> file4
 cat employee1.txt employee2.txt employee3.txt >> employees.txt
 
 ![The Linux terminal shows how to use the cat command to combine the contents of several files and append them to another file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Using printf to Add Text at the End of a File
 
@@ -127,18 +145,6 @@ printf "Using printf to append text with a new line\n" >> append.txt
 
 ![The Linux terminal shows how to use a new line character with the printf command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-2.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This time, the terminal prompt is at a new line, unlike in the previous case.
 
 ##  4\. Using sed
@@ -157,10 +163,6 @@ sed -i '$ a Do not feel sed' append.txt
 
 ![The Linux terminal showing the use of sed command to append a line at the end of a file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  The "-i" option tells the system that it will use the file in question to insert the text. The "$" sign means the line will be added at the end of the file. Adding the "a" in front of our text tells the system that we want the line to be appended to the existing content of the file.
 
  One good thing about the sed command is that you can add text anywhere in the file. So, for example, if you want to add something after the fourth line, use the command like this:
@@ -169,9 +171,6 @@ sed -i '4 a Appended after the fourth line' append.txt
 
 ![The Linux terminal demonstrating the sed command used to append a text line at a specific position of a file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This time, the line was added exactly after the fourth line.
 
 ##  5\. Using tee to Append Text to a File
@@ -188,23 +187,14 @@ tee -a append.txt
 
 ![The Linux terminal showing the use of the tee command to append a line to a file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/12-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the other method, the terminal won't repeat the string you type in, making the process much cleaner. Other than that, it works in the same way. Here's the command:
 
 tee >> append.txt
 
 ![The Linux terminal showcasing the use of the tee command to append a line to a file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/12-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
  As you can see, when we typed in a string, it wasn't displayed in the terminal again.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  6\. Using awk
 
  The [awk command](https://facebook-videos.techidaily.com/new-in-2024-revolutionizing-advertising-on-facebook-with-the-best-video-tactics/) is extremely powerful when it comes to text manipulation. With some tweaking, you can add text to files using this command. Here's the syntax for the command:
@@ -216,8 +206,9 @@ awk 'BEGIN{print "Feeling awkward"}' >> append.txt
  In the above example, we used the awk command's BEGIN rule to print some text and send it to our target file using the redirection operators.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  7\. Using a Text Editor to Append Text
 
  This one is rather straightforward. If you don't like using commands or find it difficult to memorize the syntax, then you can simply use any Linux text editor to append lines to a text file. For this tutorial, we'll use the [nano text editor](https://sound-issues.techidaily.com/fixing-the-problem-of-a-non-functional-corsair-hs70-microphone-a-step-by-step-guide/).
@@ -228,9 +219,6 @@ nano <filename>
 
 ![The content of a file called append.txt that was opened in the Nano text editor program](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/14-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
  Remember to replace <filename> with the path to an actual file in the above command. Once it's opened in the editor, you can navigate through the text using the arrow keys and type in anything you like using your keyboard.
 
  To append a line, all we need to do is use the down arrow key to go to the bottom of the file. If you need to create a new line, do that by pressing Enter. Then enter any text you want. Finally, save the file using Ctrl+O and exit the editor using Ctrl+X.
@@ -243,7 +231,15 @@ ls >> command.txt
 
 ![The Linux terminal demonstrating how to save the output of a command to a file using the redirection operators](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/15.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The same goes for any other [Linux command](https://buynow-help.techidaily.com/misinterpretation-of-gram-staining-results-can-lead-to-incorrect-identification-affecting-treatment-decisions-in-clinical-settings/). You write that command, add the redirection operators, and then the file name where you want to save the output.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Append Standard Output and Standard Error to a File
 
@@ -253,9 +249,6 @@ command >> file.txt 2>&1
 
  Instead of the "command" field, you need to type in a specific command whose output you want to capture. 1 and 2 are file descriptors for standard output and standard error, respectively. We also use an & sign to indicate that what comes before and after the redirection operator are file descriptors and not file names.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  A Better Linux File Manipulation Experience
 
  With this newly equipped knowledge, you can now easily append some text or strings to any file of your choice. Depending on your situation and familiarity with Linux commands, you can choose any of the above methods.
@@ -266,8 +259,6 @@ command >> file.txt 2>&1
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -275,4 +266,24 @@ command >> file.txt 2>&1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-peak-level-hd-capture-best-screen-recorder-innovations-unveiled/"><u>[New] 2024 Approved Peak-Level HD Capture Best Screen Recorder Innovations Unveiled</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-superior-audio-modification-software-with-enchanting-features/"><u>[Updated] 2024 Approved Superior Audio Modification Software with Enchanting Features</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-expert-subtitle-transformation-made-simple-top-10-lists/"><u>[Updated] Expert Subtitle Transformation Made Simple - Top 10 Lists</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-prime-drone-selections-to-enhance-gopro-videos/"><u>[Updated] In 2024, Prime Drone Selections to Enhance GoPro Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-prime-online-destinations-featuring-3d-art-and-metallic-text/"><u>[Updated] In 2024, Prime Online Destinations Featuring 3D Art & Metallic Text</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-dimming-curtain-call-fade-techniques-for-pro-for-2024/"><u>[Updated] The Dimming Curtain Call Fade Techniques for Pro for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-exploring-the-unspoken-rules-of-instagram-mastery/"><u>2024 Approved Exploring the Unspoken Rules of Instagram Mastery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-mastering-viewer-interest-6-video-styles-explored/"><u>2024 Approved Mastering Viewer Interest 6 Video Styles Explored</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/creating-memorable-beginnings-imovie-tips-for-youtube-videos/"><u>Creating Memorable Beginnings IMovie Tips for YouTube Videos</u></a></li>
+<li><a href="https://win-trending.techidaily.com/find-your-sticky-notes-folder-on-windows-1011-with-easy-steps/"><u>Find Your Sticky Notes Folder on Windows 10/11 with Easy Steps!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-6s-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone 6s? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-se-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From Apple iPhone SE If Youve Tried Everything</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/icy-illusions-reveling-at-beijings-olympic-event-2022/"><u>Icy Illusions Reveling at Beijing's Olympic Event, 2022</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on iPhone 13 Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-energy-efficiency-optimizing-low-power-mode-on-macos-monterey-tips/"><u>Mastering Energy Efficiency: Optimizing Low Power Mode on macOS Monterey - Tips</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/premium-top-8-smoothest-capture-tools-for-2024/"><u>Premium Top 8 Smoothest Capture Tools for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quick-ig-update-on-todays-compelling-podcast-for-2024/"><u>Quick IG Update on Today's Compelling Podcast for 2024</u></a></li>
+</ul></div>
 

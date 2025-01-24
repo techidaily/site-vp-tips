@@ -1,7 +1,7 @@
 ---
 title: "How to Build & Operate Personalized Microsoft Bot Using GPT Technology: Insights & Steps for Success"
-date: 2024-08-28 23:17:36
-updated: 2024-08-29 12:46:53
+date: 2025-01-20T20:47:45.392Z
+updated: 2025-01-23T19:52:52.298Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 ---
 
 ## How to Build & Operate Personalized Microsoft Bot Using GPT Technology: Insights & Steps for Success
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 * [Step 4: Install the GPT-2 Model From OpenAI](https://extra-support.techidaily.com/lolkit-design-memes-and-graphics-with-a-click-for-2024/)
 * [Step 5: Start Using Your Custom GPT AI Chatbot](https://some-approaches.techidaily.com/2024-approved-the-ultimate-key-to-exploring-without-boundaries-through-vr/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Running your own local GPT chatbot on Windows is free from online restrictions and censorship.
@@ -28,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 * Customize and train your GPT chatbot for your own specific use cases, like querying and summarizing your own documents, helping you write programs, or imitating your own characters.
 
  There are a number of advantages to running a GPT/AI chatbot on your own computer rather than accessing one on the Internet. We'll show why you might want to, and the easiest way to get it set up on Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why Would You Want Your Own Local AI Chatbot?
 
@@ -59,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 
 ![Where to download the .zip file for a GitHub repository.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/download-zip-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Brad Morton / How-To Geek
 
 [Extract the downloaded ZIP file](https://video-screen-grab.techidaily.com/updated-in-2024-essential-screen-capture-software-top-picks-ranked/) into its own folder, and then open the folder containing the unzipped files. Don't worry too much about the contents of this folder: it's all the moving parts for your AI chatbot, but Docker will take care of setting everything up for you.
@@ -74,6 +90,10 @@ Brad Morton / How-To Geek
  Then, still in the folder containing the downloaded and extracted files, right-click on an empty space and click "Open in Terminal" to open the directory in a new [PowerShell](https://some-guidance.techidaily.com/updated-unleash-creativity-fast-windows-10-photo-edits-made-simple/) window.
 
 ![The location of the 'Open in Terminal' in the context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/open-in-terminal.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Brad Morton / How-To Geek
 
@@ -100,6 +120,10 @@ Brad Morton / How-To Geek
  The running container will also appear in Docker Desktop, where you can stop, start, and manage it.
 
 ![Docker Desktop showing a running container.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/docker.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Brad Morton / How-To Geek
 
@@ -143,11 +167,31 @@ _Hoo boy, while it got the right answer, this AI chatbot needs a bit of fine-tun
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-audiovisual-harmony-music-integration-in-social-media/"><u>[New] 2024 Approved Audiovisual Harmony Music Integration in Social Media</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-ensuring-every-snapchatter-friendly-footage-via-mac/"><u>[New] 2024 Approved Ensuring Every Snapchatter-Friendly Footage via Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-iphones-ultimate-video-capture-list/"><u>[New] 2024 Approved IPhone's Ultimate Video Capture List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-unparalleled-8-webcams-elevate-your-livestream-experience/"><u>[New] In 2024, Unparalleled 8 Webcams Elevate Your Livestream Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-unveiling-novel-window-11-secrets-for-enhanced-usage/"><u>[New] In 2024, Unveiling Novel WINDOW 11 Secrets for Enhanced Usage</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-step-by-step-guide-building-high-quality-windows-11-videos/"><u>[New] Step-by-Step Guide Building High-Quality Windows 11 Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-clear-sky-route-to-free-unmarked-tiktok-videos/"><u>[New] The Clear-Sky Route to Free, Unmarked TikTok Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-apex-elite-comprehensive-4k-touch-desktops-for-2024/"><u>[Updated] Apex Elite Comprehensive 4K Touch Desktops for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-high-definition-streaming-wars-vmix-or-wirecast-for-2024/"><u>[Updated] High Definition Streaming Wars VMix or Wirecast for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-how-to-intensify-your-gaming-view-on-roblox-platforms/"><u>2024 Approved How to Intensify Your Gaming View on Roblox Platforms</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/convert-your-digital-tutors-online-learning-into-high-quality-mp4-videos-for-offline-study/"><u>Convert Your Digital Tutors Online Learning Into High-Quality MP4 Videos for Offline Study</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-gt-5-lock-screen-password-by-drfone-android/"><u>How To Change Realme GT 5 Lock Screen Password?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-twitch-live-reset-guide/"><u>In 2024, Twitch Live Reset Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-motorola-moto-g24-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Motorola Moto G24 FRP Bypass</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/painless-remedies-to-address-lag-issues-while-playing-csgo/"><u>Painless Remedies to Address Lag Issues While Playing CS:GO</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstuck-from-the-steam-store-error-methods-to-successfully-load-and-access-games/"><u>Unstuck From the Steam Store Error: Methods to Successfully Load and Access Games</u></a></li>
+</ul></div>
+
