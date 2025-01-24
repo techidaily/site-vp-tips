@@ -27,23 +27,11 @@
 <meta property="og:description" content="Step-by-Step Guide: Setting Up and Accessing Network Shares via macOS FinderKey Takeaways Avoid limitations of remote volumes and cloud storage apps like Google Drive Desktop by mounting a drive as if">
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/browsing-my-aws-ec2-webserver-in-finder-using-macfuse-and-sshfs.png">
-<meta property="og:image" content="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png">
-<meta property="og:image" content="https://www.x-mirage.com/x-mirage/img/page-home.jpg">
-<meta property="og:image" content="https://www.systoolsgroup.com/box/outlook-recovery.png">
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/downloading-macfuse-latest-version-from-github.png">
-<meta property="og:image" content="https://a.impactradius-go.com/display-ad/18498-2084399">
-<meta property="og:image" content="https://imp.pxf.io/i/5597632/2084399/18498">
-<meta property="og:image" content="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png">
-<meta property="og:image" content="https://a.impactradius-go.com/display-ad/17882-1596691">
-<meta property="og:image" content="https://imp.pxf.io/i/5597632/1596691/17882">
-<meta property="og:image" content="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png">
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mounted-remote-volume-with-generic-macfuse-icon.png">
-<meta property="og:image" content="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png">
-<meta property="og:image" content="https://a.impactradius-go.com/display-ad/20702-1864921">
-<meta property="og:image" content="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png">
 <meta property="og:image" content="https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mounted-remote-volume-with-my-own-custom-icon.png">
-<meta property="article:published_time" content="2024-08-31T00:55:32.156Z">
-<meta property="article:modified_time" content="2024-09-01T00:55:32.156Z">
+<meta property="article:published_time" content="2025-01-20T16:05:04.595Z">
+<meta property="article:modified_time" content="2025-01-23T15:07:17.291Z">
 <meta property="article:author" content="Edward">
 <meta property="article:tag" content="desktop">
 <meta name="twitter:card" content="summary">
@@ -728,15 +716,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-08-31 08:55:32</span>
-        <span class="mobile">2024-08-31 08:55:32</span>
+        <span class="desktop">2025-01-21 00:05:04</span>
+        <span class="mobile">2025-01-21 00:05:04</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-09-01 08:55:32</span>
-            <span class="mobile">2024-09-01 08:55:32</span>
+            <span class="desktop">2025-01-23 23:07:17</span>
+            <span class="mobile">2025-01-23 23:07:17</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -798,6 +786,10 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/browsing-my-aws-ec2-webserver-in-finder-using-macfuse-and-sshfs.png"
                       alt="Browsing my AWS EC2 web server in Finder using macFUSE and SSHFS."
                 > </p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> So, why would someone want to use these tools to mount remote (internet) volumes in this fashion? Well, the potential uses for such configurations are myriad, but here are just a handful for your consideration.</p>
 <h3 id="Avoids-Inherent-Limitations-of-Google-Drive-Desktop"><a href="#Avoids-Inherent-Limitations-of-Google-Drive-Desktop" class="headerlink" title="Avoids Inherent Limitations of Google Drive Desktop"></a>Avoids Inherent Limitations of Google Drive Desktop</h3><p> Google Drive is an immensely popular choice for cloud storage, but its desktop app can be a touch restrictive. You may have noticed that syncing big files can be slow, and accessing your entire Drive without using up local storage can be a problem. For instance, Google Drive has a history of nasty habits like eating up tons of local storage in excessive cache files tucked away in hidden directories.</p>
 <p> Or maybe you have noticed that some other apps refuse to “see” the default macOS file path where cloud storage volumes are located. You can circumvent both of these using macFUSE and SSHFS. Though it takes some doing outside the scope of this specific guide, these tools can be used to mount your Google Drive or other remote storage as if it were local.</p>
@@ -805,33 +797,9 @@
 <h3 id="Smooth-Out-your-Dual-Boot-Config"><a href="#Smooth-Out-your-Dual-Boot-Config" class="headerlink" title="Smooth Out your Dual-Boot Config"></a>Smooth Out your Dual-Boot Config</h3><p> If you run a dual-boot system with macOS and another operating system, you already know how cumbersome accessing those files can be when you’ve booted into macOS. Skip all that extra fuss by using these tools to mount volumes associated with your other OS directly and access them in your current Mac session, allowing management in a single environment.</p>
 <h3 id="Drag-and-Drop-to-Remote-Volumes-for-a-Better-Workflow"><a href="#Drag-and-Drop-to-Remote-Volumes-for-a-Better-Workflow" class="headerlink" title="Drag and Drop to Remote Volumes for a Better Workflow"></a>Drag and Drop to Remote Volumes for a Better Workflow</h3><p> I like working from the command line more than most, but mounting my remote volumes locally really speeds up my workflow, particularly when experiencing eye strain from looking at nothing but text for hours on end.</p>
 <p> For example, I run my personal website off of an AWS EC2 instance of Ubuntu Server. By nature, Ubuntu Server runs headless (without a graphic interface). When adding media to my web server, the ability to drag and drop files directly using Finder just flows faster than uploading via the terminal and also eliminates associated delays.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
 <h3 id="Provides-a-Platform-to-Experiment"><a href="#Provides-a-Platform-to-Experiment" class="headerlink" title="Provides a Platform to Experiment"></a>Provides a Platform to Experiment</h3><p> For tech enthusiasts and hobbyists, experimenting with different filesystems and server configurations can be a fun and educational experience. macFUSE and SSHFS provide an easy way to mount and interact with various filesystems, from the comfort of your macOS environment.</p>
 <p> This capability is particularly useful for those looking to learn about networked storage, server management, or even developing their own custom filesystems, without needing to dive deep into complex configurations.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.x-mirage.com/x-mirage/img/page-home.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
 <h2 id="What-You-Need-Before-We-Begin"><a href="#What-You-Need-Before-We-Begin" class="headerlink" title="What You Need Before We Begin"></a>What You Need Before We Begin</h2><p> Before we move on to mounting remote volumes, you’ll need to install a few additional bits of software.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.systoolsgroup.com/box/outlook-recovery.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
 <h3 id="macFUSE"><a href="#macFUSE" class="headerlink" title="macFUSE"></a>macFUSE</h3><p> macFUSE is software that improves macOS filesystem capabilities, allowing you to use different types of filesystems that aren’t natively supported.</p>
 <p> To install macFUSE, first visit the <a class="link"   target="_blank" rel="noopener" href="https://github.com/osxfuse/osxfuse/releases" >macFUSE GitHub repository <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
 <p><img  
@@ -840,21 +808,12 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/downloading-macfuse-latest-version-from-github.png"
                       alt="Downloading macFUSE latest version from GitHub"
                 > </p>
-<!-- affiliate ads begin -->
-<p><a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/18498-2084399"
-                      border="0" alt="" width="1125" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2084399/18498"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
 <p> Download the latest version of the macFUSE installer, open it and follow the on-screen instructions to complete the installation. After installation, you may need to enable system extensions in System Settings&gt; Security &amp; Privacy.</p>
 <p> macFUSE is essential for enabling the other prerequisite for configuration, SSHFS.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h3 id="SSHFS"><a href="#SSHFS" class="headerlink" title="SSHFS"></a>SSHFS</h3><p> SSHFS stands for Secure SHell FileSystem. It is aptly named for its ability to allow users to mount remote filesystems over SSH. It uses the secure file transfer protocol (SFTP) to access files on a remote server, providing a secure and efficient way to manage remote data as if it were on your local machine.</p>
 <p> To install SSHFS, first make sure <a class="link"   target="_blank" rel="noopener" href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-motorola-edge-40-neo-pc-drfone-by-drfone-android/" >you have Homebrew installed on your Mac <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. Now open Terminal and run the command:</p>
 <p>brew install sshfs</p>
@@ -870,40 +829,23 @@
 <li>IdentityFile specifies the private key file for authentication.</li>
 </ul>
 <!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png"
-                      border="0"
-                >ZoneAlarm Pro Antivirus + Firewall NextGen</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <h3 id="Using-an-SSHFS-Script-Command-For-Running-With-Minimal-Effort"><a href="#Using-an-SSHFS-Script-Command-For-Running-With-Minimal-Effort" class="headerlink" title="Using an SSHFS Script Command For Running With Minimal Effort"></a>Using an SSHFS Script Command For Running With Minimal Effort</h3><p> The script I’ve written below simplifies the process of mounting a remote filesystem using SSHFS. It sets up the mount point, adjusts permissions, and mounts the remote filesystem with a custom volume name. Just replace the variables in the first section with those applicable to your remote volume.</p>
 <pre><code>    `#!/bin/zsh  
 </code></pre>
 <!-- affiliate ads begin -->
-<p><a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17882-1596691"
-                      border="0" alt="" width="728" height="90"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1596691/17882"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <h2 id="Change-the-following-variable-fields-with-your-own-applicable-info"><a href="#Change-the-following-variable-fields-with-your-own-applicable-info" class="headerlink" title="Change the following variable fields with your own applicable info"></a>Change the following variable fields with your own applicable info</h2><p>MOUNT_POINT&#x3D;”path&#x2F;to&#x2F;desired&#x2F;mount&#x2F;point”<br>LOCAL_USER&#x3D;”YOUR macOS USERNAME”<br>INSTANCE_USER&#x3D;”YOUR REMOTE USERNAME”<br>INSTANCE_DNS&#x3D;”YOUR_INSTANT_DNS_ADDRESS OR URL”<br>PRIVATE_KEY_PATH&#x3D;”path&#x2F;to&#x2F;your&#x2F;private&#x2F;key.pem”<br>VOLUME_NAME&#x3D;”YOUR DESIRED VOLUME NAME”  </p>
 <h2 id="Create-the-mount-point-if-it-doesn’t-exist"><a href="#Create-the-mount-point-if-it-doesn’t-exist" class="headerlink" title="Create the mount point if it doesn’t exist"></a>Create the mount point if it doesn’t exist</h2><p>if [! -d “$MOUNT_POINT”]; then<br>    sudo mkdir -p “$MOUNT_POINT”<br>    sudo chown “$LOCAL_USER”:staff “$MOUNT_POINT”<br>    sudo chmod 755 “$MOUNT_POINT”<br>else<br>    # Adjust permissions if the directory already exists<br>    sudo chown “$LOCAL_USER”:staff “$MOUNT_POINT”<br>    sudo chmod 755 “$MOUNT_POINT”<br>fi  </p>
 <h2 id="Mount-the-remote-filesystem-with-a-custom-volume-name"><a href="#Mount-the-remote-filesystem-with-a-custom-volume-name" class="headerlink" title="Mount the remote filesystem with a custom volume name"></a>Mount the remote filesystem with a custom volume name</h2><p>sshfs -o volname&#x3D;”$VOLUME_NAME”,IdentityFile&#x3D;”$PRIVATE_KEY_PATH” $INSTANCE_USER@$INSTANCE_DNS:&#x2F; “$MOUNT_POINT”  </p>
 <!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png"
-                      border="0"
-                ><br>EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <h2 id="Open-the-directory-in-Finder"><a href="#Open-the-directory-in-Finder" class="headerlink" title="Open the directory in Finder"></a>Open the directory in Finder</h2><p>open “$MOUNT_POINT”&#96;</p>
 <p> Once you’ve edited the script to fit your personal use case, save it as “mount_remote.sh”. Make it executable by opening Terminal and using:</p>
 <p>chmod +x mount_remote.sh</p>
@@ -916,40 +858,32 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mounted-remote-volume-with-generic-macfuse-icon.png"
                       alt="Mounted remote volume with generic macFUSE icon."
                 > </p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h3 id="Applying-an-Image-of-Your-Choosing-as-a-Drive-Icon"><a href="#Applying-an-Image-of-Your-Choosing-as-a-Drive-Icon" class="headerlink" title="Applying an Image of Your Choosing as a Drive Icon"></a>Applying an Image of Your Choosing as a Drive Icon</h3><p> To personalize your mounted drive, you can apply a custom icon. Since macFUSE applies the same generic icon to remote mounts, this is useful for differentiating when using more than one.</p>
 <p> If opting to do this, use the script below, which is a lightly augmented version of the one provided above. The script already includes an option (`volicon`) to set the icon, which is specified by the `VOLUME_ICON` variable. To use your own image:</p>
 <p> First, convert your image to the ICNS format using an online converter or software like Preview, then replace the “VOLUME_ICON” path in the script with the path to your custom icon file.</p>
 <pre><code>    `#!/bin/zsh  
 </code></pre>
 <!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png"
-                      border="0"
-                ></a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <h2 id="Change-the-following-variable-fields-with-your-own-applicable-info-1"><a href="#Change-the-following-variable-fields-with-your-own-applicable-info-1" class="headerlink" title="Change the following variable fields with your own applicable info"></a>Change the following variable fields with your own applicable info</h2><p>MOUNT_POINT&#x3D;”path&#x2F;to&#x2F;desired&#x2F;mount&#x2F;point”<br>LOCAL_USER&#x3D;”YOUR macOS USERNAME”<br>INSTANCE_USER&#x3D;”YOUR REMOTE USERNAME”<br>INSTANCE_DNS&#x3D;”YOUR_INSTANT_DNS_ADDRESS”<br>PRIVATE_KEY_PATH&#x3D;”path&#x2F;to&#x2F;your&#x2F;private&#x2F;key.pem”<br>VOLUME_NAME&#x3D;”YOUR DESIRED VOLUME NAME”<br>VOLUME_ICON&#x3D;”path&#x2F;to&#x2F;your&#x2F;icon.icns”  </p>
-<!-- affiliate ads begin -->
-<p><a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/20702-1864921"
-                      border="0" alt="" width="1251" height="1042"
-                ></a></p>
-<!-- affiliate ads end -->
 <h2 id="Create-the-mount-point-if-it-doesn’t-exist-1"><a href="#Create-the-mount-point-if-it-doesn’t-exist-1" class="headerlink" title="Create the mount point if it doesn’t exist"></a>Create the mount point if it doesn’t exist</h2><p>if [! -d “$MOUNT_POINT”]; then<br>   sudo mkdir -p “$MOUNT_POINT”<br>   sudo chown “$LOCAL_USER”:staff “$MOUNT_POINT”<br>   sudo chmod 755 “$MOUNT_POINT”<br>else<br>   # Adjust permissions if the directory already exists<br>   sudo chown “$LOCAL_USER”:staff “$MOUNT_POINT”<br>   sudo chmod 755 “$MOUNT_POINT”<br>fi  </p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
 <h2 id="Mount-the-remote-filesystem-with-a-custom-volume-name-1"><a href="#Mount-the-remote-filesystem-with-a-custom-volume-name-1" class="headerlink" title="Mount the remote filesystem with a custom volume name"></a>Mount the remote filesystem with a custom volume name</h2><p>sshfs -o volname&#x3D;”$VOLUME_NAME”,IdentityFile&#x3D;”$PRIVATE_KEY_PATH”,volicon&#x3D;”$VOLUME_ICON” $INSTANCE_USER@$INSTANCE_DNS:&#x2F; “$MOUNT_POINT”  </p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="Open-the-directory-in-Finder-1"><a href="#Open-the-directory-in-Finder-1" class="headerlink" title="Open the directory in Finder"></a>Open the directory in Finder</h2><p>open “$MOUNT_POINT”&#96;</p>
 <p> After running this script, your remote volume will appear in Finder sporting whatever icon image you specified!</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id=""><a href="#" class="headerlink" title=""></a><img  
                      lazyload
                      src="/images/loading.svg"
@@ -969,6 +903,29 @@
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins></p>
+<p><span class="atpl-alsoreadstyle">Also read:</span></p>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-cutting-edge-tools-to-revamp-virtual-performer-voices/"><u>[New] 2024 Approved Cutting-Edge Tools to Revamp Virtual Performer Voices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-free-visual-storytelling-tools-intro-templates/"><u>[New] In 2024, Free Visual Storytelling Tools - Intro Templates</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-eizos-boundaries-reached-the-cg318-4k-reviewed/"><u>[Updated] 2024 Approved EIZO's Boundaries Reached The CG318-4K Reviewed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-exploring-the-spectrum-projectors-and-televisions-in-a-4k-world/"><u>[Updated] Exploring the Spectrum Projectors & Televisions in a 4K World</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-darktable-pro-finding-the-best-paired-editor/"><u>[Updated] In 2024, Darktable Pro Finding the Best Paired Editor</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-master-iphone-images-with-pro-level-tech/"><u>[Updated] In 2024, Master iPhone Images with Pro-Level Tech</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-web.techidaily.com/ed-propel-your-youtube-presence-with-google-analytics-skills/"><u>[Updated] Propel Your YouTube Presence with Google Analytics Skills</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discovering-chromebooks-best-digital-art-stations-for-2024/"><u>Discovering Chromebook's Best Digital Art Stations for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win-blog.techidaily.com/enjoy-an-immersive-experience-with-the-newly-remastered-bioshock-cuh/"><u>Enjoy an Immersive Experience with the Newly Remastered BioShock Cuh!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/foray-into-video-fidelity-an-initialists-perspective/"><u>Foray Into Video Fidelity An Initialist's Perspective</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/hairstyles-for-visual-gurus-for-2024/"><u>Hairstyles for Visual Gurus for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-cloud.techidaily.com/in-2024-explore-androids-leading-music-video-watching-tools/"><u>In 2024, Explore Android's Leading Music Video Watching Tools</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-tecno-spark-10-4g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Tecno Spark 10 4G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://hardware-updates.techidaily.com/last-minute-deals-on-top-games-in-october-prime-day-202-save-now-before-its-too-late-with-savings-up-to-1k-zdnet/"><u>Last Minute Deals on Top Games in October Prime Day 202지 - Save Now Before It’s Too Late with Savings up to $1K | ZDNET</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://video-ai-editor.techidaily.com/the-ultimate-list-top-5-free-online-video-mergers-for-a-seamless-experience/"><u>The Ultimate List Top 5 Free Online Video Mergers for a Seamless Experience</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://buynow-help.techidaily.com/ultimate-audio-experience-2024s-premium-headsets/"><u>Ultimate Audio Experience - 2024'S Premium Headsets</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tech-recovery.techidaily.com/unveil-the-steps-to-switch-onoff-your-computers-lan-discovery-feature-in-windows-10/"><u>Unveil the Steps to Switch On/Off Your Computer's LAN Discovery Feature in WIndows 10</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://screen-video-capture.techidaily.com/user-friendly-mac-gadget-visuals-and-voices-recorded-for-2024/"><u>User-Friendly Mac Gadget Visuals & Voices Recorded for 2024</u></a></li>
+</ul></div>
+
 
         </div>
 
@@ -979,11 +936,11 @@
         <li><strong>Title:</strong> Step-by-Step Guide: Setting Up and Accessing Network Shares via macOS Finder</li>
         <li><strong>Author:</strong> Edward</li>
         <li><strong>Created at
-                :</strong> 2024-08-31 08:55:32</li>
+                :</strong> 2025-01-21 00:05:04</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-09-01 08:55:32
+                    :</strong> 2025-01-23 23:07:17
             </li>
         
         <li>
@@ -1023,13 +980,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/step-by-step-instructions-how-to-project-your-laptops-screen-onto-your-tv/"
+                        href="/movavis-free-video-converter-effortless-m1v-to-mp4-upload-and-convert-online/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Step-by-Step Instructions: How to Project Your Laptop&#39;s Screen Onto Your TV</span>
+                                <span class="post-nav-title-item">Movavi&#39;s Free Video Converter - Effortless M1V to MP4 Upload and Convert Online!</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1039,10 +996,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/step-by-step-guide-repairing-damaged-applications-in-linux-systems/"
+                        href="/quick-solutions-to-get-your-windows-spotlight-feature-up-and-running-again/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Step-by-Step Guide: Repairing Damaged Applications in Linux Systems</span>
+                                <span class="post-nav-title-item">Quick Solutions to Get Your Windows Spotlight Feature Up and Running Again</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
