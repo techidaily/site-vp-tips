@@ -1,7 +1,7 @@
 ---
 title: "Digiarty祭2023: 點滴與回憶，共同再現18週年的光影"
-date: 2024-08-27T01:11:39.688Z
-updated: 2024-08-28T01:11:39.688Z
+date: 2025-01-29T17:52:52.577Z
+updated: 2025-01-31T03:29:22.611Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/6eaa3e36b8ce62866baa3f0397f35b108aa431d0b37d363e9ff789051431b8db.jpg
@@ -52,22 +52,20 @@ thumbnail: https://thmb.techidaily.com/6eaa3e36b8ce62866baa3f0397f35b108aa431d0b
 ### MacX DVD Ripper Pro  
 万能のDVD変換＆リッピングソフト
 * ![MediaTrans for macOS](https://www.macxdvd.com/giveaway/image-style/japanese-newyear/mt-icon.png)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### MediaTrans  
 万能のiPhone/iPad管理ソフト
 * ![5K Player for macOS](https://www.macxdvd.com/giveaway/image-style/japanese-newyear/5kp-icon.png)  
-### 5K Player  
+
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+### 5K Player  
 マルチメディアプレイヤー
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 18周年豪華セット
 
@@ -84,45 +82,47 @@ macOS
 
 18周年豪華セットの購入で ![](https://www.macxdvd.com/giveaway/image-style/jp-anni23/switch-icon.png) 「Nintendo Switch」が抽選で1名様に当たる
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ご応募の流れ
 
 1. ![](https://www.macxdvd.com/giveaway/image-style/jp-anni24/lottery-step1.png)  
 対象商品を購入  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://www.macxdvd.com/giveaway/image-style/jp-anni24/step2-img1.png)
 2. ![](https://www.macxdvd.com/giveaway/image-style/jp-anni24/lottery-step2.png)  
 注文完了のスクショまたは写真をメールでキャンペーン事務局(floyd@videoproc.com)に送る  
 ![](https://www.macxdvd.com/giveaway/image-style/jp-anni24/step2-img2.png)
 3. ![](https://www.macxdvd.com/giveaway/image-style/jp-anni24/lottery-step3.png)  
 キャンペーン終了までに抽選結果を待つ  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.macxdvd.com/giveaway/image-style/jp-anni24/step2-img3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.macxdvd.com/giveaway/image-style/jp-anni24/step3-pic.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### 大好評の人気ソフトを期間限定で販売しております！
 
 ![](https://www.macxdvd.com/giveaway/image-style/jp-christ23/drp-img.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.macxdvd.com/giveaway/image-style/jp-christ23/mdrp-img.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### WinX DVD Ripper Platinum
 
 ### MacX DVD Ripper Pro
@@ -147,6 +147,10 @@ macOS
 
 ![](https://www.macxdvd.com/giveaway/image-style/jp-anni24/vcp-img.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### MacX Video Converter Pro
 
 動画変換・ダウンロード・動画編集
@@ -160,11 +164,6 @@ macOS
 
 [ご購入はこちら](https://estore.macxdvd.com/order/checkout.php?PRODS=37415321&QTY=1&CART=2&SHORT_FORM=1&COUPON=MACXGWPrice&ORDERSTYLE=nLWsnpXPnHU%3D&DESIGN_TYPE=2&HIDEC=0&AFFILIATE=108875) 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### キャンペーン要項
 
 * 本キャンペーンにご応募される方は、キャンペーン要項をご確認いただき同意した上でご参加ください。
@@ -201,8 +200,6 @@ MacX DVD Ripper Proライセンスコード 18,000名
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +207,22 @@ MacX DVD Ripper Proライセンスコード 18,000名
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-mastering-video-capture-on-hangouts/"><u>[New] 2024 Approved Mastering Video Capture on Hangouts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-top-4-remedies-enhancing-iphone-hdr-images-in-premiere-pro/"><u>[New] 2024 Approved Top 4 Remedies Enhancing iPhone HDR Images in Premiere Pro</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-ultimate-sound-selection-for-social-media-stars/"><u>[New] 2024 Approved Ultimate Sound Selection for Social Media Stars</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-crafting-artistry-your-ultimate-companion-for-boomerangs/"><u>[Updated] In 2024, Crafting Artistry Your Ultimate Companion for Boomerangs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-high-quality-hd-4k-3d-videos-with-ultimate-360-video-grabber/"><u>Download High-Quality HD 4K 3D Videos with Ultimate 360° Video Grabber</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-gaming-experience-with-nvidias-latest-windows-game-ready-graphics-drivers/"><u>Enhance Your Gaming Experience with NVIDIA's Latest Windows Game Ready Graphics Drivers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-xiaomi-14-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Xiaomi 14 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/m4a-mp3-ac3-wma/"><u>M4A形式解説: MP3, AC3, WMAとの比較分析</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macx-pro-the-ultimate-no-cost-converter-for-apple-users-convert-secure-dvds-to-mp4-flv-efficiently-on-macos/"><u>MacX Pro: The Ultimate No-Cost Converter for Apple Users - Convert Secure DVDs to MP4, FLV Efficiently on macOS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/schritt-fur-schritt-anleitung-zur-behebung-von-problemen-mit-dem-dvd-laufwerk-auf-einem-mac-computer/"><u>Schritt-Für-Schritt-Anleitung Zur Behebung Von Problemen Mit Dem DVD-Laufwerk Auf Einem Mac Computer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-sharing-files-between-your-iphone-and-mac-using-airdrop/"><u>Step-by-Step Guide: Sharing Files Between Your iPhone & Mac Using AirDrop</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-nativity-movie-countdown-10-festive-flicks-your-little-ones-will-love/"><u>The Ultimate Nativity Movie Countdown: 10 Festive Flicks Your Little Ones Will Love</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-9-no-cost-mac-mp4-video-converters-comprehensive-reviews/"><u>Top 9 No-Cost Mac MP4 Video Converters: Comprehensive Reviews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-top-tablet-picks-of-2024-in-depth-analysis-and-comparisons-pcmag/"><u>Ultimate Guide to the Top Tablet Picks of 2024: In-Depth Analysis and Comparisons | PCMag</u></a></li>
+</ul></div>
 

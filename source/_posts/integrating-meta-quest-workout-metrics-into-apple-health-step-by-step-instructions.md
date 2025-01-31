@@ -1,7 +1,7 @@
 ---
 title: "Integrating Meta Quest Workout Metrics Into Apple Health: Step-by-Step Instructions"
-date: 2024-08-27 18:26:27
-updated: 2024-08-29 11:26:31
+date: 2025-01-24T07:44:16.438Z
+updated: 2025-01-31T14:31:18.708Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/1734faea8dc6fb99b0356fb7510aa58c46806122f
 ---
 
 ## Integrating Meta Quest Workout Metrics Into Apple Health: Step-by-Step Instructions
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,6 +33,10 @@ Related: [10 Reasons You Might Want an Apple Watch Ultra](https://extra-approach
  If you wear your [Apple Watch](https://extra-approaches.techidaily.com/2024-approved-picsart-edge-bringing-facial-movement-into-the-digital-realm/) during a VR session, it will still track your activity based on your heart rate, movement, and other data it has access to. However, Meta Quest Move has its own VR-specific data and algorithms that may offer a more accurate picture of your calorie burn.
 
  Additionally, this connecting the Move app allows you to go without wearing your Apple Watch during a VR session, which may be more comfortable for you, depending on the type of VR activity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Do I Need Special VR Apps?
 
@@ -62,9 +70,17 @@ Related: [7 Video Games for Fitness and Exercise](https://screen-mirroring-recor
 
 ![Connecting the Move app to Quest Mobile App](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/4-7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With Move connected to the mobile Quest app, next, we need to sync with Apple Health. From the Meta Quest app, open the Explore tab.
 
 ![Quest App Open Explore tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/1-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Open Move by tapping on its widget in the Explore tab.
 
@@ -78,6 +94,10 @@ Related: [7 Video Games for Fitness and Exercise](https://screen-mirroring-recor
 
 ![Apple Health Toggle for Quest Move](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/6-6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now your VR sessions will reflect in your Apple Health data. Finally, Beat Saber counts as real exercise!
 
 <ins class="adsbygoogle"
@@ -86,11 +106,29 @@ Related: [7 Video Games for Fitness and Exercise](https://screen-mirroring-recor
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-free-pass-to-premium-video-editing-tools/"><u>[New] In 2024, The Free Pass to Premium Video Editing Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-learning-the-art-of-soundshaping-in-audacity/"><u>[New] Learning the Art of Soundshaping in Audacity</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-screen-savvy-starting-point-deciphering-display-standards/"><u>[New] Screen-Savvy Starting Point Deciphering Display Standards</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unveiling-sonys-best-full-review-of-fdr-x1000v-camera/"><u>[New] Unveiling Sony's Best - Full Review of FDR-X1000V Camera</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-guide-altering-voices-for-a-competitive-edge-in-free-fire/"><u>[Updated] In 2024, The Ultimate Guide Altering Voices for a Competitive Edge in Free Fire</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-top-tier-digital-workshop-title-maker/"><u>[Updated] In 2024, Top-Tier Digital Workshop Title Maker</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-secrets-for-successful-live-streams-on-youtube-with-a-tiny-fanbase-for-2024/"><u>[Updated] Secrets for Successful Live Streams on YouTube with a Tiny Fanbase for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-virtual-valor-vault-excelling-with-top-adventures-in-gaming-for-2024/"><u>[Updated] Virtual Valor Vault Excelling with Top Adventures in Gaming for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-from-novice-to-pro-a-guide-for-using-snapchat-for-businesses/"><u>2024 Approved From Novice to Pro A Guide for Using Snapchat for Businesses</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-generate-sharable-gifs-with-a-laugh-twist-giphy/"><u>2024 Approved Generate Sharable Gifs with a Laugh Twist, Giphy</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comprehensive-analysis-unveiling-the-power-and-versatility-of-the-nomad-base-one-max-triple-function-charger/"><u>Comprehensive Analysis: Unveiling the Power and Versatility of the Nomad Base One Max Triple Function Charger</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Honor X9a? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-small-scale-streaming-mastery-on-youtube-without-big-subscriber-base/"><u>In 2024, Small-Scale Streaming Mastery on YouTube Without Big Subscriber Base</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/mastering-adobe-premiere-top-6-tricks-for-professional-video-editing-for-2024/"><u>Mastering Adobe Premiere Top 6 Tricks for Professional Video Editing for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/visual-aesthetics-mastering-vsco-styles-and-looks/"><u>Visual Aesthetics Mastering VSCO Styles and Looks</u></a></li>
+</ul></div>
+

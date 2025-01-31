@@ -1,7 +1,7 @@
 ---
 title: "Review of Rivian's Innovative R1T: An Electrifying Off-Road Experience"
-date: 2024-08-28 22:45:39
-updated: 2024-08-29 12:31:22
+date: 2025-01-23T21:48:15.673Z
+updated: 2025-01-31T13:07:59.353Z
 tags:
   - cutting-edge
 categories:
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/6f40aa8bc84c668553ff55a3fe7a27d53d5fc34a3
  Electric vehicles continue to flood the market, giving consumers who are interested in a cleaner drive more options. The most compelling choices aren't from incumbent manufacturers, however. [Rivian's R1T](https://rivian.com/) (and R1S) blends familiar utility with advanced technology for an incredibly exciting drive.
 
 ![dcf46d1b](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/dcf46d1b.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
@@ -111,6 +115,10 @@ Related: [8 Amazing Rivian R1T Electric Truck Features](https://www.reviewgeek.c
 
 ![Rivian R1T screen showing different range of of the different driving modes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/fb907610.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Tyler Hayes / Review Geek_
 
  Raising and lowering the height of the R1T with its quad-motors was a novelty from the first day I picked up the truck until I dropped it off. The feature enables more range efficiency on the highway at a lower height and more terrain coverage off the road when raised. Even on stable ground, the height adjustment allows the truck to level itself over the course of a couple of minutes.
@@ -131,6 +139,10 @@ _Tyler Hayes / Review Geek_
  It's common for an electric vehicle to lose a few miles of range overnight or for tasks besides driving. I noticed less of that happening with the R1T than with a Model Y, but it's hard to tell in only a week. This is something more suitable for judging over the course of months, across different seasons and temperatures. Overnight, the truck sat in temperatures in the low 40s and was driven in the high 60s during the day.
 
  The truck is capable of self-leveling thanks to its quad-motor configuration. If you look closely at the second photo at the top of this review, you might notice a little difference in the truck's height over the wheel well in the front and back. This was a time it was leveled for the berm it was on. The process took about three minutes. I found out you can drive the truck as it unlevels itself, but only with a top speed of around 10 miles per hour. Getting itself ready to drive took about a minute.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Hauling With the Rivian R1T
 
@@ -153,6 +165,10 @@ Close
  Personally, [the R1S](https://www.reviewgeek.com/122621/rivian-r1s-everything-you-need-to-know-about-the-electric-suv/), Rivian's SUV, would fit my family's needs better with a third row of seating, but the gear tunnel on the R1T is so cool, unique, and handy that I can understand how that feature alone could sway people from one Rivian model to the other.
 
  It wasn't just the tunnel itself; it was the usefulness of the tunnel doors to be used as a step or seat that was compelling too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Connectivity and Controlling Rivian R1T With Its App
 
@@ -196,6 +212,10 @@ Related: [What to Know About Over-the-Air Updates for Cars](https://www.reviewge
 
  While the infotainment area felt lacking on the R1T in March 2023, my guess is that it won't remain that way forever. [Everything on the screen can be changed](https://www.reviewgeek.com/139596/what-to-know-about-over-the-air-updates-for-cars/) at a moment's notice. The key for Rivian will be making sure it continues to enhance the driving experience without alienating current drivers with radical redesigns. In this case, allowing people to permanently see or pin more areas along the bottom of the screen seems necessary. I wanted to have access to the camera icon at all times, for example, but it wasn't possible.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Rivian R1T is Lacking a Few Items (and Has Bugs)
 
  I did experience a few software bugs during my week-long test of the R1T. The most noticeable was streaming music from my phone over Bluetooth. Most times, when entering the vehicle, the audio was crackly, regardless of my phone's cellular or Wi-Fi connection. The artwork for songs also stopped displaying the correct one after a few days. Listening to Death Cab For Cutie would show artwork for a different song of a different band. Sometimes, there would be three different artworks displayed if I was on the music view of the main screen.
@@ -209,6 +229,10 @@ Related: [5 Biggest Problems with EVs](https://www.reviewgeek.com/120800/5-bigge
  These are minor things, including the Bluetooth issues, but it did show that, even though Rivian looks to be mostly caught up with Tesla, the company is still playing catch up. It might be a concern now, but at the current pace, my guess is that Rivian will get close to parity within the next three years.
 
  This brings me to the area where Rivian and all other EVs fall behind Tesla---ubiquitous charging options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Rivian R1T Charging and the Electric Grid
 
@@ -232,6 +256,10 @@ Related: [What Happens When an Electric Vehicle Battery Dies?](https://www.revie
 
 ![Rivian R1T's back seat](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/a563add4.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Backseat interior - _Tyler Hayes / Review Geek_
 
  If you're sold on the [Rivian R1T](https://rivian.com/) or even the R1S, you should reserve one now. The current estimate as of March 2023 is that new vehicles will be available to people on the waitlist in 2024.
@@ -243,6 +271,10 @@ Backseat interior - _Tyler Hayes / Review Geek_
 ![dcf46d1b](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/dcf46d1b.png) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Rivian R1T
 
@@ -256,11 +288,28 @@ Backseat interior - _Tyler Hayes / Review Geek_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-discover-5-premier-mac-livestream-tools/"><u>[New] 2024 Approved Discover 5 Premier Mac Livestream Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-essential-tips-for-overwatch-game-sound-logging/"><u>[New] Essential Tips for Overwatch Game Sound Logging</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-leading-talents-premier-instragram-hlv-creators/"><u>[New] In 2024, Leading Talents Premier Instragram HLV Creators</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-ultimate-sfpr-levels-in-slow-motion-content-for-2024/"><u>[New] Ultimate SFPR Levels in Slow-Motion Content for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comprehensive-freemake-video-converter-analysis-the-leading-solution-in-unmatched-video-editing-capabilities/"><u>Comprehensive Freemake Video Converter Analysis: The Leading Solution in Unmatched Video Editing Capabilities</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effective-solutions-for-resolving-macos-ventura-and-monterey-update-problems/"><u>Effective Solutions for Resolving MacOS Ventura and Monterey Update Problems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/essential-ranking-the-ultimate-collection-of-timeless-and-classic-animated-movies-on-dvd/"><u>Essential Ranking: The Ultimate Collection of Timeless & Classic Animated Movies on DVD</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-tecno-spark-20-proplus-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Tecno Spark 20 Pro+ Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quick-guide-to-converting-iso-files-into-movies-mov-on-your-apple-computer/"><u>Quick Guide to Converting ISO Files Into Movies (MOV) on Your Apple Computer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/resolved-fixes-blackout-problem-in-obs-game-recording/"><u>Resolved: Fixes Blackout Problem in OBS Game Recording</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-easy-way-to-snap-spectacular-slow-mo-on-android/"><u>The Easy Way to Snap Spectacular Slow Mo on Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/understanding-4k-upscaling-techniques-to-enhance-low-res-videos/"><u>Understanding 4K Upscaling: Techniques to Enhance Low-Res Videos</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-beyond-free-photos-understanding-pexelscoms-role-in-creative-projects/"><u>Updated Beyond Free Photos Understanding Pexels.coms Role in Creative Projects</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/kak-vizualno-i-prosto-prevratit-vash-klonirovannyj-disk-v-zagruzochnoe-ustrojstvo-dlya-windows-1110-poshagovoe-rukovodstvo-5-sposobov/"><u>Как Визуально И Просто Превратить Ваш Клонированный Диск В Загрузочное Устройство Для Windows 11/10: Пошаговое Руководство [5 Способов]</u></a></li>
+</ul></div>
+

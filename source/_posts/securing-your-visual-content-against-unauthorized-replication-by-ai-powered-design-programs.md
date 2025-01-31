@@ -1,7 +1,7 @@
 ---
 title: Securing Your Visual Content Against Unauthorized Replication by AI-Powered Design Programs
-date: 2024-08-26 17:10:27
-updated: 2024-08-29 11:23:20
+date: 2025-01-26T01:21:19.139Z
+updated: 2025-01-31T08:05:14.777Z
 tags:
   - cutting-edge
 categories:
@@ -51,9 +51,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Opt out of datasets with HaveIBeenTrained.com](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/haveibeentrained_opt_out.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll need to do this for each image you find, so it can be a painstaking process if you're an artist with a large body of work. How long it will realistically take ultimately depends on how easy it is to filter out your work, which might be easier if you have work associated with a unique name or project, a large online following, and so on.
 
  Though these two massive datasets are a great place to start, they're far from the only ones that are used. Individuals can create their own datasets, and some do to replicate a particular artist or art style. Some companies like OpenAI don't disclose which datasets their tools use at all, so there's no way to combat these.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Use Robots.txt to Ward Off Crawlers
 
@@ -83,6 +91,10 @@ User-agent: CCbot
 
  This won't defeat crawlers that have already visited your website, but it should prevent Common Crawl from indexing your /images/ folder (and any new uploads since the last crawl) in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Copyright Your Artwork
 
  Though copyright is implied in work that you have created, going out of your way to copyright your work may be worth the effort too. In the US you can do this by registering your works over at [Copyright.gov](https://copyright.gov). You can submit up to 10 unpublished works in a single application, just be aware that it can take a while (at present around a year) for your works to be processed.
@@ -91,15 +103,27 @@ User-agent: CCbot
 
 ![Different types of work you can copyright on Copyright.gov](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/copyright_gov_works.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can read all about the lawsuit at [StableDiffusionLitigation.com](https://stablediffusionlitigation.com), and if you believe your work has been used to train these generators then you may have grounds to join the class action by reaching out to the legal team. Having applied to have your art registered with the U.S. Copyright Office is an important first step if you want to go down this route.
 
  Like other practices that have attracted lawyers in the past---piracy, jailbreaking, filesharing---it's unlikely that a lawsuit will stop the practice altogether. The defense will likely argue that these tools were trained on "fair use" material gathered from public-facing websites. We'll have to wait and see to find out what effect lawsuits like these will have if any.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Aggressive Watermarking
 
  If you only ever upload your artwork with some aggressive or borderline self-destructive watermarking present, artwork included in datasets will reflect this. Ultimately this depends largely on why your artwork is being uploaded in the first place. If you're creating artwork non-commercially for the enjoyment of the internet, this seems ultimately self-defeating.
 
 ![A ridiculous How-To Geek watermark](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/how-to_geek_watermark.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
@@ -171,11 +195,28 @@ _Glaze Project / University of Chicago_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-transform-your-win11-sessions-with-advanced-zoom-skills/"><u>[New] 2024 Approved Transform Your Win11 Sessions with Advanced Zoom Skills</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-unlock-full-potential-of-obs-studio-for-android-devices/"><u>[New] 2024 Approved Unlock Full Potential of OBS Studio for Android Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-bridging-the-gap-how-to-successfully-export-srt-from-premiere-for-2024/"><u>[Updated] Bridging the Gap How to Successfully Export SRT From Premiere for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-essential-guide-crafting-and-refining-windows-11-videos/"><u>2024 Approved Essential Guide Crafting & Refining Windows 11 Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/adjusting-windows-10s-lock-screen-duration-settings/"><u>Adjusting Windows 10'S Lock Screen Duration Settings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-instructions-for-generating-restore-points-on-your-windows-10-device/"><u>Easy Instructions for Generating Restore Points on Your Windows 10 Device</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-instructions-how-to-turn-off-quick-access-button-in-microsofts-latest-os-windows/"><u>Easy Instructions: How to Turn Off Quick Access Button in Microsoft's Latest OS, Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/expert-tips-for-accessing-elevated-powershellcommand-prompt-in-windows-11-8-and-81/"><u>Expert Tips for Accessing Elevated PowerShell/Command Prompt in Windows 11, 8 & 8.1</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/fixing-windows-10-calculator-issues-comprehensive-solutions-guide/"><u>Fixing Windows 10 Calculator Issues - Comprehensive Solutions Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-blaze-pro-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Blaze Pro 5G on Mac?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-redmi-k70e-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Xiaomi Redmi K70E Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-integrating-cg-centrals-luts-into-vfx-production-flows/"><u>In 2024, Integrating CG Central's Luts Into VFX Production Flows</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/progressive-array-of-chat-initiators-for-attracting-podcast-audience/"><u>Progressive Array of Chat-Initiators for Attracting Podcast Audience</u></a></li>
+<li><a href="https://win11.techidaily.com/winterize-windows-holiday-customization-steps/"><u>Winterize Windows: Holiday Customization Steps</u></a></li>
+</ul></div>
+

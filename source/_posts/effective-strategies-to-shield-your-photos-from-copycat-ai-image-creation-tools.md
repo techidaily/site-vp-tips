@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies to Shield Your Photos From Copycat AI Image Creation Tools
-date: 2024-08-28 23:45:41
-updated: 2024-08-29 10:36:20
+date: 2025-01-24T00:04:47.630Z
+updated: 2025-01-30T17:55:56.289Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Effective Strategies to Shield Your Photos From Copycat AI Image Creation Tools
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -39,6 +43,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Elmo in the style of Pablo Picasso courtesty of OpenAI DALL-E 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/DALL·E-2023-03-10-10.18.30-a-picture-of-Elmo-from-Sesame-Street-in-the-style-of-Pablo-Picasso-copy.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Being able to create artwork in the style of dead artists might not raise too many alarm bells, particularly in a style that's so recognizable. But for modern artists who share their creations via the likes of ArtStation, DeviantArt, Behance, personal websites, and social media pages like Instagram or Facebook, it's far more concerning.
 
  So what can you do to protect your own creations from being used to train an AI that can spit out creations far faster than you can?
@@ -50,6 +58,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Unfortunately, the process of doing this is slow and tedious. You'll need to first sign up for an account and then search or upload an image to find matches within the dataset. You can then right-click on the image in your desktop web browser and choose the "Add to My Opt-Outs" option. Alternatively, you can give the dataset explicit permission to use an image by clicking "Add to My Opt-Ins" instead.
 
 ![Opt out of datasets with HaveIBeenTrained.com](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/haveibeentrained_opt_out.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You'll need to do this for each image you find, so it can be a painstaking process if you're an artist with a large body of work. How long it will realistically take ultimately depends on how easy it is to filter out your work, which might be easier if you have work associated with a unique name or project, a large online following, and so on.
 
@@ -94,6 +106,10 @@ User-agent: CCbot
  You can read all about the lawsuit at [StableDiffusionLitigation.com](https://stablediffusionlitigation.com), and if you believe your work has been used to train these generators then you may have grounds to join the class action by reaching out to the legal team. Having applied to have your art registered with the U.S. Copyright Office is an important first step if you want to go down this route.
 
  Like other practices that have attracted lawyers in the past---piracy, jailbreaking, filesharing---it's unlikely that a lawsuit will stop the practice altogether. The defense will likely argue that these tools were trained on "fair use" material gathered from public-facing websites. We'll have to wait and see to find out what effect lawsuits like these will have if any.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Aggressive Watermarking
 
@@ -143,6 +159,10 @@ Tim Brookes / How-To Geek
 
  That's to say nothing of the other generative art applications that do not disclose which datasets are in use (like OpenAI's DALL-E). You can always try a prompt like "artwork in the style of Your Name" to see if anything familiar shows up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Upcoming Tools May Help Defeat AI Art Generators
 
  There may be some hope for artists coming in the form of tools that can make it harder for a generative AI to reproduce artwork based on images in a dataset. Unfortunately, these solutions are not here yet (at the time of writing) and there's no telling how effective they will be in the long term. AI tools evolve quickly, so it's possible they could evolve to circumvent such safeguards.
@@ -150,6 +170,10 @@ Tim Brookes / How-To Geek
  The first is [Glaze](http://glaze.cs.uchicago.edu), a project from the University of Chicago that "adds very small changes" to artwork before being uploaded. The developers refer to these changes as a "style cloak" and notes that the artwork appears---to the human eye---nearly identical to the original while causing the AI to misinterpret the style as that of another.
 
 ![Glaze Project for cloaking images](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/fig2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Glaze Project / University of Chicago_
 
@@ -171,11 +195,31 @@ _Glaze Project / University of Chicago_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-blueprint-for-on-screen-dialogues/"><u>[New] In 2024, The Blueprint for On-Screen Dialogues</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-streamlining-movie-color-correction-through-luts-application/"><u>[New] Streamlining Movie Color Correction Through Luts Application</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-comprehensive-report-dji-inspire-1-reviewed/"><u>[Updated] 2024 Approved Comprehensive Report DJI Inspire 1 Reviewed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-laugh-ledger-cutting-edge-generators-for-jokes/"><u>[Updated] 2024 Approved Laugh Ledger Cutting-Edge Generators for Jokes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-premium-matchmakers-15-perfect-gear-compatible-with-gopro/"><u>[Updated] 2024 Approved Premium Matchmakers 15 Perfect Gear Compatible with GoPro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-essential-guide-to-rapid-signature-removal-for-2024/"><u>[Updated] Essential Guide to Rapid Signature Removal for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-enabling-seamless-facebook-video-playbacks/"><u>2024 Approved Enabling Seamless Facebook Video Playbacks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-ranked-linuxs-foremost-screenshot-programs/"><u>2024 Approved Ranked Linux's Foremost Screenshot Programs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-revealed-the-best-videos-from-facebooks-pages/"><u>2024 Approved Revealed The Best Videos From Facebook’s Pages</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exploring-the-magic-behind-color-grading-with-luts/"><u>Exploring the Magic Behind Color Grading with LUTs</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-newly-announced-apple-m4-processor-specifications-and-availability/"><u>Exploring the Newly Announced Apple M4 Processor – Specifications & Availability</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-broken-iphone-15-screen-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Data from Broken iPhone 15 Screen | Stellar</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-the-audio-architects-guide-to-stripping-down-beats-online/"><u>New 2024 Approved The Audio Architects Guide to Stripping Down Beats Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/public-assessment-of-vllo-functionality/"><u>Public Assessment of VLLO Functionality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlock-your-podcast-potential-advanced-techniques-for-idevice-audio-recording/"><u>Unlock Your Podcast Potential Advanced Techniques for iDevice Audio Recording</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-12-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 12 Passcode without a Computer | Dr.fone</u></a></li>
+</ul></div>
+

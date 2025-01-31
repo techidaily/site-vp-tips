@@ -1,7 +1,7 @@
 ---
 title: The Rise of Gemini as a New AI Phenomenon - Replacing Google Assistant's Legacy
-date: 2024-08-28 22:41:58
-updated: 2024-08-29 10:51:41
+date: 2025-01-26T19:26:23.748Z
+updated: 2025-01-31T12:41:32.919Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## The Rise of Gemini as a New AI Phenomenon - Replacing Google Assistant's Legacy
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,6 +29,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Gemini requires an internet connection and lacks media integration, reminders, routines, and real-time translation.
 
  Google was late to the AI game. The company released Bard in early 2023, behind ChatGPT and what would eventually become Microsoft Copilot. Bard was lackluster at first, but it has since had a major glow up to become "Gemini"—and Google Assistant is in its sights.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Is Google Gemini? Is It Different From Bard?
 
@@ -52,6 +60,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![sending text message using Google Gemini](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-102215_google.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * **Make Calls**: Gemini can also make phone calls by voice or tapping. You can say, "Call Mom" or "Dial 911," and Gemini will connect you to the right number.
 
 ![Using Google Gemini to initiate call on Android phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-102308_google.jpg) 
@@ -63,6 +75,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Screen Awareness**: Gemini can also understand what's on your screen and help you with relevant actions. Tap "Add This Screen" to let Gemini capture the details of your current screen.
 
 ![Add this screen prompt on Google Gemini app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-103025_google.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, you can ask it to generate text or answers based on what's visible on your screen. For instance, if you're reading an article, you can ask Gemini to summarize it or ask questions about the article.
 
@@ -78,6 +94,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Gemini is always learning and improving, so you can expect new features and updates in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Google Assistant Tasks That Google Gemini Can't Do (Yet)
 
  Gemini has some limitations compared to Google Assistant. Unlike Google Assistant, which can perform basic tasks without an internet connection, such as setting alarms, playing music, or making phone calls, Google Gemini requires a constant and stable internet connection to function. This means that if you are in a remote area or your network is down, you won't be able to use Google Gemini. In addition, Gemini doesn't currently support any media integrations. So you won't be able to ask it to play podcasts, news broadcasts, radio stations, or music from services like Spotify.
@@ -87,6 +107,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Lastly, Gemini lacks access to Google's real-time translation feature, Interpreter mode. So you can have free-flowing discussions with Gemini, but it can't act as an intermediary for conversations in different languages, as Assistant's Interpreter mode can.
 
 ![Google Assistant helping Gemini.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240222-094859.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The good news is Google Assistant can "help" Gemini with some of these tasks still. If you're using Gemini as the default digital assistant on Android, it will essentially fall back to Assistant for timers and alarms, controlling smart home devices, on-device actions like turning on Bluetooth, broadcasting to smart speakers, and reading pages out loud.
 
@@ -110,11 +134,26 @@ Justin Duino / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-key-to-successful-large-scale-instagram-videos/"><u>[New] In 2024, The Key to Successful Large-Scale Instagram Videos</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-evaluating-best-youtube-extractors-available-on-android/"><u>[Updated] Evaluating Best YouTube Extractors Available on Android</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/achieving-youtube-success-increasing-followers-quickly/"><u>Achieving YouTube Success Increasing Followers Quickly</u></a></li>
+<li><a href="https://win-web.techidaily.com/guia-paso-a-paso-para-cambiar-de-disco-duro-hdd-por-ssd-en-pc-con-windows-versiones-11-10-8-e-7/"><u>Guía Paso a Paso Para Cambiar De Disco Duro HDD Por SSD en PC Con Windows (Versiones 11, 10, 8, E 7)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-navigating-youtube-submission-with-imovie-files/"><u>In 2024, Navigating YouTube Submission with iMovie Files</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/manual-to-install-brother-built-in-drivers-for-windows-8-or-later-systems/"><u>Manual to Install Brother Built-In Drivers (For Windows 8 or Later Systems)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-the-ping-command-a-step-by-step-guide-to-test-your-network-connectivity/"><u>Mastering the Ping Command: A Step-by-Step Guide to Test Your Network Connectivity</u></a></li>
+<li><a href="https://extra-support.techidaily.com/on-the-move-photography-tweaks-with-luts-for-2024/"><u>On-the-Move Photography Tweaks with LUTs for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/overcoming-iphone-and-itunes-integration-error-54-after-upgrading-to-windows-10-a-step-by-step-guide/"><u>Overcoming iPhone & iTunes Integration Error -54 After Upgrading to Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/removing-quick-launch-from-the-taskbar-for-a-cleaner-experience-on-your-pc/"><u>Removing Quick Launch From the Taskbar for a Cleaner Experience on Your PC</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-artisans-guide-to-aesthetic-photographic-adjustments-for-2024/"><u>The Artisan's Guide to Aesthetic Photographic Adjustments for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-port-reset-failures-with-usb-devices-on-windows-10-systems/"><u>Troubleshooting Port Reset Failures with USB Devices on Windows 10 Systems</u></a></li>
+</ul></div>
+

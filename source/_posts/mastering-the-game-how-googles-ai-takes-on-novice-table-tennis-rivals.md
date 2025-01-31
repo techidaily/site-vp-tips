@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Game: How Google’s AI Takes on Novice Table Tennis Rivals"
-date: 2024-08-28 14:49:54
-updated: 2024-08-29 10:58:56
+date: 2025-01-26T12:41:32.255Z
+updated: 2025-01-31T07:42:29.457Z
 tags:
   - cutting-edge
 categories:
@@ -31,11 +31,30 @@ They won't be winning Olympic gold medals any time soon, but a team of researche
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-initiating-voice-transformations-with-minimal-effort-in-pubg-for-2024/"><u>[New] Initiating Voice Transformations with Minimal Effort in PUBG for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-popular-photographs-their-narratives-unveiled/"><u>[New] Popular Photographs Their Narratives Unveiled</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-system-prerequisites-for-running-big-sur-on-macs/"><u>[New] System Prerequisites for Running Big Sur on Macs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-7-steps-for-stellar-cooking-films/"><u>[New] The Ultimate Guide 7 Steps for Stellar Cooking Films</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-enlarging-images-preserving-pixel-perfection/"><u>[Updated] 2024 Approved Enlarging Images Preserving Pixel Perfection</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-language-liberation-discover-the-top-25-apps-for-flawless-video-conversion/"><u>[Updated] 2024 Approved Language Liberation Discover the Top 25 Apps for Flawless Video Conversion</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-elite-software-stacks-for-animation-models/"><u>[Updated] Elite Software Stacks for Animation Models</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-make-a-photo-video-with-pixiz-for-2024/"><u>[Updated] How to Make a Photo Video with Pixiz for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-prime-applications-transforming-vtuber-voices-on-the-fly/"><u>[Updated] Prime Applications Transforming VTuber Voices on the Fly</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-copycat-chronicles-the-science-of-satire/"><u>2024 Approved Copycat Chronicles The Science of Satire</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-se-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and Apple iPhone SE The Right Way</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-fareless-webcam-viewer-with-recording-for-2024/"><u>Top Fareless Webcam Viewer with Recording for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

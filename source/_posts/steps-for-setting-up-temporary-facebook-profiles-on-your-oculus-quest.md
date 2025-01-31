@@ -1,7 +1,7 @@
 ---
 title: Steps for Setting Up Temporary Facebook Profiles on Your Oculus Quest
-date: 2024-08-26 18:27:14
-updated: 2024-08-29 12:48:40
+date: 2025-01-28T04:23:44.016Z
+updated: 2025-01-31T05:21:08.793Z
 tags:
   - cutting-edge
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ###### [Read update](https://instagram-clips.techidaily.com/updated-2024-approved-examining-the-usefulness-of-instagrams-selfie-validation/) 
 
 * [Quest headsets no longer require Facebook accounts](https://tech-revival.techidaily.com/understanding-the-controversy-whats-gptbot-and-how-did-it-get-banned-online/), so there's no need to create a "throwaway" one. You still have to create a Meta account to keep track of your purchases, but it doesn't have to be linked to Facebook.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -35,6 +39,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  If you're reading this, you're either a Quest 2 user who has a Facebook profile but doesn't want to merge it with your Oculus account, or you don't have a Facebook account and you don't want one. Regardless of which situation you're in, there are a few things you can't do or Facebook will be annoyed with you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What You Can't Do
 
  Facebook has [several policies](https://www.facebook.com/policies%5Fcenter/) that limit how much you can circumvent the requirement to merge your accounts. If you're thinking of creating a dummy account with a fake name, that's prohibited by Facebook's real name policy. Likewise, their policies also prohibit one person from running more than one account.
@@ -51,6 +59,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Quest Privacy Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Quest-Privacy-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The safest option is to choose "only me" for all types of activity. This means that although your activity will be on your timeline, no one besides you can see or interact with it.
 
 ##  If You Have to Create an Account
@@ -61,6 +73,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Facebook Settings and Privacy](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Facebook-Settings-and-Privacy.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, choose "Privacy Checkup."
 
 ![Facebook Privacy Checkup Option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Privacy-Checkup-Option.png) 
@@ -68,6 +84,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  Next, choose "Who can see what you share."
 
 ![Facebook Privacy Checkup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Privacy-Checkup.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the next screen, change every setting to "Only Me" and then select "Next."
 
@@ -91,11 +111,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-inside-the-world-of-vita-video-editor-comprehensive-analysis-2024/"><u>[New] Inside the World of Vita Video Editor - Comprehensive Analysis, 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/acquistare-il-video-converters-professionisti-macx-la-soluzione-migliore/"><u>Acquistare Il Video Converters Professionisti MacX: La Soluzione Migliore</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/expert-guide-the-best-software-for-ripping-dvds-to-various-digital-video-formats-including-mp4-and-android-playability/"><u>Expert Guide: The Best Software for Ripping DVDs to Various Digital Video Formats Including MP4 and Android Playability</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-error-code-0x8024200d-and-get-windows-updates-running-smoothly/"><u>How to Fix Error Code 0X8024200D and Get Windows Updates Running Smoothly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macxdvddigiarter-software-inc/"><u>MacXDVD製品を提供するDigiarter Software, Inc.による返金条件とポリシー - 日本語で解説します</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/outstanding-motorola-one-hyper-the-standout-mid-range-smartphone/"><u>Outstanding Motorola One Hyper - The Standout Mid-Range Smartphone!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/professional-macx-hd-video-editor-pro-windows-10-ultimate-guide-to-converting-videos-m2ts-avchd-mkv-for-ios-and-android-devices/"><u>Professional MacX HD Video Editor Pro Windows 10 - Ultimate Guide to Converting Videos (M2TS, AVCHD, MKV) for iOS & Android Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/strategies-for-uncovering-missing-email-addresses-effectively/"><u>Strategies for Uncovering Missing Email Addresses Effectively</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-power-of-instagram-hashtags-for-more-followers-and-likes/"><u>Unlock the Power of Instagram Hashtags for More Followers and Likes!</u></a></li>
+</ul></div>
+

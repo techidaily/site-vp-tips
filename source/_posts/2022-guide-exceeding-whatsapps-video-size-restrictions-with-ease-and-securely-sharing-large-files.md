@@ -1,7 +1,7 @@
 ---
 title: "2022 Guide: Exceeding WhatsApp's Video Size Restrictions with Ease and Securely Sharing Large Files"
-date: 2024-08-27T01:12:09.358Z
-updated: 2024-08-28T01:12:09.358Z
+date: 2025-01-26T07:56:31.642Z
+updated: 2025-01-31T03:18:48.113Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/18cb20d227d8ba03579b3ae9c0233264966bbd1a9b75e9f980cdf9dee79cc0b9.jpg
@@ -16,15 +16,19 @@ thumbnail: https://thmb.techidaily.com/18cb20d227d8ba03579b3ae9c0233264966bbd1a9
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [Online Video](https://tools.techidaily.com/macxdvd/products/) \> [Streaming Video](https://tools.techidaily.com/macxdvd/products/) \> Whatsapp Video Size Limit
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## WhatsApp Video Size Limit 2023: How to Send Large Videos on WhatsApp
 
-
-
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon6.png) By [Bertha Miller](https://www.linkedin.com/in/bertha-miller-7a324990/) ｜Last updated on March 03, 2021
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-fa.jpg)](https://www.facebook.com/sharer/sharer.php?u=https://www.macxdvd.com/mac-dvd-video-converter-how-to/whatsapp-video-size-limits.htm)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-tw.jpg)](https://twitter.com/intent/tweet?url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/whatsapp-video-size-limits.htm)
@@ -41,29 +45,32 @@ MacX Video Converter Pro- can convert and compress video size by changing video 
 
 [Download for Mac](https://tools.techidaily.com/macxdvd/products/) [Download for PC](https://tools.techidaily.com/macxdvd/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the WhatsApp Video Size Limit 2023?
 
 When you're trying to share or send a video to your contacts using WhatsApp, you may encounter [WhatsApp not working on iPhone](https://tools.techidaily.com/macxdvd/products/) Android and get a message that says "_The media file that you have selected is larger than 16MB. Unable to send file_". That means whatsapp doesn't allow you to send a media file more than **16MB**, not only for videos, but also image, voice note and so on. Actually WhatsApp video size limit is used to be 12MB, and lately in 2024 it was slightly increased up to 16MB. And on most photos, this will equal about 90 seconds to 3 minutes of SD videos. But for HD videos, it can be much shorter. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Send Large Video More Than 16MB Using WhatsApp?
 
 If you have a video exceeding WhatsApp video size limit, namely more than 16MB, can you send it to your friends? Of course. But you need overcome the video size limit of WhatsApp, or more precisely reduce the video size before sharing large videos on WhatsApp. And owing to WhatsApp is available on cross platforms, there are different ways to compress video size. 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Compress video on Mac/Windows PCs
 
 If you're used to sending large videos with WhatsApp Web version, you can compress video file size on Mac and Windows computer in advance. 
 
 ![reduce video size on mac](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/reduce-whatsapp-video-mac.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  To do this, [**MacX Video Converter Pro**](https://tools.techidaily.com/macxdvd/products/) is a nice option. It's an easy-to-use but mighty video compression software and video editor, offering various solution to reduce the video file size, such as trim the length of video, downsize the video resolution, crop unnecessary frame area, change video aspect ratio, or lower the video's bit rate and frame rate. Still, it also competent to convert large size video format to smaller, such as MKV to MP4, M2TS to AVI etc. to compress video and make it available on WhatsApp. 
 
 [Download for Mac](https://tools.techidaily.com/macxdvd/products/) [Download for PC](https://tools.techidaily.com/macxdvd/products/) 
@@ -78,13 +85,14 @@ _Easy steps to convert and compress large video to WhatsApp:_
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../seoimage/art-pro-dot.png) Click on Trim and tick the box of Enable Trim to cut off the video length. Click Apply to all.   
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../seoimage/art-pro-dot.png) Click Crop & Expand, and Enable Crop to adjust the frame size. Click Apply to all. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4.** Click on Gear icon, set the parameters like resolution, bit rate, aspect ratio, audio etc. and click OK. 
 
 **Step 5\.** Tap RUN icon on the lower left to compress the large video within WhatsApp video size 16MB limit without quality loss. Now you should have no issues with [uploading large videos to WhatsApp](https://tools.techidaily.com/macxdvd/products/). 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Shrink video file size on iPhone iPad 
 
 In iPhone and iPad, you can use the Photos as the built-in WhatsApp video trimmer, which means you can cut/trim off unwanted contents, or even you just want to extract a segment from an existing video and save as new clips. 
@@ -107,9 +115,6 @@ On Android, you can fall back on the WhatsApp for Android built-in trimmer to cu
 
 ![reduce video for whatsapp](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/reduce-whatsapp-video-android.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 1\. First download and install it either from Google Play or iTunes store, then open it. 
 
 2\. It'll directly scan your device for videos, otherwise you can also load video manually. 
@@ -120,15 +125,14 @@ On Android, you can fall back on the WhatsApp for Android built-in trimmer to cu
 
 5\. Start convert and reduce video size. 
 
-
-
 Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [How to Reduce Video File Size with Fastest Speed](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic6.jpg)
@@ -137,37 +141,32 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Best HD Video Compressor to Reduce Video File Size](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Simple Way to Free Download WhatsApp Video No Errors](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [List of WhatsApp Supported Video Formats & File Size](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 [How to Upload Video to WhatsApp from iPhone Android YouTube](https://tools.techidaily.com/macxdvd/products/) 
-
-
 
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Hot Products
 
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
@@ -182,10 +181,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Online Video >>](https://tools.techidaily.com/macxdvd/products/)
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Company
 
 * [About Us >>](https://tools.techidaily.com/macxdvd/products/)
@@ -193,8 +188,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * [User Guides >>](https://tools.techidaily.com/macxdvd/products/)
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
-
-
 
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
@@ -209,8 +202,6 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,4 +209,18 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-ultimate-shoppers-list-select-box-personalization-sites/"><u>[Updated] Ultimate Shopper's List Select Box Personalization Sites</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-5-mp4-editing-tools-compatible-with-mac-and-pc-a-comprehensive-guide/"><u>Best 5 MP4 Editing Tools Compatible with Mac & PC - A Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/das-romantischste-kinoerlebnis-ihre-favoritensammlung-von-liebesgeschichten-und-das-perfekte-downloadhandbuch/"><u>Das Romantischste Kinoerlebnis - Ihre Favoritensammlung Von Liebesgeschichten Und Das Perfekte Downloadhandbuch</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1724766739967-dmm/"><u>DMMの動画再生手順：定期間外で購入済みおよびダウンロード済み動画の再生・記録方法</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-transfer-your-favorite-songs-from-purevolume-as-mp3-files/"><u>How To Transfer Your Favorite Songs From PureVolume as MP3 Files</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-apple-iphone-xs-max-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From Apple iPhone XS Max?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/liberate-your-listening-experience-with-pazera-the-2024-review/"><u>Liberate Your Listening Experience with Pazera The 2024 Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/master-the-art-of-iphone-jailbreaking-effective-methods-for-ios-7-through-ios-cual-es-el-proceso-para-desbloquear-su-ipad-o-telefono-inteligente/"><u>Master the Art of iPhone Jailbreaking: Effective Methods for iOS 7 Through iOS Cuál Es El Proceso Para Desbloquear Su iPad O Teléfono Inteligente?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/space-efficient-ways-to-watch-mkv-videos-on-your-iphone-a-comprehensive-guide/"><u>Space-Efficient Ways to Watch MKV Videos on Your iPhone: A Comprehensive Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-affected-by-graphics-driver-crash-repaired/"><u>System Affected by Graphics Driver Crash Repaired</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-key-to-quick-and-effective-small-image-generation-for-2024/"><u>The Key to Quick and Effective Small Image Generation for 2024</u></a></li>
+</ul></div>
 

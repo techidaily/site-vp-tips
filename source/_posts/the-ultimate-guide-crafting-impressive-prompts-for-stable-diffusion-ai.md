@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide: Crafting Impressive Prompts for Stable Diffusion AI"
-date: 2024-08-28 17:48:52
-updated: 2024-08-29 10:19:20
+date: 2025-01-28T11:11:01.225Z
+updated: 2025-01-30T17:41:37.547Z
 tags:
   - cutting-edge
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 ###### [Read update](https://howto.techidaily.com/how-to-revive-your-bricked-oppo-a1-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
 
 * The latest version of Stable Diffusion at the time of this update, version 2.1, responds very well to negative prompts. Negative prompts are just like your regular prompt, but instead of describing what you do want, you describe what you don't want. Try generating your first set of image with no negative prompts, then adding negative prompts to remove elements you dislike.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -53,6 +57,10 @@ Related: [The Best AI Image Generators You Can Use Right Now](https://fox-info.t
 
  This applies to anything you want Stable Diffusion to produce, including landscapes. Be descriptive, and as you try different combinations of keywords, keep a mental note of how the image changes. Some words and phrases tend to more strongly bias an image than other words, so you might need to adjust your prompt accordingly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Name Specific Art Styles or Mediums
 
  The need for specificity doesn't end when you fully describe the content of the image you want. You can (and should) also specify the style you want. We'll stick with our "Cute grey cat" prompt for this. Let's say we want some cute grey cats, but we also want them to look like they're an acrylic painting. The first thing you should try is adding "acrylic painting" as the next keyword in your prompt, so it would read: "Cute Grey Cat, acrylic painting."
@@ -61,13 +69,25 @@ Related: [The Best AI Image Generators You Can Use Right Now](https://fox-info.t
 
 ![6 grey cats from Stable Diffusion that look like acrylic paintings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/acrylic-grey-cat.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Stable diffusion recognizes dozens of [different styles](https://proximacentaurib.notion.site/e28a4f8d97724f14a784a538b8589e7d?v=ab624266c6a44413b42a6c57a41d828c), everything from pencil drawings to clay models to 3d rendering from Unreal Engine.
 
 ![Another example of grey cats in the style of &quot;Unreal Engine.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/video-game.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Those example prompts are extremely simple, but you can use dozens of keywords to fine-tune your results. If you want weird, psychedelic-colored clay chicken models in a Walmart, you need to specify all those terms.
 
 ![A weird melty clay sculpture of a chicken in a Walmart.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/weird-chickens-in-walmart.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Name Specific Artists to Guide Stable Diffusion
 
@@ -78,6 +98,10 @@ Related: [The Best AI Image Generators You Can Use Right Now](https://fox-info.t
  If you're [using the GUI version of Stable Diffusion for Windows that we recommended](https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-tecno-spark-go-2023-phone-by-drfone-android/), there is a "Roll" button to the right of the prompt window that will randomly throw an artist onto your prompt. It is a great way to stumble into new styles. 
 
 ![6 cats, as Stable Diffusion images Picasso would have painted them.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/pablo-cat.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Weight Your Keywords
 
@@ -128,6 +152,10 @@ Related: [This AI Art Gallery Is Even Better Than Using a Generator](https://and
 
  As a rule, Stable Diffusion creates sunsets and fall leaves exceptionally well. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  (Subject), 35mm, sharp
 
  Pick a subject, and this prompt reliably returns photorealistic results of people, animals, and landscapes.
@@ -135,6 +163,10 @@ Related: [This AI Art Gallery Is Even Better Than Using a Generator](https://and
  This example prompt also included "Golden Hour" to get the sunset colors. 
 
 ![Stable Diffusion's take on Mount Katahdin viewed from across a lake.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/photograph-of-mount-katahdin-with-a-beautiful-lake-35mm-sharp-golden-hour.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  (Subject), low poly 3d render, vibrant pastel colors, tilt shift, film grain
 
@@ -147,6 +179,10 @@ Related: [This AI Art Gallery Is Even Better Than Using a Generator](https://and
  Just drop in a subject and an environmental description, and this prompt provides great city concept art images with an environmental effect of your choosing. Here is an example using New York City as the subject and dust storm as the environmental description:
 
 ![A moderately bad weather day in New York City.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/city.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Kermit Anything
 
@@ -164,11 +200,25 @@ Related: [This AI Art Gallery Is Even Better Than Using a Generator](https://and
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/1-top-picks-for-latest-kid-friendly-films-securing-your-collection-with-dvd-backup-strategies/"><u>1. Top Picks for Latest Kid-Friendly Films: Securing Your Collection with DVD Backup Strategies</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-simples-pour-detouer-une-image-un-guide-complet/"><u>5 Techniques Simples Pour Détouer Une Image : Un Guide Complet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/descubre-la-solucion-ideal-para-cambiar-videos-wmv-a-mp4-sin-costo-en-mac-el-convertidor-de-mp4-libre-y-facil-de-uso/"><u>Descubre La Solución Ideal Para Cambiar Videos WMV a MP4 Sin Costo en Mac: El Convertidor De MP4 Libre Y Fácil De Uso</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-high-resolution-ios-17-wallpapers-best-full-hd-backgrounds-for-iphone-and-ipad/"><u>Download High-Resolution IOS 17 Wallpapers: Best Full HD Backgrounds for iPhone and iPad</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/erwerbung-der-hochwertigen-deutschen-fassung-download-and-streaming-des-wm-hymns-von-2018-mp3-hd-mp4/"><u>Erwerbung Der Hochwertigen Deutschen Fassung: Download & Streaming Des WM-Hymns Von 2018 (MP3, HD MP4)</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-itel-p55t-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Itel P55T via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from iPhone 13 Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-secure-to-use-external-chatgpt-plugins-and-tools/"><u>Is It Secure to Use External ChatGPT Plugins & Tools?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mp4-to-dvd-vob-conversion-guide-for-mac-users-play-and-create-with-ease/"><u>MP4 to DVD-VOB Conversion Guide for Mac Users: Play and Create with Ease</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-nokia-c12-plus-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Nokia C12 Plus Reset Code | Dr.fone</u></a></li>
+</ul></div>
+

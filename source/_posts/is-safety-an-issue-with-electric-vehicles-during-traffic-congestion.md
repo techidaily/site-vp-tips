@@ -1,7 +1,7 @@
 ---
 title: Is Safety an Issue with Electric Vehicles During Traffic Congestion?
-date: 2024-08-28 18:33:14
-updated: 2024-08-29 10:31:12
+date: 2025-01-30T10:34:19.599Z
+updated: 2025-01-30T18:30:15.306Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ---
 
 ## Is Safety an Issue with Electric Vehicles During Traffic Congestion?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -20,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  Every few months we see the same story [floating around on social media](https://twitter.com/ItallionTony/status/1398440922036199427) that electric cars are more likely to die and get stuck during a traffic jam. Suggesting they are dangerous, have no heaters, or will run out of battery in around three hours. So, are EVs a danger in traffic jams? Absolutely not.
 
  In 2022, a huge 48-mile traffic jam happened on the I-95 in Virginia on a cold, snowy day, and we instantly saw the [EV fearmongering](https://www.washingtonpost.com/opinions/2022/01/04/imagine-virginias-icy-traffic-catastrophe-with-only-electric-vehicles/) reach an all-time high. Claiming if those were all EVs, the situation would have been a "catastrophe." A reader actually sent us these graphics circulating on Facebook in response to one of our [recent EV articles](https://www.reviewgeek.com/118218/do-evs-need-special-tires/). In reality, when electric cars aren't moving, they use very little power, will last for days, and can easily keep you safe and warm (or cool) during a long traffic jam.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Rumors
 
@@ -35,9 +43,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  Wrong!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Electric Vehicle Facts
 
 ![All current Tesla models lined up](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/29bb7ac0.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Tesla_
 
@@ -54,6 +70,10 @@ Related: [Can You Jump-Start a Dead EV Car Battery?](https://www.reviewgeek.com/
  With EVs, manufacturers use electronic heating elements to warm the cabin, not to mention things like heated seats and steering wheels. Those get power from the massive battery, keep you warm, and can last for far longer than simply three hours. More modern EVs from Tesla and Ford use the heat pump to warm the cabin, which is far more efficient than heating elements or resistors from older EVs.
 
  Your typical Tesla heated seat uses around 60 watts per seat and gets controlled by the onboard computer drawing around 250 watts. As long as you don't use extra systems like Wi-Fi to watch Netflix on the infotainment display, the car could easily keep your seats warm for nearly a week.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Do EVs Stuck In Traffic Fare?
 
@@ -83,11 +103,25 @@ Related: [Here's How Tesla Superchargers Will Work With Other EVs](https://www.r
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-pros-approach-to-documenting-overwatch-battles/"><u>[New] The Pro's Approach to Documenting Overwatch Battles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-live-setting-picks/"><u>[New] Ultimate Live Setting Picks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-30-innovative-video-themes-and-layouts/"><u>[Updated] 2024 Approved 30 Innovative Video Themes and Layouts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-save-photo-from-video-in-windows-10-photos-app/"><u>[Updated] How to Save Photo From Video in Windows 10 Photos App</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-speedy-transmission-techniques-ultimate-app-and-extension-guide/"><u>[Updated] Speedy Transmission Techniques Ultimate App and Extension Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-guide-to-using-luts-for-professional-image-editors-for-2024/"><u>Advanced Guide to Using LUTs for Professional Image Editors for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-magic-v2-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor Magic V2 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/invisible-presence-guide-to-instagram-live-broadcasts-and-streaming-for-2024/"><u>Invisible Presence Guide to Instagram Live Broadcasts and Streaming for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-art-of-engaging-crafting-compelling-reddit-content-for-2024/"><u>The Art of Engaging Crafting Compelling Reddit Content for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/660708-9781587613852-the-faeries-guide-to-green-magick-from-the-garden/"><u>The Faerie's Guide to Green Magick from the Garden | Free Book</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-virtual-quest-a-jaunt-vr-exploration/"><u>The Virtual Quest A Jaunt VR Exploration</u></a></li>
+</ul></div>
+
