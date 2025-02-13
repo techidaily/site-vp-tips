@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Moving Your iPhone Pictures Onto a Portable USB Thumb Drive
-date: 2024-08-27T01:20:06.876Z
-updated: 2024-08-28T01:20:06.876Z
+date: 2025-02-12T01:43:24.320Z
+updated: 2025-02-12T17:00:24.107Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3ba69f4885da8723ba49d2002.jpg
@@ -13,13 +13,9 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
 [iOS 17 Update](https://tools.techidaily.com/macxdvd/products/) [Mobile Transfer](https://tools.techidaily.com/macxdvd/products/) [Backup iPhone](https://tools.techidaily.com/macxdvd/products/) [Monterey Update Errors & Fixes](https://tools.techidaily.com/macxdvd/products/)![](https://www.macxdvd.com/mobile/article-image/hot.gif) 
 
-
-
 ![](https://www.macxdvd.com/mobile/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [Mobile](https://tools.techidaily.com/macxdvd/products/) \> Sync iPhone Photos to USB
 
 ## How to Transfer Pictures  from iPhone to a USB Flash Drive
-
-
 
 _Insufficient space on iPhone for more photos storage? Try the below smart approach to transfer and copy pictures from iPhone to a USB flash drive to free up iPhone space._
 
@@ -29,7 +25,9 @@ I'm running on an iPhone with 64GB storage space and the OS consumes 6.36GB. Thu
 
 Anyway, no matter which iPhone model you possess, the photos would be ranked at the first or the second place of the top space consumption list. So to free up iPhone space, you can consider to move and transfer iPhone photos to a USB flash drive for backup. Yet, what size USB drive do you need for photos? We list out the common used USB drive with maximum photos number for your reference.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Size USB Drive do You Need to Buy for Photos?
 
@@ -40,6 +38,10 @@ Anyway, no matter which iPhone model you possess, the photos would be ranked at 
 | 128GB             | 24736 - 0.482 million                         | 0.131 million    | 52640       | 49272           |
 
 The above table is the estimation photo number for your reference. If you use iPhone 7 or later iPhone to shoot photos in HEIC, the output image file would become 50% larger than it is on iPhone after you transfer it from iPhone to computer. Cuz the HEIC photos would automatically be converted to JPG during sync.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Copy Photos from iPhone to an External USB Flash Drive
 
@@ -53,8 +55,9 @@ After you prepare a USB drive grounded on the above table, you can move to the n
 [![](https://www.macxdvd.com/mobile/../image-style/new-seo/btn-win.png)](https://tools.techidaily.com/winxdvd/products/) [![](https://www.macxdvd.com/mobile/../image-style/new-seo/btn-mac.png)](https://tools.techidaily.com/macxdvd/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 1: Free Download MacX MediaTrans 
 
 [Free download this iPhone manager on Mac](https://tools.techidaily.com/macxdvd/products/) and then fire it up. Afterwards, connect your iPhone or old iPhone to Macbook Pro/Air, iMac, Mac Mini or iMac Pro via USB cable. If the connection failed, unplug your iPhone and try it again via another USB port.
@@ -69,14 +72,9 @@ Tap Photos icon at the main home > opt for the pictures you plan to transfer. Fi
 ![copy iPhone images to mac](https://www.macxdvd.com/mobile/article-image/photo-month-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ### Step 3: Export iPhone Photos to Mac 
 
 Hit "Export" button after everything is ready. And you just leave everything to this tool and wait for a second. You're allowed to transfer as many hi-res photos as you want without any limitations on quality and quantity. 
@@ -91,8 +89,6 @@ On top of iPhone photos transfer feature, [MacX MediaTrans](https://tools.techid
 
  Tags: [iPhone](https://tools.techidaily.com/macxdvd/products/) Transfer iPhone Photos Pictures to USB 
 
-
-
 Related Articles
 
 ![](https://www.macxdvd.com/mobile/../image-style/new-seo/pic7.jpg)
@@ -105,34 +101,35 @@ Related Articles
 
 ![](https://www.macxdvd.com/mobile/../image-style/new-seo/pic5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Download Best Photo Organizing Software to Sync iPhone Photos](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mobile/../image-style/new-seo/pic4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [How to Open and View HEIC Photos on Mac/Windows](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mobile/../image-style/new-seo/pic3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Simple Guide to Transfer and Copy iPad Photos to MacBook at just 1 Click
 
 ![](https://www.macxdvd.com/mobile/../image-style/new-seo/pic2.jpg)
 
 [Photos Backup: How to Import iPod Photos to MBP/MacBook/iMac Pro](https://tools.techidaily.com/macxdvd/products/) 
 
-
-
 ![Digiarty Software](https://www.macxdvd.com/mobile/../icon/logo.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Hot Products
 
@@ -140,9 +137,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tips and Tricks
 
 * [DVD Topics >>](https://tools.techidaily.com/macxdvd/products/)
@@ -151,9 +145,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Online Video >>](https://tools.techidaily.com/macxdvd/products/)
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Company
 
 * [About Us >>](https://tools.techidaily.com/macxdvd/products/)
@@ -161,8 +152,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [User Guides >>](https://tools.techidaily.com/macxdvd/products/)
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
-
-
 
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Site Map](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
@@ -177,8 +166,6 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +173,20 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-from-monotonous-to-mesmerizing-grading-guidance-for-editors/"><u>[New] From Monotonous to Mesmerizing Grading Guidance for Editors</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-ultimate-list-best-fb-videos-to-watch/"><u>[Updated] The Ultimate List Best FB Videos To Watch</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-chat-solution-for-players-comparing-teamspeak-and-discord-in-detail/"><u>Best Chat Solution for Players: Comparing TeamSpeak and Discord in Detail</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-complimentary-video-creation-tools-for-windows-10-8-and-7-users-top-18-picks/"><u>Best Complimentary Video Creation Tools for Windows 10, 8, and 7 Users - Top 18 Picks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effortless-web-based-transformation-from-wmv-video-to-high-quality-m4a-soundtracks/"><u>Effortless Web-Based Transformation From WMV Video to High-Quality M4A Soundtracks</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/executive-seating-unveiled-the-x-chair-x4-review-for-productive-workspaces/"><u>Executive Seating Unveiled: The X-Chair X4 Review for Productive Workspaces</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-conversion-turn-asf-files-into-mp4-format-with-our-online-service-movavi/"><u>Free Conversion: Turn ASF Files Into MP4 Format with Our Online Service - Movavi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-online-mpeg-to-swf-converter-by-movavi-streamline-your-video-downloads/"><u>Free Online MPEG to SWF Converter by Movavi - Streamline Your Video Downloads</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-infinix-note-30-vip-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Infinix Note 30 VIP to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-oneplus-11r-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from OnePlus 11R to Gmail | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-fcpx-essentials-freeze-frames-slow-mo-and-more/"><u>New In 2024, FCPX Essentials Freeze Frames, Slow-Mo, and More</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-selection-of-mac-clipping-tools/"><u>The Ultimate Selection of Mac Clipping Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/3g2-mp4-movavi/"><u>バーチャル無料: オンライン3G2 MP4動画に簡単変換 - Movavi</u></a></li>
+</ul></div>
 

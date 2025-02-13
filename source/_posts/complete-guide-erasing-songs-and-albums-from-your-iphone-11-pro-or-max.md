@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Erasing Songs and Albums From Your iPhone 11 Pro or Max"
-date: 2024-08-27T01:18:50.900Z
-updated: 2024-08-28T01:18:50.900Z
+date: 2025-02-09T22:41:34.155Z
+updated: 2025-02-12T22:13:18.139Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e7730f720ac972d7ab64101094f.jpg
@@ -13,23 +13,25 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 
 [iOS 17 Update](https://tools.techidaily.com/macxdvd/products/) [Mobile Transfer](https://tools.techidaily.com/macxdvd/products/) [Backup iPhone](https://tools.techidaily.com/macxdvd/products/) [Monterey Update Errors & Fixes](https://tools.techidaily.com/macxdvd/products/)![](https://www.macxdvd.com/mobile/article-image/hot.gif) 
 
-
-
 ![](https://www.macxdvd.com/mobile/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [iTunes](https://tools.techidaily.com/macxdvd/products/) \> Delete Music from iPhone 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Delete Music from iPhone 11 (Pro/Max) Easily
-
-
 
 _Cannot delete music from iPhone via the red Delete button on Music App? Or you want to delete iPhone music/album in batch on computer? This article covers several easy ways to delete music from iPhone. here, with comprehensive step-by-step guide provided._ 
 
 ![](https://www.macxdvd.com/mobile/../image-style/new-seo/icon6.png) By [Rico Rodriguez](https://www.linkedin.com/in/rico-rodriguez-06815a104/) to iTunes Tips, iPhone Music Management｜Last updated on Mar 15, 2023
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It may be wrongly regarded as kids' stuff to remove music from iPhone. But there are some complaints indeed about users cannot [delete iTunes duplicate songs](https://tools.techidaily.com/macxdvd/products/). Or they failed to remove the unwanted tracks on iPhone with the red Delete button owing to the [iTunes sync error](https://tools.techidaily.com/macxdvd/products/) that iTunes synced songs cannot be deleted on iPhone. So, we post multiple ways to delete unwanted music and albums from iPhone to manage storage space for photos, new song playlist and iOS 17 Update. From lesser-known but much simpler method to common ones every iPhone user could have tried, we cover all the easiest ways here. 
 
 Follow the guide below to learn how to delete your songs, playlists, and albums from iPhone (11), all iPhone series running iOS 17/13 with more flexibility , including purchased music from Apple Music, iTunes, Google Play and non-purchased songs. Now, such issue as "I can't remove music from iPhone" is ended. 
-
-
 
 ## The Quickest and Simplest Way to Delete iPhone Music Files 
 
@@ -53,6 +55,10 @@ Follow the guide below to learn how to delete your songs, playlists, and albums 
 
 ![delete music from iPhone](https://www.macxdvd.com/mobile/article-image/icon-delete-music.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Click "Delete Music" on the top to start to remove music from iPhone. 
 
 If you want to make a backup of the music on iPhone before delete songs from iPhone, follow the guide "[how to transfer music from iPhone to Mac](https://tools.techidaily.com/macxdvd/products/)" to give it a shot. 
@@ -60,8 +66,6 @@ If you want to make a backup of the music on iPhone before delete songs from iPh
 ![](https://www.macxdvd.com/mobile/../image-style/new-seo/icon0.png)
 
 The guide on how to permanently erase music from iPhone can be applied to [delete music from iPad](https://tools.techidaily.com/macxdvd/products/), iPod as well. In addition to clearing music from iPhone, the program offers more advanced music management capabilities, allowing you to add music, make ringtone for iPhone, edit artists/song titles/albums, [create music playlists](https://tools.techidaily.com/macxdvd/products/) and more. It can also transfer photos, videos, movies, TV shows, books, etc. between iPhone/iPad/iPod and Mac/PC.
-
-
 
 ## Other Regular Ways to Take Songs off iPhone 
 
@@ -94,8 +98,9 @@ Step 2: Tap the red "…" next to the song title.
 Step 3: Click "Delete from Library" button to remove music from iPhone XS/XS Max/X/7/6s/SE/5s/5.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Delete Song Playlist from iPhone Using iTunes
 
 Step 1: Open iTunes on Mac or PC, connect your iPhone to your computer. Learn how to fix [iTunes not recognizing iPhone](https://tools.techidaily.com/macxdvd/products/).
@@ -105,18 +110,15 @@ Step 1: Open iTunes on Mac or PC, connect your iPhone to your computer. Learn ho
 ![delete music from iPhone with iTunes](https://www.macxdvd.com/mobile/article-image/delete-music-from-iphone-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Step 3: Right click the song and select "Delete" to remove a song from iPhone XS/XS Max/X/7/6s/SE using iTunes. or you can hit Delete/Back space key on the keyboard to get music off iPhone running iOS 17/11/10/9/8.
 
 It only enables you to erase music from iPhone devices, and the music is still available on iTunes. To delete music on iPhone from iTunes permanently, click "Summary" on the top, and then click on "Apply" at the bottom right.
 
 ![](https://www.macxdvd.com/mobile/../image-style/new-seo/icon0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 **Troubleshooting: Can't Delete Music Tracks from iPhone with iTunes**
 
 Many users are experiencing issues taking songs off iPhone using iTunes. Follow the solutions below to solve iTunes not deleting music from iPhone.   
@@ -131,15 +133,10 @@ _Still have any problem on how to delete music from iPhone, just [email us >>](h
 
  Tags: [iTunes](https://tools.techidaily.com/macxdvd/products/) [Sync iPhone Files](https://tools.techidaily.com/macxdvd/products/) 
 
-
-
 Related Articles
 
 ![](https://www.macxdvd.com/mobile/../image-style/new-seo/pic7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 [How to Delete Playlists from iPhone without Deleting Songs](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mobile/../image-style/new-seo/pic6.jpg)
@@ -149,41 +146,31 @@ Related Articles
 ![](https://www.macxdvd.com/mobile/../image-style/new-seo/pic5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [How to Transfer Music from iPhone to iTunes without Erasing](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mobile/../image-style/new-seo/pic4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 [iTunes Songs Greyed out with Dotted Circle? Fix It Now](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mobile/../image-style/new-seo/pic3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [iPhone Not Sync with iTunes Fixed with Full Solutions](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mobile/../image-style/new-seo/pic2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Transfer MP3 to iPhone XR/XS (Max) without Using iTunes](https://tools.techidaily.com/macxdvd/products/) 
-
-
 
 ![Digiarty Software](https://www.macxdvd.com/mobile/../icon/logo.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ### Hot Products
 
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
@@ -191,8 +178,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Tips and Tricks
 
 * [DVD Topics >>](https://tools.techidaily.com/macxdvd/products/)
@@ -209,8 +197,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Site Map](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
 Copyright © 2024 Digiarty Software, Inc (MacXDVD). All rights reserved
@@ -218,19 +204,19 @@ Copyright © 2024 Digiarty Software, Inc (MacXDVD). All rights reserved
 Apple, the Apple logo, Mac, iPhone, iPad, iPod and iTunes are trademarks of Apple Inc, registered in the U.S. and other countries.  
 Digiarty Software is not developed by or affiliated with Apple Inc.
 
-
-
 ![](https://www.macxdvd.com/mobile/../mediatrans/img/icon.png)MacX MediaTrans - One Click to Delete Music from iPhone
 
 [![](https://www.macxdvd.com/mobile/../image-style/new-seo/btn-mac-top.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/mobile/../image-style/new-seo/btn-win-top.png)](https://tools.techidaily.com/winxdvd/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -239,4 +225,18 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-android-mac-video-archiving-a-snap-solution-guide/"><u>[Updated] 2024 Approved Android-Mac Video Archiving A Snap Solution Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-camstudios-enhanced-screen-capturing-for-a-seamless-2023-experience/"><u>[Updated] In 2024, CamStudio's Enhanced Screen Capturing for a Seamless 2023 Experience</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-keyboard-moguls-choices-leading-16-youtube-intros-for-more-watchers/"><u>2024 Approved Keyboard Moguls' Choices Leading 16 YouTube Intros for More Watchers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/vob-5-windows-mac/"><u>瞬间开始 VOB 视频播放：5个方法解码 Windows 和 Mac（速度提示）</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/all-of-movavis-solutions-available-with-movavi-unlimited-plan-discover-your-best-match/"><u>All of Movavi's Solutions Available with Movavi Unlimited Plan - Discover Your Best Match!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cambiar-archivos-de-video-avi-a-formato-3gp-sin-coste-adicional-con-herramientas-online/"><u>Cambiar Archivos De Vídeo AVI a Formato 3GP Sin Coste Adicional Con Herramientas Online</u></a></li>
+<li><a href="https://fox-info.techidaily.com/elite-streaming-gear-top-hd-360-cameras-compared/"><u>Elite Streaming Gear Top HD 360° Cameras Compared</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/graba-y-convierte-tu-archivo-ogg-a-mp3-sin-coste-movavi/"><u>Graba Y Convierte Tu Archivo OGG a MP3 Sin Coste - Movavi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-depth-look-at-wondershare-filmora-a-breakdown-of-functions-and-pricing-options/"><u>In-Depth Look at Wondershare Filmora - A Breakdown of Functions and Pricing Options</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-fixes-to-get-logitech-devices-working-perfectly-on-windows-systems/"><u>Mastering the Fixes to Get Logitech Devices Working Perfectly on Windows Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722954781279-xbox-gamepad-drivers-not-working-solutions-for-users-of-windows-10-8-and-7/"><u>Xbox Gamepad Drivers Not Working? Solutions for Users of Windows 10, 8 & 7</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "スマホでの曲カット&分割方法: IPhoneアプリを使った簡単な音楽編集テクニック"
-date: 2024-08-25 21:21:56
-updated: 2024-08-27 12:52:21
+date: 2025-02-10T01:31:16.437Z
+updated: 2025-02-12T16:34:52.689Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/a5dde8e23432eb9faea6481b1841af4ec33dc75da64317f31b7964d607abcd74.jpg
@@ -13,39 +13,37 @@ thumbnail: https://thmb.techidaily.com/a5dde8e23432eb9faea6481b1841af4ec33dc75da
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/face.png)](https://www.facebook.com/Digiarty.Software.Japan) [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/twi.png)](https://twitter.com/DigiartyInc) [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/google.png)](https://www.youtube.com/channel/UCqY5hItdifUTbKX2sKXe4fQ) 
 
-
-
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/ilogo.png)](https://tools.techidaily.com/macxdvd/products/) 
 
 NO Apple NO Life ! iPhone・iPad・iPod簡単データ移行方法まとめ
 
-
-
 [ホーム](https://tools.techidaily.com/macxdvd/products/)[iPhone・iPad・iPod](https://tools.techidaily.com/macxdvd/products/) \> iPhone曲編集方法
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPhone音楽編集方法まとめ｜MP3・音声・曲を手軽にカット・分割・結合・着信音作成
 
 iPhoneで曲を結合できるアプリを探しているのか。iPhone音楽を編集・カット・繋げる・テンポを変えるなどができるソフトってあるのか。MP3からiPhone着信音に設定したいのか。もしそうでしたら、下記で紹介されるiPhone音楽編集アプリやソフトウェアは役立てる。どっちでも直感的なデザインを持ち、使いやすくて、機会オンチでもすぐに使いこなせる。
 
-
-
 無劣化・高速でiPhone音楽編集・プレイリスト削除・着信音作成を行えるソフトウェア
 
 ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/iphone-music-editor-0330.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 かなり優秀な評価の高いiOSデータ管理ソフトでパソコンからiPhoneに音楽を転送でき、逆にiPhoneからパソコンに音楽を転送できる！操作は簡単で、動作も軽く、転送スピードが想像以上に速い。お好きな音楽、プレイリストなどを iPhone・iPod・iPadとPC間、iOSデバイス間に楽に転送！**[MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)**で、毎日をもっと楽しく、もっと自由に。
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/btnm.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/btnw.png)](https://tools.techidaily.com/winxdvd/products/) 
-
-
 
 ## iPhone音楽編集方法おすすめ｜MP3・音声・曲を手軽にカット・分割・結合できる
 
 以前は、Apple標準アプリimovieを使ってiPhone音楽を編集したが、imovie本体はビデオ編集アプリで、音楽編集にはちょっと不足がある。だが、使いやすくて安全性も高く、大勢の方々に愛用されている。例えば、imovieを使ってオーディオ取り離し、音楽つなげる、オーディオフェードアウト、途中から曲を入れるなどといった作業が手軽に行える。
 
 以下では、imovie代わり、iPhoneで音楽を編集できるアプリケーション及びソフトウェアをまとめてご紹介する。
-
-
 
 ## iPhone音楽編集ソフト：MacX MediaTrans
 
@@ -69,8 +67,6 @@ MacX MediaTransはiPhoneに特化されたソフトウェアで、iPhoneに保�
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/btnm.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/btnw.png)](https://tools.techidaily.com/macxdvd/products/) 
 
-
-
 ## iPhone音楽編集ソフト：AudioEditor
 
 ![iPhone音楽編集](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/iphone-music-editor-02.jpg) 
@@ -85,8 +81,6 @@ AudioEditorはMP3/WAVなどの音声ファイルをトリミングできる音�
 
 **Step4：**「編集された点」画面が別のウインドウで表示され、カット作業が終わったら「OK」をクリックすればOK。
 
-
-
 ## iPhone音楽編集ソフト：Adobe Premiere Elements 14
 
 ![iPhone音楽編集](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/iphone-music-editor-03.jpg) 
@@ -100,8 +94,6 @@ Adobe Premiere Elements 14は動画・ビデオ編集ソフトとして有名だ
 **Step3：**タイムラインの左上には「オーディオ表示を表示」を選択し、オーディオ編集用タイムライン画面が表示される。タイムライン右側にオーディオメーターが表示され、再生ボタンをクリックしクリップを再生する。
 
 **Step4：**オーディオメーターが最大値に達したら、クリップのボリュームを下げる必要がある。それで、全般的なボリュームレベルが調整される。
-
-
 
 ## iPhone曲編集アプリ：Garage Band
 
@@ -123,8 +115,6 @@ Garage Band（ガレージバンド）は、よく知っているiPhone曲編集
 
 **Step5：**分割した音源ファイルは「ホーム」⇒「ライブラリ」⇒「オーディオ」⇒「Apple Loops」⇒「User Loops」⇒「Single Files」に保存される。先ほど編集した音声ファイルをチェックできる。
 
-
-
 ## iPhone曲編集アプリ：WavePad音声編集ソフト
 
 ![iPhone音楽編集](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/iphone-music-editor-05.jpg) 
@@ -140,8 +130,6 @@ WavePad音声編集ソフトは、無料で使えるiPhone音声編集ソフト�
 **Step3：**切り取った部分をiPhoneで扱えるフォーマットとして保存する。iPhoneの場合は、.m4rで出力してください。
 
 **Step4：**「フェードイン」⇒「フェードアウト」のエフェクトを利用すれば、iPhone着信音を作成する作業がもっとスムーズとなる。
-
-
 
 ## iPhone曲編集アプリ：MultiTrack DAW
 
@@ -159,8 +147,6 @@ MultiTrack DAWは最新テクノロジーを導入し、強力なiPhone曲編集
 
 **Step5：**メトロノーム設定に関しては、「Click In Play」か「Click In Rec」をタップすれば良い。「Click In Play」は再生時に設定した拍子とBPMでメトロノーム音を流せるボタン。「Click In Rec」は録音時に設定した拍子とBPMでメトロノーム音を流せるボタン。
 
-
-
 ## iPhone曲編集アプリ：edjing Mix
 
 ![iPhone音楽編集](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/iphone-music-editor-07.jpg) 
@@ -175,8 +161,6 @@ Adobe Premiere Elements 14は[動画・ビデオ編集ソフト](https://tools.t
 
 **Step4：**オーディオメーターが最大値に達したら、クリップのボリュームを下げる必要がある。それで、全般的なボリュームレベルが調整される。
 
-
-
 ## iPhone曲編集アプリ：Medly
 
 ![iPhone音楽編集](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/iphone-music-editor-08.jpg) 
@@ -190,7 +174,9 @@ Medlyの最大な特徴は、作曲が手軽に完成できる所。初心者で
 
 **Step3：**打ち込んだデータをMIDIファイルにしてメールで送ったりすることができる。
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPhone曲編集アプリ：ボイスメモ
 
@@ -208,11 +194,17 @@ Medlyの最大な特徴は、作曲が手軽に完成できる所。初心者で
 
 **Step5：**音声トリミングしたい場合は、画面右側にあるトリミングマークをタップする。画面左右にある赤いトリミングシークバーを移動したら、音声トリミング作業が開始。トリミング部分が確認して終了したい時は、「トリミング」ボタンをタップしファイルを保存する。
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPhone曲編集アプリ：MP3 Cutter
 
 ![iPhone音楽編集](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/iphone-music-editor-10.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 MP3 Cutterは、名前の通りで曲のカットに特化されるアプリケーションである。音声ファイルの任意①を切り出せたり、大きなオーディオファイルを小さく分割したり、着信音を作成することができる。完全無料で、誰でも使える。だが、英語しか表記されない所が不足。
 
@@ -223,29 +215,31 @@ MP3 Cutterは、名前の通りで曲のカットに特化されるアプリケ�
 
 **Step3：**そこからカットしたい部分を設定できる。下には再生ボタンがあり、音声ファイルがカットされた後、すぐに確認できる。
 
-
-
 ## 【まとめ】使用用途に合わせて最適なiPhone音楽編集を選ぼう
 
 iPhoneで音楽を編集できるソフトウェアやアプリケーションについてまとめてみた。疲れを解消するため音楽を視聴したり、自由に編集する人も多くなってきた。
 
 上記で紹介されるiPhone曲編集アプリならではの特徴を持ち、自分の興味やライフスタイルに合わせて最適なものを選んでください。
 
-
-
  iPhone音楽編集・削除・新規作成（プレイリスト・曲情報・アーティスト）を行えるソフト
 
 ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/pic1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 iPhone曲編集ソフトというより、むしろお持ちのiPhone・iPod・iPadの音楽を簡単に転送・管理するために開発されたアプリである。音楽をiPhone・iPod・iPadとMacの間で双方向同期・転送・移行することができる上、iTunes・Apple MusicのDRMを解除可能し、iTunesなしで、お気に入りの曲だけを集めて、プレイリストの作成/編集/削除が行え、写真/ビデオを暗号化して出力、写真隠しロック、動画をパスワードで暗号化で保存できる。強力なハードウェアアクセラレーション搭載で、超爆速で16分で7000曲をバックアップ可能。**[MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)**で、毎日をもっと楽しく、もっと自由に。
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/btnm.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/btnw.png)](https://tools.techidaily.com/winxdvd/products/) 
 
-
-
  国内ユーザー数5000万人突破記念キャンペーンが実施中
 
 ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/sp-1030.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ◎ 【最大50％OFF】5千万ユーザー突破のプレゼントセット -（期間限定）
 
@@ -259,36 +253,41 @@ iPhone曲編集ソフトというより、むしろお持ちのiPhone・iPod・i
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/../blog/new-fourteen/info.jpg)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/apple-iphone-transfer/../blog/new-fourteen/coupon-btn.jpg)](https://secure.avangate.com/order/checkout.php?PRODS=4626941&QTY=1&CART=1&SHORT%5FFORM=1&COUPON=MACXOBON2014) 
 
-
-
  カテゴリ：[データ転送](https://tools.techidaily.com/macxdvd/products/)[音楽管理](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/zl.png) いつもシェアありがとうございます![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/zr.png) 
-
-
 
 ## コメントの多い記事一覧
 
 * [_音楽アプリ無料_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p4.jpg) 通信量がかからない音楽アプリを最新おすすめ！iOS＆Android！](https://tools.techidaily.com/macxdvd/products/)
 * [_Music FM本物_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p8.jpg)本物のMusic FMをiPhoneにダウンロードする方法](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [_Wi-Fiなし音楽_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p7.jpg) オフラインやWi-Fiなしで聴ける無料音楽アプリ2024年版！](https://tools.techidaily.com/macxdvd/products/)
 * [_iPhone曲 PCなし_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p5.jpg) 超簡単！パソコンを使わずにiPhoneに曲を入れる方法3つ！](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [_iPhone写真_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p2.jpg) 勝手にiPhone写真が消えた！アイフォン写真消えた原因と復元方法](https://tools.techidaily.com/macxdvd/products/)
 * [_Music FM iTunes_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p3.jpg) 本物Music FM iTunesにファイル共有できない原因及びその対策！](https://tools.techidaily.com/macxdvd/products/)
 * [_iPhone認識_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p1.jpg) iTunes iPhone認識しない原因と対処法まとめ！MacとWindows](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [_iPhone動画保存_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p6.jpg) iPhone動画ダウンロード・動画保存アプリおすすめ（無料＆有料）](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 [ホーム](https://tools.techidaily.com/macxdvd/products/)[iPhone・iPad・iPod](https://tools.techidaily.com/macxdvd/products/) \> iPhone曲編集方法
-
-
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/f.png)](https://www.facebook.com/Digiarty.Software.Japan) [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/tw.png)](https://twitter.com/DigiartyInc) [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/y.png)](https://www.youtube.com/channel/UCqY5hItdifUTbKX2sKXe4fQ) 
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/top.png)](https://www.macxdvd.com/apple-iphone-transfer/javascript:;)
-
-
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/ilogo.png)](https://tools.techidaily.com/macxdvd/products/) 
 
@@ -327,11 +326,28 @@ Digiarty SoftwareがApple Inc.と開発または商業提携をしていませ�
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-compreenas-guide-to-choosing-ideal-lenses-for-filmmaking-for-2024/"><u>[New] A Compreenas Guide to Choosing Ideal Lenses for Filmmaking for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-a-beginners-roadmap-to-professional-video-sound-recording/"><u>[Updated] 2024 Approved A Beginner's Roadmap to Professional Video Sound Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ultimate-guide-to-quality-captures/"><u>[Updated] 2024 Approved Ultimate Guide to Quality Captures</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-utilmate-guide-15-tips-to-become-instagram-famous-fast-and-easy/"><u>[Updated] 2024 Approved Utilmate Guide 15 Tips to Become Instagram Famous Fast and Easy</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-which-apple-m1-machine-suits-your-lifestyle-more/"><u>[Updated] 2024 Approved Which Apple M1 Machine Suits Your Lifestyle More?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-creating-accessibility-your-guide-to-an-intuitive-youtube-signup/"><u>[Updated] In 2024, Creating Accessibility Your Guide to an Intuitive YouTube Signup</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavi-movmxf/"><u>「Movavi - 無料で簡単! MOVからMXFへのオンライン変換」</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/descargar-y-convertir-archivos-de-video-mov-a-webm-online-sin-costo-con-movavi/"><u>Descargar Y Convertir Archivos De Video MOV a WebM Online Sin Costo Con Movavi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-tutorial-for-snapping-screen-shots-of-long-pages-on-your-pc-with-windows-os/"><u>Easy Tutorial for Snapping Screen Shots of Long Pages on Your PC with Windows OS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effortless-audio-file-exchange-upload-your-m4a-and-download-as-ogg-without-cost/"><u>Effortless Audio File Exchange - Upload Your M4A and Download as Ogg without Cost</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavi-no-cost-simple-solution-convert-mp3-to-aiff-online-efficiently-and-securely/"><u>Movavi - No Cost, Simple Solution: Convert MP3 to AIFF Online Efficiently and Securely</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mp3-konvertering-pa-gaffelens-plats-denna-gratis-effektiva-online-losningen-med-konvertera/"><u>MP3-Konvertering På Gaffelens Plats: Denna Gratis, Effektiva Online Lösningen Med Konvertera</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-free-video-editing-software-for-windows-7-in-2er-2024-comprehensive-guide/"><u>Top Free Video Editing Software for Windows 7 in 2Er 2024 - Comprehensive Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-backdrop-choices-for-streamers/"><u>Ultimate Backdrop Choices for Streamers</u></a></li>
+</ul></div>
+

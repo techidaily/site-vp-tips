@@ -1,7 +1,7 @@
 ---
 title: "Solving Playback Timing Problems: Fixing Offset Sound on Digitized Video Files"
-date: 2024-08-27T01:17:06.754Z
-updated: 2024-08-28T01:17:06.754Z
+date: 2025-02-07T19:20:00.941Z
+updated: 2025-02-12T22:40:10.847Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c83a82113344d8ae306f1223c.jpg
@@ -16,13 +16,13 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mac-dvd-ripper-pro/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [DVD](https://tools.techidaily.com/macxdvd/products/) \> [Rip DVD](https://tools.techidaily.com/macxdvd/products/) \> Audio out of Sync after DVD Ripping
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## DVD Ripped Audio out of Sync Error Fixed Permanently
-
-
 
 _The audio and video out of sync after DVD ripping occurs with Handbrake, VLC, MakeMKV, DVDfab, etc. for different reasons. In this post, we will discuss the possible reasons and how to fix DVD ripped video lip-sync errors permanently._ 
 
@@ -36,6 +36,10 @@ _The audio and video out of sync after DVD ripping occurs with Handbrake, VLC, M
 DVD ripping is not always trouble-free, and chief among them is the ripped DVD audio out of sync with the video. Sometimes the audio goes ahead of the video, sometimes there is an audio delay or no audio. 
 
 How to avoid the DVD sound "lip-sync" issue and restore out-of-sync audio after DVD ripping? There are some ways to manually adjust the sync settings using media players like VLC and KMPlayer. However, VLC does not permanently fix the audio-video sync issue, so you would have to reset it every time you play a DVD movie. In this post, we will share a method to permanently fix the video audio desync errors that can occur after ripping a DVD using software like Handbrake, VLC, MakeMKV, DVDFab, and others.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix All A/V out of Sync Issues when Ripping DVDs 
 
@@ -55,9 +59,6 @@ Rip protected DVDs easily without video/audio out of sync issues using **[MacX D
 * [Part 3\. How to **Correct** Out-of-Sync Audio after DVD Ripping](https://tools.techidaily.com/macxdvd/products/)
 * [Part 4\. FAQ](https://tools.techidaily.com/macxdvd/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. How to Fix Ripped DVD A/V Lip-Sync Problems
 
 DVD ripping audio sync errors are common with many free and paid DVD tools, such as VLC, MakeMKV, DVDFab, etc.
@@ -68,17 +69,10 @@ DVD ripping audio sync errors are common with many free and paid DVD tools, such
 * "Video I created with Aimersoft DVD Ripper gives me audio errors - AVI files have no audio at all. MP4 files have audio but it is out of sync."
 * "Get the 'AV synchronization issues were found in file xxx... AV sync issue in stream 1...' message with MakeMKV DVD rips." ...
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. DVD encryption tech
 
 Copyright protection tech has caused many DVD ripping problems, including the AV desync error after the DVD rips. One reason that causes the DVD A/V out of sync issues is the copy protection. Most commercial DVDs are protected by DRM measures. So you need to choose a DVD ripper that has the capability to remove DRM protection; or [install libdvdcss](https://tools.techidaily.com/macxdvd/products/) (esp. for Handbrake) properly or turn to another program.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ### 2\. Mixed frame rates
 
 There are DVDs that use a mixture of PAL (23.976) and NTSC (29.970). The two frame rates or "VFR" may cause A/V out of sync after the DVD ripping. Even then, the variable frame rate is accepted by most video players. If your player can't play the ripped DVD without lip-syncing audio, you need to set the frame rate to a fixed or constant rate.
@@ -106,9 +100,6 @@ Many rippers don't support MKV very well. Therefore, when you rip a more complex
 
 Even some video players, such as Kodi on Android, cannot keep audio in an MKV file synchronized for long periods. So the MKV video from a DVD rip doesn't have the audio out of sync issues, the audio is out of sync during playback. Try playing an MKV file with another media player, such as VLC. 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2\. How to Keep Video & Audio in Sync when Ripping DVDs
 
 If you're experiencing lip sync/audio delay with Handbrake, MakeMKV, VLC, DVDFab, or other tools, there are always more powerful helpers available. Try **[MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)**! 
@@ -121,17 +112,15 @@ If you're experiencing lip sync/audio delay with Handbrake, MakeMKV, VLC, DVDFab
 [![](https://www.macxdvd.com/mac-dvd-ripper-pro/../image-style/new-seo/btn-win.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/mac-dvd-ripper-pro/../image-style/new-seo/btn-mac.png)](https://tools.techidaily.com/macxdvd/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Step 1**: Download and launch the A/V sync DVD ripper. Click the Disc button to load the problematic disc into the software.
 
 **Step 2**: The DVD ripper will automatically remove the protections and skip any bad sectors. Then it will detect the correct movie title and open the output format window. Select an output format from the list, such as MP4\. 
 
 ![rip DVD without audio lag/delay](https://www.macxdvd.com/mac-dvd-ripper-pro/step-images/dvd-to-hevc-700.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 Rip DVD without audio lag/delay
 
 **Step 3**: Set an output folder to save the synced DVD video in the Destination Folder settings. Then click the RUN button to start ripping DVDs without audio out of sync issue.
@@ -145,9 +134,14 @@ If the sound sync errors continue with the ripped DVD, you can try:
 ![rip DVD without audio sync errors](https://www.macxdvd.com/mac-dvd-ripper-pro/article-image/hw-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Fix audio lag/delay in DVD ripping
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. How to Correct Out-of-Sync Audio and Save It? 
 
@@ -171,8 +165,9 @@ Load the a/v out of sync DVD video
 ![fix audio sync errors after DVD ripping](https://www.macxdvd.com/mac-dvd-ripper-pro/../mac-video-converter-pro/step-image/fix-av-sync.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Force the audio video sync
 
 **Step 3:** In addition to fix the out-of-sync DVD ripped audio and video, you can decide to save the synced video in any other format as you need. Simply select an output format from the Target Format toolbar at the bottom. 
@@ -221,15 +216,9 @@ ABOUT THE AUTHOR
 
 ![author- bella](https://www.macxdvd.com/mac-dvd-ripper-pro/../image-style/new-seo/bella.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 [Bella Brown ![](https://www.macxdvd.com/mac-dvd-ripper-pro/../image-style/new-seo/share-in1.jpg)](https://www.linkedin.com/in/bella-brown-920145104/) 
 
 Bella has been working with DVD digitization for over 12 years. She writes articles about everything related to DVD, from disc drive, DVD copyright protection, physical structure, burning and backup tips. The unceasing passion of DVD movies helps her build a rich DVD library and ensure a practical solution to address almost all possible DVD issues. Bella is also a crazy fan for Apple products.
-
-
 
 Related Articles
 
@@ -244,38 +233,38 @@ Related Articles
 ![](https://www.macxdvd.com/mac-dvd-ripper-pro/../image-style/new-seo/pic5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Play DVD On Chromebook | DVD Not Playing on Chromebook Issue Fixed](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-ripper-pro/../image-style/new-seo/pic4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 [How to Fix DVD Player No Sound Problem on TV/Computer](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-ripper-pro/../image-style/new-seo/pic3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [How to Play DVD on Mac without Mac SuperDrive](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-ripper-pro/../image-style/new-seo/pic2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [3 Ways to Play DVD on Mac mini Easily and Smoothly](https://tools.techidaily.com/macxdvd/products/) 
-
-
 
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-ripper-pro/../icon/logo.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Hot Products
 
@@ -283,9 +272,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tips and Tricks
 
 * [DVD Topics >>](https://tools.techidaily.com/macxdvd/products/)
@@ -302,8 +288,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
 Copyright © 2024 Digiarty Software, Inc (MacXDVD). All rights reserved
@@ -317,8 +301,6 @@ Apple, the Apple logo, Mac, iPhone, iPad, iPod and iTunes are trademarks of Appl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -326,4 +308,20 @@ Apple, the Apple logo, Mac, iPhone, iPad, iPod and iTunes are trademarks of Appl
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/puedes-convertir-archivos-a-formato-av1-usando-handbrake/"><u>¿Puedes Convertir Archivos a Formato AV1 Usando HandBrake?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-crafting-successful-videos-on-youtube-for-beginners/"><u>[Updated] Crafting Successful Videos on YouTube for Beginners</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winx-dvd-copy-pro/"><u>解決方法： WinX DVD Copy Proでエラーコード表示時のトラブルシューティング</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725287729914-winxvideo-ai4k8k10k/"><u>利用 Winxvideo AI，转换图像成为高清4K/8K/10K级别的艺术品</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-realtek-usb-audio-driver-supported-on-windows-1110/"><u>Download the Latest Realtek USB Audio Driver Supported on Windows 11/10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/experience-the-next-dimension-of-cinema-how-to-playback-3d-movies-with-crystal-clear-resolution-on-4k-tvs/"><u>Experience the Next Dimension of Cinema: How to Playback 3D Movies with Crystal-Clear Resolution on 4K TVs!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/how-to-make-a-favorite-tiktok-sound-your-caller-id-for-2024/"><u>How to Make a Favorite TikTok Sound Your Caller ID for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/master-your-media-digiartys-expert-video-to-dvd-conversion-solutions/"><u>Master Your Media: Digiarty's Expert Video-to-DVD Conversion Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-winxvideo-a-comprehensive-user-manual-on-improving-capturing-editing-reducing-size-and-changing-format-of-videos/"><u>Mastering Winxvideo - A Comprehensive User Manual on Improving, Capturing, Editing, Reducing Size & Changing Format of Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-0x0000011b-windows-crash-issue/"><u>Resolving 0X0000011B Windows Crash Issue</u></a></li>
+<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-zte-nubia-z60-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes Blackout Problem in OBS Game Recording"
-date: 2024-08-25 13:33:25
-updated: 2024-08-27 12:39:51
+date: 2025-02-11T02:28:29.760Z
+updated: 2025-02-13T00:40:18.522Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0bc9d94d28fa82fd16469a26.jpg
@@ -16,13 +16,9 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [Video](https://tools.techidaily.com/macxdvd/products/) \> [Video Editing](https://tools.techidaily.com/macxdvd/products/) \> OBS Not Capturing Game
 
 ## \[Solved\] OBS Game Capture not Working Error/Black Screen on Mac/Windows 10/11
-
-
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon6.png) By [Candice Liu](https://tools.techidaily.com/macxdvd/products/) ｜Last updated onAugust 29, 2022 
 
@@ -31,11 +27,19 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-go.jpg)](https://pinterest.com/pin/create/button/?url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/obs-not-capturing-game.htm)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/obs-not-capturing-game.htm&title=&summary=https://www.macxdvd.com/mac-dvd-video-converter-how-to/obs-not-capturing-game.htm&source=)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _"Trying to set up an OSU! stream on mac, but when i try to set up a source for game capture, but none appears, can supply details." – Reddit user_
 
 _"Hello, I have recently started using OBS and whenever I want to record a game it's just sound but no image. How do I fix this?" – Reddit user_
 
 As a popular real-time screen recorder and streamer, OBS is chosen by almost all gamers to record gameplays and live stream them to eSports websites like Twitch. However, **OBS not capturing game** issue is a headache that you meet at least once when trying to open OBS Studio to record a gameplay video from screen on Mac or Windows PC. But no biggie, this guide compiles solutions to fix corresponding errors including the notorious black screen error, Game Capture option not showing up on Mac, and OBS not recording full screen game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## OBS Game Capture not Showing Up on Mac, Try Its Mac Alternative
 
@@ -85,6 +89,10 @@ There are 3 main capturing modes in OBS for you to screen recording games or com
 
 ![Use Game Capture in OBS](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/obs-game-capture.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use Game Capture in OBS
 
 ### Solution 3\. Let OBS and Your Game Use the Same Graphics Card
@@ -101,6 +109,10 @@ Sometimes, OBS not capturing game issue is because your OBS game recorder and yo
 ![Switch Graphics Cards](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/switch-graphics-cards.jpg) 
 
 Switch Graphics Cards
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 4\. Use High-performance GPU on computer with multiple GPUs
 
@@ -298,6 +310,10 @@ Many users have reported that the Nahimic Audio Manager causes conflict with Ope
 
 * From the list of apps, click Nahimic > choose Uninstall to remove Nahimic from your Windows or macOS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3\. How to Solve OBS Game Capture not Showing Up on Mac?
 
 The Syphon Inject (which comes with OBS) does not function properly in macOS 10.14 Mojave since 2020, which means that OBS Game Capture is only a feature on Windows but cannot be used on Mac anymore. It is suggested that using Window Capture or Display Capture can also record your games. But from my experience, it is not that ideal.
@@ -309,6 +325,10 @@ OBS Game Capture not Showing Up on Mac
 So, to solve OBS not capturing game error on Mac, turning to an OBS Mac alternative is the only way as of now. [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/) is a good option to go to help record whatever games out the market without issues.
 
 [Download for Mac](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4\. How to Solve OSB Won't Capture Game in Full Screen?
 
@@ -368,8 +388,6 @@ ABOUT THE AUTHOR
 
 Candice's particularly skilled in writing and sharing video-related contents. Her guides cover from deep-seated video/audio parameters, to media entertainment on different platforms. She also enjoys shooting and processing videos by herself for a more reliable basis of informative info with her articles, which are never at the expense of eliminating an entertaining read.
 
-
-
 Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic7.jpg)
@@ -378,6 +396,10 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Minecraft Game Download and Record Tutorial](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic5.jpg)
@@ -385,6 +407,10 @@ Related Articles
 [Top Ways to Record Screen Video on Mac OS with High Quality](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [How to Record Video from iMac/Macbook Camera](https://tools.techidaily.com/macxdvd/products/) 
 
@@ -396,9 +422,11 @@ Related Articles
 
 [How to Use Screen Recorder for Mac to Record Screen Activity](https://tools.techidaily.com/macxdvd/products/) 
 
-
-
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
@@ -407,6 +435,10 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tips and Tricks
 
@@ -424,8 +456,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
 Copyright © 2024 Digiarty Software, Inc (MacXDVD). All rights reserved
@@ -439,11 +469,31 @@ Apple, the Apple logo, Mac, iPhone, iPad, iPod and iTunes are trademarks of Appl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-demystifying-how-to-access-youtube-via-facebook/"><u>[New] 2024 Approved Demystifying How to Access YouTube via Facebook</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-amazon-original-elite-social-favorites-and-watch-count-hits/"><u>[New] In 2024, Amazon Original Elite Social Favorites and Watch Count Hits</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-behind-the-scenes-insights-deciphering-what-unlisted-means-for-youtube-users/"><u>[New] In 2024, Behind-the-Scenes Insights Deciphering What 'Unlisted' Means for YouTube Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-affordable-high-quality-asmr-recording-devices-revealed/"><u>[Updated] Affordable, High-Quality ASMR Recording Devices Revealed</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-liveoutnow-an-in-depth-look-at-effortless-podcast-live-streaming/"><u>[Updated] LiveOutNow An In-Depth Look at Effortless Podcast Live Streaming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726218222907-movavi/"><u>綜合Movavi軟體功能評論 - 行業領先者的洞察力和建言道要</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-rx-6800-xt-graphics-card-drivers-for-windows-11-10-8-and-7-free-download/"><u>AMD RX 6800 XT Graphics Card Drivers for Windows 11, 10, 8 & 7 - Free Download</u></a></li>
+<li><a href="https://win-lab.techidaily.com/back-to-classroom-essentials-the-ultimate-checklist-for-students-necessities/"><u>Back to Classroom Essentials: The Ultimate Checklist for Students' Necessities</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-blues-a-guide-to-fix-recurring-content-warning-crashes-on-desktop/"><u>Beat the Blues: A Guide to Fix Recurring 'Content Warning' Crashes on Desktop.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/capture-everything-on-your-desktop-and-mic-discover-4-solutions-from-movavi/"><u>Capture Everything on Your Desktop & Mic: Discover 4 Solutions From Movavi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convert-mkv-files-to-mjpeg-streaming-videos-for-free-using-the-movavi-tool/"><u>Convert MKV Files to MJPEG Streaming Videos for Free Using the Movavi Tool</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convertire-video-mov-in-formato-mjpeg-online-gratuito-con-moveave/"><u>Convertire Video MOV in Formato MJPEG Online Gratuito Con Moveave</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/descubra-os-top-10-editores-video-mais-populares-com-opcoes-sem-marca-dagua-em-pcs-gratuitas/"><u>Descubra Os Top 10 Editores Vídeo Mais Populares Com Opções Sem Marca D'água Em PCs Gratuitas</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-movavi-video-editor-free-top-gratuitous-hd-video-editing-software/"><u>Download Movavi Video Editor Free: Top Gratuitous HD Video Editing Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratuidade-e-online-conversor-mov-para-mp3-sem-custo-movavi/"><u>Gratuidade E Online: Conversor MOV Para MP3 Sem Custo - Movavi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guia-gratuita-para-transformar-archivos-asf-a-mov-online-usando-el-servicio-de-movavi/"><u>Guía Gratuita Para Transformar Archivos ASF a MOV Online Usando El Servicio De Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Lava Yuva 2 | Dr.fone</u></a></li>
+</ul></div>
+

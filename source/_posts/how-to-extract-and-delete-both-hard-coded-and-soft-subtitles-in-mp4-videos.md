@@ -1,7 +1,7 @@
 ---
 title: How To Extract And Delete Both Hard-Coded & Soft Subtitles in MP4 Videos
-date: 2024-08-26 18:50:23
-updated: 2024-08-27 10:39:41
+date: 2025-02-08T00:05:28.796Z
+updated: 2025-02-13T00:12:58.933Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3b27173b44a827d0fae8995e.jpg
@@ -16,13 +16,9 @@ thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [Video](https://tools.techidaily.com/macxdvd/products/) \> [Video Editing](https://tools.techidaily.com/macxdvd/products/) \> Remove Subtitles from MP4
 
 ## How to Remove Subtitles from MP4 Video Files on Mac/Windows
-
-
 
 _As countries all over the world are getting closer and closer, the introduction of foreign films has also been a commonplace. Based on this, subtitles, basically the translation of a foreign language, are quite essential for those who are willing to see the film originally as it is._ 
 
@@ -30,7 +26,17 @@ _As countries all over the world are getting closer and closer, the introduction
 
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-fa.jpg)](https://www.facebook.com/sharer/sharer.php?u=https://www.macxdvd.com/mac-dvd-video-converter-how-to/remove-subtitles-from-mp4.htm)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-tw.jpg)](https://twitter.com/intent/tweet?url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/remove-subtitles-from-mp4.htm)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-email.jpg)](https://www.macxdvd.com/mac-dvd-video-converter-how-to/mailto:info@example.com?&subject=&body=https://www.macxdvd.com/mac-dvd-video-converter-how-to/remove-subtitles-from-mp4.htm)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/remove-subtitles-from-mp4.htm&title=&summary=https://www.macxdvd.com/mac-dvd-video-converter-how-to/crop-youtube-video.htm&source=)
 
 Of course, if you go to the theater, the subtitles will never go wrong. But if you [download MP4 movies on Macbook](https://tools.techidaily.com/macxdvd/products/), Windows PC, or iPhone iPad Android, you have a fair chance of downloading movies with non-native language subtitles. Or rather, you may not even want to download subtitled MP4 movies at all since you can comprehend what's happening on the movie. Given this, to remove subtitles from MP4 is necessary and all-important for you. But how? Keep reading. 
@@ -46,6 +52,10 @@ To delete subtitles from an MP4 movie video, you need a MP4 subtitles remover pr
 No matter you wanna remove soft or hardcoded/embedded subtitles from MP4, MKV or AVI, to [download the MP4 subtitles remover](https://tools.techidaily.com/macxdvd/products/) for Windows or [Mac version](https://tools.techidaily.com/macxdvd/products/) for Macbook Pro/Air, iMac is always the initial step. And as is known to us all, hardcoded subtitles cannot be removed as easy as soft subtitles. For example, you can remove or [add soft subtitles via Handbrake](https://tools.techidaily.com/macxdvd/products/), VLC, but they are not applied in hard subtitles. Thankfully, this MP4 subtitle remover guide you to remove both soft and forced subtitles as below: 
 
 ![Remove soft subtitles from mp4](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/remove-sub-from-mp4-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. Remove Soft Subtitles from MP4
 
@@ -73,11 +83,17 @@ ABOUT THE AUTHOR
 
 ![author- candice](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/candice.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Candice Liu ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in1.jpg)](https://www.linkedin.com/in/candice-liu-444483a3/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Candice's particularly skilled in writing and sharing video-related contents. Her guides cover from deep-seated video/audio parameters, to media entertainment on different platforms. She also enjoys shooting and processing videos by herself for a more reliable basis of informative info with her articles, which are never at the expense of eliminating an entertaining read.
-
-
 
 Related Articles
 
@@ -105,17 +121,27 @@ Related Articles
 
 [How to Hardcode SRT Subtitles to MKV Video Movie Files](https://tools.techidaily.com/macxdvd/products/) 
 
-
-
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Hot Products
 
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tips and Tricks
 
@@ -133,8 +159,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
 Copyright © 2024 Digiarty Software, Inc (MacXDVD). All rights reserved
@@ -148,11 +172,28 @@ Apple, the Apple logo, Mac, iPhone, iPad, iPod and iTunes are trademarks of Appl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-comparing-nikon-d7500-and-mirrorless-rivals/"><u>[New] Comparing Nikon D7500 and Mirrorless Rivals</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-ideal-asmr-channel-selections/"><u>[New] In 2024, Ideal ASMR Channel Selections</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-shine-bright-with-these-simple-android-video-steps/"><u>[New] Shine Bright with These Simple Android Video Steps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-djis-legacy-two-newest-drones-complimentary-luts-await/"><u>[Updated] In 2024, DJI's Legacy - Two Newest Drones Complimentary LUTS Await</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-innovative-strategies-for-sport-streams-on-the-fly-for-2024/"><u>[Updated] Innovative Strategies for Sport Streams on the Fly for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cr2-png-movavi/"><u>免費移動 CR2到 PNG - 使用Movavi圖像轉換器在線</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726226758806-webmmov-movavi/"><u>免費移動網站提取WEBM到MOV - 使用Movavi的直接方式</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/how-to-resolve-unrecognized-scanner-issues-with-your-pc-expert-tips-from-yl-computing/"><u>How To Resolve Unrecognized Scanner Issues with Your PC - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/isletmeye-ugrasanlar-icin-movavi-donya-yaylansu-kullaniciluklu-sati/"><u>İşletmeye Uğraşanlar Için Movavi Dönya Yaylansu - KullanıcıLüklü SATI</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/j5-tactical-flashlight-v1-pro-examined-delivering-durable-elegance-and-brilliant-illumination-in-a-small-package/"><u>J5 Tactical Flashlight V1-Pro Examined – Delivering Durable Elegance and Brilliant Illumination in a Small Package</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/understanding-the-mov-file-extension-a-comprehensive-guide/"><u>Understanding the .MOV File Extension: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-benefits-of-the-ergodyne-topo-a-breakthrough-in-standing-desk-mats-for-reducing-fatigue/"><u>Unveiling the Benefits of the Ergodyne Topo: A Breakthrough in Standing Desk Mats for Reducing Fatigue</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/wavbogg-movavi-online-free/"><u>WAVB/OGG 파일을 전환하기 - Movavi는 Online Free 무료 도구를 제공합니다</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/1726029573862-wonderfox-dvd-video-converter/"><u>WonderFox DVD Video Converter - スムーズなビデオダウンロード</u></a></li>
+</ul></div>
+

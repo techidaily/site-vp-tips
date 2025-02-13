@@ -1,7 +1,7 @@
 ---
 title: Top Compact External Hard Drives for Mac Users Looking to Create a DVD Collection
-date: 2024-08-26 14:33:52
-updated: 2024-08-27 12:10:45
+date: 2025-02-09T16:26:04.791Z
+updated: 2025-02-12T16:10:05.958Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/d8ea0db08299b418f8415fcdb55459d60a299aaeacab1eb2b1b6960f90e2b4a4.jpg
@@ -16,17 +16,17 @@ thumbnail: https://thmb.techidaily.com/d8ea0db08299b418f8415fcdb55459d60a299aaea
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [how-tos](https://tools.techidaily.com/macxdvd/products/) \> [Mac tips & troubleshooings](https://tools.techidaily.com/macxdvd/products/) \> Portable hard drive for Mac
 
 ## Best Portable Hard Drive for Mac to Save DVD Discs in Digital Formats 
 
-
-
 _Are you running short of storage on your Mac and looking for the best portable hard drive for Mac? If you don't know how to choose, we've selected the best portable hard drive for you._
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon6.png) By [Abby Poole](https://www.linkedin.com/in/abby-poole-6822b0104/) ｜Last updated on April 13 , 2021 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-fa.jpg)](https://www.facebook.com/sharer/sharer.php?u=https://www.macxdvd.com/mac-dvd-video-converter-how-to/best-portable-hard-drive-for-mac.htm)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-tw.jpg)](https://twitter.com/intent/tweet?url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/best-portable-hard-drive-for-mac.htm)
@@ -57,6 +57,10 @@ Price: $ 59.99
 Rating: ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/4.5-stars.png)   
  Product Features: 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * USB 3.0 interface. Offers an easy-to-use connection to devices. Backward compatible with USB 2.0 for simple connection to your computer.
 * Data transfer rates up to 5 Gbps with USB 3.0\. Enable a rapid response when updating files.
 * Password protection and 256-bit AES hardware encryption. Help keep your files secure.
@@ -73,6 +77,10 @@ Price: $ 119.99
  Rating: ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/4.5-stars.png)   
  Product Features: 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * 4TB capacity. Provides plenty of storage space for your photo/music/documents or other media files.
 * USB 3.0/2.0 interface. Makes it easy to connect your computer.
 * Data transfer rates up to 4.8 Gbps. For quick response when updating files.
@@ -83,6 +91,10 @@ Price: $ 119.99
 ### 3\. G-Technology - G-DRIVE 4TB External USB 3.0 Portable Hard Drive
 
 ![best external hard drive for mac 2017](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/portable-hard-drive-3.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Price: $ 169.99  
  Rating: ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/4-stars.png)   
@@ -99,9 +111,17 @@ Price: $ 169.99
 
 ![portable hard drive for mac](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/portable-hard-drive-4.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Price: $ 91.99  
  Rating: ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/4.5-stars.png)   
  Product Features: 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * 1TB storage capacity. Offers ample room for photos, videos, music and more.
 * USB 3.0/2.0 interface. Ensures a fast, reliable connection.
@@ -138,6 +158,10 @@ Yeah, ripping DVD to digital formats and storing them to portable hard drives fo
 
 ![Rip DVD to Portable Hard Drive](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../mac-dvd-ripper-pro/article-image/dvd-hard-drive-7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 1: Import DVD.** [Free download the DVD ripper](https://tools.techidaily.com/macxdvd/products/) and launch it. Insert your DVD disc and load it by drag and drop or click on "DVD Disc" icon. If you're running on a Windows PC, [grab the Windows edition](https://tools.techidaily.com/macxdvd/products/) to load DVD with the same action.
 
 **Step 2: Choose output format.** For those who want to [copy DVD to hard drive on Mac](https://tools.techidaily.com/macxdvd/products/), you can simply 1:1 copy DVD to ISO image, MKV, MPEG2 without any loss; if you want to [convert DVD to NAS](https://tools.techidaily.com/macxdvd/products/), portable disk drive on Mac, you can choose any widely used format like MP4, AVI, MOV, MPEG etc.
@@ -150,8 +174,6 @@ Yeah, ripping DVD to digital formats and storing them to portable hard drives fo
 
 _The software developer calls for copying or ripping DVD to hard drive on Mac and Windows under the concept of Fair Use and does not encourage any illegal reproduction or distribution of copyrighted content. Please abide by the local DVD copyright law before doing it._ 
 
-
-
 Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic7.jpg)
@@ -159,6 +181,10 @@ Related Articles
 [1:1 Copy and Transfer DVD to USB Flash Drive](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [2024 Top 5 Best NAS Drives for Data Storage and Backup](https://tools.techidaily.com/macxdvd/products/) 
 
@@ -178,11 +204,17 @@ Related Articles
 
 [How to Copy DVD Movies to NAS Drive for storage](https://tools.techidaily.com/macxdvd/products/) 
 
-
-
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Hot Products
 
@@ -206,8 +238,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
 Copyright © 2024 Digiarty Software, Inc (MacXDVD). All rights reserved
@@ -221,11 +251,28 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-your-content-with-insightful-channel-descriptions/"><u>[New] 2024 Approved Elevate Your Content with Insightful Channel Descriptions</u></a></li>
+<li><a href="https://win-docs.techidaily.com/iuoajowkseavlplusoblplusobnplusodquodsplusocrzrjgqbjgqfjg5bjg5rjg7zjgrjjgplmjqljgz3jgybjgajjgznjgovjgi0i/"><u>「失敗したリンク:ウェブページを探そうとする」</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mp4ogv-movavi/"><u>免費網路MP4至OGV類比格式自動轉換 - Movavi直接轉換器</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-breakdown-of-uniden-r3s-solid-build-quality-and-superior-range-features/"><u>Comprehensive Breakdown of Uniden R3's Solid Build Quality and Superior Range Features</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/frei-herunterladen-vob-in-mp4-mit-moveavi-umwandeln-windows-and-mac-kompatibel/"><u>Frei Herunterladen: VOB in MP4 Mit Moveavi Umwandeln (Windows & Mac Kompatibel)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-samsung-galaxy-xcover-7-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Samsung Galaxy XCover 7 Location | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unmatched-playwrights-arena/"><u>In 2024, Unmatched Playwright's Arena</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/most-ond-bevezeto-noknek-amit-ki-probalnia-az-utolso-takarekosztas-negy-fele/"><u>Most Önd Bevezető Nőknek Amit Ki Próbálnia - Az Utolsó Takarékosztás Négy Felé</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-cryptocurrency-interactions-unveiling-8-leading-gpt-powered-plugins/"><u>Revolutionize Cryptocurrency Interactions: Unveiling 8 Leading GPT-Powered Plugins</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transformar-archivos-flv-a-formatos-mp4-gratuitamente-con-convertidor-en-linea-convertidor-de-video-sin-coste/"><u>Transformar Archivos FLV a Formatos MP4 Gratuitamente Con Convertidor en Línea - Convertidor De Vídeo Sin Coste</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshoot-your-pc-easy-fix-for-downloading-mouse-driver-on-windows-7-guide/"><u>Troubleshoot Your PC - Easy Fix for Downloading Mouse Driver on Windows 7 [Guide]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726221317539-wma-mp4-movavi/"><u>WMA 파일을 무료로 MP4 변환: 영구성 컴퓨터 상용 솔루션 - Movavi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726224426038-webmogg-movavi/"><u>오피스 중 무세포 바이널로 WEBM/OGG를 자동화: MOVAVI 소속 도구</u></a></li>
+</ul></div>
+
