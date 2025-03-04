@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Reintroducing Classic Windows Photo Viewer - W10 Edition\""
-date: 2024-08-22T07:38:05.286Z
-updated: 2024-08-23T07:38:05.286Z
+date: 2025-02-25T20:38:57.661Z
+updated: 2025-03-03T20:46:37.727Z
 tags: 
   - screen-recording
   - ai video
@@ -69,14 +69,6 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## Method 2 to get Windows Photo Viewer back
 
 Here comes another way to restore Windows Photo Viewer on your computer. If your computer has been upgraded to Windows 10 from an older version, then Windows Photo Viewer might be lying around somewhere. You can retrieve it to view images.
@@ -91,34 +83,18 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### Conclusion
 
 From the above article, we found out that restoring Windows Photo Viewer on your system is not a tough task. But, without having the proper knowledge you shouldn’t play around with your Photos app. So, this article guides you through a reliable method for restoring Windows Photo Viewer and view your photos like you always loved to. We hope you liked our efforts of enlightening you about Windows Photo Viewer and got the necessary information. Plus, if none of these work, you can use [Windows 10 Photos app alternatives](https://tools.techidaily.com/wondershare/filmora/download/). Thanks for reading! Do comment us below to let us know your views.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -142,4 +118,26 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-essential-tips-for-navigating-zoom-on-win11-systems/"><u>[New] Essential Tips for Navigating Zoom on Win11 Systems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-facebook-video-maker-20-free-video-editors-for-fb-video-ads/"><u>[New] Facebook Video Maker 20 Free Video Editors for FB Video Ads</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-iphone-explores-high-dynamic-range-photography-for-2024/"><u>[New] IPhone Explores High Dynamic Range Photography for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unlocking-pip-techniques-for-professional-apple-users-for-2024/"><u>[New] Unlocking PIP Techniques for Professional Apple Users for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-full-inspection-gopro-silver-hero4-detailed-review/"><u>[Updated] 2024 Approved Full Inspection GoPro Silver Hero4 Detailed Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-triller-demystified-a-comparative-look-at-unique-online-platforms/"><u>[Updated] 2024 Approved Triller Demystified A Comparative Look at Unique Online Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-comprehensive-drone-racing-guide-and-5-top-fpv-uavs/"><u>[Updated] Comprehensive Drone Racing Guide & 5 Top FPV UAVs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-creative-conceptions-selecting-the-finest-10-free-macdrawers-for-2024/"><u>[Updated] Creative Conceptions Selecting the Finest 10 FREE MacDrawers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-11-easy-to-operate-kids-wet-weather-camcorders-for-2024/"><u>[Updated] The Ultimate 11 Easy-to-Operate Kids' Wet Weather Camcorders for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-straightforward-guide-to-flipper-sound-manipulation-on-windows-os/"><u>2024 Approved Straightforward Guide to Flipper Sound Manipulation on Windows OS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-in-code-creation-exploring-which-is-more-effective-github-copilot-or-chatgpt/"><u>AI in Code Creation: Exploring Which Is More Effective, GitHub Copilot or ChatGPT?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-effective-well-being-goals-a-guide-with-chatgpts-help/"><u>Crafting Effective Well-Being Goals: A Guide with ChatGPT's Help</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/first-timers-roadmap-earning-money-from-periscope-chats-for-2024/"><u>First-Timer's Roadmap Earning Money From Periscope Chats for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-profound-inspection-the-detailed-review-of-bublcams-360-camera/"><u>In 2024, Profound Inspection The Detailed Review of Bublcam's 360 Camera</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/pathway-to-youtube-partnerships-simplifying-the-process-for-small-creators/"><u>Pathway to YouTube Partnerships Simplifying the Process for Small Creators</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solutions-for-a-malfunctioning-xbox-series-x-or-s-headset-expert-tips-included/"><u>Solutions for a Malfunctioning Xbox Series X or S Headset - Expert Tips Included</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-transforming-mka-files-into-aac-format-on-your-windows-pc/"><u>Step-by-Step Guide: Transforming MKA Files Into AAC Format on Your Windows PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-infinix-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Infinix Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/video-editing-face-off-final-cut-pro-vs-lumafusion-choosing-the-right-fit-for-2024/"><u>Video Editing Face-Off Final Cut Pro vs LumaFusion - Choosing the Right Fit for 2024</u></a></li>
+</ul></div>
 

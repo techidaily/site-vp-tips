@@ -1,7 +1,7 @@
 ---
 title: Transform Images Easily - Convert PGM Files to JPGs at No Cost via Movavi Tool
-date: 2025-02-07T22:57:37.721Z
-updated: 2025-02-12T19:46:11.560Z
+date: 2025-03-01T19:01:59.247Z
+updated: 2025-03-03T17:53:41.968Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3c45e7b977770451483aa69d.jpg
@@ -28,10 +28,6 @@ Nous utilisons des cookies pour améliorer les services que nous vous proposons.
 [Télécharger](https://tools.techidaily.com/movavi/products/)
 
 ![](https://cdn.staticont.net/page_type/0023/57/3a45fddc2fda7d8feb51ac11d684aec7db796584.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 
 
@@ -218,10 +214,6 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -235,10 +227,6 @@ Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra
 Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
@@ -318,10 +306,6 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
@@ -345,10 +329,6 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 ### Optez pour un SSD
 
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
@@ -381,10 +361,6 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -448,10 +424,6 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 
 
 Désactiver les services d'arrière-plan Windows
@@ -483,10 +455,6 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 Foire aux questions 
@@ -509,10 +477,6 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 3. Les pilotes du GPU ne sont pas à jour
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
@@ -537,10 +501,6 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 3. Passez Windows 10 en "mode jeu".
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
@@ -585,18 +545,19 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-ultimate-capture-top-video-screenshot-tools/"><u>[New] 2024 Approved Ultimate Capture Top Video Screenshot Tools</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-adding-audio-descriptions-to-videos-on-youtube-for-2024/"><u>[New] Adding Audio Descriptions to Videos on YouTube for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-top-picks-youtube-to-hd-mastering-quality-conversions/"><u>[New] Top Picks YouTube to HD - Mastering Quality Conversions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-ace-the-art-of-digital-photography-with-lunapic/"><u>[Updated] Ace the Art of Digital Photography with LunaPic</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-adding-a-digital-clock-to-your-youtube-video-playback/"><u>[Updated] Adding a Digital Clock to Your YouTube Video Playback</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/comprehensive-guide-for-digital-video-photo-effects-application-for-2024/"><u>Comprehensive Guide for Digital Video Photo Effects Application for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-guide-to-solve-nvidia-geforce-experience-error-0x0003-successfully/"><u>Comprehensive Guide to Solve Nvidia Geforce Experience Error 0X0003 Successfully</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-enhancing-visual-quests-hunt-for-pristine-pexels-images/"><u>In 2024, Enhancing Visual Quests Hunt for Pristine Pexels Images</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-6-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/prime-7-media-gatherers-on-fb-for-2024/"><u>Prime 7 Media Gatherers on FB for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/unchecked-zones-vaccine-hesitancy-grows-in-social-media/"><u>Unchecked Zones: Vaccine Hesitancy Grows in Social Media</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-how-to-use-9gag-to-create-meme/"><u>[New] 2024 Approved How to Use 9GAG to Create Meme</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-masterclass-flawlessly-attaching-your-tiktok-profile-url/"><u>[New] 2024 Approved Masterclass Flawlessly Attaching Your TikTok Profile URL</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-beginners-guide-to-watching-and-broadcasting-fb-live/"><u>[New] 2024 Approved The Beginner’s Guide to Watching & Broadcasting FB Live</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-dynamic-iphone-photography-the-key-to-capturing-motion-blur-for-2024/"><u>[New] Dynamic iPhone Photography The Key to Capturing Motion Blur for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-beyond-the-norm-a-review-of-the-4kcg318-display-by-eizo/"><u>[Updated] 2024 Approved Beyond the Norm A Review of the 4KCG318 Display by EIZO</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-markets-tiny-helicopters-a-ranked-list/"><u>[Updated] 2024 Approved Market's Tiny Helicopters A Ranked List</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-step-further-the-revolutionary-lg-360-vr-headset-reviewed/"><u>[Updated] A Step Further The Revolutionary LG 360 VR Headset Reviewed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-basics-of-electronic-story-craftsmanship-for-2024/"><u>[Updated] The Basics of Electronic Story Craftsmanship for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-elite-batteries-and-chargers-for-black-gopro-hero5-devices/"><u>2024 Approved Elite Batteries & Chargers for Black GoPro Hero5 Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/3d-worlds-on-your-android-mastering-vr-and-360-videos-for-2024/"><u>3D Worlds on Your Android Mastering VR & 360 Videos for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-8ipad-drfone-by-drfone-virtual-ios/"><u>A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 8/iPad | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/i-3-migliori-lettori-dvd-gratuiti-compatibili-con-windows-10-risoluzione-completa-per-la-visione-di-qualsiasi-filmato/"><u>I 3 Migliori Lettori DVD Gratuiti Compatibili Con Windows 10: Risoluzione Completa per La Visione Di Qualsiasi Filmato</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/iphones-premier-videography-tools/"><u>IPhone's Premier Videography Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/mastering-conversations-and-sharing-in-facebook-world/"><u>Mastering Conversations and Sharing in Facebook World</u></a></li>
 </ul></div>
 

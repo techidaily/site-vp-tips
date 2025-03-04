@@ -1,7 +1,7 @@
 ---
 title: Top 46 iOS 11 Und iOS 12 Issues - Lösungen Für Häufige Probleme Und Fehler
-date: 2024-08-25 18:10:29
-updated: 2024-08-27 10:33:25
+date: 2025-02-24T22:41:27.141Z
+updated: 2025-03-03T22:04:44.781Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71bac5479c9b32307596f6cf87.jpg
@@ -12,8 +12,6 @@ thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71b
 ## \[Updated\] So beheben Sie Top 46 iOS 11 & iOS 12 Probleme, Fehler, Bugs
 
 Sollte man iOS 11 Update laden und installieren? Fragen Sie sich zuerst, bevor Sie neue Features mit dem Release der neuesten iOS Generation in den Griff bekommen. Wir sichten hier häufige und mögliche Probleme unter iOS 11/12, die Ihnen einige Ideen geben können, ob das neue Betriebssystem der Akualisierung wert ist. Die Zusammenfassung enthält einige häufige Fehler und Bugs, wie iOS 12/11 Update fehlgeschlagen, iOS 11 Akkuprobleme, iOS 11 Probleme mit Bluetooth/WLAN, iOS 11 langsam auf iPhone iPad und so weiter. Und wir werden auch neue Informationen zu den meisten gemeldeten iOS 11/iOS 12 Bugs und Probleme haltend hinzufügen.
-
-
 
 ![](https://www.macxdvd.com/tutorial-de/../seoimage/note.png)
 
@@ -28,8 +26,6 @@ Das gerade veröffentlichte iOS 12 (Beta)/11.4 wird die meisten Probleme auf fr�
 **Auf iOS 12 aktualisieren** ![](https://www.macxdvd.com/tutorial-de/../mac-dvd-video-converter-how-to/iphone7-image/hot.gif) ![](https://www.macxdvd.com/tutorial-de/../mac-dvd-video-converter-how-to/iphone7-image/hot.gif)  
  iOS 12 bringt uns viele neue Features und Leistungsverbesserungen. Konkret beschleunigt das Laden der App um bis zu 40 Prozent. Weitere iOS 12 Details finden Sie hier unter **iOS 12 vs iOS 11** im Vergleich. Aktualisieren Sie auf das neue iOS 12, um die Probleme mit der vorherigen Version zu beheben.
 
-
-
 ## Die häufigsten iOS 12, 11.4/11.3/11.2/11.1 Probleme und die Lösungen auf einen Blick
 
 ![iOS 11 Lautsprecher funktioniert nicht](https://www.macxdvd.com/tutorial-de/article-image/problem-lautsprecher.jpg) 
@@ -42,8 +38,6 @@ Vor kurzem stört sich eine ganze Reihe von iPhone Nutzern daran, dass das iPhon
 * Ein sprachkanal oder Privatgespräch verbinden > Kontrollzentrum starten > Auf das Musikbox-Symbol tippen und für einen Moment halten, bis das Kästchen geöffent wird > das Symbol oben gedrückt halten, bis Sie einen Hinweis erhalten > Lautsprecher-Option wählen
 * Auf iOS 12/11.4 aktualisieren
 
-
-
 ![iOS 12/11 Tastaturproblem](https://www.macxdvd.com/tutorial-de/article-image/problem-text.jpg) 
 
 ### ![](https://www.macxdvd.com/tutorial-de/../seoimage/r.png) iOS 12/11 Tastaturproblem
@@ -51,8 +45,6 @@ Vor kurzem stört sich eine ganze Reihe von iPhone Nutzern daran, dass das iPhon
 Einige stoßen auf das iOS 11 Tastaturproblem. Wann immer man "I" tippen, erscheint "A \[?\]" immer als das erste empfohlene Textwort. Wie kann man dieses iOS 11.4/11.3/11.2/11.1 Problem lösen?
 
 Bisher bietet Apple nicht die offizielle effektive Lösung. Sie behaupten, dass Sie daran arbeiten, und hoffen, dass iPhone-Nutzer mehr Geduld geben können. Natürlich wird Sie empfohlen, eine Tastatur von Drittanbietern herunterzuladen und zu verwenden, bevor dieser iOS 12/11.4/11.3/11.2/11.1-Fehler behoben ist.
-
-
 
 ![Kameraeinstellungen ständig ändern](https://www.macxdvd.com/tutorial-de/article-image/problem-kamera.jpg) 
 
@@ -62,15 +54,11 @@ Fragen Sie sich, warum sich Ihre iOS 12/11.4/11.3/11.2/11.1-Kameraeinstellungen 
 
 Um dieses Problem mit der Kameraeinstellung zu beheben, gehen Sie zu den Einstellungen > Kamera > Einstellungen beibehalten und stellen Sie "Kameramodus", "Filter" und "Live" ein. Dann wird das Problem leicht gelöst.
 
-
-
 ![Keine Verbindung zu app store ios 11 bug](https://www.macxdvd.com/tutorial-de/article-image/ios-11-probleme-10.jpg) 
 
 ### ![](https://www.macxdvd.com/tutorial-de/../seoimage/r.png) Keine Verbindung zu App Store
 
 Bei mir ist das Update auf iOS 12/11 erfolgreich. Doch wenn ich App Store öffne, um iPhone App "Zombie Run" zu downloaden, finde ich, dass App Store nicht funktioniert, nur ein weißer Bildschirm mit "Keine Verbindung zu App Store". Ich habe mehrmals versucht, iPhone herunterzufahren und neu zu starten. Aber das Wunder erschien nicht. Auch habe ich meine SIM-Karte von iPhone herausgezogen. Für die nächsten paar Tage funktioniert es immer noch nicht. 
-
-
 
 ![App Store lädt nicht unter iOS 12/11.1/11.2/11.3/11.4](https://www.macxdvd.com/tutorial-de/article-image/problem-app-store.jpg) 
 
@@ -80,8 +68,6 @@ Viele Nutzer erlebten nach dem iOS 11/12 Update auch "App kann nicht geladen wer
 
 * Einstellungen > Allgemein > Zurücksetzen > Alle Einstellungen zurücksetzen. Mit Apple-ID erneut anmelden.
 * iPhone-/iPad-Daten mit einer iTunes Alternative sichern und iPhone zur Standardeinstellung zurücksetzen.
-
-
 
 ![iOS 11 Probleme: iPhone iPad wird zu heiß](https://www.macxdvd.com/tutorial-de/article-image/ios-11-probleme-16.jpg) 
 
@@ -95,8 +81,6 @@ Eine der lästigen iPhone Nachteile ist das Überhitzungsproblem. Jetzt geschieh
 * iPhone nicht benutzen während der Ladevorgang.
 * Auf das neueste iOS 11.4 oder höher updaten, wenn es verfügbar ist.
 
-
-
 ![Problem mit E-Mail-Versand nach dem Update auf iOS 11/12](https://www.macxdvd.com/tutorial-de/article-image/problem-email.jpg) 
 
 ### ![](https://www.macxdvd.com/tutorial-de/../seoimage/r.png) Problem mit E-Mail-Versand nach dem Update auf iOS 11/12
@@ -107,15 +91,11 @@ Dies ist ein häufiges iOS 11 Update Problem, das von Millionen iPhone iOS 11 Up
 * Apple und Microsoft arbeiten eng an dieses Problem zu lösen und die Lösung wird in Kürze in der bevorstehenden Software-Update veröffentlicht.
 * Verwenden Sie die alternativen Apps, um E-Mails unter iOS 11 zu versenden.
 
-
-
 ![iOS 11 probleme](https://www.macxdvd.com/tutorial-de/article-image/ios-11-probleme-13.jpg) 
 
 ### ![](https://www.macxdvd.com/tutorial-de/../seoimage/r.png) HEIF & HEVC Kompatibilitätsprobleme unter iOS 11
 
 Bei Vergleich [**iOS 11 vs iOS 10**](https://tools.techidaily.com/macxdvd/products/) wissen wir, dass eine kleine Änderung bei der Kamera auch mit iOS 11 kommen. Die neu integrierten Formate HEIF (High Efficiency Image File Format) und HEVC (High Efficiency Video Coding) sorgen dafür, die Größe von Fotos und Videos zu halbieren, ohne Qualität zu verlieren. Aber keine Rose ohne Dornen. Das ist natürlich wunderbar, dass die Aufnahmen insbesondere 4K-Aufnahme endlich weniger Platz des Geräts einehmen werden, während es schwierig ist, die Medien zu teilen und übertragen, da Windows 10 momentan die 2 Formate nicht vollständig unterstützt. >> So kann man [HEIC in JPG umwandeln](https://tools.techidaily.com/macxdvd/products/).
-
-
 
 ![Ihr Recht an Porträts kann während FaceTime-Anrufen verletzt werden](https://www.macxdvd.com/tutorial-de/article-image/problem-facetime.jpg) 
 
@@ -124,8 +104,6 @@ Bei Vergleich [**iOS 11 vs iOS 10**](https://tools.techidaily.com/macxdvd/produc
 Es gibt eine weitere Option, die während der FaceTime-Anrufe auf iOS 11-Gerät verfügbar ist. Das nennt man FaceTime Live-Fotos. Mit dieser neuen Funktion kann jemand, der FaceTime mit Ihnen ist, Screenshots von Ihnen ohne den Interface-Hintergrund machen. 
 
 Wenn jemand, den Sie immer FaceTime ständig die Live-Screenshots von Ihnen ohne Ihre Erlaubnis nimmt, müssen Sie sich verärgert fühlen. Wie kann man diese Sache stoppen? Lösung: gehen Sie zu Einstellungen > FaceTime und deaktivieren Sie "FaceTime Live Photos".
-
-
 
 ![Kann nicht von iOS 12/11.4 Beta auf die offizielle Version aktualisieren](https://www.macxdvd.com/tutorial-de/article-image/problem-beta.jpg) 
 
@@ -142,8 +120,6 @@ Die folgende Lösung kann iOS 11 Beta-Nutzern von der iOS 11.4/11.3/11.2/11.1 Pr
 * Ihr iPhone/iPad über USB-Kabel mit Mac/PC anschließen.
 * Von Beta auf iOS 11 mit iTunes aktualisieren.
 
-
-
 ![iOS 11 Fehler: iPhone zu langsam](https://www.macxdvd.com/tutorial-de/article-image/ios-11-probleme.jpg) 
 
 ### ![](https://www.macxdvd.com/tutorial-de/../seoimage/r.png) iOS 11/iOS 12 Fehler: iPhone iPad zu langsam
@@ -153,8 +129,6 @@ Die folgende Lösung kann iOS 11 Beta-Nutzern von der iOS 11.4/11.3/11.2/11.1 Pr
 * iPhone erneut zu starten kann viele Probleme in iOS 11 beheben. Versucht mal.
 * Deaktivieren Sie die Hintergrundaktualisierung von Apps.
 * Gehen Sie zu "Einstellungen > Allgemein > Bedienungshilfen > Bewegung reduzieren" aus.
-
-
 
 ![iOS 11 Touchscreen reagiert nicht](https://www.macxdvd.com/tutorial-de/article-image/ios-11-probleme-4.jpg) 
 
@@ -166,8 +140,6 @@ Viele Nutzer berichten davon, dass der Touchscreen nicht mehr reagiert, seitdem 
 * iPhone in iTunes wiederherstellen und als ein [neues iPhone einrichten](https://tools.techidaily.com/macxdvd/products/).
 * Sich an Apple Store für Hilfe wenden.
 
-
-
 ![3D Touch lag überall nach dem iOS-Update](https://www.macxdvd.com/tutorial-de/article-image/problem-3d-touch.jpg) 
 
 ### ![](https://www.macxdvd.com/tutorial-de/../seoimage/r.png) 3D Touch lag überall nach dem iOS-Update
@@ -177,8 +149,6 @@ Wenn es um iPhone vs Android geht, gibt es mehr als 10 oder 20 Gründe, um iPhon
 * Ihr iOS 11.3/11.2/11.1 iPhone X/8/7/6s/6 erneut starten.
 * Gehen Sie zu den Einstellungen > Allgemein > Bedienungshilfen > 3D Touch, um die 3D Touch-Empfindlichkeit anzupassen: Mittel bis Fest oder Leicht anpassen.
 * iPhone Einstellungen zurücksetzen.
-
-
 
 ![iOS 12/11 Update fehlgeschlagen](https://www.macxdvd.com/tutorial-de/article-image/problem-ios-12.jpg) 
 
@@ -191,8 +161,6 @@ Viele beschweren sich, dass mit der OTA/WLAN das iOS 11 Update fehlgeschlagen is
 * Starten Sie Ihr iPhone erneut, wenn das iOS 11 Update eingefroren wird.
 * Versuchen Sie einfach später, da zu viele Nutzer gleichzeitig Update laden.
 
-
-
 ![iOS 11/iOS 12 Update überprüfen hängt...](https://www.macxdvd.com/tutorial-de/article-image/ios-11-probleme-6.jpg) 
 
 ### ![](https://www.macxdvd.com/tutorial-de/../seoimage/r.png) iOS 11/iOS 12 Update überprüfen hängt...
@@ -203,8 +171,6 @@ Dieses iOS 11 Problem kommt Ihnen unbedingt nicht fremd vor, da das iOS Update P
 * Dieses iOS 11 Update abbrechen. iPhone herunterfahren und erneut starten. Dann das iOS 11 Update wieder versuchen.
 * iOS 11 laden und aktualisieren mit iTunes.
 
-
-
 ![Nicht genügend Speicherplatz zum Laden und Installieren iOS 11](https://www.macxdvd.com/tutorial-de/article-image/ios-11-probleme-7.jpg) 
 
 ### ![](https://www.macxdvd.com/tutorial-de/../seoimage/r.png) Nicht genügend Speicherplatz zum Laden und Installieren iOS 11
@@ -214,15 +180,11 @@ Bevor wir auf iOS 11 aktualisieren, müssen wir iPhone Speicherplatz freigeben. 
 * iPhone HD Videos, Musik, Klingeltöne, 4K Fotos vom iPhone auf Mac/PC übertragen
 * Dann die unerwünschten Daten vom iPhone iPhone 6/SE/6s/7/8/X mit 1 Klick löschen, um Speicherplatz freizugeben.
 
-
-
 ![Datenverlust bei iOS 11.4/11.3/11.2/11.1 Update](https://www.macxdvd.com/tutorial-de/article-image/ios-11-probleme-9.png) 
 
 ### ![](https://www.macxdvd.com/tutorial-de/../seoimage/r.png) Datenverlust bei iOS 11.4/11.3/11.2/11.1 Update
 
 Eines der häufigen iOS 11.4/11.3/11.2/11.1 Probleme ist Datenverlust beim iOS-Update. Ein Punkt, den wir gewährleisten können, ist, dass das neue iOS normalerweise mit unbekannten Bugs zusammenkommen kann. So ist es notwendig, iPhone Backup zu erstellen vor dem Update. Dann können Sie Ihre iPhone-Daten zu jeder Zeit wiederherstellen. 
-
-
 
 ![iTunes erkennt ios 11 iphone nicht](https://www.macxdvd.com/tutorial-de/article-image/ios-11-probleme-11.jpg) 
 
@@ -236,8 +198,6 @@ Wenn iTunes Ihr iOS 11 iPhone nicht erkennt, ist es wirklich schwer für Sie zu 
 * Verwenden Sie eine [iTunes Alternative](https://tools.techidaily.com/macxdvd/products/) statt iTunes, um iPhone Daten zu übertragen und verwalten.
 * Wenden Sie sich an Apple, um iOS 11 Fehler zu melden und Feedbacks von Experten zu erhalten.
 
-
-
 ![iOS 11 bildschirmaufnahme geht nicht](https://www.macxdvd.com/tutorial-de/article-image/ios-11-probleme-12.jpg) 
 
 ### ![](https://www.macxdvd.com/tutorial-de/../seoimage/r.png) iOS 11 Bildschirmaufnahme geht nicht
@@ -247,8 +207,6 @@ iOS 11 Vorteile gefallen vielen iPhone Nutzer. Doch wenn es um iOS 11.4/11.3/11.
 * Überprüfen Sie bitte, dass Sie diese Funktion eingeschlaten haben.
 * Schalten Sie Audio ein, wenn die Aufnahme auf iOS 11 iPhone kein Ton hat.
 * Genug Platz auf iPhone freigeben, wenn Videos nicht speichert werden können.
-
-
 
 ![YouTube-APP ist langsam auf iPhone unter iOS 11](https://www.macxdvd.com/tutorial-de/article-image/problem-youtube.jpg) 
 
@@ -262,8 +220,6 @@ iOS 11.4/11.3/11.2/11.1 muss verbessert werden, zumindest auf YouTube-App. YouTu
 * Reinigen Sie regelmäßig Caches oder Cookies auf Ihrem iPhone.
 * Aktualisieren Sie Ihre YouTube-App auf die neueste Version.
 
-
-
 ![iOS 11 ruiniert Snapchat](https://www.macxdvd.com/tutorial-de/article-image/problem-snapchat.jpg) 
 
 ### ![](https://www.macxdvd.com/tutorial-de/../seoimage/r.png) iOS 11 ruiniert Snapchat
@@ -271,8 +227,6 @@ iOS 11.4/11.3/11.2/11.1 muss verbessert werden, zumindest auf YouTube-App. YouTu
 iOS 11 bringt mehrere erstaunliche neue Funktionen wie ARKit, Peer-to-Peer-Apple Pay, smartere Siri, etc. Darunter eine nützliche Funktion, die Snapchat-Nutzer vielleicht nicht mögen. Das ist iOS 11 neuer Bildschirm Rekorder. Über das iOS Kontrollzentrum können Sie Ihren iPhone-Bildschirm einfach aufnehmen. Ganz bequem, stimmt das?
 
 Leider können einige Leute diese neue Funktion nutzen, um die Fotos oder Videos aufzunehmen, die Sie auf Snapchat teilen. Das stört Sie, weil Sie und mehr andere Snapchat-Fans eigentlich niemanden wollen, der Ihre persönlichen Fotos aufbewahrt. Im Moment warten Sie auf Snapchat Update, um dieses iOS 11 Update Problem zu lösen oder auf Snapchat Alternative zum Schutz der Privatsphäre zu greifen.
-
-
 
 ![Akkuprobleme mit iOS 11 Update](https://www.macxdvd.com/tutorial-de/article-image/ios-11-update-7.jpg) 
 
@@ -285,8 +239,6 @@ Viele Menschen weinen, dass ihr iPhone Batterie sehr schnell fallen nach dem Upd
 * Finden Sie Apps heraus, die Batterie am meisten nutzen. "Einstellungen > Batterie > Batterienutzung".
 * Schalten Sie den Stromsparmodus ein, um die iOS 11 Probleme mit dem schnellen Batterieverbrauch zu lösen.
 
-
-
 ![iPhone lädt nach dem Update auf iOS 11 nicht](https://www.macxdvd.com/tutorial-de/article-image/problem-aufladen.jpg) 
 
 ### ![](https://www.macxdvd.com/tutorial-de/../seoimage/r.png) iPhone lädt nach dem Update auf iOS 11 nicht
@@ -298,8 +250,6 @@ Ein weiteres iOS 11 Bug sind das Problem bei Aufladen. Es wird berichtet, dass f
 * Versuchen Sie, iPhone aufzuladen, wenn noch 20-40% Akku übrig ist, nicht 0%.
 * Entladen Sie Ihr iPhone bis zu 0%, während es immer noch 100% zeigt. Das ist ein iOS 11 Bug. Warten Sie die Lösung von Apple und aktualisieren Sie auf iOS 11\. X später.
 
-
-
 ![Apple iOS 11 Update friert iPhone ein](https://www.macxdvd.com/tutorial-de/article-image/ios-11-probleme-5.jpg) 
 
 ### ![](https://www.macxdvd.com/tutorial-de/../seoimage/r.png) Apple iOS 11 Update friert iPhone ein.
@@ -308,8 +258,6 @@ Das Problem, dass ein neues iOS Update ein iPhone einfriert, ist üblich, und es
 
 * Halten Sie die Power-Taste und die Leiser-Taste oder die Home-Taste, bis das Apple Logo auf Ihr iPhone erscheint.
 * Nutzen Sie iTunes zum Update Ihres iPhones, um iOS 11 Einfrierprobleme zu lösen. Wenn dies nicht funktioniert, klicken Sie auf "Wiederherstellen", was alle Ihren Einstellungen und Inhalte löschen werden. Deshalb erstellen Sie zuerst Backups.
-
-
 
 ![iPhone stürzt ab nach dem Update auf iOS 11](https://www.macxdvd.com/tutorial-de/article-image/ios-11-update-11.jpg) 
 
@@ -322,15 +270,11 @@ Viele stehen vor iOS 11 Fehler, nachdem sie auf das neue Betriebssystem updatet 
 * Die neueste Version der App von App Store downloaden.
 * App-Entwickler kontaktieren und nach möglichen Lösungsvorschlägen fragen.
 
-
-
 ![Probleme bei der WLAN & Bluetooth Deaktivierung](https://www.macxdvd.com/tutorial-de/article-image/ios-11-update-9.jpg) 
 
 ### ![](https://www.macxdvd.com/tutorial-de/../seoimage/r.png) Probleme bei der WLAN & Bluetooth Deaktivierung
 
 Auf Twitter, Facebook und Co. haben viele Nutzer darüber berichtet, dass WLAN und Bluetooth sich im neuen Kontrollzentrum nicht komplett deaktivieren lassen. Aus heißt nicht Aus. Dies ist sehr verwirrend. Um die Verbindung vollständig auszuschalten, muss man jetzt wie z.B. zu "Einstellung > WLAN" gehen und den Regler auf "Aus" schieben oder einfach den Flugmodus aktivieren. 
-
-
 
 ![iOS 11 Probleme mit iMessage](https://www.macxdvd.com/tutorial-de/article-image/ios-11-probleme-3.jpg) 
 
@@ -344,8 +288,6 @@ iMessage/Nachricht Probleme erschneinen nach dem Update auf iOS 11, wie Nachrich
 * Gehen Sie zu "Einstellungen > Allgemein > Zurücksetzen > Alle Einstellungen zurücksetzen".
 * Starten Sie Ihr iPhone erneut, um die iMessage Absturz Problem in iOS 11 zu beheben.
 
-
-
 ![FaceTime Audio funktioniert nicht in iOS 11](https://www.macxdvd.com/tutorial-de/article-image/ios-11-probleme-2.jpg) 
 
 ### ![](https://www.macxdvd.com/tutorial-de/../seoimage/r.png) FaceTime Audio funktioniert nicht in iOS 11
@@ -357,8 +299,6 @@ FaceTime Gruppenanruf ist voraussichtlich in iOS 11 zu erwarten. Die Unterstütz
 * Überprüfen Sie, ob Sie iPhone oder iPad lautlos gestellt haben.
 * Reaktivieren Sie Ihr Konto und verbinden Sie mit WLAN erneut, wenn FaceTime immer "schlechte Verbindung" zeigt.
 
-
-
 ![Unordnung von Apps](https://www.macxdvd.com/tutorial-de/article-image/problem-app.jpg) 
 
 ### ![](https://www.macxdvd.com/tutorial-de/../seoimage/r.png) Unordnung von Apps
@@ -368,8 +308,6 @@ Einige iOS-Nutzer reflektieren auf Reddit, dass Apple die Reihenfolge der Apps i
 * Ordnen Sie die Reihenfolge Ihrer Apps in den Ordnern neu.
 * Erstellen Sie mehr Ordner, um Apps zu verwalten. Nicht zu viele Icons in eine stecken.
 * Gehen Sie zu "Einstellungen", um iOS 11 iPhone X/8/7/6S/6/SE/5S zurückzusetzen.
-
-
 
 ![Etwas falsches mit der Wetter-App](https://www.macxdvd.com/tutorial-de/article-image/problem-wetter.jpg) 
 
@@ -382,8 +320,6 @@ Ihre Wetter-App läuft nicht normal, sogar nach iPhone 7/SE/5S/6S/6 Updates auf 
 * Wenden Sie sich an Apple Support oder Apple Forum, um Hilfe von Experten oder anderen Nutzern zu suchen.
 * Warten Sie geduldig auf die nächste iOS-Version, um dieses iOS 11 Update Problem zu beheben.
 
-
-
 ![Tastaturfehler iOS 11](https://www.macxdvd.com/tutorial-de/article-image/problem-tastatur.jpg) 
 
 ### ![](https://www.macxdvd.com/tutorial-de/../seoimage/r.png) Tastaturfehler
@@ -395,8 +331,6 @@ Wir wissen, wie schmerzhaft es ist, wenn Sie mit anderen über iMessage kommuniz
 * Nutzen Sie WhatsApp oder FaceTime, um Ihre Freunde oder Familien zu kontaktieren.
 * Aktualisieren auf das neueste IOS 11.4, um zu sehen, ob es funktioniert.
 
-
-
 ![Apple Watch zeigt nicht auf iOS 11 iPhone](https://www.macxdvd.com/tutorial-de/article-image/problem-apple-watch.jpg) 
 
 ### ![](https://www.macxdvd.com/tutorial-de/../seoimage/r.png) Apple Watch zeigt nicht auf iOS 11 iPhone
@@ -406,8 +340,6 @@ Es hört einfach nie auf. Das iOS 11 Update Problem ist ein nach dem anderen. Ei
 * Von iOS 11 auf iOS 10 downgraden.
 * Gehen Sie in den lokalen Apple Store, um professionelle Hilfe zu suchen.
 * Vielleicht ändern Sie eine andere Apple Watch, um einen Versuch zu haben.
-
-
 
 ![App verlangsamt sich nach iOS 11 Update](https://www.macxdvd.com/tutorial-de/article-image/problem-langsam.jpg) 
 
@@ -419,8 +351,6 @@ Zahlreiche Nutzer, die auf iOS 11 aktualisiert haben, erleben eine langsame App-
 * iPhone iPad wiederherstellen und das Gerät als neues einrichten.
 * Neustart von iPhone iPad erzwingen.
 
-
-
 ![Kleines Problem auf iPhone Hintergrundbild](https://www.macxdvd.com/tutorial-de/article-image/problem-hintergrundbild.jpg) 
 
 ### ![](https://www.macxdvd.com/tutorial-de/../seoimage/r.png) Kleines Problem auf iPhone Hintergrundbild
@@ -431,8 +361,6 @@ Tatsächlich handelt es sich um ein kleines Problem von iOS 11.4/11.3/11.2/11.1\
 * Schließen Sie Ihr iPhone und starten Sie es neu.
 * Gehen Sie zu den Einstellungen, um iPhone zu Standardeinstellungen zurückzusetzen, um einen Versuch zu haben.
 
-
-
 ![32-Bit Apps werden nicht mehr unterstützt](https://www.macxdvd.com/tutorial-de/article-image/ios-11-update-5.jpg) 
 
 ### ![](https://www.macxdvd.com/tutorial-de/../seoimage/r.png) 32-Bit Apps werden nicht mehr unterstützt
@@ -441,8 +369,6 @@ Apple plant, die Unterstützung für 32-Bit iOS Apps zu benden, was eines der gr
 
 Um diese 32-Bit iOS Apps zu laufen, haben Nutzer kaum eine andere Wahl, als iOS 11 Downgrade auf iOS 10 durchzuführen, wenn Sie auf iOS 11 aktualisiert haben oder einfach sich entscheiden, nicht auf iOS 11 zu updaten, um iOS 11 Probleme zu vermeiden. Eingie Entwickler werden vielleicht seine Apps kurz aktualisieren, um die iOS 11 Fehler und Bugs zu lösen. 
 
-
-
 ![iOS iPhone 6/Plus Nutzer können ARKit nicht nutzen](https://www.macxdvd.com/tutorial-de/article-image/problem-arkit.jpg) 
 
 ### ![](https://www.macxdvd.com/tutorial-de/../seoimage/r.png) iOS iPhone 6/Plus Nutzer können ARKit nicht nutzen
@@ -450,8 +376,6 @@ Um diese 32-Bit iOS Apps zu laufen, haben Nutzer kaum eine andere Wahl, als iOS 
 Ein großes Problem bei iOS 11 ist, dass das neueste iOS nicht alle Modelle unterstützt. Es unterstützt nur iPhone 5S und später, was bedeutet, dass einige alte Geräte wie iPhone 5, iPhone 5C, iPhone 4S kein Glück haben, iOS 11 zu laufen. 
 
 Auch wenn Ihr A8 iPhone 6/Plus auf iOS 11 aktualisiert werden kann, können Sie seine neuen Funktionen noch nicht voll nutzen. ARKit ist ein gutes Beispiel. Diese AR-App hat nicht nur hoch fordernd auf Software (iOS 11 oder höher), sondern auch auf Hardware - Ihr iPhone-Prozessor A9 oder höher. Das bedeutet, dass ARKit nur auf iOS 11 iPhone 6S/Plus oder neuere Modellen verwendet werden kann. Sie müssen iPhone 6/Plus auf iPhone 8, iPhone X/7S/7/6S/Plus umsteigen.
-
-
 
 ![Rechner kapput auf iOS 11 iPhone X/8/7](https://www.macxdvd.com/tutorial-de/article-image/problem-rechner.jpg) 
 
@@ -465,8 +389,6 @@ Es ist scheinbar seltsam, da es vorher kein iOS Update Problem für Rechner gibt
 * Downloaden Sie Rechner-Apps von Drittanbietern, um die Berechnungsaufgaben zu erledigen.
 * Aktualisieren Sie auf iOS 11.4, da es die 1 + 2 + 3-Rechner-Fehler behebt.
 
-
-
 ![32-Bit Apps werden nicht mehr unterstützt](https://www.macxdvd.com/tutorial-de/article-image/problem-icloud.jpg) 
 
 ### ![](https://www.macxdvd.com/tutorial-de/../seoimage/r.png) iPhone 8 Fotos können nicht auf iCloud hochgeladen werden
@@ -479,8 +401,6 @@ iOS 11 neue Funktion auf Live Photo ermöglicht es Ihnen, erstaunliche Live Phot
 * Übertragen Sie iPhone-Fotos auf Computer > Fotos auf iCloud über icloud-Website hochladen.
 * Andere Software zur Fotoverwaltung oder Cloud-Speicherdienste von Drittanbietern (Dropbox, Goolge Drive, etc.) sind ebenfalls gute Optionen, wenn iCloud noch nicht funktioniert.
 
-
-
 ![iOS 11 neue Funtkion Password Autofill for Apps funktioniert nicht](https://www.macxdvd.com/tutorial-de/article-image/problem-passwort.jpg) 
 
 ### ![](https://www.macxdvd.com/tutorial-de/../seoimage/r.png) iOS 11 neue Funtkion "Password Autofill for Apps" funktioniert nicht
@@ -488,8 +408,6 @@ iOS 11 neue Funktion auf Live Photo ermöglicht es Ihnen, erstaunliche Live Phot
 Die iOS 11 neue Funktion "Password Autofill for Apps" bietet Nutzern einen einfachen Zugriff auf die Passwörter direkt von der iOS-Tastatur, wenn man auf dem Anmeldebildschirm einer APP sind. Genau ähnlich wie Password Autofill in Safari, zielt es darauf ab, die komplexen Passwörter auf einer Weise zu speichern, die sicherer ist als jeder andere Drittanbieter Passwort-Manager oder die ungesicherten Orte wie eine Excel-Tabelle oder Notiz. 
 
 Dennoch finden einige iOS 11 Nutzer, dass das neue Passwort-AutoFill für Apps manchmal nicht funktioniert. Es gibt keine Antwort, nachdem Sie auf das "Key"-Symbol auf der Tastatur geklickt haben. In diesem Fall muss man aus der APP aufhören und die APP herunterfahren. Später starten Sie Ihre APP neu, um einen Versuch zu haben. Wenn nichts passiert, schließen Sie Ihr iPhone und starten Sie es neu. Nicht zuletzt aktualisieren Sie sofort auf iOS neueste Version, um diesen iOS 11-Fehler zu beheben.
-
-
 
 ![Safari reagiert nach iOS 11 Update nicht](https://www.macxdvd.com/tutorial-de/article-image/problem-safari.jpg) 
 
@@ -502,15 +420,11 @@ Für iPhone-Nutzer wäre Safari ohne Zweifel die Nr.1-Wahl, denn es ist schnell 
 * Erzwingen Sie einen Neustart, um es erneut zu versuchen.
 * Verwenden Sie Chrome oder Firefox, wenn es kein Wunder gibt.
 
-
-
 ![iMessage kann nicht auf iCloud gesichert werden](https://www.macxdvd.com/tutorial-de/article-image/problem-imessage.jpg) 
 
 ### ![](https://www.macxdvd.com/tutorial-de/../seoimage/r.png) iMessage kann nicht auf iCloud gesichert werden
 
 Apple verfolgt ständig die bessere und einfachere Möglichkeit für Nutzer, Ihre Dateidaten wie Musik, iTunes-Käufe, Fotos, etc. zu verwalten. Was iMessages betrifft, nimmt auch Apple es in Betracht. Es plant, die iMessage zu der iCloud-Backup-Funktion zu seinem nächsten Betriebssystem hinzuzufügen, nicht die neu veröffentlichte iOS 11\. Also, wenn Sie sich in Ihrem iCloud-Konto einloggen und überprüfen, gibt es keine iMessage-Sicherung, seien Sie nicht in Panik. Diese neue Funktion ist noch nicht eingetroffen. 
-
-
 
 ![](https://www.macxdvd.com/tutorial-de/../seoimage/image2.png) 
 
@@ -520,8 +434,6 @@ iOS-Daten wie Fotos, Videos, Klingeltöne, Bücher, Sprachmemos, etc für ein re
 
 [![](https://www.macxdvd.com/tutorial-de/howto_image/macx-de.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/tutorial-de/howto_image/winx-de.png)](https://tools.techidaily.com/winxdvd/products/) 
 
-
-
 ## Verwandte Tipps & Tricks
 
 ![](https://www.macxdvd.com/tutorial-de/howto_image/pic-photo-3.jpg) 
@@ -540,8 +452,6 @@ Vor- und Nachteile iPhone Xs
 
 iOS 12 vs iOS 11
 
-
-
 ## Verwandte Tipps & Tricks
 
 ![](https://www.macxdvd.com/tutorial-de/howto_image/pic-photo-3.jpg) 
@@ -559,8 +469,6 @@ Vor- und Nachteile iPhone Xs
 ![](https://www.macxdvd.com/tutorial-de/howto_image/pic-photo-4.jpg) 
 
 iOS 12 vs iOS 11
-
-
 
 ![](https://www.macxdvd.com/tutorial-de/../seoimage/link_icon_blue.png) **[iPhone Klingelton erstellen](https://tools.techidaily.com/macxdvd/products/)** 
 
@@ -578,11 +486,7 @@ iPhone Klingelton erstellen mit dem besten Klingelton Maker.
 
 So kann man iPhone aufräumen mit den effizientsten Wegen.
 
-
-
 Für Frage zu MacX MediaTrans steht unser [Support-Team](https://tools.techidaily.com/macxdvd/products/) gerne Zur Verfügung. 
-
-
 
 ![](https://www.macxdvd.com/tutorial-de/../mobile/images/seoimg/i1.png)
 
@@ -624,11 +528,25 @@ Uns folgen:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-green-screen-basics-for-filmmakers-starting-out/"><u>[New] 2024 Approved Green Screen Basics for Filmmakers Starting Out</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-ultimate-transformation-tutorial-sdr-to-high-dynamic-range-video-upgrading/"><u>[New] 2024 Approved The Ultimate Transformation Tutorial SDR to High-Dynamic Range Video Upgrading</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-cutting-edge-software-transform-and-tweet-videos/"><u>[New] Cutting-Edge Software Transform and Tweet Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-download-dynamics-of-hd-content-on-modern-social-networks/"><u>[New] In 2024, Download Dynamics of HD Content on Modern Social Networks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-tech-savvy-pilots-guide-to-attentive-drones/"><u>[New] Tech-Savvy Pilots' Guide to Attentive Drones</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-epic-moments-in-the-race-for-olympic-gold/"><u>[Updated] Epic Moments in the Race for Olympic Gold</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-channel-aspirations-reach-and-secure-10k-views-for-youtube-partner-perks/"><u>[Updated] In 2024, Channel Aspirations – Reach and Secure 10K Views for YouTube Partner Perks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-merging-melodies-and-memories-online-for-2024/"><u>[Updated] Merging Melodies and Memories Online for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-disarray-to-artwork-your-collage-journey/"><u>2024 Approved From Disarray to Artwork Your Collage Journey</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unblemished-visuals-a-buyers-ultimate-guide/"><u>2024 Approved Unblemished Visuals A Buyer's Ultimate Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Motorola Moto G04? | Dr.fone</u></a></li>
+</ul></div>
+

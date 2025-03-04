@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to Take Long Exposure Shots with iPhone in iOS 11 or Previous"
-date: 2024-08-22T07:38:23.965Z
-updated: 2024-08-23T07:38:23.965Z
+date: 2025-02-26T23:08:57.807Z
+updated: 2025-03-03T16:51:43.439Z
 tags: 
   - screen-recording
   - ai video
@@ -53,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 
  Now bring up your live photo within the Photos app and bring up the effects selector. You can see this either by tapping 'details' or by simply swiping up whilst viewing the photo. There are lots of effects you can apply to your live photo, but the one we're looking for here is 'long exposure'. Simply tap this and your clever iPhone will make all the adjustments necessary to produce an awesome pro-looking photograph using long exposure.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### Not a user of iOS 11?
 
  If you don't have iOS 11 yet (or can't get it for your model), there is a way around this. Some developers have produced apps which mimic the extended shutter speed of Live Photos. This is achieved by combining multiple exposures of the same photograph, and then stitching them together with an overlain effect to create a simulated long exposure image.
@@ -83,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 
 ![flowing-water-long-exposure](https://images.wondershare.com/filmora/article-images/flowing-water-long-exposure.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
  Image resource: Photography Mad
 
 * **Light trails:** Light is everywhere, and if you take your iPhone camera long exposure trick out of the house at night, you'll find some amazing opportunities to shoot. Cars on the highway, Ferris wheels at the fair and even the stars in the sky can become something amazing with a longer exposure.
@@ -98,25 +92,16 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 
 ![motion-blur-long-exposure](https://images.wondershare.com/filmora/article-images/motion-blur-long-exposure.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image resource: Digital Photo Secrets
 
 * **Low light photography:** With a longer exposure, things which were previously un-snappable are suddenly within your grasp. Beautiful fountains at night, bridges, buildings… anything which would previously have been little more than a shadow can now become part of your collection, simply by extending the exposure length.
 
 ![low-light-long-exposure](https://images.wondershare.com/filmora/article-images/low-light-long-exposure.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image resource: Nikonites
 
  Play around, try different things and get to know how variations in settings can change the outcome of your shots. Tinkering with exposure length is great fun, and will almost certainly result in some totally Facebook-worthy additions to your gallery.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## To conclude
 
  Using a digital SLR is looking less and less appealing these days, as Apple push the boundaries of what a phone can do ever further. If you're not using a device that supports Live Photos, try a workaround using a specifically developed app so that you can join in the fun too.
@@ -125,9 +110,6 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -151,4 +133,20 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-ultimate-simplified-journey-for-metaverse-personas/"><u>[New] In 2024, The Ultimate Simplified Journey for Metaverse Personas</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-renewed-evaluation-sonys-s3700-video-tech-in-2-point-five-six/"><u>[New] Renewed Evaluation Sony's S3700 Video Tech in 2 Point-Five Six</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-google-collages-how-to-achieve-it-in-a-blink-of-an-eye/"><u>[Updated] 2024 Approved Google Collages How to Achieve It in A Blink of an Eye</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-detailed-insight-the-gecata-live-game-tracker-for-2024/"><u>[Updated] Detailed Insight The Gecata Live Game Tracker for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-efficient-sound-capturing-in-the-latest-windows-11/"><u>[Updated] In 2024, Efficient Sound Capturing in the Latest Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-slick-quick-fades-in-premiere/"><u>[Updated] In 2024, Slick Quick Fades in Premiere</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-overcoming-stalled-transmission-of-videos-tips-for-successful-sharing-in-messenger-app/"><u>2024 Approved Overcoming Stalled Transmission of Videos Tips for Successful Sharing in Messenger App</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unveiling-the-top-10-timing-apps-for-weddings-on-smartphones/"><u>2024 Approved Unveiling the Top 10 Timing Apps for Weddings on Smartphones</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209521748-9780253029126-horror-in-the-heartland/"><u>Horror in the Heartland | Free Book</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-expert-strategies-for-audio-smoothness/"><u>In 2024, Expert Strategies for Audio Smoothness</u></a></li>
+<li><a href="https://app-tips.techidaily.com/intrusion-detection-systems/"><u>Intrusion Detection Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-comprehensive-users-manual-for-precision-playback/"><u>The Comprehensive User's Manual for Precision Playback</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-vivo-y100i-power-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Vivo Y100i Power 5G FRP Bypass</u></a></li>
+</ul></div>
 

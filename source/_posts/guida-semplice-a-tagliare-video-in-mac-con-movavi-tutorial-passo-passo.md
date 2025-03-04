@@ -1,7 +1,7 @@
 ---
 title: Guida Semplice a Tagliare Video in Mac Con Movavi - Tutorial Passo-Passo
-date: 2025-02-10T21:21:45.736Z
-updated: 2025-02-12T16:13:44.058Z
+date: 2025-02-25T20:54:22.764Z
+updated: 2025-03-03T16:02:07.453Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/680c73892fadaf0cd37020955286e78a6c2698cf86437727fe7a9aa1c7291d00.jpg
@@ -214,10 +214,6 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -282,10 +278,6 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -294,10 +286,6 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 2. Tapez "Notifications" dans la barre de recherche et sélectionnez **Notifications et paramètres d'actions** dans les résultats.
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Régler le panneau de contrôle NVIDIA
 
@@ -310,10 +298,6 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -321,10 +305,6 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 1. Activez l'accentuation des images d'AMD en cliquant sur **Paramètres**, puis sur **Graphiques** pour trouver le paramètre. Vous pouvez l'activer pour des jeux individuels ou globalement.
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
 
@@ -338,10 +318,6 @@ Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de 
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
@@ -349,10 +325,6 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Optez pour un SSD
 
@@ -452,10 +424,6 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 
 
 Désactiver les services d'arrière-plan Windows
@@ -487,17 +455,9 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 Foire aux questions 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Comment optimiser mon ordinateur pour les jeux ?
 
@@ -585,24 +545,17 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-minimizing-film-length-mac-solutions-for-instagram-posting/"><u>[New] 2024 Approved Minimizing Film Length Mac Solutions for Instagram Posting</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-freezing-points-to-inviting-landscapes-for-2024/"><u>[New] From Freezing Points to Inviting Landscapes for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-harness-the-power-of-analytics-to-rise-in-fan-counts/"><u>[Updated] 2024 Approved Harness the Power of Analytics to Rise in Fan Counts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-high-quality-console-gameplay-capture-using-pcs/"><u>[Updated] High-Quality Console Gameplay Capture Using PCs</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-whatsapp-expertise-essential-tips-and-tricks-for-proficiency-for-2024/"><u>[Updated] WhatsApp Expertise Essential Tips and Tricks for Proficiency for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ogv-mpeg-movavi/"><u>免費線上 OGV 至 MPEG 換裝工具：Movavi 影片格式過渡指南</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/conversione-gratuita-da-mpeg-a-vob-guida-completa-online/"><u>Conversione Gratuita Da MPEG a VOB: Guida Completa Online</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/convert-vob-files-to-wav-format-free-of-cost-movavi-video-converter/"><u>Convert VOB Files to WAV Format Free of Cost - Movavi Video Converter</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/descargar-gratuito-como-convertir-archivo-m4a-a-formato-mp4-con-ease-usando-movavi/"><u>Descargar Gratuito: Cómo Convertir Archivo M4A a Formato MP4 Con Ease - Usando Movavi</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/driver-loading-hiccup-for-amd-and-windows-10-fixes-here/"><u>Driver Loading Hiccup for AMD & Windows 10 Fixes Here</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/expert-guidance-at-movavi-your-trusted-support-hub/"><u>Expert Guidance at Movavi - Your Trusted Support Hub</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-poco-c65-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Poco C65 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reviving-your-final-usb-peripheral-solutions-for-non-recognition-by-windows-os/"><u>Reviving Your Final USB Peripheral: Solutions for Non-Recognition by Windows OS</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-7-best-smartphone-alarm-applications-to-start-your-day-right/"><u>Top 7 Best Smartphone Alarm Applications to Start Your Day Right</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-9-strategies-fur-die-komprimierung-von-videos-fur-e-mails-optimieren-sie-ihr-marketing/"><u>Top 9 Strategies Für Die Komprimierung Von Videos Für E-Mails - Optimieren Sie Ihr Marketing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transformacion-gratuita-de-archivos-mpeg-a-formatos-m4a-con-movavi/"><u>Transformación Gratuita De Archivos MPEG a Formatos M4A Con Movavi</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-correcting-incorrect-installation-of-amds-ryzen-master-tool/"><u>Troubleshooting Guide: Correcting Incorrect Installation of AMD's Ryzen Master Tool</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/m4a-wma-movavi/"><u>무료 인터넷 블로그에서 원통물 변환: M4A WMA 전환기 - Movavi</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1726227005973-4/"><u>인물 제거를 위한 4가지 전문적 기술: 사진 효과에서 성공적인 해결 방법</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-cutting-edge-guide-to-mastering-windows-11-conferencing-via-zoom/"><u>[New] In 2024, Cutting-Edge Guide to Mastering Windows 11 Conferencing via Zoom</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unlocking-the-simplicity-of-monitoring-and-viewing-loved-youtube-remarks-for-2024/"><u>[New] Unlocking the Simplicity of Monitoring and Viewing Loved YouTube Remarks for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-filmmaker-tips-youtube-trailers-using-filmora/"><u>[Updated] Filmmaker Tips YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-the-role-of-lighting-in-professional-youtube-content-creation/"><u>2024 Approved The Role of Lighting in Professional YouTube Content Creation</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722967483574-asus-pce-ac68-driver-secure-your-download-here-now/"><u>ASUS PCE-AC68 Driver: Secure Your Download Here Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-the-basics-discover-5-unused-features-of-chatgpt-for-enhanced-usage/"><u>Beyond the Basics: Discover 5 Unused Features of ChatGPT for Enhanced Usage</u></a></li>
+<li><a href="https://blog-min.techidaily.com/complete-guide-to-safe-and-efficient-disc-duplication-techniques/"><u>Complete Guide to Safe & Efficient Disc Duplication Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/direct-transmission-of-media-files-between-iphones-for-2024/"><u>Direct Transmission of Media Files Between iPhones for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/get-that-perfect-fit-resize-videos-to-instagram-standards-using-mac-for-2024/"><u>Get That Perfect Fit Resize Videos to Instagram Standards Using Mac for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-audio-transformation-expertise-from-ttml-and-xml-to-dynamic-srts/"><u>In 2024, Audio Transformation Expertise From TTML & XML to Dynamic SRTs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-100-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor 100 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/verifying-ad-revenue-for-channels/"><u>Verifying Ad Revenue for Channels</u></a></li>
 </ul></div>
 
